@@ -1,4 +1,5 @@
 {
+  "homepage": "https://csmira.github.io/nursing-study-guide",
   "name": "nursing-study-guide",
   "private": true,
   "version": "0.1.0",
@@ -7,7 +8,9 @@
     "dev": "vite",
     "build": "tsc -p . && vite build",
     "preview": "vite preview",
-    "typecheck": "tsc -p ."
+    "typecheck": "tsc -p .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.105.0",
@@ -19,6 +22,7 @@
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.1.2",
+    "gh-pages": "^6.3.0",
     "typescript": "^7.0.2",
     "vite": "^8.3.5"
   }

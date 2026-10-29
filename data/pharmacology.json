@@ -1,0 +1,708 @@
+{
+  "categoryId": "pharmacology",
+  "items": [
+    {
+      "id": "pharm-mc-001",
+      "type": "multiple-choice",
+      "topic": "Cardiac glycosides",
+      "prompt": "A client with heart failure is scheduled to receive digoxin 0.125 mg PO. The apical pulse is 56 beats/min and this morning's serum potassium is 3.2 mEq/L. Which action is most appropriate?",
+      "options": [
+        "Hold the digoxin and notify the provider of the apical pulse and potassium level",
+        "Administer the digoxin and recheck the apical pulse in 1 hour",
+        "Administer the digoxin with a potassium-rich food such as a banana",
+        "Hold the digoxin, recheck the pulse in 1 hour, and give it if the rate is above 60"
+      ],
+      "answer": 0,
+      "rationale": "An apical pulse below 60 is a hold parameter for digoxin, and hypokalemia increases the risk of digoxin toxicity. Both findings must be reported so the provider can address the potassium level and the dose."
+    },
+    {
+      "id": "pharm-mc-002",
+      "type": "multiple-choice",
+      "topic": "Anticoagulants",
+      "prompt": "A client taking warfarin has an INR of 4.8 and no signs of bleeding. Which action should the nurse take first?",
+      "options": [
+        "Hold the scheduled warfarin dose and notify the provider",
+        "Administer protamine sulfate as prescribed",
+        "Give half of the scheduled warfarin dose",
+        "Administer the dose and recheck the INR in the morning"
+      ],
+      "answer": 0,
+      "rationale": "An INR of 4.8 is above the usual therapeutic range (2–3). The dose should be held and the provider notified; vitamin K may be prescribed. Protamine reverses heparin, not warfarin."
+    },
+    {
+      "id": "pharm-mc-003",
+      "type": "multiple-choice",
+      "topic": "ACE inhibitors",
+      "prompt": "A client started lisinopril 2 weeks ago. Which finding requires the nurse's immediate action?",
+      "options": [
+        "Swelling of the lips and tongue",
+        "A persistent dry, nonproductive cough",
+        "Dizziness when standing up quickly",
+        "Serum potassium of 5.0 mEq/L"
+      ],
+      "answer": 0,
+      "rationale": "Angioedema is a potentially life-threatening airway emergency associated with ACE inhibitors. Cough and orthostatic dizziness are common adverse effects, and a potassium of 5.0 should be monitored but is not an emergency."
+    },
+    {
+      "id": "pharm-mc-004",
+      "type": "multiple-choice",
+      "topic": "Diuretics",
+      "prompt": "A client is receiving furosemide 40 mg IV twice daily. Which laboratory value is the priority for the nurse to monitor?",
+      "options": [
+        "Serum potassium",
+        "Serum sodium",
+        "Blood glucose",
+        "Serum calcium"
+      ],
+      "answer": 0,
+      "rationale": "Loop diuretics cause significant potassium loss, and hypokalemia can lead to life-threatening dysrhythmias. Sodium, glucose and calcium can also change but are not the priority."
+    },
+    {
+      "id": "pharm-mc-005",
+      "type": "multiple-choice",
+      "topic": "Insulin",
+      "prompt": "The nurse is teaching a client who is newly prescribed insulin glargine. Which statement by the client indicates correct understanding?",
+      "options": [
+        "\"I should not mix this insulin in the same syringe with my mealtime insulin.\"",
+        "\"I should draw up the glargine first, then my regular insulin, in one syringe.\"",
+        "\"This insulin will peak about 2 to 4 hours after I take it.\"",
+        "\"I only need to take it when my blood sugar is above 200.\""
+      ],
+      "answer": 0,
+      "rationale": "Insulin glargine is a long-acting, essentially peakless basal insulin that must not be mixed with other insulins. It is taken daily regardless of the current glucose reading."
+    },
+    {
+      "id": "pharm-mc-006",
+      "type": "multiple-choice",
+      "topic": "Antibiotics",
+      "prompt": "Ten minutes into a vancomycin infusion, the client develops flushing and an itchy red rash on the face, neck, and upper chest. Vital signs are stable and there is no wheezing. Which action should the nurse take first?",
+      "options": [
+        "Stop the infusion and assess the client",
+        "Administer epinephrine 0.3 mg IM",
+        "Continue the infusion because this is an expected reaction",
+        "Increase the infusion rate so the dose finishes sooner"
+      ],
+      "answer": 0,
+      "rationale": "This presentation suggests vancomycin infusion reaction (\"red man syndrome\"), which is related to a rapid infusion rate. Stop the infusion, assess, and notify the provider; it is usually restarted at a slower rate, often after an antihistamine. Epinephrine is reserved for anaphylaxis."
+    },
+    {
+      "id": "pharm-mc-007",
+      "type": "multiple-choice",
+      "topic": "Antibiotics",
+      "prompt": "A client is receiving gentamicin IV every 8 hours. Which finding should the nurse report to the provider immediately?",
+      "options": [
+        "The client reports ringing in the ears",
+        "The client reports mild nausea after meals",
+        "The trough level was drawn 30 minutes before the dose",
+        "Urine output averages 50 mL/hr"
+      ],
+      "answer": 0,
+      "rationale": "Tinnitus is a sign of ototoxicity, which can become permanent. Aminoglycosides are also nephrotoxic, but a urine output of 50 mL/hr is adequate. Drawing a trough just before the dose is correct practice."
+    },
+    {
+      "id": "pharm-mc-008",
+      "type": "multiple-choice",
+      "topic": "Mood stabilizers",
+      "prompt": "Which instruction is most important for the nurse to include when teaching a client who is starting lithium?",
+      "options": [
+        "Maintain a consistent intake of sodium and fluids every day",
+        "Restrict sodium intake to prevent fluid retention",
+        "Drink several cups of coffee daily to prevent sedation",
+        "Expect therapeutic blood levels between 2.0 and 3.0 mEq/L"
+      ],
+      "answer": 0,
+      "rationale": "Lithium is handled like sodium by the kidneys. Low sodium or dehydration increases lithium reabsorption and the risk of toxicity. The therapeutic range is roughly 0.6–1.2 mEq/L; levels above 1.5 indicate toxicity."
+    },
+    {
+      "id": "pharm-mc-009",
+      "type": "multiple-choice",
+      "topic": "Opioids",
+      "prompt": "Before administering morphine 4 mg IV to a postoperative client, which assessment is the priority?",
+      "options": [
+        "Respiratory rate and level of sedation",
+        "Pain intensity on a 0–10 scale",
+        "Blood pressure",
+        "Bowel sounds"
+      ],
+      "answer": 0,
+      "rationale": "Respiratory depression is the most dangerous adverse effect of opioids, and increasing sedation usually comes before it. Pain level matters, but safety assessment comes first."
+    },
+    {
+      "id": "pharm-mc-010",
+      "type": "multiple-choice",
+      "topic": "Antidiabetics",
+      "prompt": "A client who takes metformin is scheduled for a CT scan with IV contrast. Which action is most appropriate?",
+      "options": [
+        "Hold the metformin per protocol and verify renal function before resuming it",
+        "Give the metformin with extra fluids on the morning of the scan",
+        "Change the client permanently to insulin",
+        "Hold the metformin the morning of the scan and give a double dose afterward"
+      ],
+      "answer": 0,
+      "rationale": "Iodinated contrast can cause acute kidney injury, which allows metformin to build up and increases the risk of lactic acidosis. Metformin is usually held at the time of the procedure and for 48 hours afterward, and resumed once renal function is confirmed stable."
+    },
+    {
+      "id": "pharm-mc-011",
+      "type": "multiple-choice",
+      "topic": "Thyroid",
+      "prompt": "Which instruction should the nurse give a client who is prescribed levothyroxine?",
+      "options": [
+        "Take it in the morning on an empty stomach, 30 to 60 minutes before breakfast",
+        "Take it at bedtime with a snack to prevent stomach upset",
+        "Take it together with your calcium supplement",
+        "Stop taking it once your energy level returns to normal"
+      ],
+      "answer": 0,
+      "rationale": "Food, calcium, and iron reduce levothyroxine absorption. Treatment for hypothyroidism is usually lifelong."
+    },
+    {
+      "id": "pharm-mc-012",
+      "type": "multiple-choice",
+      "topic": "Electrolytes",
+      "prompt": "Which prescription should the nurse question?",
+      "options": [
+        "Potassium chloride 20 mEq IV push",
+        "Potassium chloride 10 mEq in 100 mL IV over 1 hour",
+        "Furosemide 40 mg IV push over 2 minutes",
+        "Ondansetron 4 mg IV push over 2 to 5 minutes"
+      ],
+      "answer": 0,
+      "rationale": "IV potassium must never be given by IV push because it can cause fatal cardiac dysrhythmias. It must be diluted and infused, usually no faster than 10 mEq/hr through a peripheral line."
+    },
+    {
+      "id": "pharm-mc-013",
+      "type": "multiple-choice",
+      "topic": "Anticonvulsants",
+      "prompt": "Which teaching point is most important for a client starting long-term phenytoin therapy?",
+      "options": [
+        "Brush and floss regularly and see a dentist routinely",
+        "Stop the medication once you have been seizure-free for one month",
+        "Take an extra dose if you feel a seizure coming on",
+        "A therapeutic blood level is 40 to 60 mcg/mL"
+      ],
+      "answer": 0,
+      "rationale": "Gingival hyperplasia is a common adverse effect of phenytoin, and good oral hygiene reduces it. Phenytoin must not be stopped abruptly, and the usual therapeutic range is 10–20 mcg/mL."
+    },
+    {
+      "id": "pharm-mc-014",
+      "type": "multiple-choice",
+      "topic": "Corticosteroids",
+      "prompt": "A client has been taking prednisone 40 mg daily for 3 months. Which statement indicates a need for further teaching?",
+      "options": [
+        "\"I can stop taking the prednisone as soon as I feel better.\"",
+        "\"I should take my prednisone with food in the morning.\"",
+        "\"I should stay away from people who are sick.\"",
+        "\"I may need to check my blood sugar more often.\""
+      ],
+      "answer": 0,
+      "rationale": "Stopping long-term corticosteroids abruptly can cause adrenal crisis, so the dose must be tapered. The other statements show correct understanding of GI protection, infection risk, and hyperglycemia."
+    },
+    {
+      "id": "pharm-mc-015",
+      "type": "multiple-choice",
+      "topic": "Antidepressants",
+      "prompt": "A client who takes sertraline was started on tramadol 2 days ago. The client is now agitated and diaphoretic, with tremors, hyperreflexia, and a temperature of 38.9°C (102°F). The nurse recognizes these findings as most consistent with which condition?",
+      "options": [
+        "Serotonin syndrome",
+        "Neuroleptic malignant syndrome",
+        "Anticholinergic toxicity",
+        "Opioid withdrawal"
+      ],
+      "answer": 0,
+      "rationale": "Taking an SSRI with tramadol (which also has serotonergic activity) can cause serotonin syndrome: agitation, hyperreflexia or clonus, tremor, diaphoresis, and hyperthermia. NMS is associated with antipsychotics and causes lead-pipe rigidity with slow (decreased) reflexes."
+    },
+    {
+      "id": "pharm-mc-016",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "The nurse should question a prescription for propranolol for which client?",
+      "options": [
+        "A client with a history of asthma",
+        "A client with essential hypertension",
+        "A client who needs migraine prophylaxis",
+        "A client with stable angina"
+      ],
+      "answer": 0,
+      "rationale": "Propranolol is a nonselective beta blocker. Blocking beta-2 receptors can cause bronchoconstriction in clients with asthma. The other conditions are accepted indications."
+    },
+    {
+      "id": "pharm-mc-017",
+      "type": "multiple-choice",
+      "topic": "Antianginals",
+      "prompt": "Which instruction about sublingual nitroglycerin should the nurse give a client with angina?",
+      "options": [
+        "Call 911 if chest pain is not better, or is worse, 5 minutes after the first tablet",
+        "Swallow the tablet with a full glass of water",
+        "Take three tablets at once for severe chest pain",
+        "Keep the tablets in a plastic pill organizer for convenience"
+      ],
+      "answer": 0,
+      "rationale": "Current guidance is to call emergency services if pain is not relieved 5 minutes after the first dose. Tablets dissolve under the tongue, are taken one at a time every 5 minutes (maximum of 3), and are kept in their original dark glass container."
+    },
+    {
+      "id": "pharm-mc-018",
+      "type": "multiple-choice",
+      "topic": "Anticoagulants",
+      "prompt": "Which action is correct when the nurse administers enoxaparin subcutaneously?",
+      "options": [
+        "Leave the air bubble in the prefilled syringe and inject into the abdomen at least 2 inches from the umbilicus",
+        "Expel the air bubble before injecting to avoid an air embolism",
+        "Aspirate before injecting to make sure the needle is not in a vessel",
+        "Massage the site after injection to promote absorption"
+      ],
+      "answer": 0,
+      "rationale": "The air bubble in the prefilled syringe makes sure the full dose is delivered. Aspirating or massaging the site increases bruising and hematoma formation."
+    },
+    {
+      "id": "pharm-mc-019",
+      "type": "multiple-choice",
+      "topic": "Antigout",
+      "prompt": "A client with gout is prescribed allopurinol. Which instruction is most important?",
+      "options": [
+        "Drink at least 2 to 3 liters of fluid per day",
+        "Take the medication only during an acute gout attack",
+        "Increase your intake of organ meats and shellfish",
+        "Take it on an empty stomach"
+      ],
+      "answer": 0,
+      "rationale": "A high fluid intake helps prevent uric acid kidney stones. Allopurinol is used for long-term prevention, not for acute attacks, and taking it with food reduces GI upset."
+    },
+    {
+      "id": "pharm-mc-020",
+      "type": "multiple-choice",
+      "topic": "Antitubercular",
+      "prompt": "A client starting rifampin, isoniazid, pyrazinamide, and ethambutol for tuberculosis reports orange-red urine. What is the nurse's best response?",
+      "options": [
+        "\"This is an expected, harmless effect of rifampin. It can also stain contact lenses.\"",
+        "\"This may mean liver damage. Stop taking all of your medications.\"",
+        "\"This is caused by isoniazid. We need to add vitamin B6.\"",
+        "\"This may be blood in your urine. I will collect a sample right away.\""
+      ],
+      "answer": 0,
+      "rationale": "Rifampin turns body fluids (urine, sweat, tears) orange-red and can permanently stain soft contact lenses. Pyridoxine (B6) is given with isoniazid to prevent peripheral neuropathy, not to prevent discolored urine."
+    },
+    {
+      "id": "pharm-mc-021",
+      "type": "multiple-choice",
+      "topic": "Antipsychotics",
+      "prompt": "A client taking clozapine reports a sore throat and fever. Which laboratory test is the priority?",
+      "options": [
+        "Complete blood count with absolute neutrophil count",
+        "Serum clozapine level",
+        "Liver function tests",
+        "Fasting blood glucose"
+      ],
+      "answer": 0,
+      "rationale": "Clozapine can cause agranulocytosis. Fever and sore throat may be signs of infection due to neutropenia, so the absolute neutrophil count (ANC) is checked first."
+    },
+    {
+      "id": "pharm-mc-022",
+      "type": "multiple-choice",
+      "topic": "Anticoagulants",
+      "prompt": "A client on a continuous heparin infusion has a platelet count that dropped from 250,000/mm³ to 95,000/mm³ over 5 days. What should the nurse anticipate?",
+      "options": [
+        "Stop the heparin and start a non-heparin anticoagulant",
+        "Switch from the heparin infusion to enoxaparin",
+        "Transfuse platelets and continue the heparin",
+        "Give protamine sulfate and stop all anticoagulation"
+      ],
+      "answer": 0,
+      "rationale": "A drop in platelets of more than 50% after 5–10 days of heparin suggests heparin-induced thrombocytopenia (HIT), which carries a high risk of clotting. All heparin, including low-molecular-weight heparin, is stopped and a direct thrombin inhibitor such as argatroban is started."
+    },
+    {
+      "id": "pharm-mc-023",
+      "type": "multiple-choice",
+      "topic": "Antihypertensives",
+      "prompt": "Which finding would cause the nurse to hold a scheduled dose of metoprolol and contact the provider?",
+      "options": [
+        "Apical pulse of 48 beats/min",
+        "Blood pressure of 138/86 mm Hg",
+        "Respiratory rate of 18 breaths/min",
+        "Blood glucose of 110 mg/dL"
+      ],
+      "answer": 0,
+      "rationale": "Beta blockers slow the heart rate. A rate below 50–60 beats/min (depending on the prescribed parameters) is a common hold parameter. The other values do not contraindicate the dose."
+    },
+    {
+      "id": "pharm-mc-024",
+      "type": "multiple-choice",
+      "topic": "Bronchodilators",
+      "prompt": "A client is prescribed a fluticasone inhaler and an albuterol inhaler, both due now. In which order should the nurse instruct the client to use them?",
+      "options": [
+        "Albuterol first, wait about 5 minutes, then fluticasone, and rinse the mouth afterward",
+        "Fluticasone first, then albuterol right away",
+        "Use both at the same time to save time",
+        "Albuterol first, then fluticasone, and swallow the rinse water"
+      ],
+      "answer": 0,
+      "rationale": "The bronchodilator opens the airways so the corticosteroid can reach deeper into the lungs. Rinsing the mouth and spitting out the water after the inhaled steroid helps prevent oral candidiasis."
+    },
+    {
+      "id": "pharm-mc-025",
+      "type": "multiple-choice",
+      "topic": "Dosage safety",
+      "prompt": "A client asks why the nurse is checking two identifiers before giving medications to a client the nurse has cared for all week. What is the nurse's best response?",
+      "options": [
+        "\"Checking two identifiers every time prevents medication errors, even with familiar clients.\"",
+        "\"I only check them because it is hospital policy.\"",
+        "\"I need to confirm your allergies, and your name tells me that.\"",
+        "\"It's only required for high-alert medications, but I do it anyway.\""
+      ],
+      "answer": 0,
+      "rationale": "Two client identifiers are required before every medication administration. Familiarity with a client is a known cause of wrong-patient errors."
+    },
+    {
+      "id": "pharm-sa-001",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "A postoperative client receiving IV hydromorphone is difficult to arouse, with a respiratory rate of 6 breaths/min and pinpoint pupils. Which medication should the nurse prepare to give?",
+      "answers": [
+        { "text": "Naloxone", "aliases": ["Narcan"] }
+      ],
+      "rationale": "Naloxone is an opioid antagonist that reverses opioid-induced respiratory depression."
+    },
+    {
+      "id": "pharm-sa-002",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "A client receiving a heparin infusion develops frank hematuria, and the aPTT is critically elevated. Which antidote should the nurse anticipate?",
+      "answers": [
+        { "text": "Protamine sulfate", "aliases": ["Protamine"] }
+      ],
+      "rationale": "Protamine sulfate binds heparin and neutralizes it."
+    },
+    {
+      "id": "pharm-sa-003",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "Which vitamin is given to reverse the anticoagulant effect of warfarin?",
+      "answers": [
+        { "text": "Vitamin K", "aliases": ["Phytonadione", "Vit K", "Vitamin K1", "AquaMEPHYTON", "Mephyton"] }
+      ],
+      "rationale": "Warfarin blocks the vitamin K–dependent clotting factors (II, VII, IX, X). Giving vitamin K (phytonadione) restores their production."
+    },
+    {
+      "id": "pharm-sa-004",
+      "type": "short-answer",
+      "topic": "Emergency drugs",
+      "prompt": "Minutes after receiving IV ceftriaxone, a client develops stridor, diffuse hives, and a blood pressure of 78/40 mm Hg. Which medication is the first-line treatment?",
+      "answers": [
+        { "text": "Epinephrine", "aliases": ["Adrenaline", "EpiPen", "Epi"] }
+      ],
+      "rationale": "IM epinephrine is the first-line treatment for anaphylaxis. Antihistamines and corticosteroids are adjuncts only."
+    },
+    {
+      "id": "pharm-sa-005",
+      "type": "short-answer",
+      "topic": "Endocrine emergencies",
+      "prompt": "An unresponsive client with type 1 diabetes has a fingerstick glucose of 36 mg/dL and a patent IV line. Which medication should the nurse give?",
+      "answers": [
+        { "text": "Dextrose 50%", "aliases": ["Dextrose", "D50", "D50W", "50% dextrose", "Dextrose 50", "D10", "Dextrose 10%", "Glucose"] },
+        { "text": "Glucagon", "aliases": ["GlucaGen", "Gvoke"] }
+      ],
+      "rationale": "With IV access, IV dextrose works fastest. Glucagon (IM, subcut, or intranasal) is an acceptable alternative and is preferred when there is no IV access."
+    },
+    {
+      "id": "pharm-sa-006",
+      "type": "short-answer",
+      "topic": "Emergency drugs",
+      "prompt": "A client's heart rate is 38 beats/min in sinus bradycardia. The client is dizzy, with a blood pressure of 76/42 mm Hg. Which medication is the first-line treatment?",
+      "answers": [
+        { "text": "Atropine" },
+        { "text": "Epinephrine", "aliases": ["Adrenaline"] },
+        { "text": "Dopamine", "aliases": ["Intropin"] }
+      ],
+      "rationale": "ACLS guidelines recommend atropine first for symptomatic bradycardia. If atropine does not work, transcutaneous pacing or an epinephrine or dopamine infusion is used."
+    },
+    {
+      "id": "pharm-sa-007",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "A client arrives 3 hours after intentionally ingesting a large amount of acetaminophen. Which antidote should the nurse anticipate?",
+      "answers": [
+        { "text": "Acetylcysteine", "aliases": ["N-acetylcysteine", "NAC", "Mucomyst", "Acetadote"] },
+        { "text": "Activated charcoal", "aliases": ["Charcoal"] }
+      ],
+      "rationale": "Acetylcysteine restores glutathione and prevents liver injury. Activated charcoal may also be given for GI decontamination if the client presents early, but it is not the antidote."
+    },
+    {
+      "id": "pharm-sa-008",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "Which medication reverses oversedation caused by benzodiazepines such as midazolam?",
+      "answers": [
+        { "text": "Flumazenil", "aliases": ["Romazicon"] }
+      ],
+      "rationale": "Flumazenil is a benzodiazepine receptor antagonist. Use it cautiously in clients who take benzodiazepines long-term, because it can trigger seizures."
+    },
+    {
+      "id": "pharm-sa-009",
+      "type": "short-answer",
+      "topic": "Electrolytes",
+      "prompt": "A client's serum potassium is 7.0 mEq/L and the ECG shows peaked T waves. Which medication is given first to stabilize the cardiac membrane?",
+      "answers": [
+        { "text": "Calcium gluconate" },
+        { "text": "Calcium chloride", "aliases": ["Calcium", "CaCl"] }
+      ],
+      "rationale": "IV calcium protects the myocardium within minutes but does not lower potassium. Insulin with dextrose, albuterol, and potassium binders or dialysis are then used to shift or remove potassium. Calcium gluconate is preferred for peripheral IV lines."
+    },
+    {
+      "id": "pharm-sa-010",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "A client receiving magnesium sulfate for preeclampsia has absent deep tendon reflexes and a respiratory rate of 10 breaths/min. After stopping the infusion, which antidote should the nurse prepare?",
+      "answers": [
+        { "text": "Calcium gluconate", "aliases": ["Calcium"] }
+      ],
+      "rationale": "Calcium gluconate counteracts the neuromuscular and respiratory depression caused by magnesium toxicity."
+    },
+    {
+      "id": "pharm-sa-011",
+      "type": "short-answer",
+      "topic": "Bronchodilators",
+      "prompt": "A client with asthma has acute wheezing and shortness of breath. Which short-acting rescue inhaler should the nurse expect to give?",
+      "answers": [
+        { "text": "Albuterol", "aliases": ["Salbutamol", "Ventolin", "ProAir", "Proventil"] },
+        { "text": "Levalbuterol", "aliases": ["Xopenex"] }
+      ],
+      "rationale": "Short-acting beta-2 agonists (SABAs) are the rescue medication for acute bronchospasm. Albuterol is the most commonly used."
+    },
+    {
+      "id": "pharm-sa-012",
+      "type": "short-answer",
+      "topic": "Anticonvulsants",
+      "prompt": "A client with IV access has been having a tonic-clonic seizure for 6 minutes. Which medication is the first-line treatment for status epilepticus?",
+      "answers": [
+        { "text": "Lorazepam", "aliases": ["Ativan"] },
+        { "text": "Diazepam", "aliases": ["Valium"] },
+        { "text": "Midazolam", "aliases": ["Versed"] }
+      ],
+      "rationale": "IV benzodiazepines are first-line. Lorazepam is preferred when IV access is available. IM midazolam or rectal diazepam is used when there is no IV."
+    },
+    {
+      "id": "pharm-sa-013",
+      "type": "short-answer",
+      "topic": "Antidotes",
+      "prompt": "A client with life-threatening digoxin toxicity has ventricular dysrhythmias and a potassium of 6.2 mEq/L. Which antidote should the nurse anticipate?",
+      "answers": [
+        { "text": "Digoxin immune fab", "aliases": ["DigiFab", "Digibind", "Digoxin immune fab (ovine)", "Digoxin fab", "Digifab"] }
+      ],
+      "rationale": "Digoxin immune fab binds free digoxin and is indicated for life-threatening toxicity."
+    },
+    {
+      "id": "pharm-sa-014",
+      "type": "short-answer",
+      "topic": "Antidysrhythmics",
+      "prompt": "A hemodynamically stable client is in SVT at 190 beats/min, and vagal maneuvers have failed. Which medication should the nurse prepare to give by rapid IV push?",
+      "answers": [
+        { "text": "Adenosine", "aliases": ["Adenocard"] }
+      ],
+      "rationale": "Adenosine briefly blocks the AV node. Give it by rapid IV push, followed immediately by a saline flush. Brief asystole is expected afterward."
+    },
+    {
+      "id": "pharm-sa-015",
+      "type": "short-answer",
+      "topic": "Substance withdrawal",
+      "prompt": "A client admitted 36 hours ago is tremulous, anxious, and tachycardic, with a CIWA-Ar score of 18. Which medication should the nurse anticipate for alcohol withdrawal?",
+      "answers": [
+        { "text": "Chlordiazepoxide", "aliases": ["Librium"] },
+        { "text": "Lorazepam", "aliases": ["Ativan"] },
+        { "text": "Diazepam", "aliases": ["Valium"] }
+      ],
+      "rationale": "Benzodiazepines are the treatment of choice for alcohol withdrawal. Lorazepam is often preferred for older adults or clients with liver impairment."
+    },
+    {
+      "id": "pharm-cs-001",
+      "type": "case-study",
+      "topic": "Heart failure",
+      "title": "Heart failure exacerbation",
+      "scenario": "Mr. Alvarez, 78, is admitted with an acute exacerbation of heart failure. He reports increasing shortness of breath and has gained 2.3 kg (5 lb) in 3 days. Assessment: bibasilar crackles, 3+ pitting edema in both ankles, BP 158/92 mm Hg, HR 96, RR 24, SpO2 91% on room air. Home medications: digoxin 0.125 mg daily, lisinopril 10 mg daily, furosemide 20 mg PO daily. The provider prescribes furosemide 40 mg IV twice daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which finding the next morning best shows that the IV furosemide is working?",
+            "options": [
+              "Crackles have decreased and weight is down 1.2 kg",
+              "Urine output averaged 30 mL/hr overnight",
+              "Serum potassium is 3.6 mEq/L",
+              "The client reports being thirsty"
+            ],
+            "answer": 0,
+            "rationale": "The goal of diuresis is to remove excess fluid. Clearer lungs and weight loss are the best evidence of that. A urine output of 30 mL/hr is only the minimum acceptable output."
+          }
+        },
+        {
+          "update": "Day 2: Mr. Alvarez reports nausea and says he is seeing \"yellow halos\" around the lights. His apical pulse is 52 and irregular. Morning labs: K 3.1 mEq/L, creatinine 1.6 mg/dL (baseline 1.1).",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which explanation for these findings is most likely?",
+            "options": [
+              "Digoxin toxicity made worse by hypokalemia and decreased renal function",
+              "Worsening heart failure from inadequate diuresis",
+              "Ototoxicity caused by IV furosemide",
+              "Hyperkalemia caused by lisinopril"
+            ],
+            "answer": 0,
+            "rationale": "Visual disturbances, GI upset, and bradycardia are classic signs of digoxin toxicity. Hypokalemia from the diuretic and reduced renal clearance both increase the risk."
+          }
+        },
+        {
+          "update": "The digoxin level comes back at 3.4 ng/mL. Mr. Alvarez's heart rate is now in the low 40s with frequent multifocal PVCs, and he is lightheaded.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Which medication should the nurse anticipate the provider will prescribe?",
+            "answers": [
+              { "text": "Digoxin immune fab", "aliases": ["DigiFab", "Digibind", "Digoxin fab", "Digifab"] },
+              { "text": "Atropine" }
+            ],
+            "rationale": "With a markedly high digoxin level, symptomatic bradycardia, and ventricular ectopy, digoxin immune fab is indicated. Atropine may be used for bradycardia, but it does not treat the underlying toxicity."
+          }
+        },
+        {
+          "update": "After treatment, Mr. Alvarez's heart rate is 70 in sinus rhythm, his potassium has been replaced (K 4.2 mEq/L), and his lungs are clear. He will be discharged on a reduced dose of digoxin with furosemide 40 mg PO daily.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which discharge instruction is the priority?",
+            "options": [
+              "Weigh yourself every morning and report a gain of more than 1 kg (2 lb) in a day or 2 kg (5 lb) in a week",
+              "Avoid all foods that contain potassium",
+              "Take furosemide at bedtime so it works overnight",
+              "Take a double dose of digoxin if you miss a day"
+            ],
+            "answer": 0,
+            "rationale": "Daily weights are the most sensitive way to detect fluid retention early. Furosemide should be taken in the morning to avoid nocturia, potassium intake should be adequate, and missed digoxin doses must not be doubled."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pharm-cs-002",
+      "type": "case-study",
+      "topic": "Opioid safety",
+      "title": "Postoperative PCA",
+      "scenario": "Ms. Chen, 54, returns from surgery after an abdominal hysterectomy. Her history includes obesity (BMI 38) and obstructive sleep apnea, for which she uses CPAP at home. She has a morphine PCA (1 mg demand dose, 10-minute lockout, no basal rate). Current vital signs: BP 128/76 mm Hg, HR 84, RR 16, SpO2 95% on 2 L nasal cannula. Pain is 6/10. Her husband is at the bedside.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which instruction is most important for the nurse to give Ms. Chen's husband?",
+            "options": [
+              "\"Only your wife should press the PCA button, even if she seems to be in pain while asleep.\"",
+              "\"Press the button for her every 10 minutes so her pain stays under control.\"",
+              "\"Press the button whenever she grimaces, even if she is sleeping.\"",
+              "\"Remind her to press the button only when her pain is above 8 out of 10.\""
+            ],
+            "answer": 0,
+            "rationale": "PCA safety depends on the client becoming too sedated to press the button. When family members press it (\"PCA by proxy\"), that safeguard is lost and the risk of respiratory depression rises, especially with sleep apnea."
+          }
+        },
+        {
+          "update": "At 0200, Ms. Chen is difficult to arouse and responds only to a sternal rub. RR 7 and shallow, SpO2 84%, pupils pinpoint. Her CPAP machine is still in its bag at the bedside.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which action should the nurse take first?",
+            "options": [
+              "Stop the PCA and try to arouse the client while supporting her breathing",
+              "Call the provider to report the findings",
+              "Increase the oxygen to 6 L/min by nasal cannula",
+              "Apply her CPAP and reassess in 15 minutes"
+            ],
+            "answer": 0,
+            "rationale": "Stopping further opioid delivery and stimulating and ventilating the client come first. Extra oxygen can mask hypoventilation and does not reverse it, and waiting 15 minutes is unsafe."
+          }
+        },
+        {
+          "update": "Ms. Chen remains minimally responsive with RR 6. The rapid response team is on the way, and the facility has a standing protocol for opioid-induced respiratory depression.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Which medication should the nurse administer?",
+            "answers": [
+              { "text": "Naloxone", "aliases": ["Narcan"] }
+            ],
+            "rationale": "Naloxone reverses opioid-induced respiratory depression. In postoperative clients it is diluted and given in small increments so that analgesia is not reversed too abruptly."
+          }
+        },
+        {
+          "update": "Ten minutes after naloxone 0.04 mg IV (given twice), Ms. Chen is alert, RR 16, SpO2 96%. She now rates her pain 8/10.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which consideration is the priority for the next several hours?",
+            "options": [
+              "Naloxone wears off before morphine does, so watch closely for recurring sedation and respiratory depression",
+              "Restart the PCA right away at the same settings because she is alert",
+              "Naloxone permanently reverses the morphine, so routine monitoring is enough",
+              "Withhold all analgesics for 24 hours to prevent another episode"
+            ],
+            "answer": 0,
+            "rationale": "Naloxone lasts roughly 30–90 minutes, which is often shorter than the opioid it reverses, so respiratory depression can return. The pain plan should be revised (for example, multimodal non-opioid analgesia and CPAP use) rather than all analgesia being withheld."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pharm-cs-003",
+      "type": "case-study",
+      "topic": "Endocrine",
+      "title": "Diabetic ketoacidosis",
+      "scenario": "Jordan, 19, has type 1 diabetes and is brought to the ED after 2 days of vomiting. Jordan ran out of insulin 4 days ago. Assessment: deep, rapid respirations with a fruity breath odor, dry mucous membranes, HR 124, BP 94/58 mm Hg. Labs: glucose 562 mg/dL, pH 7.18, HCO3 10 mEq/L, K 5.6 mEq/L, positive serum ketones.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which intervention should the nurse anticipate first?",
+            "options": [
+              "Start an infusion of 0.9% sodium chloride",
+              "Give an IV bolus of regular insulin",
+              "Give sodium bicarbonate IV",
+              "Give subcutaneous insulin glargine"
+            ],
+            "answer": 0,
+            "rationale": "Profound dehydration is the most immediate threat in DKA, so isotonic fluid resuscitation comes first. Insulin follows once fluids are running and potassium has been checked. Bicarbonate is reserved for very severe acidosis (pH below 6.9)."
+          }
+        },
+        {
+          "update": "After 1 hour of fluids, Jordan's HR is 108 and BP 108/66 mm Hg. Repeat K is 4.8 mEq/L. The provider prescribes a continuous IV insulin infusion.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Which type of insulin is used for the continuous IV infusion?",
+            "answers": [
+              { "text": "Regular insulin", "aliases": ["Regular", "Humulin R", "Novolin R", "Short-acting insulin", "Insulin regular"] }
+            ],
+            "rationale": "Regular (short-acting) insulin is the standard insulin for IV infusion in DKA."
+          }
+        },
+        {
+          "update": "Four hours into the insulin infusion, Jordan's glucose is 310 mg/dL. Repeat K is 3.0 mEq/L, and the monitor shows new flattened T waves.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which action should the nurse anticipate?",
+            "options": [
+              "Hold the insulin infusion and replace potassium IV",
+              "Increase the insulin infusion rate to clear ketones faster",
+              "Give sodium bicarbonate to correct the acidosis",
+              "Change to subcutaneous insulin glargine"
+            ],
+            "answer": 0,
+            "rationale": "Insulin drives potassium into cells. When K falls below 3.3 mEq/L, insulin is held and potassium replaced to prevent life-threatening dysrhythmias."
+          }
+        },
+        {
+          "update": "Jordan's potassium is now 4.1 mEq/L and the insulin infusion has been resumed. Two hours later, glucose is 220 mg/dL, but the anion gap is still elevated and pH is 7.26.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which change in therapy should the nurse anticipate?",
+            "options": [
+              "Add dextrose to the IV fluids and continue the insulin infusion",
+              "Stop the insulin infusion now that glucose is below 250 mg/dL",
+              "Give an IV push of 50% dextrose",
+              "Switch the fluid to 3% hypertonic saline"
+            ],
+            "answer": 0,
+            "rationale": "Insulin must continue until the ketoacidosis resolves (anion gap closed). Adding dextrose (for example, D5 0.45% NaCl) when glucose reaches about 200–250 mg/dL prevents hypoglycemia while insulin keeps clearing ketones."
+          }
+        }
+      ]
+    }
+  ]
+}

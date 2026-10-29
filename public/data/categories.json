@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "description": "Drug classes, safe administration, antidotes, adverse effects and patient teaching.",
+      "bankUrl": "data/pharmacology.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    }
+  ]
+}

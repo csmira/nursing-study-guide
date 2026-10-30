@@ -1,3 +1,4 @@
+import { useMemo } from "react";
 import { Link } from "@tanstack/react-router";
 import { AppHeader } from "../components/AppHeader";
 import {
@@ -22,6 +23,14 @@ export function HomePage() {
 
   const inProgress = attempt && !attempt.finishedAt ? attempt : null;
   const lastResult = attempt?.finishedAt ? attempt : null;
+
+  const sortedCategories = useMemo(
+    () =>
+      categories
+        ? [...categories].sort((a, b) => a.name.localeCompare(b.name))
+        : undefined,
+    [categories],
+  );
 
   return (
     <div className="page">
@@ -88,9 +97,9 @@ export function HomePage() {
             <p className="error">Could not start the test: {startError}</p>
           )}
 
-          {categories && (
+          {sortedCategories && (
             <div className="category-grid">
-              {categories.map((c) => {
+              {sortedCategories.map((c) => {
                 const Icon =
                   CATEGORY_ICONS[c.id] ??
                   (c.id.startsWith("pharmacology-") ? PillIcon : ClipboardIcon);

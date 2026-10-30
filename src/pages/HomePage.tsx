@@ -132,12 +132,6 @@ export function HomePage() {
                   </article>
                 );
               })}
-              <article
-                className="card category-card category-card--placeholder"
-                aria-hidden="true"
-              >
-                <p className="muted">More categories coming soon</p>
-              </article>
             </div>
           )}
         </section>

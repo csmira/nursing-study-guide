@@ -15,14 +15,14 @@ export function CaseStudyPanel({ context, defaultOpen = true }: CaseStudyPanelPr
   const hasNewUpdate = context.stageIndex > 0 && latest >= 0
 
   return (
-    <section className={`case-panel ${open ? 'is-open' : ''}`} aria-label="Unfolding case study">
+    <section className={`case-panel ${open ? 'is-open' : ''}`} aria-label="Case study">
       <button type="button" className="case-panel__header" onClick={() => setOpen((o) => !o)} aria-expanded={open}>
         <span className="case-panel__icon">
           <ClipboardIcon size={18} />
         </span>
         <span className="case-panel__titles">
           <span className="case-panel__eyebrow">
-            Unfolding case study · Part {context.stageIndex + 1} of {context.stageCount}
+            Case study · Part {context.stageIndex + 1} of {context.stageCount}
           </span>
           <span className="case-panel__title">{context.title}</span>
         </span>

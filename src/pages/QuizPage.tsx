@@ -11,8 +11,6 @@ import { formatDuration, useCountdown } from '../hooks/quiz'
 import { useMediaQuery } from '../hooks/useMediaQuery'
 import { isAnswered } from '../lib/quiz'
 
-const TYPE_LABEL = { 'multiple-choice': 'Multiple choice', 'short-answer': 'Fill in the blank' } as const
-
 export function QuizPage() {
   const { attempt, answer, toggleFlag, goTo, submit } = useQuiz()
   const navigate = useNavigate()
@@ -121,7 +119,6 @@ export function QuizPage() {
                 <h1 className="question-card__number" ref={headingRef} tabIndex={-1}>
                   Question {currentIndex + 1} <span className="muted">of {total}</span>
                 </h1>
-                <span className="badge">{TYPE_LABEL[question.type]}</span>
               </div>
               <button
                 type="button"

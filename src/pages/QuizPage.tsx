@@ -39,6 +39,16 @@ export function QuizPage() {
     headingRef.current?.focus({ preventScroll: true })
   }, [currentIndex])
 
+  // Lock background page scroll while the mobile question navigator is open.
+  useEffect(() => {
+    if (isDesktop || !navOpen) return
+    const prevOverflow = document.body.style.overflow
+    document.body.style.overflow = 'hidden'
+    return () => {
+      document.body.style.overflow = prevOverflow
+    }
+  }, [isDesktop, navOpen])
+
   const question = attempt?.questions[currentIndex]
 
   // Keyboard shortcuts: A–D / 1–4 select, ←/→ navigate, F flags.

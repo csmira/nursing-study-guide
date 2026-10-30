@@ -1216,12 +1216,19 @@ kbd {
 }
 
 /* Mobile/tablet navigator full-screen sheet */
+html:has(.sheet-backdrop),
+body:has(.sheet-backdrop) {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
 .sheet-backdrop {
   position: fixed;
   inset: 0;
   z-index: 40;
   background: var(--surface);
   display: flex;
+  overscroll-behavior: contain;
   animation: fade-in 0.15s ease;
 }
 
@@ -1234,6 +1241,7 @@ kbd {
   flex-direction: column;
   gap: 20px;
   overflow-y: auto;
+  overscroll-behavior: contain;
   animation: slide-up 0.2s ease;
 }
 
@@ -1251,6 +1259,7 @@ kbd {
 .sheet .navigator {
   min-height: 0;
   overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 .sheet .btn {

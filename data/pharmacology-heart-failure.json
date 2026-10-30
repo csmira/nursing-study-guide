@@ -8,9 +8,9 @@
       "prompt": "A nurse is preparing to administer a scheduled morning dose of oral digoxin 0.125 mg to a patient with heart failure. Which nursing assessment is the priority before giving this medication?",
       "options": [
         "Auscultate the apical pulse at the fifth intercostal space for 1 full minute",
-        "Palpate the radial pulse for 30 seconds and multiply the value by two",
-        "Check the patient's capillary blood glucose level and urine specific gravity",
-        "Percuss the right upper quadrant to evaluate for hepatic congestion"
+        "Palpate the radial and brachial pulses bilaterally for 30 seconds to compare",
+        "Measure orthostatic blood pressure in the supine and standing positions",
+        "Assess the point of maximal impulse and check for jugular venous distension"
       ],
       "answer": 0,
       "rationale": "Before administering any dose of digoxin, the nurse must auscultate the apical pulse at the left midclavicular line, fifth intercostal space, for 1 full minute to detect bradycardia, tachycardia, or irregular rhythms. Radial palpation for 30 seconds can miss rhythm irregularities and pulse deficits."
@@ -21,13 +21,13 @@
       "topic": "Cardiac glycosides",
       "prompt": "A patient with heart failure has an order for digoxin 0.25 mg PO daily. Upon assessment, the nurse auscultates an apical heart rate of 54 beats/min and notes the patient reports mild nausea. Which action should the nurse take first?",
       "options": [
-        "Administer the digoxin with crackers to relieve the nausea",
-        "Withhold the dose of digoxin and notify the health care provider",
-        "Give half the prescribed tablet and recheck the heart rate in 1 hour",
-        "Administer intravenous digoxin immune Fab immediately"
+        "Administer the digoxin with a light snack and recheck the pulse in 1 hour",
+        "Withhold the scheduled digoxin dose and contact the health care provider",
+        "Give half the prescribed tablet and obtain a 12-lead electrocardiogram now",
+        "Prepare an intravenous infusion of digoxin immune Fab over a 30-minute period"
       ],
       "answer": 1,
-      "rationale": "When the apical pulse is 60 beats/min or lower (or greater than 100 beats/min), or when signs of digoxin toxicity such as nausea are present, the nurse should withhold the dose and contact the health care provider immediately. Digoxin immune Fab is reserved for life-threatening toxicity."
+      "rationale": "When the apical pulse is 60 beats/min or lower (or greater than 100 beats/min), or when signs of digoxin toxicity such as nausea are present, the nurse should withhold the dose and contact the health care provider. Digoxin immune Fab is reserved for life-threatening toxicity."
     },
     {
       "id": "hf-mc-003",
@@ -35,13 +35,13 @@
       "topic": "Cardiac glycosides",
       "prompt": "How does digoxin produce a positive inotropic effect in a patient with systolic heart failure?",
       "options": [
-        "By directly stimulating beta-1 adrenergic receptors on the myocardium",
-        "By selectively inhibiting phosphodiesterase type III in vascular smooth muscle",
-        "By inhibiting the sodium–potassium ATPase pump, increasing intracellular calcium",
-        "By blocking angiotensin II receptors to reduce systemic vascular resistance"
+        "By stimulating myocardial beta-1 adrenergic receptors to increase cyclic AMP",
+        "By inhibiting phosphodiesterase type III in cardiac and vascular smooth muscle",
+        "By inhibiting the sodium\u2013potassium ATPase pump to raise intracellular calcium",
+        "By blocking voltage-gated potassium channels to prolong ventricular repolarization"
       ],
       "answer": 2,
-      "rationale": "Digoxin inhibits the sodium–potassium adenosine triphosphatase (ATPase) pump, leading to increased intracellular sodium and calcium concentrations, which enhances myocardial contractility (positive inotropic effect). Beta-1 stimulation describes dobutamine, and PDE-III inhibition describes milrinone."
+      "rationale": "Digoxin inhibits the sodium\u2013potassium adenosine triphosphatase (ATPase) pump, leading to increased intracellular sodium and calcium concentrations, which enhances myocardial contractility (positive inotropic effect). Beta-1 stimulation describes dobutamine, and PDE-III inhibition describes milrinone."
     },
     {
       "id": "hf-mc-004",
@@ -49,10 +49,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "A student nurse asks the preceptor to explain the negative chronotropic and negative dromotropic effects of digoxin. Which explanation by the preceptor is accurate?",
       "options": [
-        "Digoxin increases heart rate and speeds electrical conduction through the Purkinje fibres",
-        "Digoxin dilates coronary arteries and shortens the ventricular refractory period",
-        "Digoxin weakens myocardial contraction force while accelerating sinoatrial node firing",
-        "Digoxin reduces heart rate via vagal stimulation and slows conduction through the AV node"
+        "Digoxin accelerates sinoatrial firing and speeds Purkinje fibre conduction",
+        "Digoxin dilates coronary vessels and shortens the atrial refractory period",
+        "Digoxin decreases stroke volume while increasing sympathetic nodal outflow",
+        "Digoxin slows heart rate via vagal tone and delays AV nodal conduction"
       ],
       "answer": 3,
       "rationale": "A negative chronotropic effect reduces heart rate (partly by augmenting vagal tone), and a negative dromotropic effect decreases conduction velocity through the AV node and prolongs the refractory period."
@@ -66,7 +66,7 @@
         "Serum potassium of 2.9 mmol/L",
         "Serum sodium of 140 mmol/L",
         "Serum magnesium of 0.95 mmol/L",
-        "Serum creatinine of 75 µmol/L"
+        "Serum creatinine of 75 \u00b5mol/L"
       ],
       "answer": 0,
       "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L), often caused by loop diuretics like furosemide, strongly predisposes patients to digoxin toxicity, manifested by anorexia, fatigue, and yellow-green halo vision. The other laboratory values are within normal limits."
@@ -77,10 +77,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "According to the 2017 Canadian Cardiovascular Society guidelines, what is the recommended role of digoxin in the management of chronic heart failure with reduced ejection fraction (HFrEF)?",
       "options": [
-        "First-line monotherapy for all newly diagnosed patients to reduce 5-year mortality",
-        "Adjunctive therapy for patients in sinus rhythm with persistent moderate-to-severe symptoms despite optimized guideline therapy",
-        "Routine prophylactic therapy for Stage A patients who have hypertension and diabetes",
-        "Primary treatment of choice for patients with isolated diastolic dysfunction and left ventricular hypertrophy"
+        "First-line monotherapy for newly diagnosed patients to reduce 5-year mortality",
+        "Adjunctive therapy for patients in sinus rhythm with persistent severe symptoms",
+        "Routine prophylactic therapy for Stage A patients with hypertension and diabetes",
+        "Primary maintenance therapy for patients with isolated diastolic dysfunction"
       ],
       "answer": 1,
       "rationale": "Digoxin is no longer a first-line drug and does not reduce mortality; it is recommended for patients with HFrEF in normal sinus rhythm who continue to have moderate-to-severe symptoms despite optimized therapy (ACE inhibitors/ARBs, beta blockers, diuretics) to relieve symptoms and reduce hospitalizations."
@@ -91,10 +91,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "A patient with atrial fibrillation and heart failure has just been started on amiodarone in addition to long-term oral digoxin therapy. What modification to the plan of care should the nurse anticipate?",
       "options": [
-        "Doubling the daily digoxin dose because amiodarone accelerates renal digoxin clearance",
-        "Administering digoxin with high-fibre bran cereal to prevent amiodarone-induced gastritis",
-        "Reducing the digoxin dose by 50% because amiodarone increases serum digoxin levels by 50%",
-        "Discontinuing potassium monitoring because amiodarone prevents digoxin toxicity"
+        "Increasing the daily digoxin dose by 50% due to enhanced renal drug clearance",
+        "Spacing the two medications 2 hours apart to prevent gastrointestinal binding",
+        "Reducing the daily digoxin dose by 50% due to decreased digoxin clearance",
+        "Switching oral digoxin to an equivalent intravenous dose during concurrent therapy"
       ],
       "answer": 2,
       "rationale": "Amiodarone, quinidine, and verapamil decrease digoxin clearance and can increase serum digoxin levels by approximately 50%; therefore, the digoxin dose should be reduced by 50% to prevent toxicity."
@@ -105,10 +105,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "During a home visit, a patient taking oral digoxin tells the nurse about several new dietary habits and natural health products. Which product reported by the patient increases the risk of digoxin toxicity by causing potassium loss?",
       "options": [
-        "Omega-3 fatty acids",
-        "St. John's wort",
-        "Wheat bran muffins",
-        "Natural licorice"
+        "Omega-3 fatty acid capsules",
+        "St. John's wort extract",
+        "Toasted wheat bran muffins",
+        "Natural black licorice"
       ],
       "answer": 3,
       "rationale": "Licorice increases the risk of digoxin cardiac toxicity due to potassium loss (hypokalemia). St. John's wort and wheat bran decrease digoxin levels/absorption, while omega-3 polyunsaturated fatty acids are recommended as safe adjunctive therapy in heart failure."
@@ -119,10 +119,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "A patient asks why they should avoid taking their morning digoxin tablet with a large bowl of bran cereal or an antacid. Which response by the nurse is best?",
       "options": [
-        "Bran and antacids bind to oral digoxin in the gastrointestinal tract and decrease its absorption",
-        "High-fibre foods and antacids slow hepatic metabolism and cause lethal digoxin overdose",
-        "Combining digoxin with bran triggers an immediate hypertensive crisis",
-        "Antacids convert digoxin into an inactive metabolite that damages the kidneys"
+        "Bran and antacids bind oral digoxin in the gut and decrease its absorption",
+        "High-fibre foods and antacids inhibit hepatic enzymes and raise drug levels",
+        "Combining digoxin with antacids accelerates gastric emptying and causes cramps",
+        "Dietary fibre and antacids increase renal tubular reabsorption of the medication"
       ],
       "answer": 0,
       "rationale": "High-fibre foods (such as bran), dairy products, and antacids interfere with and decrease the oral absorption and bioavailability of digoxin. Patients should avoid taking them within 2 hours before or after their heart failure medications."
@@ -133,13 +133,13 @@
       "topic": "Cardiac glycosides",
       "prompt": "A nurse is teaching a patient discharged on digoxin 0.125 mg PO once daily at 0800. Which statement by the patient indicates correct understanding of what to do if a dose is missed?",
       "options": [
-        "If I forget a dose for a whole day, I should take two tablets the next morning to keep my blood level steady.",
-        "If I remember at 1800 the same day, I can still take the missed dose since less than 12 hours have passed.",
-        "If I miss my 0800 dose by more than 2 hours, I must skip it and go to the emergency department.",
-        "I can take an extra dose anytime I feel short of breath or notice swelling in my ankles."
+        "If I forget a morning dose, I should take two tablets the next morning at 0800.",
+        "If less than 12 hours have passed, I can still take the missed dose that day.",
+        "If I miss my 0800 dose by more than 2 hours, I must skip it until tomorrow.",
+        "If I feel short of breath in the evening, I can take an extra half-tablet dose."
       ],
       "answer": 1,
-      "rationale": "If a dose of digoxin is missed, the patient may take it if no more than 12 hours have passed since the scheduled time. If more than 12 hours have elapsed, the patient should skip the missed dose, never double the next dose, and contact the health care provider."
+      "rationale": "If a dose of digoxin is missed, the patient may take it if no more than 12 hours have passed since the scheduled time. If more than 12 hours have elapsed, the patient should skip the missed dose, not double the next dose, and contact the health care provider."
     },
     {
       "id": "hf-mc-011",
@@ -147,13 +147,13 @@
       "topic": "Cardiac glycosides",
       "prompt": "Which medication order for digoxin complies with Institute for Safe Medication Practices (ISMP) Canada guidelines to prevent 10-fold or 100-fold dosing errors?",
       "options": [
-        "Digoxin 1.0 mg IV push now",
-        "Digoxin .25 mg PO daily",
-        "Digoxin 0.25 mg PO daily",
-        "Digoxin 0.1250 mg PO daily"
+        "Digoxin 1.0 mg PO once daily",
+        "Digoxin .25 mg PO once daily",
+        "Digoxin 0.25 mg PO once daily",
+        "Digoxin .125 mg PO once daily"
       ],
       "answer": 2,
-      "rationale": "ISMP Canada states that leading zeros must always be used before a decimal point for doses less than a whole number (0.25 mg, not .25 mg) and trailing zeros must never be used after a decimal point (1 mg, not 1.0 mg) to prevent lethal decimal-point misreadings."
+      "rationale": "ISMP Canada states that leading zeros must be used before a decimal point for doses less than a whole number (0.25 mg, not .25 mg) and trailing zeros must not be used after a decimal point (1 mg, not 1.0 mg) to prevent lethal decimal-point misreadings."
     },
     {
       "id": "hf-mc-012",
@@ -161,10 +161,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "The nurse is preparing to administer intravenous digoxin 0.25 mg to a hospitalized patient with acute heart failure. How should the nurse safely administer this medication?",
       "options": [
-        "Administer as a rapid 10-second intravenous bolus followed by a heparin flush",
-        "Mix in the same syringe with intravenous furosemide and push rapidly over 30 seconds",
-        "Dilute in 500 mL of normal saline and infuse over 12 hours without an infusion pump",
-        "Infuse undiluted slowly over at least 5 minutes at a rate not exceeding 0.25 mg/min"
+        "Administer as a rapid intravenous bolus over 30 seconds followed by normal saline",
+        "Combine with intravenous furosemide in the same syringe and infuse over 2 minutes",
+        "Dilute in 250 mL of 5% dextrose in water and infuse over 4 hours via gravity drip",
+        "Infuse undiluted slowly over at least 5 minutes at a rate up to 0.25 mg/minute"
       ],
       "answer": 3,
       "rationale": "Intravenous digoxin should be infused undiluted at approximately 0.25 mg per minute, over longer than a 5-minute period (or per hospital protocol), and must not be mixed with incompatible medications in the same syringe or solution."
@@ -175,10 +175,10 @@
       "topic": "Cardiac glycoside antidote",
       "prompt": "For which patient with suspected digoxin toxicity is the administration of digoxin immune Fab clinically indicated?",
       "options": [
-        "A patient with a serum potassium level of 5.6 mmol/L and sustained ventricular tachycardia",
-        "A patient with a serum digoxin level of 1.8 ng/mL who reports mild fatigue and headache",
-        "A patient with an apical heart rate of 58 beats/min and a serum potassium level of 4.1 mmol/L",
-        "A patient who accidentally took an extra 0.125-mg tablet of digoxin 2 hours ago"
+        "A patient with serum potassium of 5.6 mmol/L and sustained ventricular tachycardia",
+        "A patient with a serum digoxin level of 2.1 ng/mL reporting fatigue and anorexia",
+        "A patient with an apical heart rate of 56 beats/min and a potassium of 4.1 mmol/L",
+        "A patient with chronic kidney disease who took an extra 0.125-mg tablet this morning"
       ],
       "answer": 0,
       "rationale": "Digoxin immune Fab is reserved for severe, life-threatening toxicity: hyperkalemia (serum potassium > 5 mmol/L) in a toxic patient, life-threatening dysrhythmias (sustained ventricular tachycardia/fibrillation or severe bradycardia/heart block unresponsive to atropine or pacing), or massive overdose (> 10 mg in adults or > 4 mg in children)."
@@ -189,13 +189,13 @@
       "topic": "Cardiac glycoside antidote",
       "prompt": "A patient with a life-threatening digoxin overdose receives intravenous digoxin immune Fab. Twelve hours later, a repeat total serum digoxin level is drawn and reported as markedly elevated. How should the nurse interpret this finding?",
       "options": [
-        "The antidote has failed, and an immediate repeat bolus of digoxin immune Fab is required",
-        "Total serum digoxin levels remain elevated for days to weeks after Fab therapy; monitor clinical signs instead",
-        "The patient has secretly ingested additional digoxin tablets while in the intensive care unit",
-        "The laboratory specimen was hemolyzed, which falsely elevates serum digoxin assays"
+        "The antidote dose was insufficient, and a repeat bolus of Fab fragments is needed",
+        "Standard assays measure bound and free drug, so clinical status guides monitoring",
+        "Enterohepatic recirculation has released unbound digoxin back into the bloodstream",
+        "Renal clearance of the antigen\u2013antibody complex has stalled due to tubular injury"
       ],
       "answer": 1,
-      "rationale": "After digoxin immune Fab is administered, all subsequent serum digoxin measurements will be elevated for days to weeks because standard assays measure both free and Fab-bound digoxin. Clinical signs, ECG rhythm, and potassium levels must guide evaluation of reversal effectiveness."
+      "rationale": "After digoxin immune Fab is administered, subsequent serum digoxin measurements will be elevated for days to weeks because standard assays measure both free and Fab-bound digoxin. Clinical signs, ECG rhythm, and potassium levels must guide evaluation of reversal effectiveness."
     },
     {
       "id": "hf-mc-015",
@@ -203,10 +203,10 @@
       "topic": "Cardiac glycoside antidote",
       "prompt": "Before administering digoxin immune Fab to a patient with severe digoxin toxicity, the nurse reviews the patient's allergy history. An allergy to which substance places the patient at highest risk for an anaphylactic reaction to digoxin immune Fab?",
       "options": [
-        "Egg albumin or soybean oil",
-        "Shellfish or iodinated contrast media",
-        "Papaya, papain, or sheep protein",
-        "Penicillin or cephalosporin antibiotics"
+        "Egg albumin, feathers, or soybean oil",
+        "Shellfish, kelp, or iodinated contrast",
+        "Papaya extracts, papain, or sheep protein",
+        "Horse serum, gelatin, or neomycin sulfate"
       ],
       "answer": 2,
       "rationale": "Digoxin immune Fab is produced from immunoglobulin fragments obtained from sheep immunized with a digoxin derivative and cleaved using papain. Patients allergic to papaya, papain, or sheep (ovine) protein must be monitored closely for anaphylactic shock."
@@ -218,12 +218,12 @@
       "prompt": "A patient has ingested 6 mg of digoxin in an acute overdose, and the health care provider orders digoxin immune Fab to neutralize the ingested drug. Knowing that one vial of digoxin immune Fab binds 0.5 mg of digoxin, how many vials will the nurse prepare?",
       "options": [
         "24 vials",
+        "15 vials",
         "6 vials",
-        "3 vials",
         "12 vials"
       ],
       "answer": 3,
-      "rationale": "One vial of digoxin immune Fab binds 0.5 mg of digoxin. To neutralize 6 mg of digoxin: 6 mg ÷ 0.5 mg/vial = 12 vials."
+      "rationale": "One vial of digoxin immune Fab binds 0.5 mg of digoxin. To neutralize 6 mg of digoxin: 6 mg \u00f7 0.5 mg/vial = 12 vials."
     },
     {
       "id": "hf-mc-017",
@@ -231,13 +231,13 @@
       "topic": "Cardiac glycoside antidote",
       "prompt": "The pharmacy delivers reconstituted vials of digoxin immune Fab to the intensive care unit for a patient in third-degree heart block from digoxin toxicity. Which storage and handling guideline must the nurse follow?",
       "options": [
-        "Use the reconstituted solution immediately or discard it if not used within 4 hours",
-        "Store the mixed solution at room temperature in direct light for up to 72 hours",
-        "Freeze the reconstituted vials until the patient's serum potassium exceeds 6.5 mmol/L",
-        "Infuse the solution rapidly over 1 minute for all stable patients to prevent degradation"
+        "Administer the mixed solution promptly or discard it within 4 hours",
+        "Keep the reconstituted solution at room temperature for up to 24 hours",
+        "Protect the diluted solution from light and infuse over 4 to 6 hours",
+        "Warm the refrigerated vials to body temperature before reconstitution"
       ],
       "answer": 0,
-      "rationale": "Unreconstituted vials of digoxin immune Fab should be refrigerated, and once mixed, the solution is stable for only 4 hours; it must be used immediately or discarded after 4 hours. It is normally infused over 30 minutes unless cardiac arrest is imminent."
+      "rationale": "Unreconstituted vials of digoxin immune Fab should be refrigerated, and once mixed, the solution is stable for 4 hours; it must be used promptly or discarded after 4 hours. It is normally infused over 30 minutes unless cardiac arrest is imminent."
     },
     {
       "id": "hf-mc-018",
@@ -245,10 +245,10 @@
       "topic": "Phosphodiesterase inhibitors",
       "prompt": "Why is the phosphodiesterase inhibitor milrinone classified as an 'inodilator' in the treatment of heart failure?",
       "options": [
-        "It slows the sinoatrial node rate while constricting peripheral venous capacitance vessels",
-        "It increases myocardial contractility while dilating pulmonary and systemic vascular smooth muscle",
-        "It blocks aldosterone receptors in the kidneys while inhibiting angiotensin-converting enzyme",
-        "It selectively stimulates alpha-1 receptors in the brain and beta-2 receptors in the bronchi"
+        "It slows sinoatrial node firing while constricting peripheral venous vessels",
+        "It increases myocardial contractility while dilating vascular smooth muscle",
+        "It blocks renal aldosterone receptors while inhibiting angiotensin-converting enzyme",
+        "It stimulates myocardial beta-1 receptors while blocking peripheral alpha-1 tone"
       ],
       "answer": 1,
       "rationale": "Milrinone inhibits phosphodiesterase type III, increasing intracellular cAMP in cardiac and vascular smooth muscle. This produces both a positive inotropic effect (stronger contraction) and vasodilation (reduced afterload), earning the term 'inodilator'."
@@ -259,13 +259,13 @@
       "topic": "Phosphodiesterase inhibitors",
       "prompt": "A patient in the intensive care unit is receiving a continuous intravenous infusion of milrinone for acute heart failure. Which primary adverse effect requires continuous electrocardiographic (ECG) monitoring?",
       "options": [
-        "Pericardial friction rub",
-        "First-degree sinoatrial block",
+        "Atrioventricular nodal block",
+        "Sinoatrial arrest and pauses",
         "Ventricular dysrhythmias",
-        "Profound sinus bradycardia"
+        "Refractory sinus bradycardia"
       ],
       "answer": 2,
-      "rationale": "The primary adverse effect of milrinone therapy is cardiac dysrhythmia—specifically ventricular dysrhythmias, which occur in approximately 12% of treated patients. Continuous ECG monitoring in a critical care setting is essential."
+      "rationale": "The primary adverse effect of milrinone therapy is cardiac dysrhythmia\u2014specifically ventricular dysrhythmias, which occur in approximately 12% of treated patients. Continuous ECG monitoring in a critical care setting is essential."
     },
     {
       "id": "hf-mc-020",
@@ -273,13 +273,13 @@
       "topic": "Phosphodiesterase inhibitors",
       "prompt": "A patient is receiving a continuous intravenous infusion of milrinone via a central venous line. The health care provider orders furosemide 40 mg IV stat for pulmonary crackles. Which action by the nurse is essential?",
       "options": [
-        "Hold the furosemide because loop diuretics are strictly contraindicated in patients with heart failure",
-        "Inject the furosemide directly into the Y-site of the milrinone infusion line to speed delivery",
-        "Mix the furosemide into the milrinone infusion bag so both drugs infuse continuously together",
-        "Administer the furosemide through a separate IV line because it precipitates immediately with milrinone"
+        "Withhold the furosemide while the patient receives a phosphodiesterase inhibitor",
+        "Slow the milrinone infusion by half while injecting furosemide into the Y-site",
+        "Dilute the furosemide in 100 mL of normal saline before piggybacking into the line",
+        "Administer the furosemide through a separate IV line to avoid chemical precipitation"
       ],
       "answer": 3,
-      "rationale": "Parenteral furosemide must never be injected into intravenous lines containing milrinone because an immediate chemical precipitation occurs. A separate compatible IV access or thoroughly flushed separate lumen must be used."
+      "rationale": "Parenteral furosemide must not be injected into intravenous lines containing milrinone because a chemical precipitation occurs on contact. A separate compatible IV access or thoroughly flushed separate lumen must be used."
     },
     {
       "id": "hf-mc-021",
@@ -287,10 +287,10 @@
       "topic": "Phosphodiesterase inhibitors",
       "prompt": "A patient receiving an intravenous milrinone infusion develops a blood pressure of 78/44 mm Hg and reports dizziness. Which action should the nurse anticipate taking?",
       "options": [
-        "Reduce the infusion rate or temporarily discontinue the milrinone and notify the prescriber",
-        "Administer intravenous protamine sulfate as the specific antidote for milrinone overdose",
-        "Double the milrinone infusion rate to increase positive inotropic support to the left ventricle",
-        "Place the patient in a high Fowler's position and administer sublingual nitroglycerin"
+        "Reduce or temporarily stop the milrinone infusion and notify the prescriber",
+        "Administer intravenous calcium gluconate to counteract the vasodilatory effect",
+        "Increase the milrinone rate slightly to improve left ventricular stroke volume",
+        "Elevate the head of the bed to 90 degrees and administer oral midodrine stat"
       ],
       "answer": 0,
       "rationale": "No specific antidote exists for milrinone overdose, and hypotension secondary to vasodilation is the primary manifestation. If excessive hypotension occurs, the infusion rate should be reduced or temporarily stopped until the patient stabilizes, and the prescriber notified."
@@ -301,10 +301,10 @@
       "topic": "Phosphodiesterase inhibitors",
       "prompt": "In addition to ECG rhythm and blood pressure, which hematologic laboratory parameter should the nurse monitor closely in a patient receiving milrinone?",
       "options": [
-        "Erythrocyte sedimentation rate for polycythemia",
+        "Hemoglobin and hematocrit for hemolytic anemia",
         "Platelet count for thrombocytopenia",
-        "CD4 T-lymphocyte count for immunodeficiency",
-        "Reticulocyte count for sickle cell crisis"
+        "White blood cell count for agranulocytosis",
+        "Prothrombin time for factor VII deficiency"
       ],
       "answer": 1,
       "rationale": "Thrombocytopenia is a recognized adverse effect of milrinone therapy, along with ventricular dysrhythmias, hypotension, angina, hypokalemia, headache, tremor, and elevated liver enzymes."
@@ -321,7 +321,7 @@
         "2.5 mg"
       ],
       "answer": 2,
-      "rationale": "Loading dose = 50 mcg/kg × 80 kg = 4 000 mcg. Converting micrograms to milligrams: 4 000 mcg ÷ 1 000 = 4 mg."
+      "rationale": "Loading dose = 50 mcg/kg \u00d7 80 kg = 4 000 mcg. Converting micrograms to milligrams: 4 000 mcg \u00f7 1 000 = 4 mg."
     },
     {
       "id": "hf-mc-024",
@@ -329,10 +329,10 @@
       "topic": "ACE inhibitors",
       "prompt": "How do angiotensin-converting enzyme (ACE) inhibitors such as lisinopril improve cardiac function in a patient with heart failure?",
       "options": [
-        "They stimulate renal alpha-1 receptors to promote sodium and water retention",
-        "They directly block beta-1 receptors in the sinoatrial node to increase diastolic filling time",
-        "They inhibit the sodium–potassium ATPase pump to force more calcium into myocardial cells",
-        "They inhibit angiotensin II formation and aldosterone secretion, reducing preload and ventricular remodeling"
+        "They stimulate renal prostaglandins to enhance glomerular filtration pressure",
+        "They block cardiac beta-1 receptors to prolong ventricular diastolic filling time",
+        "They inhibit the sodium\u2013potassium pump to increase intracellular calcium stores",
+        "They inhibit angiotensin II and aldosterone, reducing preload and LV remodeling"
       ],
       "answer": 3,
       "rationale": "ACE inhibitors block the conversion of angiotensin I to angiotensin II, preventing potent vasoconstriction and inhibiting aldosterone-mediated sodium and water resorption. This decreases preload (LVEDV), reduces cardiac workload, and slows adverse left ventricular remodeling."
@@ -343,10 +343,10 @@
       "topic": "ACE inhibitors",
       "prompt": "A patient who started lisinopril 3 weeks ago for heart failure calls the clinic reporting an annoying, dry, nonproductive cough. The patient's lungs are clear to auscultation, weight is stable, and oxygen saturation is 98%. What causes this adverse effect?",
       "options": [
-        "Accumulation of bradykinins in the bronchial tubes due to ACE inhibition",
-        "Acute worsening of left ventricular failure causing severe pulmonary edema",
-        "Bacterial superinfection of the lower respiratory tract triggered by lisinopril",
-        "Bronchospasm resulting from blockade of bronchial beta-2 adrenergic receptors"
+        "Accumulation of insoluble bradykinins in the bronchi from ACE inhibition",
+        "Mild pulmonary venous congestion caused by nocturnal fluid redistribution",
+        "Reflex vagal stimulation of the upper airway triggered by arterial dilation",
+        "Bronchial smooth muscle constriction due to beta-2 adrenergic blockade"
       ],
       "answer": 0,
       "rationale": "ACE inhibitors can cause a harmless but annoying dry cough because insoluble bradykinins (by-products of ACE inhibition) build up in the blood and lodge in the bronchial tubes. If intolerable, the patient may be switched to an ARB such as valsartan."
@@ -355,15 +355,15 @@
       "id": "hf-mc-026",
       "type": "multiple-choice",
       "topic": "ACE inhibitors",
-      "prompt": "A nurse is reviewing the medication profile and laboratory results of a patient taking lisinopril for heart failure. Which finding requires immediate follow-up with the prescriber?",
+      "prompt": "A nurse is reviewing the medication profile and laboratory results of a patient taking lisinopril for heart failure. Which finding requires prompt follow-up with the prescriber?",
       "options": [
-        "Blood pressure of 118/74 mm Hg measured 6 hours after the morning dose",
+        "Blood pressure of 116/72 mm Hg measured 6 hours after the morning lisinopril dose",
         "Serum potassium level of 5.8 mmol/L while taking a daily potassium supplement",
-        "Apical heart rate of 72 beats/min with a regular sinus rhythm",
-        "Serum sodium level of 139 mmol/L and fasting glucose of 5.2 mmol/L"
+        "Apical heart rate of 68 beats/min with a regular sinus rhythm on telemetry",
+        "Serum creatinine of 88 \u00b5mol/L and blood urea nitrogen within the reference range"
       ],
       "answer": 1,
-      "rationale": "Because ACE inhibitors suppress aldosterone secretion, they can cause hyperkalemia. A serum potassium of 5.8 mmol/L is dangerously elevated, and concurrent potassium supplements or potassium-sparing diuretics must be used with extreme caution or discontinued."
+      "rationale": "Because ACE inhibitors suppress aldosterone secretion, they can cause hyperkalemia. A serum potassium of 5.8 mmol/L is dangerously elevated, and concurrent potassium supplements or potassium-sparing diuretics must be used with caution or discontinued."
     },
     {
       "id": "hf-mc-027",
@@ -371,10 +371,10 @@
       "topic": "Angiotensin II receptor blockers",
       "prompt": "A patient with heart failure is switched from lisinopril to valsartan due to a persistent dry cough. How does valsartan differ from lisinopril in its adverse effect profile?",
       "options": [
-        "Valsartan frequently causes yellow-green halo vision and severe bradycardia",
-        "Valsartan is safe to take throughout all trimesters of pregnancy unlike lisinopril",
-        "Valsartan is less likely to cause a dry cough or hyperkalemia than lisinopril",
-        "Valsartan increases systemic vascular resistance while lisinopril decreases it"
+        "Valsartan produces a positive inotropic effect without altering blood pressure",
+        "Valsartan can be safely continued during pregnancy without fetal renal toxicity",
+        "Valsartan is less likely to cause a bradykinin-mediated cough or hyperkalemia",
+        "Valsartan increases systemic vascular resistance while reducing venous preload"
       ],
       "answer": 2,
       "rationale": "Angiotensin II receptor blockers (ARBs) such as valsartan decrease systemic vascular resistance (afterload) like ACE inhibitors, but they are much less likely to cause the bradykinin-mediated dry cough or hyperkalemia. Like ACE inhibitors, ARBs are teratogenic and contraindicated in pregnancy."
@@ -385,13 +385,13 @@
       "topic": "ACE inhibitors and ARBs",
       "prompt": "A 32-year-old woman with cardiomyopathy and chronic heart failure tells the nurse that she and her partner are planning a pregnancy. She currently takes valsartan and metoprolol. Which information is essential for the nurse to share?",
       "options": [
-        "She can stop all heart failure medications cold turkey today without consulting her cardiologist",
-        "Valsartan is the safest heart failure medication during pregnancy because it does not cross the placenta",
-        "She should double her valsartan dose during the second and third trimesters to prevent preeclampsia",
-        "Valsartan and ACE inhibitors can cause fetal injury and death and must be replaced before conception"
+        "Abruptly discontinue both medications at home as soon as a pregnancy test is positive",
+        "Continue valsartan during the first trimester and switch to lisinopril in the second",
+        "Reduce the valsartan dose by half before conception to prevent maternal hypotension",
+        "Consult the prescriber before conception to replace valsartan due to fetal toxicity"
       ],
       "answer": 3,
-      "rationale": "Both ACE inhibitors (e.g., lisinopril) and ARBs (e.g., valsartan) cause fetal and neonatal morbidity and death when used during pregnancy. The patient must consult her health care provider immediately to transition to safer therapy before conceiving."
+      "rationale": "Both ACE inhibitors (e.g., lisinopril) and ARBs (e.g., valsartan) cause fetal and neonatal morbidity and death when used during pregnancy. The patient must consult her health care provider to transition to safer therapy before conceiving."
     },
     {
       "id": "hf-mc-029",
@@ -400,9 +400,9 @@
       "prompt": "Which three beta blockers have been shown in clinical trials to reduce mortality in patients with heart failure?",
       "options": [
         "Bisoprolol, extended-release metoprolol, and carvedilol",
-        "Propranolol, atenolol, and sotalol",
-        "Labetalol, timolol, and pindolol",
-        "Esmolol, nadolol, and acebutolol"
+        "Propranolol, immediate-release atenolol, and sotalol",
+        "Labetalol, sustained-release propranolol, and pindolol",
+        "Esmolol, extended-release nadolol, and acebutolol"
       ],
       "answer": 0,
       "rationale": "According to heart failure guidelines and textbook evidence, the three beta blockers proven to reduce mortality in heart failure are bisoprolol, extended-release metoprolol, and carvedilol."
@@ -413,10 +413,10 @@
       "topic": "Beta blockers",
       "prompt": "A patient with heart failure asks why a beta blocker such as metoprolol is prescribed when the heart is already weak. Which explanation by the nurse best describes the cardioprotective mechanism of beta blockers?",
       "options": [
-        "It forces the ventricles to contract more forcefully by increasing intracellular calcium levels",
-        "It blocks harmful sympathetic catecholamine stimulation, reducing heart rate and cardiac workload",
-        "It stimulates the kidneys to excrete large volumes of sodium and water within 30 minutes",
-        "It converts angiotensin I into angiotensin II to maintain perfusion to the brain"
+        "It increases intracellular calcium availability to strengthen ventricular contraction",
+        "It blocks sympathetic catecholamine stimulation to reduce heart rate and workload",
+        "It inhibits renal tubular sodium reabsorption to decrease intravascular fluid volume",
+        "It dilates systemic arterioles directly by opening vascular potassium channels"
       ],
       "answer": 1,
       "rationale": "Beta blockers protect the failing heart by blocking sympathetic nervous system (catecholamine) stimulation, which reduces heart rate, delays AV node conduction, decreases myocardial automaticity, and helps preserve left ventricular function and reverse remodeling."
@@ -427,10 +427,10 @@
       "topic": "Beta blockers",
       "prompt": "How does carvedilol differ pharmacologically from cardioselective beta blockers like metoprolol and bisoprolol in the treatment of mild-to-moderate heart failure?",
       "options": [
-        "Carvedilol is a selective beta-1 agonist that increases heart rate and AV conduction",
-        "Carvedilol is available only as a continuous intravenous infusion for intensive care patients",
-        "Carvedilol acts as a nonselective beta blocker, an alpha-1 blocker, and an antioxidant",
-        "Carvedilol works exclusively by inhibiting aldosterone receptors in the distal renal tubule"
+        "Carvedilol selectively stimulates beta-2 receptors to prevent bronchoconstriction",
+        "Carvedilol possesses intrinsic sympathomimetic activity that maintains heart rate",
+        "Carvedilol acts as a nonselective beta blocker, alpha-1 blocker, and antioxidant",
+        "Carvedilol blocks renal mineralocorticoid receptors in addition to beta-1 receptors"
       ],
       "answer": 2,
       "rationale": "Carvedilol is an oral nonselective beta blocker that also blocks alpha-1 adrenergic receptors (causing vasodilation) and possesses possible calcium channel blocking and antioxidant properties, slowing heart failure progression and reducing hospitalizations."
@@ -441,10 +441,10 @@
       "topic": "Aldosterone antagonists",
       "prompt": "As a patient's heart failure progresses to a more severe stage, the cardiologist adds eplerenone to the regimen of lisinopril, carvedilol, and furosemide. What is the therapeutic action of eplerenone?",
       "options": [
-        "It binds circulating digoxin molecules to prevent ventricular dysrhythmias",
-        "It inhibits phosphodiesterase type III to produce rapid inodilation",
-        "It stimulates myocardial beta-1 receptors to increase stroke volume",
-        "It selectively blocks aldosterone receptors in the kidney, heart, blood vessels, and brain"
+        "It inhibits neprilysin to increase endogenous natriuretic peptide concentrations",
+        "It inhibits phosphodiesterase type III to enhance cardiac relaxation and output",
+        "It blocks funny-channel sodium currents in the sinoatrial node to slow heart rate",
+        "It selectively blocks aldosterone receptors in the kidneys, heart, and vessels"
       ],
       "answer": 3,
       "rationale": "Eplerenone (Inspra) and spironolactone (Aldactone) are aldosterone antagonists (mineralocorticoid receptor antagonists) added in severe stages of heart failure to block aldosterone-mediated sodium and water retention and worsening heart failure."
@@ -455,10 +455,10 @@
       "topic": "Vasodilators in heart failure",
       "prompt": "A combination of hydralazine and isosorbide dinitrate is specifically recommended in heart failure treatment guidelines for which patient population?",
       "options": [
-        "Patients who are Black",
-        "Pediatric infants under 6 months of age",
-        "Pregnant patients in their first trimester",
-        "Patients with severe aortic stenosis"
+        "Patients with heart failure who are Black",
+        "Patients with congenital septal defects",
+        "Patients with severe aortic stenosis",
+        "Patients with right ventricular failure"
       ],
       "answer": 0,
       "rationale": "The combination of hydralazine and isosorbide dinitrate is specifically approved and recommended in clinical guidelines for patients with heart failure who are Black."
@@ -469,13 +469,13 @@
       "topic": "Vasodilators in heart failure",
       "prompt": "A patient is receiving the first few doses of hydralazine and isosorbide dinitrate for heart failure. Which nursing intervention and patient teaching is most important?",
       "options": [
-        "Restrict all dietary potassium intake because these drugs cause life-threatening hyperkalemia",
-        "Monitor blood pressure closely and instruct the patient to change positions slowly due to the risk of syncope",
-        "Assess visual acuity every 2 hours for the development of purple and yellow halos",
-        "Administer the tablets with a high-bran meal to delay peak plasma concentration beyond 12 hours"
+        "Limit dietary sodium and potassium intake to prevent hyperkalemic dysrhythmias",
+        "Monitor blood pressure closely and advise slow position changes due to syncope risk",
+        "Assess colour vision and pupillary reflexes hourly for signs of nitrate neurotoxicity",
+        "Give the medications with dairy products to delay peak plasma levels beyond 4 hours"
       ],
       "answer": 1,
-      "rationale": "Hydralazine and isosorbide dinitrate reach peak plasma levels in 1 hour and must be used with extreme caution because of the risk of syncope and hypotension, especially with the first few doses. Patients should be taught to change positions carefully."
+      "rationale": "Hydralazine and isosorbide dinitrate reach peak plasma levels in 1 hour and must be used with caution because of the risk of syncope and hypotension, especially with the first few doses. Patients should be taught to change positions carefully."
     },
     {
       "id": "hf-mc-035",
@@ -483,10 +483,10 @@
       "topic": "Adrenergic inotropes",
       "prompt": "A patient is admitted to the cardiac intensive care unit in acute decompensated heart failure with hemodynamic instability. The prescriber orders a continuous intravenous infusion of dobutamine. How does dobutamine improve cardiac output?",
       "options": [
-        "By inhibiting the conversion of angiotensin I to angiotensin II in the pulmonary vasculature",
-        "By blocking parasympathetic vagal tone to slow conduction through the atrioventricular node",
-        "By selectively stimulating beta-1 adrenergic receptors on the myocardium to increase contractility and stroke volume",
-        "By promoting osmotic diuresis in the loop of Henle to reduce pulmonary congestion"
+        "By activating vascular alpha-1 receptors to raise systemic arterial blood pressure",
+        "By inhibiting parasympathetic vagal tone to accelerate atrioventricular conduction",
+        "By stimulating myocardial beta-1 receptors to increase contractility and output",
+        "By sensitizing cardiac troponin C to calcium without increasing oxygen consumption"
       ],
       "answer": 2,
       "rationale": "Dobutamine hydrochloride is a beta-1-selective vasoactive adrenergic agonist structurally similar to dopamine. By stimulating myocardial beta-1 receptors, it increases contractility (positive inotropy), stroke volume, and cardiac output in acute decompensated heart failure."
@@ -497,9 +497,9 @@
       "topic": "Adjunctive heart failure therapy",
       "prompt": "According to the 2017 Canadian Cardiovascular Society guidelines, which natural health product is recommended as adjunctive therapy in chronic heart failure to help reduce mortality and hospital admissions?",
       "options": [
-        "Hawthorn berry tincture 15 mL daily",
-        "Siberian ginseng extract 500 mg twice daily",
-        "St. John's wort 300 mg three times daily",
+        "Standardized hawthorn leaf extract 300 mg twice daily",
+        "Siberian ginseng root extract 500 mg taken twice daily",
+        "Coenzyme Q10 ubiquinone capsules 200 mg once daily",
         "Omega-3 polyunsaturated fatty acids (PUFAs) 1 g daily"
       ],
       "answer": 3,
@@ -514,10 +514,10 @@
         "Heart failure with reduced ejection fraction (HFrEF)",
         "Heart failure with preserved ejection fraction (HFpEF)",
         "Heart failure with mid-range ejection fraction (HFmEF)",
-        "Normal left ventricular systolic function"
+        "Heart failure with recovered ejection fraction (HFrecEF)"
       ],
       "answer": 0,
-      "rationale": "According to the 2017 CCS guidelines, an LVEF ≤ 40% is classified as heart failure with reduced ejection fraction (HFrEF), 41%–49% is mid-range (HFmEF), and ≥ 50% is preserved ejection fraction (HFpEF). Normal EF is approximately 65%."
+      "rationale": "According to the 2017 CCS guidelines, an LVEF \u2264 40% is classified as heart failure with reduced ejection fraction (HFrEF), 41%\u201349% is mid-range (HFmEF), and \u2265 50% is preserved ejection fraction (HFpEF). Normal EF is approximately 65%."
     },
     {
       "id": "hf-mc-038",
@@ -525,10 +525,10 @@
       "topic": "Heart failure classifications",
       "prompt": "A patient with structural heart disease experiences marked limitation in normal physical activity; walking across the room causes fatigue and dyspnea, though the patient is comfortable at rest. Which New York Heart Association (NYHA) functional class describes this patient?",
       "options": [
-        "Class I",
-        "Class III",
-        "Class II",
-        "Class IV"
+        "NYHA Functional Class I",
+        "NYHA Functional Class III",
+        "NYHA Functional Class II",
+        "NYHA Functional Class IV"
       ],
       "answer": 1,
       "rationale": "NYHA Class III is characterized by a marked limitation in normal physical activity. Class I has no limitation, Class II has symptoms with ordinary physical activity, and Class IV has symptoms at rest or with any physical activity."
@@ -539,10 +539,10 @@
       "topic": "Pediatric heart failure",
       "prompt": "A nurse is assessing a 4-month-old infant admitted with heart failure secondary to a congenital septal defect. Which clinical manifestations are most characteristic of heart failure in an infant?",
       "options": [
-        "Dependent ankle edema when standing and jugular venous distension",
-        "Complaints of retrosternal chest pain radiating to the left jaw during play",
-        "Difficulty feeding, poor growth, diaphoresis, pallor, and tachypnea",
-        "Hypertensive retinopathy and intermittent claudication of the lower legs"
+        "Dependent ankle edema while upright, jugular venous distension, and orthopnea",
+        "Paroxysmal nocturnal dyspnea, dry hacking cough, and frothy pink-tinged sputum",
+        "Difficulty feeding, poor weight gain, diaphoresis during feeds, and tachypnea",
+        "Ascites, hepatosplenomegaly, bounding peripheral pulses, and sinus bradycardia"
       ],
       "answer": 2,
       "rationale": "In infants and young children, heart failure typically manifests as poor growth, feeding difficulties (reflux, vomiting, feeding refusal), diaphoresis, pallor, and tachypnea, most commonly caused by congenital heart defects."
@@ -553,27 +553,27 @@
       "topic": "Pediatric heart failure",
       "prompt": "A 6-year-old child weighing 22 kg is prescribed a single oral dose of digoxin elixir at 15 mcg/kg. How many milligrams of digoxin should the nurse administer?",
       "options": [
-        "330 mg",
         "3.3 mg",
+        "1.5 mg",
         "0.033 mg",
         "0.33 mg"
       ],
       "answer": 3,
-      "rationale": "Dose in micrograms = 15 mcg/kg × 22 kg = 330 mcg. Convert micrograms to milligrams by dividing by 1 000: 330 mcg ÷ 1 000 = 0.33 mg. Careful decimal placement prevents a lethal 10-fold dosing error."
+      "rationale": "Dose in micrograms = 15 mcg/kg \u00d7 22 kg = 330 mcg. Convert micrograms to milligrams by dividing by 1 000: 330 mcg \u00f7 1 000 = 0.33 mg. Careful decimal placement prevents a lethal 10-fold dosing error."
     },
     {
       "id": "hf-mc-041",
       "type": "multiple-choice",
       "topic": "Patient teaching in heart failure",
-      "prompt": "The nurse is providing discharge teaching to a patient with chronic heart failure regarding daily weight monitoring at home. Which weight change should the patient report to the health care provider immediately?",
+      "prompt": "The nurse is providing discharge teaching to a patient with chronic heart failure regarding daily weight monitoring at home. Which weight change should the patient report to the health care provider promptly?",
       "options": [
         "A weight gain of 1 kg or more in 24 hours, or 2 kg or more in 1 week",
-        "A weight loss of 0.2 kg over a 2-week period after starting furosemide",
-        "A weight fluctuation of 0.1 kg between morning and evening measurements",
-        "Only when weight gain exceeds 5 kg in a single month"
+        "A weight loss of 0.5 kg over 48 hours after starting loop diuretic therapy",
+        "A weight difference of 0.3 kg between morning and evening scale readings",
+        "A gradual weight gain of 1.5 kg over a 1-month period during winter months"
       ],
       "answer": 0,
-      "rationale": "Patients with heart failure should weigh themselves at the same time every morning in similar clothing and notify their health care provider immediately if they gain 1 kg or more in 24 hours or 2 kg or more in 1 week, as this indicates fluid retention and worsening heart failure."
+      "rationale": "Patients with heart failure should weigh themselves at the same time every morning in similar clothing and notify their health care provider if they gain 1 kg or more in 24 hours or 2 kg or more in 1 week, as this indicates fluid retention and worsening heart failure."
     },
     {
       "id": "hf-mc-042",
@@ -582,12 +582,12 @@
       "prompt": "Which underlying medical condition predisposes a patient to digoxin toxicity by delaying renal drug excretion, thereby requiring a lower digoxin dosage?",
       "options": [
         "Hyperthyroidism or gestational diabetes",
-        "Hypothyroidism or chronic kidney disease",
+        "Hypothyroidism or chronic kidney impairment",
         "Iron-deficiency anemia or osteoarthritis",
-        "Seasonal allergic rhinitis or migraine headaches"
+        "Seasonal allergic rhinitis or asthma"
       ],
       "answer": 1,
-      "rationale": "Digoxin is excreted almost exclusively via the kidneys. Patients with hypothyroidism, respiratory disease, kidney disease, or advanced age experience delayed renal drug excretion and require lower digoxin dosages to prevent toxicity."
+      "rationale": "Digoxin is excreted via the kidneys. Patients with hypothyroidism, respiratory disease, kidney disease, or advanced age experience delayed renal drug excretion and require lower digoxin dosages to prevent toxicity."
     },
     {
       "id": "hf-mc-043",
@@ -595,10 +595,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "A patient with heart failure is undergoing rapid intravenous digitalization in the intensive care unit. How does rapid digitalization compare with slow oral digitalization?",
       "options": [
-        "Slow digitalization requires continuous invasive arterial line monitoring because toxicity occurs within 5 minutes",
-        "Rapid digitalization is safer than slow digitalization and is routinely performed in outpatient clinics",
-        "Rapid digitalization achieves a faster onset for patients in acute distress, but toxicity can appear quickly",
-        "Rapid digitalization uses a smaller total dose and eliminates the need to check serum potassium levels"
+        "Slow digitalization requires inpatient telemetry because toxicity occurs within minutes",
+        "Rapid digitalization is safer than oral loading and is used in outpatient clinics",
+        "Rapid digitalization gives faster onset in acute distress, but toxicity can appear quickly",
+        "Rapid digitalization uses a lower total loading dose and avoids serum potassium checks"
       ],
       "answer": 2,
       "rationale": "Rapid digitalization is reserved for hospitalized patients in acute distress to achieve therapeutic levels quickly, requiring continuous cardiac monitoring because toxicities can appear rapidly due to high drug concentrations. Slow digitalization is safer and can be done on an outpatient basis with oral doses."
@@ -609,10 +609,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "A patient taking oral digoxin is prescribed cholestyramine for hyperlipidemia. How does cholestyramine interact with oral digoxin?",
       "options": [
-        "It blocks hepatic cytochrome P450 enzymes, prolonging digoxin's half-life to 14 days",
-        "It inhibits renal tubular secretion of digoxin, increasing serum digoxin levels by 50%",
-        "It sensitizes the myocardium to calcium, triggering immediate ventricular fibrillation",
-        "It binds digoxin in the gut and decreases its oral absorption, reducing the therapeutic effect"
+        "It inhibits hepatic cytochrome P450 enzymes and prolongs digoxin's elimination half-life",
+        "It competes for renal tubular secretion and increases serum digoxin levels by 50%",
+        "It displaces digoxin from plasma albumin binding sites and precipitates acute toxicity",
+        "It binds digoxin in the gastrointestinal tract and decreases its oral absorption"
       ],
       "answer": 3,
       "rationale": "Cholestyramine, colestipol, and sucralfate decrease the oral absorption of digoxin in the gastrointestinal tract, leading to reduced therapeutic effect."
@@ -623,13 +623,13 @@
       "topic": "Cardiac glycosides",
       "prompt": "The nurse is reviewing serum digoxin levels for two patients: Patient A has heart failure with reduced ejection fraction in normal sinus rhythm, and Patient B has rapid atrial fibrillation. According to the textbook and Canadian guidelines, how do their target serum digoxin ranges compare?",
       "options": [
-        "A lower target range (0.5–0.9 ng/mL) is recommended for heart failure, whereas higher levels (0.8–1.5 ng/mL) are targeted for atrial fibrillation",
-        "Heart failure requires toxic levels above 2.4 ng/mL, whereas atrial fibrillation requires levels below 0.2 ng/mL",
-        "Both conditions require serum digoxin levels between 5.0 and 10.0 ng/mL for therapeutic efficacy",
-        "Serum digoxin levels are only therapeutic when maintained above 3.0 ng/mL in older adults"
+        "Heart failure targets a lower range (0.5\u20130.9 ng/mL) than atrial fibrillation (0.8\u20131.5 ng/mL)",
+        "Heart failure requires higher levels (1.5\u20132.4 ng/mL) than atrial fibrillation (0.5\u20130.8 ng/mL)",
+        "Both conditions share an identical therapeutic target range of 1.2 to 2.2 ng/mL in adults",
+        "Atrial fibrillation requires subtherapeutic levels below 0.5 ng/mL to prevent heart block"
       ],
       "answer": 0,
-      "rationale": "For heart failure management, the Canadian Cardiovascular Society guidelines recommend lower target serum digoxin levels of 0.5–0.9 ng/mL (normal range 0.5–1 ng/mL or 0.8–2 ng/mL), whereas higher targets (0.8–1.5 ng/mL) are often needed to control ventricular rate in atrial fibrillation. Levels > 2.4 ng/mL often precipitate toxicity."
+      "rationale": "For heart failure management, the Canadian Cardiovascular Society guidelines recommend lower target serum digoxin levels of 0.5\u20130.9 ng/mL (normal range 0.5\u20131 ng/mL or 0.8\u20132 ng/mL), whereas higher targets (0.8\u20131.5 ng/mL) are often needed to control ventricular rate in atrial fibrillation. Levels > 2.4 ng/mL often precipitate toxicity."
     },
     {
       "id": "hf-mc-046",
@@ -637,10 +637,10 @@
       "topic": "Cardiac glycosides",
       "prompt": "In which cardiac condition is digoxin contraindicated because it can paradoxically increase the ventricular rate?",
       "options": [
-        "Sinus tachycardia secondary to systolic heart failure",
-        "Ventricular fibrillation",
-        "Chronic atrial flutter with reduced ejection fraction",
-        "Left ventricular systolic dysfunction (LVEF 30%)"
+        "Sinus tachycardia secondary to systolic dysfunction",
+        "Ventricular fibrillation or ventricular tachycardia",
+        "Atrial fibrillation with a rapid ventricular response",
+        "Paroxysmal atrial flutter with left ventricular dilation"
       ],
       "answer": 1,
       "rationale": "Digoxin is contraindicated in ventricular tachycardia and ventricular fibrillation; in ventricular fibrillation, digoxin use may actually increase the ventricular rate. Other contraindications include hypersensitivity, second- or third-degree AV block, and subaortic stenosis."
@@ -651,10 +651,10 @@
       "topic": "Heart failure pathophysiology",
       "prompt": "A nurse is caring for a patient with right ventricular heart failure. Which cluster of clinical findings is most consistent with right-sided heart failure rather than left-sided heart failure?",
       "options": [
-        "Paroxysmal nocturnal dyspnea, dry hacking cough, and severe hypoxemia",
-        "Bibasilar pulmonary crackles, orthopnea, and pink frothy sputum",
-        "Jugular venous distension, pedal edema, ascites, and hepatic congestion",
-        "Acute pulmonary edema and pleural effusions without peripheral swelling"
+        "Paroxysmal nocturnal dyspnea, dry hacking cough, and resting hypoxemia",
+        "Bibasilar pulmonary crackles, orthopnea, tachypnea, and pink frothy sputum",
+        "Jugular venous distension, dependent pedal edema, ascites, and hepatic congestion",
+        "Exertional dyspnea, pleural effusions, S3 gallop, and pulmonary venous engorgement"
       ],
       "answer": 2,
       "rationale": "Right ventricular heart failure causes increased hydrostatic pressure in the systemic venous circulation, leading to systemic venous congestion, jugular venous distension (JVD), pedal edema, ascites, and hepatic congestion. Left-sided heart failure causes pulmonary congestion ('left equals lung')."
@@ -665,10 +665,10 @@
       "topic": "Diastolic heart failure",
       "prompt": "A patient with chronic hypertension and left ventricular hypertrophy is diagnosed with heart failure due to diastolic dysfunction. Why are positive inotropic drugs like digoxin and milrinone generally avoided in isolated diastolic dysfunction?",
       "options": [
-        "Inotropic drugs cause immediate renal artery thrombosis in patients with ventricular hypertrophy",
-        "Positive inotropes permanently paralyze the left atrium in patients with chronic hypertension",
-        "Diastolic dysfunction occurs only when the left ventricular ejection fraction drops below 15%",
-        "The primary defect is a stiff ventricle with impaired relaxation and filling during diastole, not inadequate contractile force"
+        "Inotropic drugs accelerate adverse left atrial dilation and cause mitral valve prolapse",
+        "Positive inotropes selectively constrict the efferent renal arterioles in hypertensive patients",
+        "Diastolic dysfunction impairs sinoatrial node automaticity rather than myocardial relaxation",
+        "The primary defect is impaired ventricular relaxation and filling rather than weak contraction"
       ],
       "answer": 3,
       "rationale": "Diastolic dysfunction involves a stiff ventricle that cannot relax and fill normally during diastole (often secondary to left ventricular hypertrophy from chronic hypertension). Positive inotropes (digoxin, milrinone) increase contraction force and are not the drugs of choice for diastolic failure; diuretics are used for symptom relief in both types."
@@ -677,12 +677,12 @@
       "id": "hf-mc-049",
       "type": "multiple-choice",
       "topic": "Cardiac glycosides",
-      "prompt": "A patient with heart failure is prescribed oral digoxin and intravenous calcium gluconate. Why must the nurse monitor this patient with extreme caution?",
+      "prompt": "A patient with heart failure is prescribed oral digoxin and intravenous calcium gluconate. Why must the nurse monitor this patient with caution?",
       "options": [
-        "Hypercalcemia and parenteral calcium increase cardiac irritability and the risk of digoxin toxicity, bradycardia, and heart block",
-        "Parenteral calcium chelates digoxin in the bloodstream and renders it completely inactive",
-        "Calcium prevents the sodium–potassium ATPase pump from binding digoxin, causing hypotension",
-        "Combining calcium with digoxin causes acute thrombocytopenia within 30 minutes"
+        "Hypercalcemia increases cardiac irritability and the risk of digoxin-induced dysrhythmias",
+        "Parenteral calcium chelates circulating digoxin and neutralizes its positive inotropic action",
+        "Calcium competes with digoxin at renal tubules and doubles its urinary excretion rate",
+        "Elevated serum calcium blocks vagal stimulation and causes refractory sinus tachycardia"
       ],
       "answer": 0,
       "rationale": "Parenteral calcium and hypercalcemia increase cardiac irritability in patients taking digoxin, placing them at higher risk for digoxin toxicity, sinus bradycardia, dysrhythmias, and heart block."
@@ -693,10 +693,10 @@
       "topic": "Evaluation of heart failure therapy",
       "prompt": "A nurse is evaluating a patient 48 hours after initiating guideline-directed pharmacotherapy for acute heart failure. Which assessment finding best indicates a therapeutic response to the medications?",
       "options": [
-        "Weight gain of 1.5 kg over 24 hours with a heart rate of 118 beats/min",
-        "Increased urinary output, decreased lung crackles, and improved peripheral pulse strength",
-        "Development of a new third heart sound (S3) and cool, mottled extremities",
-        "Decreased urine output to 15 mL/hr and onset of paroxysmal nocturnal dyspnea"
+        "Weight gain of 1.2 kg over 24 hours with a resting heart rate of 112 beats/min",
+        "Increased urinary output, decreased lung crackles, and stronger peripheral pulses",
+        "Auscultation of a new S3 ventricular gallop with cool, pale lower extremities",
+        "Urine output of 20 mL/hr accompanied by orthopnea and jugular venous distension"
       ],
       "answer": 1,
       "rationale": "Therapeutic effects of heart failure medications include increased urinary output (diuresis), decreased peripheral edema, decreased dyspnea and pulmonary crackles, reduced fatigue, resolution of paroxysmal nocturnal dyspnea, and warm, pink extremities with strong peripheral pulses."
@@ -716,7 +716,7 @@
           ]
         }
       ],
-      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen–antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia."
+      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen\u2013antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia."
     },
     {
       "id": "hf-sa-002",
@@ -763,7 +763,7 @@
           ]
         }
       ],
-      "rationale": "Furosemide precipitates immediately upon contact with milrinone in intravenous lines and must always be administered through a separate line."
+      "rationale": "Furosemide precipitates upon contact with milrinone in intravenous lines and must be administered through a separate line."
     },
     {
       "id": "hf-sa-005",
@@ -781,7 +781,7 @@
           ]
         }
       ],
-      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium–potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias."
+      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium\u2013potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias."
     },
     {
       "id": "hf-sa-006",
@@ -844,32 +844,32 @@
             "type": "multiple-choice",
             "prompt": "The nurse performs an initial assessment on Arthur. His blood pressure is 98/62 mm Hg, respiratory rate is 18 breaths/min, and his 0800 dose of digoxin is due now. When the nurse auscultates his apical pulse for 1 full minute, the rate is 46 beats/min and irregular. What is the nurse's priority action?",
             "options": [
-              "Give half of the 0.25-mg digoxin tablet and encourage Arthur to drink a glass of milk",
-              "Administer the digoxin with ginger ale to settle his stomach and recheck his apical pulse in 1 hour",
-              "Withhold the digoxin dose, place Arthur on continuous ECG monitoring, and notify the health care provider",
-              "Administer his scheduled carvedilol and furosemide first, then reassess his vision at noon"
+              "Give half of the 0.25-mg digoxin tablet and recheck his apical pulse in 1 hour",
+              "Administer the digoxin with an antiemetic and obtain a 12-lead ECG at noon",
+              "Withhold the digoxin dose, initiate continuous ECG monitoring, and notify the provider",
+              "Administer his scheduled carvedilol and furosemide first, then reassess his pulse"
             ],
             "answer": 2,
-            "rationale": "Arthur is exhibiting classic clinical manifestations of digoxin toxicity (bradycardia with apical pulse < 60 beats/min, anorexia, dizziness, and yellow halo vision) precipitated by dehydration and gastrointestinal losses. The nurse must immediately withhold digoxin, initiate continuous ECG monitoring, and notify the prescriber."
+            "rationale": "Arthur is exhibiting classic clinical manifestations of digoxin toxicity (bradycardia with apical pulse < 60 beats/min, anorexia, dizziness, and yellow halo vision) precipitated by dehydration and gastrointestinal losses. The nurse must withhold digoxin, initiate continuous ECG monitoring, and notify the prescriber."
           }
         },
         {
-          "update": "The nurse withholds the digoxin and places Arthur on a cardiac monitor, which reveals second-degree atrioventricular (AV) block with frequent premature ventricular contractions. Statutory blood work returns: serum digoxin 3.1 ng/mL, serum potassium 2.8 mmol/L, serum magnesium 0.62 mmol/L, and serum creatinine 168 µmol/L (baseline 95 µmol/L).",
+          "update": "The nurse withholds the digoxin and places Arthur on a cardiac monitor, which reveals second-degree atrioventricular (AV) block with frequent premature ventricular contractions. Statutory blood work returns: serum digoxin 3.1 ng/mL, serum potassium 2.8 mmol/L, serum magnesium 0.62 mmol/L, and serum creatinine 168 \u00b5mol/L (baseline 95 \u00b5mol/L).",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which combination of factors in Arthur's history and laboratory findings directly precipitated his severe digoxin toxicity?",
             "options": [
-              "Subtherapeutic digoxin levels caused by poor intestinal absorption during diarrhea",
-              "Excessive dietary sodium intake combined with hypercalcemia from lisinopril therapy",
-              "Rapid hepatic metabolism of digoxin triggered by carvedilol and viral gastroenteritis",
-              "Hypokalemia, hypomagnesemia, and acute kidney impairment from dehydration and loop diuretic use"
+              "Reduced gastrointestinal digoxin absorption secondary to rapid intestinal transit",
+              "Hypercalcemia and hypernatremia induced by concurrent ACE inhibitor and beta blocker use",
+              "Impaired hepatic cytochrome P450 metabolism of digoxin triggered by viral illness",
+              "Hypokalemia, hypomagnesemia, and acute kidney injury from dehydration and furosemide"
             ],
             "answer": 3,
-            "rationale": "Digoxin is excreted almost exclusively by the kidneys; dehydration and declining kidney function (creatinine 168 µmol/L) caused digoxin accumulation (3.1 ng/mL; toxic > 2.4 ng/mL). Simultaneously, diarrhea and furosemide caused hypokalemia (2.8 mmol/L) and hypomagnesemia (0.62 mmol/L), which sensitize the myocardium to digoxin toxicity and dysrhythmias."
+            "rationale": "Digoxin is excreted via the kidneys; dehydration and declining kidney function (creatinine 168 \u00b5mol/L) caused digoxin accumulation (3.1 ng/mL; toxic > 2.4 ng/mL). Simultaneously, diarrhea and furosemide caused hypokalemia (2.8 mmol/L) and hypomagnesemia (0.62 mmol/L), which sensitize the myocardium to digoxin toxicity and dysrhythmias."
           }
         },
         {
-          "update": "While intravenous potassium and magnesium replacement is being prepared, Arthur's cardiac rhythm deteriorates into sustained ventricular tachycardia with a blood pressure of 68/40 mm Hg, and he becomes unresponsive to verbal stimuli. The health care provider orders immediate administration of the specific antidote for digoxin overdose.",
+          "update": "While intravenous potassium and magnesium replacement is being prepared, Arthur's cardiac rhythm deteriorates into sustained ventricular tachycardia with a blood pressure of 68/40 mm Hg, and he becomes unresponsive to verbal stimuli. The health care provider orders administration of the specific antidote for digoxin overdose.",
           "question": {
             "type": "short-answer",
             "prompt": "What is the generic name of the antidote the nurse will prepare and administer intravenously to reverse Arthur's life-threatening digoxin cardiotoxicity?",
@@ -883,7 +883,7 @@
                 ]
               }
             ],
-            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen–antibody complex."
+            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen\u2013antibody complex."
           }
         },
         {
@@ -892,13 +892,13 @@
             "type": "multiple-choice",
             "prompt": "Which nursing action is appropriate during the post-reversal monitoring phase following digoxin immune Fab administration?",
             "options": [
-              "Monitor clinical signs, ECG, and serum potassium for hypokalemia, recognizing total serum digoxin levels remain elevated for days to weeks",
-              "Request another dose of digoxin immune Fab immediately because the serum digoxin level rose to 8.4 ng/mL",
-              "Administer sodium polystyrene sulfonate to lower his potassium level below 2.5 mmol/L",
-              "Resume oral digoxin at 0.5 mg daily now that his heart rate is above 60 beats/min"
+              "Monitor clinical signs, ECG, and potassium levels, as total digoxin assays stay elevated",
+              "Administer a repeat dose of digoxin immune Fab because the digoxin level rose to 8.4 ng/mL",
+              "Give oral sodium polystyrene sulfonate to prevent rebound hyperkalemia after antidote therapy",
+              "Restart oral digoxin at 0.125 mg daily now that his sinus rhythm and blood pressure are stable"
             ],
             "answer": 0,
-            "rationale": "After digoxin immune Fab is given, total serum digoxin assays measure both bound and free digoxin and remain falsely elevated for days to weeks; thus, clinical findings and ECG—not serum digoxin levels—guide monitoring. Additionally, as Na+/K+ ATPase pump function is restored, potassium shifts back into cells, requiring close monitoring for hypokalemia (muscle weakness, cramping, irregular rhythms)."
+            "rationale": "After digoxin immune Fab is given, total serum digoxin assays measure both bound and free digoxin and remain elevated for days to weeks; thus, clinical findings and ECG\u2014not serum digoxin levels\u2014guide monitoring. Additionally, as Na+/K+ ATPase pump function is restored, potassium shifts back into cells, requiring close monitoring for hypokalemia (muscle weakness, cramping, irregular rhythms)."
           }
         }
       ]
@@ -923,22 +923,22 @@
                 ]
               }
             ],
-            "rationale": "Loading dose = 50 mcg/kg × 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg ÷ 1 000 = 3 mg."
+            "rationale": "Loading dose = 50 mcg/kg \u00d7 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg \u00f7 1 000 = 3 mg."
           }
         },
         {
-          "update": "The milrinone loading dose is completed and the continuous infusion is running via an infusion pump through Evelyn's right internal jugular central venous catheter. Thirty minutes later, the intensivist prescribes furosemide 40 mg IV × 1 dose now to relieve her pulmonary congestion.",
+          "update": "The milrinone loading dose is completed and the continuous infusion is running via an infusion pump through Evelyn's right internal jugular central venous catheter. Thirty minutes later, the intensivist prescribes furosemide 40 mg IV \u00d7 1 dose now to relieve her pulmonary congestion.",
           "question": {
             "type": "multiple-choice",
             "prompt": "How must the nurse administer the intravenous furosemide to ensure patient safety?",
             "options": [
-              "Inject the furosemide directly into the proximal Y-port of the tubing infusing the milrinone",
-              "Administer the furosemide through a separate compatible IV line because it precipitates immediately upon contact with milrinone",
-              "Add the 40 mg of furosemide directly into the milrinone IV bag to provide continuous diuresis",
-              "Withhold the furosemide because loop diuretics cannot be given to patients with pulmonary edema"
+              "Inject the furosemide slowly into the proximal Y-port of the milrinone infusion line",
+              "Administer the furosemide via a separate IV line to prevent chemical precipitation",
+              "Dilute the furosemide in the milrinone infusion bag to provide continuous diuresis",
+              "Hold the milrinone infusion for 5 minutes while pushing furosemide through the lumen"
             ],
             "answer": 1,
-            "rationale": "Furosemide must never be injected into an intravenous line containing milrinone because an immediate chemical precipitate forms. The nurse must use a separate dedicated IV line or lumen."
+            "rationale": "Furosemide must not be injected into an intravenous line containing milrinone because a chemical precipitate forms on contact. The nurse must use a separate dedicated IV line or lumen."
           }
         },
         {
@@ -947,25 +947,25 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's priority action in response to Evelyn's hypotension and ventricular dysrhythmia?",
             "options": [
-              "Administer a rapid IV bolus of digoxin immune Fab to neutralize the milrinone",
-              "Increase the milrinone infusion to 0.75 mcg/kg/min to boost blood pressure via vasoconstriction",
-              "Temporarily discontinue or reduce the milrinone infusion rate and notify the prescriber immediately",
-              "Document the findings as expected therapeutic effects of phosphodiesterase inhibition"
+              "Administer intravenous digoxin immune Fab to neutralize the circulating milrinone",
+              "Increase the milrinone infusion to 0.75 mcg/kg/min to augment systemic blood pressure",
+              "Reduce or temporarily stop the milrinone infusion and notify the prescriber promptly",
+              "Administer intravenous metoprolol to suppress the ectopy while continuing milrinone"
             ],
             "answer": 2,
-            "rationale": "Ventricular dysrhythmias (occurring in ~12% of patients) and hypotension secondary to vasodilation (especially when combined with diuretic-induced hypovolemia) are major adverse effects of milrinone. Because there is no specific antidote, the nurse should reduce or temporarily stop the infusion and contact the prescriber immediately."
+            "rationale": "Ventricular dysrhythmias (occurring in ~12% of patients) and hypotension secondary to vasodilation (especially when combined with diuretic-induced hypovolemia) are major adverse effects of milrinone. Because there is no specific antidote, the nurse should reduce or temporarily stop the infusion and contact the prescriber."
           }
         },
         {
-          "update": "The milrinone rate is reduced, normal saline bolus is given cautiously, and stat blood work is drawn. Results show: serum potassium 3.0 mmol/L, platelets 92 × 10^9/L (down from 185 × 10^9/L on admission), AST 68 U/L, and ALT 74 U/L.",
+          "update": "The milrinone rate is reduced, normal saline bolus is given cautiously, and stat blood work is drawn. Results show: serum potassium 3.0 mmol/L, platelets 92 \u00d7 10^9/L (down from 185 \u00d7 10^9/L on admission), AST 68 U/L, and ALT 74 U/L.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which statement accurately explains the laboratory abnormalities observed during Evelyn's milrinone therapy?",
             "options": [
-              "Platelet counts below 100 × 10^9/L confirm that Evelyn has developed an allergy to sheep protein",
-              "Milrinone directly stimulates bone marrow megakaryocytes, so low platelets indicate a laboratory error",
-              "Hyperkalemia is the only electrolyte disturbance caused by milrinone, so potassium replacement should be withheld",
-              "Milrinone and loop diuretics can cause hypokalemia, which exacerbates dysrhythmias, and milrinone is also associated with thrombocytopenia and elevated liver enzymes"
+              "Low platelets and elevated transaminases indicate an acute allergic reaction to sheep protein",
+              "Milrinone causes pseudothrombocytopenia and hyperkalemia by binding to EDTA collection tubes",
+              "Elevated transaminases and low potassium are expected therapeutic markers of cAMP inhibition",
+              "Milrinone and loop diuretics cause hypokalemia, and milrinone can cause thrombocytopenia"
             ],
             "answer": 3,
             "rationale": "Adverse effects of milrinone include ventricular dysrhythmias, hypotension, hypokalemia (worsened by concurrent loop diuretics), thrombocytopenia, headache, tremor, and elevated liver enzyme levels. Hypokalemia must be reported and corrected promptly to reduce dysrhythmia risk."
@@ -978,17 +978,17 @@
       "type": "case-study",
       "title": "First-Line Heart Failure Pharmacotherapy and Managing ACE Inhibitor Cough",
       "topic": "ACE inhibitors, ARBs, beta blockers, and aldosterone antagonists",
-      "scenario": "Adeep Dhaliwal, a 61-year-old accountant with a history of anterior myocardial infarction and hypertension, is diagnosed with chronic heart failure with reduced ejection fraction (LVEF 36%, NYHA Class II). He reports fatigue and shortness of breath when climbing a flight of stairs. His vital signs are BP 138/86 mm Hg, HR 84 beats/min, and RR 16 breaths/min. Baseline labs show serum potassium 4.3 mmol/L and serum creatinine 88 µmol/L. The cardiologist initiates lisinopril 5 mg PO daily, metoprolol tartrate 25 mg PO twice daily, and furosemide 20 mg PO daily.",
+      "scenario": "Adeep Dhaliwal, a 61-year-old accountant with a history of anterior myocardial infarction and hypertension, is diagnosed with chronic heart failure with reduced ejection fraction (LVEF 36%, NYHA Class II). He reports fatigue and shortness of breath when climbing a flight of stairs. His vital signs are BP 138/86 mm Hg, HR 84 beats/min, and RR 16 breaths/min. Baseline labs show serum potassium 4.3 mmol/L and serum creatinine 88 \u00b5mol/L. The cardiologist initiates lisinopril 5 mg PO daily, metoprolol tartrate 25 mg PO twice daily, and furosemide 20 mg PO daily.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Adeep asks why he is being started on lisinopril and metoprolol first instead of digoxin, which his father took for heart failure years ago. Which response by the nurse is best?",
             "options": [
-              "ACE inhibitors and specific beta blockers are first-line therapies that preserve left ventricular function, delay remodeling, and reduce mortality, whereas digoxin is added later only if symptoms persist",
-              "Digoxin was permanently removed from the Canadian market because it causes acute liver failure",
-              "Lisinopril and metoprolol are positive inotropes that make the heart squeeze harder with every beat",
-              "Beta blockers are only used for 1 week to cure heart failure, after which no medications are needed"
+              "ACE inhibitors and beta blockers slow remodeling and reduce mortality, whereas digoxin is an adjunct",
+              "Digoxin is reserved for acute inpatient pulmonary edema and is rarely prescribed for outpatient care",
+              "Lisinopril and metoprolol act as positive inotropes that directly increase intracellular calcium levels",
+              "Beta blockers and ACE inhibitors reverse systolic dysfunction within 6 months so therapy can stop"
             ],
             "answer": 0,
             "rationale": "According to the 2017 Canadian Cardiovascular Society guidelines, ACE inhibitors (e.g., lisinopril) and beta blockers (e.g., metoprolol, bisoprolol, carvedilol) are the drugs of choice at the start of therapy to delay or reverse adverse left ventricular remodeling and reduce mortality. Digoxin does not reduce mortality and is reserved as an adjunct if moderate-to-severe symptoms persist."
@@ -1000,25 +1000,25 @@
             "type": "multiple-choice",
             "prompt": "How should the nurse interpret Adeep's dry cough and anticipate changes to his medication regimen?",
             "options": [
-              "Call an ambulance immediately because a dry cough with clear lungs indicates life-threatening pulmonary embolism",
-              "Reassure him that lisinopril causes a harmless bradykinin-mediated dry cough and anticipate switching him to an ARB such as valsartan",
-              "Instruct him to stop taking metoprolol immediately because cardioselective beta blockers cause kinin accumulation",
-              "Advise him to double his furosemide dose because a dry cough without crackles or weight gain is always pulmonary edema"
+              "Refer him to the emergency department to rule out acute decompensated pulmonary edema",
+              "Explain that lisinopril causes a bradykinin cough and anticipate switching to valsartan",
+              "Advise him to hold his metoprolol dose because beta-1 blockade causes bronchial irritation",
+              "Instruct him to double his daily furosemide dose to clear subclinical alveolar fluid"
             ],
             "answer": 1,
             "rationale": "ACE inhibitors like lisinopril commonly cause a dry, nonproductive cough due to accumulation of insoluble bradykinins in the bronchial tubes. In the absence of fluid overload (clear lungs, stable weight), the nurse should reassure the patient and contact the prescriber to consider switching to an angiotensin II receptor blocker (ARB) such as valsartan."
           }
         },
         {
-          "update": "Adeep is switched from lisinopril to valsartan 80 mg PO twice daily, and his dry cough resolves completely. One year later, his heart failure progresses to NYHA Class III, and the cardiologist adds spironolactone 25 mg PO daily and recommends an over-the-counter adjunctive natural health product endorsed by Canadian guidelines.",
+          "update": "Adeep is switched from lisinopril to valsartan 80 mg PO twice daily, and his dry cough resolves. One year later, his heart failure progresses to NYHA Class III, and the cardiologist adds spironolactone 25 mg PO daily and recommends an over-the-counter adjunctive natural health product endorsed by Canadian guidelines.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Now that spironolactone has been added to Adeep's regimen with valsartan, which laboratory value and dietary teaching require priority nursing attention?",
             "options": [
-              "Monitor serum digoxin levels daily because spironolactone converts valsartan into digoxin",
-              "Encourage a diet high in bananas, oranges, and potassium chloride tablets to prevent spironolactone-induced hypokalemia",
-              "Monitor serum potassium closely for hyperkalemia and caution against potassium supplements or high-potassium salt substitutes",
-              "Instruct him to take spironolactone with ice cream and yogurt within 30 minutes of his other heart failure medications"
+              "Check serum digoxin troughs weekly because spironolactone cross-reacts with valsartan",
+              "Encourage daily potassium supplements and bananas to prevent aldosterone-induced hypokalemia",
+              "Monitor serum potassium for hyperkalemia and caution against potassium supplements",
+              "Instruct him to take spironolactone with dairy products within 1 hour of his other medications"
             ],
             "answer": 2,
             "rationale": "Spironolactone is an aldosterone antagonist and potassium-sparing diuretic. Combining it with an ARB (valsartan) or ACE inhibitor increases the risk of hyperkalemia; therefore, serum potassium and kidney function must be monitored closely, and potassium supplements should be avoided unless specifically ordered."
@@ -1043,7 +1043,7 @@
                 ]
               }
             ],
-            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850–882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure."
+            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850\u2013882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure."
           }
         }
       ]
@@ -1068,7 +1068,7 @@
                 ]
               }
             ],
-            "rationale": "Total digitalizing dose = 30 mcg/kg × 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg ÷ 3 = 80 mcg (0.08 mg) per dose."
+            "rationale": "Total digitalizing dose = 30 mcg/kg \u00d7 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg \u00f7 3 = 80 mcg (0.08 mg) per dose."
           }
         },
         {
@@ -1077,28 +1077,28 @@
             "type": "multiple-choice",
             "prompt": "Why is strict adherence to decimal point rules and independent double-checks essential when calculating and administering digoxin in pediatric patients?",
             "options": [
-              "Decimal errors only affect intravenous medications and have no clinical impact on oral elixirs",
-              "Pediatric patients metabolize digoxin 10 times faster than adults, so 10-fold doses are needed routinely",
-              "Oral digoxin elixir is completely unabsorbed in infants unless mixed with 16 mL of wheat bran",
-              "Digoxin has a narrow therapeutic index, and a one-decimal-point placement error results in a potentially fatal 10-fold dosage error"
+              "Decimal errors are mainly a concern with intravenous infusions rather than oral elixirs",
+              "Infants clear digoxin rapidly through the liver, requiring frequent 10-fold dose adjustments",
+              "Oral digoxin elixir has low bioavailability unless diluted in a full bottle of infant formula",
+              "Digoxin has a narrow therapeutic index, and a decimal placement error causes a 10-fold overdose"
             ],
             "answer": 3,
             "rationale": "Digoxin has a very narrow therapeutic index. As highlighted in the textbook's Special Populations: Children and Preventing Medication Errors boxes, a one-decimal-point placement error results in a 10-fold dosage error (and omitting a leading zero can cause a 100-fold error), which can be fatal."
           }
         },
         {
-          "update": "Maya receives the correct 80-mcg doses and is transitioned to a daily maintenance dose of digoxin and furosemide. On day 4 of hospitalization, Maya refuses her morning bottle, vomits twice, and her apical heart rate drops to 78 beats/min (normal for an awake 8-month-old infant is 100–160 beats/min).",
+          "update": "Maya receives the correct 80-mcg doses and is transitioned to a daily maintenance dose of digoxin and furosemide. On day 4 of hospitalization, Maya refuses her morning bottle, vomits twice, and her apical heart rate drops to 78 beats/min (normal for an awake 8-month-old infant is 100\u2013160 beats/min).",
           "question": {
             "type": "multiple-choice",
             "prompt": "How should the nurse interpret Maya's new clinical findings?",
             "options": [
-              "Vomiting, feeding refusal/anorexia, and bradycardia are classic manifestations of digoxin toxicity in children; withhold the dose and notify the prescriber",
-              "The drop in heart rate and vomiting indicate that her ventricular septal defect has spontaneously closed",
-              "Infants normally develop bradycardia and vomiting when heart failure improves; administer the digoxin as scheduled",
-              "Give a double dose of furosemide immediately to flush the excess formula from her stomach"
+              "Withhold the digoxin and notify the provider, as vomiting and bradycardia indicate toxicity",
+              "Document the heart rate of 78 beats/min as an expected therapeutic response to digitalization",
+              "Administer the digoxin with oral electrolyte solution and recheck her apical pulse in 2 hours",
+              "Give an extra dose of oral furosemide to relieve gastric venous congestion and stop the vomiting"
             ],
             "answer": 0,
-            "rationale": "In infants and children, digoxin toxicity is manifested by nausea, vomiting, anorexia (feeding refusal), bradycardia, and dysrhythmias. The nurse must withhold the digoxin and notify the health care provider immediately."
+            "rationale": "In infants and children, digoxin toxicity is manifested by nausea, vomiting, anorexia (feeding refusal), bradycardia, and dysrhythmias. The nurse must withhold the digoxin and notify the health care provider."
           }
         },
         {
@@ -1107,13 +1107,13 @@
             "type": "multiple-choice",
             "prompt": "Which statement by Maya's parents indicates an accurate understanding of home care and when to contact the health care provider?",
             "options": [
-              "If Maya vomits right after we give the digoxin, we should immediately give her a second full dose to make sure she gets enough.",
-              "We will contact the doctor immediately if Maya gains 1 kg or more in 24 hours, seems unusually tired, vomits, or has breathing distress.",
-              "We will mix her digoxin elixir into a full 240-mL bottle of milk and let her sip on it over 6 hours.",
-              "Once Maya starts looking more energetic next week, we can stop giving the digoxin and furosemide on our own."
+              "If Maya vomits within 30 minutes of a digoxin dose, we will give a repeat dose right away.",
+              "We will call the doctor if Maya gains 1 kg in 24 hours, vomits, or has trouble breathing.",
+              "We will mix her digoxin elixir into a full bottle of milk so she can sip it over the afternoon.",
+              "Once Maya is feeding well without sweating next week, we can taper off her digoxin at home."
             ],
             "answer": 1,
-            "rationale": "Parents should be taught to notify the health care provider immediately if fatigue, sudden weight gain (1 kg or more in 24 hours), palpitations, tachycardia or bradycardia, vomiting, or respiratory distress develop or worsen. Doses should never be repeated or doubled without consulting the provider, and heart failure medications must never be stopped abruptly."
+            "rationale": "Parents should be taught to notify the health care provider if fatigue, sudden weight gain (1 kg or more in 24 hours), palpitations, tachycardia or bradycardia, vomiting, or respiratory distress develop or worsen. Doses should not be repeated or doubled without consulting the provider, and heart failure medications must not be stopped abruptly."
           }
         }
       ]
@@ -1130,13 +1130,13 @@
             "type": "multiple-choice",
             "prompt": "After administering the first dose of hydralazine and isosorbide dinitrate at 0800, what is the priority nursing assessment and safety intervention over the next 1 to 2 hours?",
             "options": [
-              "Restrict fluid intake to zero and prepare to administer digoxin immune Fab if his heart rate exceeds 70 beats/min",
-              "Check his visual fields every 15 minutes for yellow-green halos because hydralazine is a cardiac glycoside",
-              "Monitor blood pressure closely and assist Marcus when changing positions because peak levels occur in 1 hour and carry a high risk of syncope",
-              "Instruct Marcus to jog in the hallway 1 hour after the dose to test his exercise tolerance"
+              "Maintain strict fluid restriction and prepare digoxin immune Fab in case tachycardia develops",
+              "Assess colour vision hourly for yellow-green halos as peak plasma levels are reached",
+              "Monitor blood pressure closely and assist with position changes due to the risk of syncope",
+              "Encourage brisk ambulation in the hallway 1 hour after dosing to evaluate exercise tolerance"
             ],
             "answer": 2,
-            "rationale": "Hydralazine and isosorbide dinitrate are specifically recommended for Black patients with heart failure and achieve peak plasma levels in 1 hour. They must be used with extreme caution—especially with the first few doses—because of the risk of hypotension and syncope. If syncope occurs, the drug is usually discontinued."
+            "rationale": "Hydralazine and isosorbide dinitrate are specifically recommended for Black patients with heart failure and achieve peak plasma levels in 1 hour. They must be used with caution\u2014especially with the first few doses\u2014because of the risk of hypotension and syncope. If syncope occurs, the drug is usually discontinued."
           }
         },
         {
@@ -1145,10 +1145,10 @@
             "type": "multiple-choice",
             "prompt": "Why is the nitroglycerin transdermal patch ordered to be applied in the morning and removed at night (every 12 hours), and what is its therapeutic effect in acute heart failure?",
             "options": [
-              "Removing the patch at night increases nocturnal pulmonary congestion to stimulate natural aldosterone secretion",
-              "Nitroglycerin is a positive inotrope that inhibits the Na+/K+ ATPase pump, and removing it at night prevents yellow halo vision",
-              "The patch only contains enough medication for 12 hours and causes severe hyperkalemia if left on overnight",
-              "Nitroglycerin is a vasodilator that reduces preload and myocardial workload, and a nightly patch-free interval prevents nitrate tolerance"
+              "Removing the patch at night allows nocturnal venous pooling to stimulate endogenous natriuresis",
+              "Nitroglycerin increases contractility via cAMP, and nighttime removal prevents ventricular ectopy",
+              "The transdermal reservoir is exhausted after 12 hours and causes rebound hypertension if kept on",
+              "Nitroglycerin dilates vessels to reduce preload, and a patch-free interval prevents tolerance"
             ],
             "answer": 3,
             "rationale": "Transdermal nitroglycerin acts as a vasodilator in acute and chronic heart failure to decrease venous return (preload) and reduce the workload of the heart. Removing the patch at night provides a 10- to 12-hour nitrate-free interval to prevent tolerance."
@@ -1160,13 +1160,13 @@
             "type": "multiple-choice",
             "prompt": "Before and during the continuous intravenous infusion of dobutamine, which nursing assessment and understanding of the drug's mechanism is accurate?",
             "options": [
-              "Assess IV site/vein status closely and monitor for improved cardiac output as dobutamine stimulates beta-1 receptors to increase contractility",
-              "Administer dobutamine orally with meals to prevent vein irritation and block alpha-2 receptors in the brainstem",
-              "Expect the heart rate to drop below 45 beats/min because dobutamine is a potent negative chronotropic and negative dromotropic agent",
-              "Mix dobutamine in the same syringe with oral carvedilol to prevent catecholamine stimulation of the myocardium"
+              "Assess IV vein status closely and monitor for improved output from beta-1 receptor stimulation",
+              "Transition dobutamine to an oral tablet once blood pressure exceeds 100/60 mm Hg for 2 hours",
+              "Expect the heart rate to decrease below 55 beats/min due to dobutamine's negative chronotropic action",
+              "Infuse dobutamine through the same lumen as intravenous sodium bicarbonate to prevent phlebitis"
             ],
             "answer": 0,
-            "rationale": "Dobutamine hydrochloride is a beta-1-selective adrenergic agonist given only by continuous intravenous infusion for hemodynamically unstable acute decompensated heart failure. Assessing the status of the patient's veins is essential, and therapeutic evaluation focuses on improved contractility, stroke volume, peripheral pulses, skin warmth, and urine output."
+            "rationale": "Dobutamine hydrochloride is a beta-1-selective adrenergic agonist given by continuous intravenous infusion for hemodynamically unstable acute decompensated heart failure. Assessing the status of the patient's veins is essential, and therapeutic evaluation focuses on improved contractility, stroke volume, peripheral pulses, skin warmth, and urine output."
           }
         },
         {
@@ -1175,13 +1175,13 @@
             "type": "multiple-choice",
             "prompt": "Which statement by Marcus during discharge teaching indicates that he understands his home medication and self-care regimen?",
             "options": [
-              "If my radial pulse is 52 beats/min or 126 beats/min, I should take two digoxin tablets to regulate my heartbeat before calling the clinic.",
-              "I will weigh myself every morning in the same amount of clothing, check my radial pulse for a full minute before taking digoxin, and avoid bran or antacids within 2 hours of my pills.",
-              "I will eat a big bowl of bran cereal and yogurt with my morning heart failure pills so they absorb faster into my bloodstream.",
-              "Once my ankle swelling is completely gone for 3 days, I can stop taking my carvedilol and lisinopril without calling my doctor."
+              "If my radial pulse is below 60 or above 120 beats/min, I will take an extra half-tablet of digoxin.",
+              "I will weigh myself daily, check my pulse for 1 minute, and avoid bran or dairy near dosing times.",
+              "I will take my morning digoxin with wheat bran cereal and yogurt to prevent stomach irritation.",
+              "If I miss my morning digoxin by more than 12 hours, I will take two tablets the following morning."
             ],
             "answer": 1,
-            "rationale": "Discharge teaching for heart failure includes measuring daily morning weights in similar clothing, checking the radial pulse for 1 full minute before digoxin (contacting the provider if < 60 bpm, erratic, or ≥ 120 bpm), never stopping medications abruptly, and avoiding antacids, dairy products (milk, ice cream, yogurt, cheese), or bran within 2 hours before or after oral heart failure medications."
+            "rationale": "Discharge teaching for heart failure includes measuring daily morning weights in similar clothing, checking the radial pulse for 1 full minute before digoxin (contacting the provider if < 60 bpm, erratic, or \u2265 120 bpm), not stopping medications abruptly, and avoiding antacids, dairy products (milk, ice cream, yogurt, cheese), or bran within 2 hours before or after oral heart failure medications."
           }
         }
       ]

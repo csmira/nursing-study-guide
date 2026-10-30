@@ -7,10 +7,10 @@
       "topic": "Rapid-Acting Insulins",
       "prompt": "A hospitalized patient with type 1 diabetes is prescribed subcutaneous insulin lispro (Humalog) before breakfast. When should the nurse administer this medication?",
       "options": [
-        "Within 15 minutes before the meal tray arrives and is ready to be eaten",
-        "Approximately 45 to 60 minutes prior to the scheduled morning meal",
-        "Immediately upon awakening, regardless of when breakfast is served",
-        "Thirty minutes after the patient finishes consuming the entire meal"
+        "Within 15 minutes before the morning meal is eaten",
+        "Roughly 30 to 45 minutes before breakfast arrives",
+        "Up to 60 minutes prior to the scheduled mealtime",
+        "Thirty minutes after the patient finishes breakfast"
       ],
       "answer": 0,
       "rationale": "Rapid-acting insulins such as insulin lispro, insulin aspart, and insulin glulisine have an onset of action of 10 to 15 minutes and must be given within 15 minutes of a meal with food present to prevent profound hypoglycemia. Regular insulin is given 30 minutes before meals."
@@ -35,10 +35,10 @@
       "topic": "Insulin Administration and Mixing",
       "prompt": "The nurse is preparing to mix 6 units of regular insulin and 14 units of NPH insulin in the same syringe. Which sequence of steps is correct?",
       "options": [
-        "Inject 6 units of air into regular, inject 14 units of air into NPH, withdraw NPH, then withdraw regular",
-        "Inject 14 units of air into NPH, inject 6 units of air into regular, withdraw NPH, then withdraw regular",
-        "Inject 14 units of air into NPH, inject 6 units of air into regular, withdraw regular, then withdraw NPH",
-        "Shake both vials vigorously, withdraw 6 units of regular, then withdraw 14 units of NPH without injecting air"
+        "Inject 6 units of air into regular, 14 units into NPH, withdraw NPH, then withdraw regular",
+        "Inject 14 units of air into NPH, 6 units into regular, withdraw NPH, then withdraw regular",
+        "Inject 14 units of air into NPH, 6 units into regular, withdraw regular, then withdraw NPH",
+        "Inject 6 units of air into regular, 14 units into NPH, withdraw regular, then withdraw NPH"
       ],
       "answer": 2,
       "rationale": "When mixing insulins, air is injected into the cloudy intermediate-acting (NPH) vial first, then into the clear short- or rapid-acting (regular) vial, after which the clear unmodified regular insulin is withdrawn before the cloudy modified NPH insulin ('clear before cloudy'). This prevents protamine in NPH from contaminating the regular insulin vial and altering its onset of action."
@@ -49,10 +49,10 @@
       "topic": "Long-Acting Insulins",
       "prompt": "A nurse is preparing to administer a patient's morning medications and sees orders for both insulin glargine (Lantus) 20 units subcut and insulin lispro (Humalog) 8 units subcut at 0800. How should the nurse proceed?",
       "options": [
-        "Draw up the insulin lispro first and then draw up the insulin glargine into the same syringe",
-        "Mix the two insulins in one syringe and administer within 5 minutes to prevent binding",
-        "Hold the insulin glargine until bedtime because it cannot be given in the morning",
-        "Administer the two insulins in two separate syringes at different subcutaneous injection sites"
+        "Draw up the insulin lispro first and then draw up the insulin glargine into one syringe",
+        "Draw up the insulin glargine first and then draw up the insulin lispro into one syringe",
+        "Withhold the morning insulin glargine and reschedule the basal dose for 2100 at bedtime",
+        "Administer the two insulins in separate syringes at different subcutaneous sites"
       ],
       "answer": 3,
       "rationale": "Insulin glargine has an acidic diluent (pH of 4) that forms microprecipitates in subcutaneous tissue (pH 7.4) for slow 24-hour release. Mixing it with any other insulin alters its pH and pharmacokinetic profile, so it must always be given alone."
@@ -63,13 +63,13 @@
       "topic": "Insulin Pharmacokinetics",
       "prompt": "A patient receives subcutaneous NPH insulin (Humulin N) at 0730 before breakfast. At which time interval should the nurse monitor the patient most closely for a hypoglycemic reaction?",
       "options": [
-        "Between 0745 and 0830",
-        "Between 1130 and 1730",
-        "Between 0930 and 1030",
+        "Between 0745 and 0845 during breakfast",
+        "Between 1130 and 1730 in the afternoon",
+        "Between 0830 and 1030 in the midmorning",
         "Between 2130 and 0330 the next morning"
       ],
       "answer": 1,
-      "rationale": "NPH insulin is an intermediate-acting insulin with an onset of 2 to 4 hours, a peak effect at 4 to 10 hours, and a duration of 12 to 18 hours. Administered at 0730, its peak action—when hypoglycemia risk is highest—occurs between 1130 and 1730."
+      "rationale": "NPH insulin is an intermediate-acting insulin with an onset of 2 to 4 hours, a peak effect at 4 to 10 hours, and a duration of 12 to 18 hours. Administered at 0730, its peak action\u2014when hypoglycemia risk is highest\u2014occurs between 1130 and 1730."
     },
     {
       "id": "dm-mc-006",
@@ -77,10 +77,10 @@
       "topic": "Long-Acting Insulins",
       "prompt": "Why does insulin glargine (Lantus) carry a lower risk of nocturnal hypoglycemia compared with NPH insulin?",
       "options": [
-        "It provides a steady, continuous basal level of insulin over 20 to 24 hours without a pronounced peak",
-        "It is rapidly cleared by the liver before midnight so plasma insulin levels drop overnight",
-        "It stimulates alpha-cells in the pancreas to secrete glucagon whenever blood glucose falls below 4 mmol/L",
-        "It only activates insulin receptors when dietary carbohydrates are absorbed from the small intestine"
+        "It provides a steady basal level of insulin over 24 hours without a peak",
+        "It undergoes rapid hepatic clearance before midnight as blood glucose falls",
+        "It stimulates pancreatic alpha-cells to release glucagon during sleep",
+        "It binds selectively to peripheral insulin receptors after meals"
       ],
       "answer": 0,
       "rationale": "Insulin glargine has an onset of 2 to 4 hours, no peak plasma concentration, and a duration of 20 to 24 hours. Because it lacks a pronounced peak, blood insulin levels remain constant, reducing the risk of hypoglycemic episodes compared with peaking insulins like NPH."
@@ -91,10 +91,10 @@
       "topic": "Long-Acting Insulins Dosing Conversion",
       "prompt": "A patient with type 2 diabetes is being switched from twice-daily NPH insulin (20 units in the morning and 20 units at bedtime, total 40 units/day) to once-daily insulin glargine (Lantus). Based on standard dosing guidelines, what initial daily dose of insulin glargine should the nurse anticipate?",
       "options": [
-        "40 units once daily",
-        "46 units once daily",
-        "32 units once daily",
-        "20 units once daily"
+        "40 units subcutaneously once daily",
+        "46 units subcutaneously once daily",
+        "32 units subcutaneously once daily",
+        "20 units subcutaneously once daily"
       ],
       "answer": 2,
       "rationale": "When switching a patient from twice-daily NPH insulin to once-daily insulin glargine, the initial daily glargine dose is typically reduced to 80% of the previous total daily NPH dose to minimize the risk of hypoglycemia (80% of 40 units = 32 units)."
@@ -105,10 +105,10 @@
       "topic": "Concentrated Long-Acting Insulins",
       "prompt": "A patient's basal insulin prescription is changed from insulin glargine 100 units/mL (Lantus) to insulin glargine 300 units/mL (Toujeo SoloStar). Which teaching point is accurate regarding Toujeo?",
       "options": [
-        "It must be drawn out of the prefilled pen using a standard U-100 orange-capped syringe",
-        "It has an onset of action over 6 hours and a prolonged duration of action of up to 30 hours",
-        "It can be mixed in the same syringe with insulin lispro to reduce daily injections",
-        "Its dose must be reduced by 50% when converting from Lantus due to higher potency"
+        "It should be withdrawn from the prefilled pen using a standard U-100 insulin syringe",
+        "It has an onset of action over 6 hours and a duration of action of up to 30 hours",
+        "It can be mixed in the same syringe with rapid-acting insulin lispro before meals",
+        "Its daily unit dose must be reduced by one third when converting from U-100 Lantus"
       ],
       "answer": 1,
       "rationale": "Toujeo SoloStar (300 units/mL insulin glargine) has a slower onset of action (over 6 hours) and a longer duration of action (up to 30 hours) than standard U-100 glargine, with lower hypoglycemia risk and less weight gain. When converting from Lantus to Toujeo, the dose may actually need to be increased by 10% to 15%, and it must never be mixed with other insulins."
@@ -135,8 +135,8 @@
       "options": [
         "\"I will gently roll the cloudy vial between my palms before drawing up my dose.\"",
         "\"I can keep the vial I am currently using at room temperature for up to 1 month.\"",
-        "\"I will store my spare unopened insulin vials in the freezer so they last longer.\"",
-        "\"I will inject my insulin at room temperature rather than straight from the refrigerator.\""
+        "\"I will store my extra unopened insulin vials in the freezer to preserve them.\"",
+        "\"I will allow refrigerated insulin to warm to room temperature before injecting.\""
       ],
       "answer": 2,
       "rationale": "Insulin must never be frozen or exposed to extreme heat or sunlight, as extreme temperatures permanently denature the protein structure. Vials in current use may be kept at room temperature for up to 1 month, while extra unopened vials should be stored in the refrigerator for up to 3 months."
@@ -147,10 +147,10 @@
       "topic": "Insulin Injection Technique and Lipodystrophy",
       "prompt": "During a clinic visit, the nurse palpates small, firm, painless nodules (lipodystrophy) on a patient's lower right abdomen where the patient injects insulin daily. What is the priority nursing instruction?",
       "options": [
-        "Continue injecting into the nodules because scar tissue makes the injections less painful",
-        "Rotate injection sites within the same anatomical area at least 1.25 to 2.5 cm apart for a week before moving",
-        "Apply a heating pad over the injection site immediately after administering insulin to dissolve nodules",
-        "Switch from a 90-degree subcutaneous injection angle to an intramuscular injection in the deltoid"
+        "Continue using the nodular site to minimize discomfort during daily injections",
+        "Rotate injections 1.25 to 2.5 cm apart within one area for a week before moving",
+        "Apply a warm compress over the abdomen after each injection to hasten absorption",
+        "Switch to injecting within 2 cm of the umbilicus using a 45-degree needle angle"
       ],
       "answer": 1,
       "rationale": "Lipodystrophy results from the local anabolic effects of repeated insulin injections into the exact same spot, which alters and impairs insulin absorption. Patients should rotate injections within the same general anatomical area (spacing sites 1.25 to 2.5 cm apart) for about 1 week before moving to a new location, and avoid injecting within 5 cm of the umbilicus."
@@ -161,10 +161,10 @@
       "topic": "Electrolyte Effects of Insulin",
       "prompt": "In addition to lowering plasma glucose, intravenous regular insulin infusions require close monitoring of which serum electrolyte due to intracellular shifting?",
       "options": [
-        "Calcium",
-        "Sodium",
-        "Potassium",
-        "Chloride"
+        "Serum calcium",
+        "Serum sodium",
+        "Serum potassium",
+        "Serum chloride"
       ],
       "answer": 2,
       "rationale": "Insulin promotes the intracellular shift of potassium (and magnesium) into cells along with glucose, temporarily decreasing serum concentrations of potassium. Patients receiving IV regular insulin (e.g., for DKA) are at high risk for hypokalemia and require close potassium monitoring and replacement."
@@ -175,10 +175,10 @@
       "topic": "Dawn Phenomenon vs. Somogyi Effect",
       "prompt": "A patient with type 1 diabetes presents with fasting morning hyperglycemia (13.2 mmol/L at 0700). A 0300 plasma glucose check reveals a level of 2.9 mmol/L, accompanied by night sweats and morning headaches. Which condition is occurring, and what adjustment is indicated?",
       "options": [
-        "Somogyi effect; the evening insulin dose should be reduced or a bedtime snack added",
-        "Dawn phenomenon; the evening basal insulin dose needs to be increased",
-        "Diabetic ketoacidosis; the patient requires an immediate bolus of regular insulin at 0700",
-        "Insulin resistance; the patient should add an oral sulfonylurea at bedtime"
+        "Somogyi effect; reduce the evening insulin dose or provide a bedtime snack",
+        "Dawn phenomenon; increase the evening intermediate- or long-acting insulin dose",
+        "Somogyi effect; increase the evening basal insulin dose and omit snacks",
+        "Dawn phenomenon; move the evening insulin dose from suppertime to 0700"
       ],
       "answer": 0,
       "rationale": "The Somogyi effect is rebound morning hyperglycemia triggered by counter-regulatory hormone release (cortisol, epinephrine, glucagon, growth hormone) in response to nocturnal hypoglycemia (plasma glucose < 4 mmol/L at 0300). It is caused by excessive evening insulin or a missed bedtime snack, so reducing the evening insulin dose or adding a bedtime snack resolves it."
@@ -187,12 +187,12 @@
       "id": "dm-mc-014",
       "type": "multiple-choice",
       "topic": "Biguanides (Metformin)",
-      "prompt": "A 48-year-old patient with a BMI of 31 kg/m² is newly diagnosed with type 2 diabetes and prescribed metformin (Glucophage). How does metformin primarily lower plasma glucose?",
+      "prompt": "A 48-year-old patient with a BMI of 31 kg/m\u00b2 is newly diagnosed with type 2 diabetes and prescribed metformin (Glucophage). How does metformin primarily lower plasma glucose?",
       "options": [
-        "It binds to sulfonylurea receptors on pancreatic beta-cells to trigger insulin release",
-        "It decreases hepatic glucose production and increases peripheral insulin receptor sensitivity",
+        "It binds pancreatic beta-cell receptors to stimulate endogenous insulin release",
+        "It inhibits hepatic glucose production and enhances tissue insulin sensitivity",
         "It blocks sodium-glucose cotransporter 2 proteins in the proximal renal tubules",
-        "It inhibits intestinal alpha-glucosidase enzymes to prevent disaccharide breakdown"
+        "It inhibits intestinal alpha-glucosidase enzymes to delay carbohydrate hydrolysis"
       ],
       "answer": 1,
       "rationale": "Metformin (a biguanide) works primarily by inhibiting hepatic glucose production (gluconeogenesis/glycogenolysis), decreasing intestinal glucose absorption, and improving peripheral tissue sensitivity to insulin. Because it does not stimulate endogenous insulin secretion, it does not cause weight gain or significant hypoglycemia when used alone."
@@ -203,10 +203,10 @@
       "topic": "Biguanides Contraindications",
       "prompt": "Before initiating metformin (Glucophage) therapy in a patient with type 2 diabetes, which laboratory finding or medical condition represents an absolute contraindication?",
       "options": [
-        "Body mass index (BMI) of 34 kg/m²",
-        "Fasting plasma glucose of 10.4 mmol/L",
-        "Severe kidney dysfunction with a creatinine clearance of 24 mL/min",
-        "History of hypersensitivity to sulfonamide antibiotics"
+        "Body mass index of 34 kg/m\u00b2 with elevated serum triglycerides",
+        "Fasting plasma glucose of 10.4 mmol/L and HbA1C of 8.1%",
+        "Chronic kidney dysfunction with a creatinine clearance of 24 mL/min",
+        "Documented history of hypersensitivity to sulfonamide antibiotics"
       ],
       "answer": 2,
       "rationale": "Metformin is excreted unchanged by the kidneys and is contraindicated in patients with kidney dysfunction (creatinine clearance < 30 mL/min) because drug accumulation greatly increases the risk of lethal lactic acidosis. Other contraindications include liver disease, alcoholism, heart failure, and metabolic acidosis."
@@ -217,10 +217,10 @@
       "topic": "Biguanides Drug Interactions",
       "prompt": "A patient taking metformin (Glucophage) 850 mg twice daily is scheduled for a computed tomography (CT) angiogram with iodinated contrast dye at 1000 today. Which nursing action is required?",
       "options": [
-        "Administer the morning metformin with a full glass of water to flush the kidneys during the scan",
-        "Ensure metformin is held on the day of the procedure and for at least 48 hours afterward until kidney function is re-evaluated",
-        "Administer intravenous regular insulin simultaneously with the metformin to prevent contrast-induced hyperglycemia",
-        "Hold metformin for 6 hours before the scan and resume the evening dose immediately after the patient voids"
+        "Administer the morning metformin with extra oral fluids to promote renal dye clearance",
+        "Withhold metformin on the day of the scan and for 48 hours until renal function is checked",
+        "Substitute subcutaneous NPH insulin during the procedure and resume metformin that evening",
+        "Hold the morning metformin dose and restart therapy as soon as post-procedure voiding occurs"
       ],
       "answer": 1,
       "rationale": "Combining metformin with iodinated radiocontrast media increases the risk of acute kidney injury (contrast-induced nephropathy) and life-threatening lactic acidosis. Metformin must be discontinued on the day of the test and held for at least 48 hours after the procedure, resuming only after kidney function is confirmed to be normal."
@@ -231,10 +231,10 @@
       "topic": "Biguanides Adverse Effects",
       "prompt": "A patient who started taking metformin 2 weeks ago calls the clinic reporting mild abdominal bloating, nausea, and loose stools, along with a metallic taste. What is the nurse's best advice?",
       "options": [
-        "\"Stop taking the medication immediately and go to the emergency department for lactic acidosis.\"",
-        "\"These gastrointestinal effects are common early in therapy, are usually self-limiting, and can be reduced by taking metformin with food.\"",
-        "\"Take your metformin on an empty stomach 2 hours before meals with an antacid to prevent diarrhea.\"",
-        "\"Double your daily dose for a few days so your digestive tract adapts more quickly.\""
+        "\"Discontinue the medication and report to the emergency department for lactic acidosis testing.\"",
+        "\"Take the tablets with meals, as these common gastrointestinal effects usually subside.\"",
+        "\"Take the tablets on an empty stomach 2 hours before meals along with an aluminum antacid.\"",
+        "\"Split all your daily tablets into a single bedtime dose taken with a full glass of water.\""
       ],
       "answer": 1,
       "rationale": "Abdominal bloating, nausea, cramping, diarrhea, and metallic taste are common initial adverse effects of metformin. They are usually self-limiting and can be minimized by starting at a low dose, titrating slowly, and taking the medication with food."
@@ -245,10 +245,10 @@
       "topic": "Metformin-Associated Lactic Acidosis",
       "prompt": "A patient with type 2 diabetes who takes metformin and has a history of alcohol use disorder presents to the emergency department. Which cluster of clinical manifestations should alert the nurse to suspected metformin-associated lactic acidosis?",
       "options": [
-        "Hyperventilation, cold and clammy skin, muscle pain, abdominal pain, dizziness, and irregular heartbeat",
+        "Hyperventilation, cold clammy skin, muscle pain, abdominal pain, and irregular heartbeat",
         "Bradypnea, warm flushed skin, bounding pulse, weight gain, and bilateral ankle edema",
-        "Pruritic maculopapular rash, photosensitivity, tinnitus, and epigastric heartburn",
-        "Polyuria, vaginal candidiasis, orthostatic hypotension, and elevated low-density lipoprotein cholesterol"
+        "Maculopapular skin rash, photosensitivity, epigastric heartburn, and mild headache",
+        "Polyuria, vaginal candidiasis, orthostatic dizziness, and elevated LDL cholesterol"
       ],
       "answer": 0,
       "rationale": "Metformin-associated lactic acidosis is a rare but lethal complication (fatal in up to 50% of cases) characterized by hyperventilation, cold and clammy skin, diffuse muscle pain, abdominal pain, dizziness, and cardiac arrhythmias."
@@ -259,10 +259,10 @@
       "topic": "Long-Term Metformin Monitoring",
       "prompt": "A patient has been taking metformin (Glucophage) for 6 years and reports new fatigue and tingling in the hands and feet. Deficiency of which vitamin is associated with long-term metformin therapy?",
       "options": [
-        "Vitamin K",
-        "Vitamin C",
-        "Vitamin B12",
-        "Vitamin D"
+        "Vitamin K (phytonadione)",
+        "Vitamin C (ascorbic acid)",
+        "Vitamin B12 (cyanocobalamin)",
+        "Vitamin B6 (pyridoxine)"
       ],
       "answer": 2,
       "rationale": "Long-term use of metformin is associated with decreased intestinal absorption and reduced serum levels of vitamin B12, which can contribute to anemia and peripheral neuropathy."
@@ -273,10 +273,10 @@
       "topic": "Sulfonylureas Mechanism and Indications",
       "prompt": "Why are second-generation sulfonylureas such as gliclazide (Diamicron) and glyburide (Diabeta) ineffective in patients with type 1 diabetes?",
       "options": [
-        "They require functioning pancreatic beta-cells to stimulate endogenous insulin secretion",
-        "They only work in the presence of adipose-derived leptin found in patients with obesity",
-        "They are rapidly destroyed by the autoimmune antibodies present in type 1 diabetes",
-        "They increase glucagon secretion from alpha-cells, worsening ketoacidosis in type 1 diabetes"
+        "They require functioning pancreatic beta-cells to stimulate endogenous insulin release",
+        "They depend on adipose-derived leptin signalling present in insulin-resistant tissues",
+        "They undergo rapid enzymatic degradation by circulating islet cell autoantibodies",
+        "They stimulate alpha-cell glucagon secretion that worsens ketogenesis in type 1 disease"
       ],
       "answer": 0,
       "rationale": "Sulfonylureas act by binding to specific receptors on pancreatic beta-cells to stimulate the release of endogenous insulin. Because patients with type 1 diabetes have autoimmune destruction of beta-cells and lack endogenous insulin production, sulfonylureas cannot work."
@@ -287,10 +287,10 @@
       "topic": "Sulfonylureas Profile (Gliclazide)",
       "prompt": "A 72-year-old patient with type 2 diabetes and severe chronic kidney disease requires a sulfonylurea. Why is gliclazide (Diamicron) preferred over other oral agents in this patient?",
       "options": [
-        "It has no active metabolites and, unlike most oral antihyperglycemics, is not contraindicated in severe kidney failure",
-        "It is excreted exclusively through the lungs and does not undergo hepatic or renal metabolism",
-        "It blocks renal sodium-glucose cotransporters to regenerate damaged glomeruli",
-        "It cannot cause hypoglycemia even if the patient skips meals or reduces caloric intake"
+        "It has no active metabolites and is not contraindicated in severe kidney failure",
+        "It undergoes biliary clearance without hepatic metabolism or renal filtration",
+        "It inhibits proximal tubular glucose cotransporters to preserve glomerular flow",
+        "It stimulates glucose-dependent insulin release without risk of hypoglycemia"
       ],
       "answer": 0,
       "rationale": "Gliclazide has a rapid onset, short duration of action, and no active metabolites; unlike most other oral antihyperglycemic drugs, it is not contraindicated in patients with severe kidney failure. It also possesses antiplatelet and antioxidant properties."
@@ -301,10 +301,10 @@
       "topic": "Sulfonylureas Administration and Teaching",
       "prompt": "A patient is prescribed immediate-release gliclazide (Diamicron) twice daily. When should the nurse instruct the patient to take this medication, and what skin precaution should be included?",
       "options": [
-        "Take 30 minutes before meals, and wear sunscreen and protective clothing due to photosensitivity",
-        "Take 2 hours after meals at bedtime, and avoid applying moisturizing lotion to the feet",
-        "Take only when blood glucose exceeds 14 mmol/L, and use a tanning bed to boost vitamin D",
-        "Take on an empty stomach 1 hour before exercise, and avoid all dairy products"
+        "Take 30 minutes before meals, and wear sunscreen and protective clothing outdoors",
+        "Take 60 minutes after meals, and apply an emollient barrier cream between the toes",
+        "Take with the first bite of food, and avoid warm baths to prevent cutaneous flushing",
+        "Take on an empty stomach at bedtime, and inspect injection sites for lipodystrophy"
       ],
       "answer": 0,
       "rationale": "Immediate-release gliclazide works best when given 30 minutes before meals so insulin release matches the postprandial glucose rise (modified-release gliclazide is given once daily with breakfast). Sulfonylureas can cause photosensitivity, so patients must use sunblock, wear protective clothing, and avoid tanning beds."
@@ -315,10 +315,10 @@
       "topic": "Antidiabetic Drug Interactions (Beta Blockers)",
       "prompt": "A patient with type 2 diabetes who takes glyburide (Diabeta) is prescribed propranolol (a nonselective beta-adrenergic blocker) for hypertension. Why does this combination require heightened nursing vigilance?",
       "options": [
-        "Propranolol masks the sympathetic tachycardia and tremors of hypoglycemia while prolonging hypoglycemic episodes",
-        "Propranolol causes rapid renal excretion of glyburide, leading to acute hyperosmolar hyperglycemic state",
-        "Propranolol chelates glyburide in the gastrointestinal tract, preventing oral absorption",
-        "Propranolol converts glyburide into toxic ketone bodies within the hepatic portal circulation"
+        "Propranolol masks hypoglycemic tachycardia and tremors while blunting glycogenolysis",
+        "Propranolol accelerates renal clearance of glyburide and triggers rebound hyperglycemia",
+        "Propranolol reduces gastrointestinal absorption of glyburide by slowing gastric motility",
+        "Propranolol inhibits hepatic CYP3A4 enzymes and causes acute cholestatic hepatotoxicity"
       ],
       "answer": 0,
       "rationale": "Nonselective beta blockers such as propranolol blunt the adrenergic warning signs of hypoglycemia (especially tachycardia and tremors) and inhibit glycogenolysis, increasing the risk of unrecognized, severe hypoglycemia (hypoglycemia unawareness). Sweating/diaphoresis is typically preserved."
@@ -329,10 +329,10 @@
       "topic": "Sulfonylureas Drug Interactions",
       "prompt": "A patient taking gliclazide (Diamicron) for type 2 diabetes is prescribed a sulfonamide antibiotic for a urinary tract infection. For which drug interaction should the nurse monitor?",
       "options": [
-        "Decreased gliclazide effectiveness resulting in severe hyperglycemia",
-        "Enhanced hypoglycemic effect and potential cross-allergy with sulfonamides",
-        "Acute biliary obstruction and cholestatic jaundice within 24 hours",
-        "Severe hypertension caused by monoamine oxidase inhibition"
+        "Induced hepatic metabolism of gliclazide leading to persistent hyperglycemia",
+        "Enhanced hypoglycemic effect and potential sulfonamide cross-sensitivity",
+        "Reduced intestinal absorption of the antibiotic causing treatment failure",
+        "Decreased renal potassium excretion resulting in hyperkalemic dysrhythmias"
       ],
       "answer": 1,
       "rationale": "Long-acting sulfonamides (as well as salicylates, MAOIs, coumarin derivatives, cimetidine, and ACE inhibitors) enhance the hypoglycemic effect of sulfonylureas like gliclazide. Additionally, there is a potential for cross-allergy in patients with sulfonamide antibiotic allergies."
@@ -343,13 +343,13 @@
       "topic": "Glinides (Meglitinides)",
       "prompt": "A patient whose work schedule causes erratic meal times is prescribed repaglinide (GlucoNorm) 1 mg three times daily. Which instruction by the nurse is essential?",
       "options": [
-        "\"Take this medication 15 minutes before each meal, and if you skip a meal, skip that dose of repaglinide.\"",
-        "\"Take all three tablets together every morning at 0800 regardless of whether you eat breakfast.\"",
-        "\"If you miss lunch, take two tablets before supper so you receive your full daily dose.\"",
-        "\"Continue taking your glyburide alongside repaglinide because they work on different organs.\""
+        "\"Take this drug 15 minutes before meals, and skip the dose whenever a meal is omitted.\"",
+        "\"Take all three tablets together each morning with breakfast to maintain steady levels.\"",
+        "\"If you miss lunch at work, take two tablets before supper to complete your daily dose.\"",
+        "\"Take this medication 30 minutes after eating so insulin release matches digestion.\""
       ],
       "answer": 0,
-      "rationale": "Repaglinide and nateglinide (glinides) stimulate rapid, short-lived pancreatic insulin release (onset 15–60 min, duration 4–6 hr) and should be taken 15 minutes before meals. If a meal is skipped, the dose must be skipped to prevent hypoglycemia. Glinides must not be combined with sulfonylureas because they share the same mechanism of action."
+      "rationale": "Repaglinide and nateglinide (glinides) stimulate rapid, short-lived pancreatic insulin release (onset 15\u201360 min, duration 4\u20136 hr) and should be taken 15 minutes before meals. If a meal is skipped, the dose must be skipped to prevent hypoglycemia. Glinides must not be combined with sulfonylureas because they share the same mechanism of action."
     },
     {
       "id": "dm-mc-026",
@@ -357,10 +357,10 @@
       "topic": "Thiazolidinediones (Glitazones)",
       "prompt": "A patient with type 2 diabetes is prescribed pioglitazone (Actos) 15 mg daily. In which patient condition is pioglitazone contraindicated?",
       "options": [
-        "New York Heart Association (NYHA) Class III or IV heart failure",
-        "Mild seasonal allergic rhinitis treated with intranasal saline",
-        "Body mass index of 28 kg/m² with elevated triglycerides",
-        "History of mild osteoarthritis of the knees"
+        "New York Heart Association Class III or IV heart failure",
+        "Stage 2 chronic kidney disease with microalbuminuria",
+        "Body mass index of 32 kg/m\u00b2 with hypertriglyceridemia",
+        "History of peptic ulcer disease and gastroesophageal reflux"
       ],
       "answer": 0,
       "rationale": "Thiazolidinediones (pioglitazone, rosiglitazone) cause fluid retention, peripheral edema, and weight gain, which can precipitate or worsen heart failure. They are contraindicated in patients with NYHA Class III or IV heart failure."
@@ -372,9 +372,9 @@
       "prompt": "A 66-year-old postmenopausal woman is taking pioglitazone (Actos) for type 2 diabetes. In addition to daily weight and edema monitoring, what long-term musculoskeletal risk is associated with glitazone therapy?",
       "options": [
         "Reduced bone mineral density and an increased risk of fractures",
-        "Acute rhabdomyolysis and Achilles tendon rupture",
-        "Autoimmune destruction of synovial cartilage in the spine",
-        "Severe muscular rigidity and malignant hyperthermia"
+        "Acute rhabdomyolysis and spontaneous Achilles tendon rupture",
+        "Progressive synovial cartilage erosion in large weight-bearing joints",
+        "Peripheral demyelinating neuropathy and distal muscle wasting"
       ],
       "answer": 0,
       "rationale": "Thiazolidinediones (glitazones) are associated with reduced bone mineral density and an increased risk of bone fractures, as well as peripheral edema and weight gain. Patients should also be informed that maximal glycemic effects may take several weeks to months because glitazones act via gene regulation."
@@ -385,10 +385,10 @@
       "topic": "Thiazolidinediones Drug Interactions",
       "prompt": "A patient taking pioglitazone (Actos) is prescribed ketoconazole for a fungal infection. How does ketoconazole affect pioglitazone therapy?",
       "options": [
-        "It inhibits CYP3A4 metabolism, increasing serum concentrations of pioglitazone",
-        "It induces renal excretion of pioglitazone, causing rebound hyperglycemia",
-        "It blocks intestinal absorption of pioglitazone unless separated by 6 hours",
-        "It converts pioglitazone into acarbose in the small intestine"
+        "It inhibits CYP3A4 metabolism and increases serum pioglitazone concentrations",
+        "It induces hepatic enzymes and accelerates clearance of active pioglitazone",
+        "It impairs intestinal absorption of pioglitazone by altering gastric acidity",
+        "It competes for proximal renal tubular secretion and reduces glucose excretion"
       ],
       "answer": 0,
       "rationale": "Pioglitazone is partially metabolized by cytochrome P450 3A4 (CYP3A4). Concurrent use of a strong CYP3A4 inhibitor such as ketoconazole or erythromycin can increase serum concentrations of pioglitazone and heighten adverse effects."
@@ -400,9 +400,9 @@
       "prompt": "A patient with type 2 diabetes has a new prescription for acarbose (Glucobay) 50 mg three times daily. When should the nurse instruct the patient to take each dose?",
       "options": [
         "With the first bite of each main meal",
-        "On an empty stomach 60 minutes before breakfast",
+        "Thirty minutes before each main meal",
         "Thirty minutes after finishing each meal",
-        "At bedtime with a full glass of water"
+        "On an empty stomach 1 hour before meals"
       ],
       "answer": 0,
       "rationale": "Acarbose reversibly inhibits the enzyme alpha-glucosidase in the small intestine to delay carbohydrate hydrolysis and blunt postprandial glucose spikes. To work optimally on ingested complex carbohydrates, it must be taken with the first bite of each main meal."
@@ -413,10 +413,10 @@
       "topic": "Alpha-Glucosidase Inhibitors Hypoglycemia Treatment",
       "prompt": "A patient who takes both acarbose (Glucobay) and gliclazide (Diamicron) becomes diaphoretic and shaky before lunch, with a capillary blood glucose of 3.1 mmol/L. Which item should the nurse administer to treat this patient's hypoglycemia?",
       "options": [
-        "Two packets of table sugar (sucrose) dissolved in water",
-        "Oral glucose (dextrose) tablets",
-        "Whole-wheat crackers with peanut butter",
-        "A small bowl of oatmeal"
+        "Three packets of granulated cane sugar in water",
+        "Four commercial oral glucose (dextrose) tablets",
+        "Six whole-wheat crackers spread with peanut butter",
+        "Two slices of buttered whole-grain bread"
       ],
       "answer": 1,
       "rationale": "Because acarbose inhibits alpha-glucosidase in the small intestine, it blocks the breakdown of disaccharides (like table sugar/sucrose) and complex carbohydrates (starch) into absorbable glucose. Hypoglycemia in a patient taking acarbose must be treated with monosaccharide glucose (dextrose) tablets, milk, or honey (or IV dextrose if unconscious)."
@@ -428,9 +428,9 @@
       "prompt": "Which gastrointestinal condition is a contraindication to the use of acarbose (Glucobay)?",
       "options": [
         "Inflammatory bowel disease or partial intestinal obstruction",
-        "History of mild gastroesophageal reflux after spicy meals",
-        "Previous laparoscopic cholecystectomy 5 years ago",
-        "Occasional nausea when taking multivitamins"
+        "Chronic gastroesophageal reflux disease managed with antacids",
+        "History of uncomplicated cholelithiasis and cholecystectomy",
+        "Helicobacter pylori gastritis treated with triple therapy"
       ],
       "answer": 0,
       "rationale": "Acarbose causes a high incidence of flatulence, diarrhea, and abdominal pain due to undigested carbohydrates in the colon. It is contraindicated in patients with inflammatory bowel disease, malabsorption syndromes, colonic ulceration, cirrhosis, or partial intestinal obstruction."
@@ -441,10 +441,10 @@
       "topic": "DPP-4 Inhibitors (Gliptins)",
       "prompt": "A patient is prescribed sitagliptin (Januvia) 100 mg once daily. Which symptom should the nurse instruct the patient to report immediately as a potential serious adverse effect of DPP-4 inhibitors?",
       "options": [
-        "Severe, persistent abdominal pain radiating to the back accompanied by vomiting",
-        "Mild transient nasal congestion lasting 2 days",
-        "Increased urination after drinking 2 L of water",
-        "Slight weight loss of 0.5 kg over 3 months"
+        "Severe, persistent abdominal pain radiating to the back with vomiting",
+        "Bilateral ankle swelling accompanied by a 2-kg weekly weight gain",
+        "Frequent urination and genital itching from excess urinary glucose",
+        "Painless subcutaneous nodules and localized bruising on the abdomen"
       ],
       "answer": 0,
       "rationale": "Postmarketing cases of acute pancreatitis have been reported with DPP-4 inhibitors (sitagliptin, saxagliptin, alogliptin, linagliptin) as well as GLP-1 receptor agonists. Patients must be monitored closely after initiation and dose increases for signs of pancreatitis (severe, persistent abdominal pain, nausea, vomiting)."
@@ -455,10 +455,10 @@
       "topic": "DPP-4 Inhibitors Interactions",
       "prompt": "A patient with atrial fibrillation and type 2 diabetes takes digoxin and is newly prescribed sitagliptin (Januvia). What monitoring is indicated?",
       "options": [
-        "Monitor serum digoxin levels closely because sitagliptin may increase digoxin concentrations",
-        "Double the digoxin dose because sitagliptin blocks gastrointestinal digoxin absorption",
-        "Check serum lithium levels daily because sitagliptin converts digoxin to lithium",
-        "Discontinue digoxin immediately because the combination causes fatal hyperkalemia"
+        "Monitor serum digoxin levels closely for potential digoxin toxicity",
+        "Increase the daily digoxin dose to offset reduced intestinal uptake",
+        "Separate administration of sitagliptin and digoxin by at least 4 hours",
+        "Withhold digoxin on days when fasting plasma glucose exceeds 8 mmol/L"
       ],
       "answer": 0,
       "rationale": "Sitagliptin (as well as canagliflozin) can increase plasma digoxin levels. Patients receiving digoxin concurrently with sitagliptin or canagliflozin should be monitored appropriately for digoxin toxicity."
@@ -469,10 +469,10 @@
       "topic": "SGLT-2 Inhibitors Mechanism & Effects",
       "prompt": "A patient with type 2 diabetes and established cardiovascular disease is prescribed empagliflozin (Jardiance). By what mechanism do SGLT-2 inhibitors lower plasma glucose, and what additional cardiovascular benefit do they produce?",
       "options": [
-        "They block renal proximal tubular glucose reabsorption, increasing urinary glucose excretion and lowering systolic blood pressure",
-        "They stimulate pancreatic beta-cells to secrete insulin, increasing fluid retention and raising blood pressure",
-        "They delay gastric emptying in the stomach, increasing high-density lipoprotein breakdown in the liver",
-        "They inhibit hepatic glycogenolysis while constricting peripheral arterioles"
+        "They block renal tubular glucose reabsorption and lower systolic blood pressure",
+        "They stimulate beta-cell insulin release and increase intravascular fluid volume",
+        "They delay gastric emptying after meals and reduce low-density lipoprotein levels",
+        "They inhibit hepatic gluconeogenesis and dilate coronary collateral arteries"
       ],
       "answer": 0,
       "rationale": "SGLT-2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin) block sodium-glucose cotransporter 2 in the proximal renal tubules, preventing 90% of glucose reabsorption and increasing glucosuria. This lowers plasma glucose, promotes weight loss, and reduces systolic blood pressure via osmotic diuresis."
@@ -483,10 +483,10 @@
       "topic": "SGLT-2 Inhibitors Adverse Effects",
       "prompt": "When educating a female patient who has a new prescription for canagliflozin (Invokana) 100 mg daily, which adverse effects should the nurse emphasize?",
       "options": [
-        "Vaginal yeast infections, urinary tract infections, and orthostatic hypotension from osmotic diuresis",
-        "Severe peripheral pitting edema, rapid weight gain, and bradycardia",
-        "Alopecia, gingival hyperplasia, and metallic taste in the mouth",
-        "Bronchospasm, chronic dry cough, and angioedema of the lips"
+        "Vaginal yeast infections, urinary tract infections, and orthostatic dizziness",
+        "Peripheral pitting edema, rapid fluid weight gain, and reflex bradycardia",
+        "Cutaneous photosensitivity, metallic taste, and vitamin B12 malabsorption",
+        "Upper respiratory tract congestion, dry cough, and periorbital angioedema"
       ],
       "answer": 0,
       "rationale": "Because SGLT-2 inhibitors produce high concentrations of glucose in the urine, their most common adverse effects are vaginal mycotic (yeast) infections and urinary tract infections (especially in females and uncircumcised males). Osmotic diuresis can also cause intravascular volume depletion, orthostatic hypotension, dizziness, and dehydration."
@@ -497,10 +497,10 @@
       "topic": "SGLT-2 Inhibitors Safety Alert",
       "prompt": "Health Canada issued a safety alert regarding SGLT-2 inhibitors such as dapagliflozin (Forxiga) and canagliflozin (Invokana) for which serious metabolic complication that can occur even when blood glucose levels are only mildly elevated?",
       "options": [
-        "Diabetic ketoacidosis (DKA)",
-        "Thyroid storm",
-        "Hyperosmolar hyperglycemic state with plasma glucose > 40 mmol/L",
-        "Syndrome of inappropriate antidiuretic hormone (SIADH)"
+        "Diabetic ketoacidosis presenting with near-normal or mildly elevated glucose",
+        "Hyperosmolar hyperglycemic state with serum osmolality above 340 mOsm/kg",
+        "Severe refractory hypoglycemia accompanied by counter-regulatory failure",
+        "Syndrome of inappropriate antidiuretic hormone with dilutional hyponatremia"
       ],
       "answer": 0,
       "rationale": "Health Canada warned that SGLT-2 inhibitors carry a risk of diabetic ketoacidosis (DKA) that can present unexpectedly with only slightly increased plasma glucose levels (euglycemic DKA) in patients with type 2 diabetes. SGLT-2 inhibitors are contraindicated in type 1 diabetes and DKA."
@@ -511,10 +511,10 @@
       "topic": "SGLT-2 Inhibitors Herbal Interactions",
       "prompt": "A patient taking canagliflozin (Invokana) mentions starting the herbal supplement St. John's wort for mild low mood. What effect can this herbal product have on canagliflozin therapy?",
       "options": [
-        "It may reduce the clinical efficacy and glucose-lowering response to canagliflozin",
-        "It causes life-threatening hypoglycemia within 1 hour of ingestion",
-        "It prevents urinary excretion of glucose, causing acute renal calculi",
-        "It doubles the half-life of canagliflozin and causes severe bradycardia"
+        "It may reduce serum concentrations and clinical efficacy of canagliflozin",
+        "It inhibits renal clearance of canagliflozin and causes severe hypoglycemia",
+        "It blocks proximal tubular glucose excretion and precipitates uric acid stones",
+        "It potentiates osmotic diuresis and increases the risk of hyperkalemic arrest"
       ],
       "answer": 0,
       "rationale": "St. John's wort induces drug-metabolizing enzymes and may reduce serum concentrations and clinical response to canagliflozin."
@@ -525,10 +525,10 @@
       "topic": "Incretin Mimetics (GLP-1 Receptor Agonists)",
       "prompt": "A patient with type 2 diabetes is prescribed subcutaneous exenatide (Byetta). Which statement accurately describes the physiological actions of incretin mimetics?",
       "options": [
-        "They enhance glucose-dependent insulin secretion, suppress postprandial glucagon, slow gastric emptying, and increase satiety",
-        "They block intestinal disaccharidase enzymes, increase gastric motility, and stimulate appetite",
-        "They directly replace basal insulin for 24 hours and increase hepatic glucose output during fasting",
-        "They inhibit renal potassium reabsorption and increase glucagon release from pancreatic alpha-cells"
+        "They enhance glucose-dependent insulin release, lower glucagon, slow gastric emptying, and increase satiety",
+        "They inhibit intestinal disaccharidases, accelerate gastric motility, and stimulate peripheral lipogenesis",
+        "They upregulate nuclear insulin receptor genes, reduce hepatic triglyceride output, and expand plasma volume",
+        "They block proximal renal glucose cotransporters, promote osmotic diuresis, and increase glucagon secretion"
       ],
       "answer": 0,
       "rationale": "Incretin mimetics (GLP-1 receptor agonists: exenatide, liraglutide, dulaglutide, albiglutide, semaglutide) mimic endogenous GLP-1 to stimulate glucose-dependent insulin secretion, reduce postprandial glucagon, slow gastric emptying, and increase central satiety, promoting weight loss."
@@ -539,10 +539,10 @@
       "topic": "Incretin Mimetics Dosing and Interactions",
       "prompt": "Why can incretin mimetics such as exenatide (Byetta) or liraglutide (Victoza) alter the effectiveness of concurrently administered oral medications (e.g., oral contraceptives or antibiotics)?",
       "options": [
-        "They slow gastric emptying, which can delay or reduce the absorption of orally administered drugs",
-        "They increase stomach acid pH to 8.0, precipitating oral tablets in the esophagus",
-        "They chelate oral medications in the bloodstream and excrete them in bile",
-        "They induce hepatic first-pass destruction of all oral medications within 10 minutes"
+        "They slow gastric emptying and can delay the absorption of oral medications",
+        "They raise gastric pH and impair the dissolution of acidic oral tablets",
+        "They bind oral medications in the duodenum and increase fecal excretion",
+        "They induce hepatic cytochrome P450 enzymes and accelerate first-pass metabolism"
       ],
       "answer": 0,
       "rationale": "Because incretin mimetics slow gastric emptying, they can delay the transit and absorption of other orally administered medications. Additionally, exenatide should be injected subcutaneously within 60 minutes before the morning and evening meals."
@@ -553,10 +553,10 @@
       "topic": "Incretin Mimetics Weekly Formulations",
       "prompt": "A patient with type 2 diabetes who dislikes daily injections is prescribed dulaglutide (Trulicity). How is dulaglutide administered?",
       "options": [
-        "Subcutaneously once weekly, at any time of day, with or without meals",
-        "Subcutaneously three times daily within 15 minutes before each meal",
+        "Subcutaneously once weekly at any time of day, with or without meals",
+        "Subcutaneously twice daily within 60 minutes before morning and evening meals",
         "Orally once daily 30 minutes before breakfast with a full glass of water",
-        "Intramuscularly once monthly in the ventrogluteal muscle"
+        "Subcutaneously once daily at bedtime regardless of evening food intake"
       ],
       "answer": 0,
       "rationale": "Dulaglutide (Trulicity), albiglutide (Eperzan), and semaglutide are long-acting GLP-1 receptor agonists administered subcutaneously once weekly. Dulaglutide is given at 0.75 mg to 1.5 mg once weekly at any time of day, with or without meals."
@@ -567,10 +567,10 @@
       "topic": "Hypoglycemia Management (Conscious Patient)",
       "prompt": "A hospitalized patient with type 1 diabetes is awake and alert but reports trembling, sweating, and palpitations. Capillary blood glucose is 3.2 mmol/L. According to Diabetes Canada guidelines, which initial intervention is best?",
       "options": [
-        "Administer 15 g of fast-acting carbohydrate (such as 4 glucose tablets or 175 mL of regular juice/soft drink) and retest in 15 minutes",
-        "Rub a tube of glucose gel onto the inner buccal mucosa without having the patient swallow it",
-        "Give 250 mL of 2% milk with 2 slices of whole-wheat toast and recheck blood glucose in 2 hours",
-        "Administer 1 mg of glucagon subcutaneously and roll the patient onto their side"
+        "Give 15 g of fast-acting carbohydrate (4 glucose tablets) and retest in 15 minutes",
+        "Apply glucose gel to the buccal mucosa without swallowing and retest in 20 minutes",
+        "Give 250 mL of 2% milk with peanut butter crackers and recheck glucose in 30 minutes",
+        "Administer 1 mg of glucagon subcutaneously and turn the patient onto their left side"
       ],
       "answer": 0,
       "rationale": "For a conscious patient with hypoglycemia (< 4 mmol/L), Diabetes Canada recommends 15 g of fast-acting carbohydrate (4 glucose tablets, 3 sugar packets dissolved in water, 175 mL regular soft drink or juice, 8 Life Savers, 1 package Rockets, or 15 mL honey), followed by retesting in 15 minutes and retreating with 15 g if still < 4 mmol/L. Milk and glucose gel act much more slowly."
@@ -581,10 +581,10 @@
       "topic": "Hypoglycemia Management (Unconscious Patient)",
       "prompt": "A nurse finds a patient with type 1 diabetes unresponsive and diaphoretic in a long-term care facility. Capillary blood glucose is 2.1 mmol/L, and the patient has no intravenous access. After administering subcutaneous glucagon, what is the priority nursing action?",
       "options": [
-        "Roll the unconscious patient onto their side to prevent aspiration because glucagon frequently induces vomiting",
-        "Place the patient in high Fowler's position and pour 175 mL of orange juice into their mouth",
-        "Keep the patient flat on their back and administer 10 units of regular insulin subcutaneously",
-        "Apply physical restraints to all four extremities to prevent post-injection shivering"
+        "Turn the patient onto their side to prevent aspiration if vomiting occurs",
+        "Place the patient in high Fowler's position and administer oral glucose gel",
+        "Maintain a supine position and repeat the glucagon injection in 5 minutes",
+        "Elevate the lower extremities and apply warm blankets to reverse diaphoresis"
       ],
       "answer": 0,
       "rationale": "Glucagon is given subcutaneously (or IM) to treat severe hypoglycemia in an unconscious patient without IV access. Because glucagon commonly induces nausea and vomiting, the unconscious patient must be turned onto their side to protect the airway and prevent aspiration."
@@ -595,10 +595,10 @@
       "topic": "Diabetes in Pregnancy and Lactation",
       "prompt": "A pregnant woman at 26 weeks' gestation is diagnosed with gestational diabetes that is not controlled by diet alone. Which pharmacological statement is accurate regarding pregnancy and lactation?",
       "options": [
-        "Insulin does not normally cross the placenta and is the recommended drug therapy to achieve tight glycemic control in pregnancy",
-        "Weight reduction diets and weekly GLP-1 receptor agonists are first-line therapy during the third trimester",
-        "Insulin glargine is the preferred basal insulin specifically recommended for women who are breastfeeding",
-        "DPP-4 inhibitors are the gold standard oral therapy for gestational diabetes because they do not cross the placenta"
+        "Insulin does not normally cross the placenta and is the recommended therapy in pregnancy",
+        "Caloric restriction for weight loss combined with a GLP-1 agonist is first-line therapy",
+        "Insulin glargine is the preferred basal analogue specifically recommended during lactation",
+        "Sitagliptin and other DPP-4 inhibitors are first-line oral agents for gestational diabetes"
       ],
       "answer": 0,
       "rationale": "Insulin does not normally cross the placenta and provides tight glycemic control to reduce the risk of congenital anomalies, macrosomia, and neonatal hypoglycemia. Weight reduction is not advised during pregnancy, DPP-4 inhibitors and GLP-1 agonists are not recommended, and insulin glargine should be avoided in breastfeeding women because it is unknown whether it is excreted in breast milk."
@@ -609,10 +609,10 @@
       "topic": "Pediatric Diabetes Targets & Insulins",
       "prompt": "A 4-year-old child is newly diagnosed with type 1 diabetes. According to Diabetes Canada guidelines discussed in the text, what is the recommended HbA1C target for children younger than 6 years of age, and why is it more lenient?",
       "options": [
-        "Less than 8.0%, because severe hypoglycemia must be minimized in this age group due to its association with later cognitive impairment",
-        "Less than 6.0%, because young children metabolize glucose twice as fast as adults",
-        "Less than 9.5%, because children under 6 years cannot produce counter-regulatory glucagon",
-        "Less than 6.5%, using Humalog Mix25 twice daily as the preferred pediatric regimen"
+        "Less than 8.0%, to minimize severe hypoglycemia linked to later cognitive impairment",
+        "Less than 6.5%, to prevent rapid autoimmune destruction of remaining beta-cells",
+        "Less than 7.5%, using twice-daily Humalog Mix25 as the standard pediatric regimen",
+        "Less than 7.0%, because young children have blunted counter-regulatory hormone release"
       ],
       "answer": 0,
       "rationale": "Glycemic targets in children are graduated by age: < 8% for children younger than 6 years (to minimize severe hypoglycemia, which is linked to later cognitive impairment), <= 7.5% for children aged 6 to 12 years, and < 7% (adult target) for adolescents. Also note that Humalog Mix25 is not approved for children under 18 years."
@@ -623,13 +623,13 @@
       "topic": "Glycemic Targets in Older Adults",
       "prompt": "According to Diabetes Canada guidelines, for which patient is a more lenient HbA1C target of 7.1% to 8.5% most appropriate instead of the standard < 7.0%?",
       "options": [
-        "An 84-year-old frail resident with dementia, functional dependency, and a history of recurrent severe hypoglycemia",
-        "A 35-year-old teacher with newly diagnosed type 2 diabetes managed on lifestyle and metformin",
+        "An 84-year-old frail resident with dementia and recurrent severe hypoglycemia",
+        "A 35-year-old adult with new-onset type 2 diabetes managed on metformin therapy",
         "A 28-year-old pregnant woman with pre-existing type 1 diabetes in her first trimester",
-        "A 50-year-old accountant with type 2 diabetes and a BMI of 29 kg/m² who exercises regularly"
+        "A 50-year-old patient with type 2 diabetes, hypertension, and a BMI of 29 kg/m\u00b2"
       ],
       "answer": 0,
-      "rationale": "Diabetes Canada recommends a more lenient HbA1C target (7.0%–8.5% or 7.1%–8.5%) for patients who are functionally dependent, have recurrent severe hypoglycemia or hypoglycemia unawareness, have limited life expectancy, or are frail older adults and/or living with dementia."
+      "rationale": "Diabetes Canada recommends a more lenient HbA1C target (7.0%\u20138.5% or 7.1%\u20138.5%) for patients who are functionally dependent, have recurrent severe hypoglycemia or hypoglycemia unawareness, have limited life expectancy, or are frail older adults and/or living with dementia."
     },
     {
       "id": "dm-mc-046",
@@ -637,10 +637,10 @@
       "topic": "Drug Interactions Causing Hyperglycemia",
       "prompt": "A patient with well-controlled type 2 diabetes is admitted with an acute asthma exacerbation and started on intravenous corticosteroids (methylprednisolone). How will corticosteroid therapy affect the patient's glycemic control?",
       "options": [
-        "It antagonizes the effects of insulin and increases plasma glucose levels, often requiring temporary insulin adjustments",
-        "It potentiates oral sulfonylureas, causing profound nocturnal hypoglycemia",
-        "It blocks renal glucose reabsorption, resulting in false-negative blood glucose readings",
-        "It permanently destroys pancreatic alpha-cells, eliminating endogenous glucagon"
+        "It antagonizes the effects of insulin and increases plasma glucose concentrations",
+        "It potentiates oral antihyperglycemics and increases the risk of nocturnal hypoglycemia",
+        "It lowers the renal threshold for glucose and causes euglycemic ketoacidosis",
+        "It suppresses pancreatic alpha-cell glucagon secretion during fasting periods"
       ],
       "answer": 0,
       "rationale": "Corticosteroids, thyroid hormones, niacin, diuretics (thiazides, furosemide), and sympathomimetics antagonize the hypoglycemic effects of insulin and oral antidiabetic drugs, resulting in elevated plasma glucose levels."
@@ -651,10 +651,10 @@
       "topic": "DKA vs. Hyperosmolar Hyperglycemic State (HHS)",
       "prompt": "When comparing diabetic ketoacidosis (DKA) and hyperosmolar hyperglycemic state (HHS), which clinical finding is characteristic of HHS rather than DKA?",
       "options": [
-        "Plasma glucose >= 34 mmol/L, serum osmolality > 320 mOsm/kg, and absence of significant ketoacidosis (normal pH and HCO3)",
-        "Rapid onset in less than 2 days, arterial pH <= 7.3, and positive urine and serum ketones",
-        "Occurrence exclusively in patients younger than 20 years of age with serum HCO3 <= 15 mmol/L",
-        "Mild hyperglycemia (< 14 mmol/L) accompanied by metabolic alkalosis and hyperkalemia"
+        "Plasma glucose >= 34 mmol/L, osmolality > 320 mOsm/kg, and normal arterial pH",
+        "Rapid symptom onset under 2 days, arterial pH <= 7.3, and positive urine ketones",
+        "Presentation in patients under 65 years with serum bicarbonate <= 15 mmol/L",
+        "Moderate hyperglycemia (>= 14 mmol/L) with Kussmaul respirations and ketonemia"
       ],
       "answer": 0,
       "rationale": "HHS typically develops over > 5 days in older adults (> 65 years) and features extreme hyperglycemia (>= 34 mmol/L), hyperosmolarity (> 320 mOsm/kg), severe dehydration, and normal arterial pH and bicarbonate without significant ketosis. DKA develops rapidly (< 2 days) with plasma glucose >= 14 mmol/L, positive ketones, pH <= 7.3, and HCO3 <= 15 mmol/L."
@@ -671,7 +671,7 @@
         "30 units"
       ],
       "answer": 1,
-      "rationale": "Total daily insulin dose = 60 kg × 0.4 units/kg/day = 24 units/day. Since 50% of the total daily dose is ordered as bedtime insulin glargine, 24 units × 0.50 = 12 units."
+      "rationale": "Total daily insulin dose = 60 kg \u00d7 0.4 units/kg/day = 24 units/day. Since 50% of the total daily dose is ordered as bedtime insulin glargine, 24 units \u00d7 0.50 = 12 units."
     },
     {
       "id": "dm-sa-001",
@@ -831,7 +831,7 @@
       "id": "dm-sa-010",
       "type": "short-answer",
       "topic": "DPP-4 Inhibitors",
-      "prompt": "Name the first Health Canada–approved oral DPP-4 inhibitor (brand name Januvia) dosed at 100 mg once daily that delays the breakdown of incretin hormones.",
+      "prompt": "Name the first Health Canada\u2013approved oral DPP-4 inhibitor (brand name Januvia) dosed at 100 mg once daily that delays the breakdown of incretin hormones.",
       "answers": [
         {
           "text": "sitagliptin",
@@ -849,17 +849,17 @@
       "type": "case-study",
       "title": "New-Onset Type 1 Diabetes and Diabetic Ketoacidosis",
       "topic": "Insulins & DKA Management",
-      "scenario": " Lucas, a 19-year-old university student (weight 65 kg), is brought to the emergency department with a 2-day history of severe polydipsia, polyuria, nausea, abdominal pain, and fruity-smelling breath. Vital signs: BP 98/62 mm Hg, HR 118 beats/min, RR 28 breaths/min (deep, rapid Kussmaul respirations), T 37.1°C. Lab results: plasma glucose 24.6 mmol/L, arterial pH 7.21, serum HCO3 12 mmol/L, serum potassium 3.8 mmol/L, serum sodium 134 mmol/L, and strongly positive serum and urine ketones.",
+      "scenario": " Lucas, a 19-year-old university student (weight 65 kg), is brought to the emergency department with a 2-day history of severe polydipsia, polyuria, nausea, abdominal pain, and fruity-smelling breath. Vital signs: BP 98/62 mm Hg, HR 118 beats/min, RR 28 breaths/min (deep, rapid Kussmaul respirations), T 37.1\u00b0C. Lab results: plasma glucose 24.6 mmol/L, arterial pH 7.21, serum HCO3 12 mmol/L, serum potassium 3.8 mmol/L, serum sodium 134 mmol/L, and strongly positive serum and urine ketones.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Based on Lucas's presentation and laboratory values, which intravenous insulin order should the nurse anticipate after initiating IV fluid resuscitation?",
             "options": [
-              "Continuous intravenous infusion of regular insulin (Humulin R) with hourly plasma glucose monitoring",
-              "Intravenous push bolus of insulin glargine (Lantus) 30 units every 6 hours",
-              "Continuous intravenous infusion of NPH insulin (Humulin N) mixed in 5% dextrose",
-              "Subcutaneous injection of Humalog Mix25 once daily without IV fluids"
+              "Continuous intravenous infusion of regular insulin with hourly glucose monitoring",
+              "Intravenous bolus of insulin glargine 30 units every 6 hours with electrolyte checks",
+              "Continuous intravenous infusion of NPH insulin diluted in 0.9% sodium chloride",
+              "Subcutaneous injection of insulin lispro protamine suspension every 4 hours"
             ],
             "answer": 0,
             "rationale": "Lucas presents with classic diabetic ketoacidosis (DKA: glucose >= 14 mmol/L, pH <= 7.3, HCO3 <= 15 mmol/L, positive ketones). Regular insulin is the only insulin that can be given intravenously and is administered as a continuous IV infusion with hourly glucose checks."
@@ -871,13 +871,13 @@
             "type": "multiple-choice",
             "prompt": "Why did Lucas's serum potassium level drop to 3.1 mmol/L during the regular insulin infusion, and what is the nurse's priority action?",
             "options": [
-              "Insulin drives potassium from the extracellular fluid into the cells; notify the prescriber to administer IV potassium replacement",
-              "Regular insulin binds potassium in the renal tubules; administer oral furosemide to retain potassium",
-              "Ketones destroy red blood cells; stop all IV fluids and administer subcutaneous glucagon",
-              "Normal saline dilutes intracellular potassium; double the rate of the regular insulin infusion immediately"
+              "Insulin shifts potassium into cells; contact the prescriber for IV potassium replacement",
+              "Insulin increases renal potassium excretion; administer an oral loop diuretic as ordered",
+              "Acidosis traps potassium in the liver; pause the IV fluids and give subcutaneous glucagon",
+              "Saline infusion dilutes intracellular potassium; increase the regular insulin infusion rate"
             ],
             "answer": 0,
-            "rationale": "Insulin promotes the intracellular shift of potassium and magnesium into cells along with glucose, rapidly lowering serum potassium levels (normal range 3.5–5.0 mmol/L). Potassium replacement is essential in DKA management to prevent life-threatening cardiac dysrhythmias."
+            "rationale": "Insulin promotes the intracellular shift of potassium and magnesium into cells along with glucose, rapidly lowering serum potassium levels (normal range 3.5\u20135.0 mmol/L). Potassium replacement is essential in DKA management to prevent life-threatening cardiac dysrhythmias."
           }
         },
         {
@@ -886,10 +886,10 @@
             "type": "multiple-choice",
             "prompt": "When should the nurse administer Lucas's pre-breakfast dose of subcutaneous insulin lispro (Humalog)?",
             "options": [
-              "Within 15 minutes before he begins eating breakfast",
-              "Thirty to 45 minutes before the breakfast tray is ordered from dietary",
-              "Two hours after he finishes breakfast when postprandial glucose peaks",
-              "Mixed in the same syringe with his bedtime dose of insulin glargine"
+              "Within 15 minutes before he begins eating his breakfast",
+              "Thirty to 45 minutes before the breakfast tray arrives",
+              "Sixty minutes prior to the scheduled morning mealtime",
+              "Mixed in the same syringe with his insulin glargine dose"
             ],
             "answer": 0,
             "rationale": "Insulin lispro is a rapid-acting insulin analogue with an onset of 10 to 15 minutes. It must be given within 15 minutes before a meal, only after verifying that the meal tray has arrived and the patient is ready to eat."
@@ -901,10 +901,10 @@
             "type": "multiple-choice",
             "prompt": "Lucas is awake and able to swallow safely. Which sequence of actions should the nurse implement?",
             "options": [
-              "Give 15 g of fast-acting carbohydrate (e.g., 4 glucose tablets or 175 mL regular juice), retest blood glucose in 15 minutes, and provide a snack with carbohydrate and protein once glucose is >= 4.0 mmol/L",
-              "Administer 50 mL of 50% dextrose in water (D50W) IV push and hold all insulin for the next 24 hours",
-              "Have Lucas eat 2 tablespoons of peanut butter and recheck his blood glucose in 60 minutes",
-              "Administer 1 mg of glucagon intramuscularly and place him NPO until supper"
+              "Give 15 g of fast-acting carbohydrate, retest in 15 minutes, and follow with a protein snack",
+              "Administer 50 mL of 50% dextrose IV push and withhold all basal and bolus insulin for 24 hours",
+              "Provide 2 tablespoons of peanut butter with milk and recheck capillary glucose in 60 minutes",
+              "Inject 1 mg of glucagon intramuscularly, turn him on his side, and keep him NPO until supper"
             ],
             "answer": 0,
             "rationale": "For mild-to-moderate hypoglycemia (< 4 mmol/L) in a conscious patient, Diabetes Canada guidelines specify giving 15 g of fast-acting carbohydrate, retesting plasma glucose in 15 minutes (retreating with 15 g if still < 4 mmol/L), and following with a meal or a 15 g carbohydrate plus protein snack if the next meal is more than 1 hour away."
@@ -917,17 +917,17 @@
       "type": "case-study",
       "title": "Metformin Management and Contrast Imaging in Type 2 Diabetes",
       "topic": "Biguanides & Sulfonylureas",
-      "scenario": "Margaret, a 61-year-old woman with obesity (BMI 33 kg/m²), hypertension, and dyslipidemia, was diagnosed with type 2 diabetes 4 months ago. Despite 3 months of dietary modifications and aerobic exercise, her HbA1C is 7.9% and her fasting plasma glucose is 8.8 mmol/L. Her eGFR is 78 mL/min, and she has no history of heart or liver disease.",
+      "scenario": "Margaret, a 61-year-old woman with obesity (BMI 33 kg/m\u00b2), hypertension, and dyslipidemia, was diagnosed with type 2 diabetes 4 months ago. Despite 3 months of dietary modifications and aerobic exercise, her HbA1C is 7.9% and her fasting plasma glucose is 8.8 mmol/L. Her eGFR is 78 mL/min, and she has no history of heart or liver disease.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "According to Diabetes Canada clinical practice guidelines, which oral medication is recommended as first-line pharmacotherapy for Margaret, and what is a key advantage of this drug for her?",
             "options": [
-              "Metformin (Glucophage), because it improves insulin sensitivity without causing weight gain or significant hypoglycemia",
-              "Pioglitazone (Actos), because it acts within 15 minutes and causes rapid fluid loss",
-              "Glyburide (Diabeta), because it suppresses pancreatic beta-cell activity and promotes weight loss",
-              "Acarbose (Glucobay), because it replaces endogenous basal insulin over 24 hours"
+              "Metformin (Glucophage), which improves insulin sensitivity without causing weight gain",
+              "Pioglitazone (Actos), which acts rapidly before meals and promotes osmotic fluid loss",
+              "Glyburide (Diabeta), which preserves beta-cells by suppressing endogenous insulin output",
+              "Acarbose (Glucobay), which directly inhibits hepatic gluconeogenesis during overnight fasts"
             ],
             "answer": 0,
             "rationale": "Metformin is the first-line oral antihyperglycemic recommended by Diabetes Canada for type 2 diabetes, especially in patients with a BMI over 25. Unlike sulfonylureas or glitazones, it does not stimulate insulin secretion, does not cause weight gain (may cause modest weight loss), and rarely causes hypoglycemia as monotherapy."
@@ -939,10 +939,10 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's most appropriate response to help Margaret manage these adverse effects?",
             "options": [
-              "Advise her to take the metformin with meals and reassure her that gastrointestinal effects are usually transient and subside over time",
-              "Instruct her to crush the tablets and take them on an empty stomach 1 hour before breakfast",
-              "Tell her to discontinue metformin permanently because diarrhea indicates acute liver failure",
-              "Recommend taking high-dose aspirin four times daily with her metformin to soothe the stomach"
+              "Advise her to take metformin with meals, as early gastrointestinal effects usually subside",
+              "Instruct her to take the tablets on an empty stomach 1 hour before meals to speed absorption",
+              "Tell her to stop metformin and request a switch to a sulfonylurea due to drug intolerance",
+              "Recommend taking a salicylate with each dose to reduce intestinal cramping and bloating"
             ],
             "answer": 0,
             "rationale": "GI adverse effects (bloating, nausea, cramping, fullness, diarrhea) are common when starting metformin. They are usually self-limiting and can be minimized by taking the medication with food and titrating the dose slowly."
@@ -954,10 +954,10 @@
             "type": "multiple-choice",
             "prompt": "What action must the nurse take regarding Margaret's metformin therapy in relation to the contrast-enhanced CT scan?",
             "options": [
-              "Hold metformin on the day of the CT scan and for at least 48 hours after the procedure, restarting only after kidney function is re-evaluated",
-              "Administer an extra 1000 mg dose of metformin 30 minutes prior to the contrast injection to protect the glomeruli",
-              "Hold metformin for 2 hours before the scan and resume it as soon as she returns to the nursing unit",
-              "Switch her metformin to an SGLT-2 inhibitor immediately before the scan to induce osmotic diuresis"
+              "Hold metformin the day of the scan and for at least 48 hours until renal function is verified",
+              "Give the morning metformin dose with 500 mL of water 1 hour prior to contrast administration",
+              "Hold metformin for 4 hours before the scan and resume therapy once post-scan voiding is noted",
+              "Substitute canagliflozin on the morning of the scan to promote renal excretion of contrast dye"
             ],
             "answer": 0,
             "rationale": "Iodinated radiocontrast media can cause acute kidney injury (contrast-induced nephropathy), leading to metformin accumulation and potentially fatal lactic acidosis. Metformin must be discontinued the day of the test and for at least 48 hours afterward, and restarted only after confirming normal renal function."
@@ -969,10 +969,10 @@
             "type": "multiple-choice",
             "prompt": "When reviewing Margaret's medication list, how does hydrochlorothiazide (a thiazide diuretic) interact with gliclazide?",
             "options": [
-              "Thiazide diuretics antagonize hypoglycemic effects and increase gliclazide metabolism, which can decrease its glucose-lowering effectiveness",
-              "Thiazide diuretics block gliclazide breakdown, causing severe refractory hypoglycemia within 30 minutes",
-              "Thiazide diuretics combine with gliclazide to cause acute necrotizing pancreatitis",
-              "Thiazide diuretics prevent intestinal absorption of gliclazide unless separated by 12 hours"
+              "It increases gliclazide metabolism and antagonizes its glucose-lowering effectiveness",
+              "It inhibits hepatic clearance of gliclazide and precipitates severe hypoglycemia",
+              "It delays intestinal absorption of gliclazide unless doses are separated by 4 hours",
+              "It displaces gliclazide from plasma proteins and increases the risk of lactic acidosis"
             ],
             "answer": 0,
             "rationale": "According to Table 33.5, diuretics (thiazides and furosemide), corticosteroids, and oral contraceptives increase the metabolism and antagonize the effects of gliclazide and insulin, resulting in decreased glucose-lowering effectiveness and elevated plasma glucose levels."
@@ -992,10 +992,10 @@
             "type": "multiple-choice",
             "prompt": "A medical resident suggests adding pioglitazone (Actos) to Robert's regimen. Why should the nurse question this prescription?",
             "options": [
-              "Pioglitazone causes fluid retention and peripheral edema and is contraindicated in patients with NYHA Class III or IV heart failure",
-              "Pioglitazone causes severe osmotic dehydration and hyperkalemia in patients taking digoxin",
-              "Pioglitazone is an alpha-glucosidase inhibitor that is only effective in type 1 diabetes",
-              "Pioglitazone triggers acute bronchospasm when combined with ACE inhibitors like ramipril"
+              "Pioglitazone causes fluid retention and edema and is contraindicated in Class III heart failure",
+              "Pioglitazone induces osmotic diuresis and severe volume depletion in patients taking ramipril",
+              "Pioglitazone blocks beta-adrenergic receptors and worsens bradycardia when combined with carvedilol",
+              "Pioglitazone inhibits renal tubular digoxin secretion and causes life-threatening hypokalemia"
             ],
             "answer": 0,
             "rationale": "Thiazolidinediones (pioglitazone, rosiglitazone) cause fluid retention, edema, and weight gain that can precipitate or worsen heart failure. They are contraindicated in NYHA Class III or IV heart failure."
@@ -1007,10 +1007,10 @@
             "type": "multiple-choice",
             "prompt": "Because Robert is taking digoxin concurrently with canagliflozin, which specific drug interaction must the nurse monitor for?",
             "options": [
-              "Canagliflozin increases serum digoxin levels, requiring close monitoring for digoxin toxicity",
-              "Canagliflozin completely inactivates digoxin, leading to rapid atrial fibrillation",
-              "Digoxin blocks the renal SGLT-2 receptor, preventing canagliflozin from lowering blood glucose",
-              "Canagliflozin and digoxin react to cause severe gingival hyperplasia"
+              "Canagliflozin can increase serum digoxin concentrations, requiring monitoring for digoxin toxicity",
+              "Canagliflozin accelerates hepatic digoxin clearance, increasing the risk of rapid atrial fibrillation",
+              "Digoxin competes with canagliflozin at proximal renal tubules, blunting urinary glucose excretion",
+              "Canagliflozin chelates oral digoxin in the small intestine, reducing digoxin bioavailability by half"
             ],
             "answer": 0,
             "rationale": "Canagliflozin increases serum digoxin concentrations, so patients taking digoxin must have their digoxin levels and clinical signs of toxicity monitored closely."
@@ -1022,10 +1022,10 @@
             "type": "multiple-choice",
             "prompt": "What is the physiological cause of Robert's orthostatic dizziness while taking canagliflozin?",
             "options": [
-              "Increased urinary glucose excretion creates an osmotic diuresis that can lead to intravascular volume depletion and orthostatic hypotension",
-              "Canagliflozin blocks sympathetic alpha-1 receptors in the brain stem",
-              "Canagliflozin stimulates excessive insulin release from beta-cells, causing neuroglycopenia",
-              "Canagliflozin causes acute third-spacing of fluid into the peritoneal cavity"
+              "Increased urinary glucose excretion causes osmotic diuresis and intravascular volume depletion",
+              "Direct alpha-adrenergic blockade in peripheral arterioles causes systemic arterial vasodilation",
+              "Excessive pancreatic insulin secretion triggers early morning neuroglycopenic light-headedness",
+              "Sodium retention in the distal renal tubules shifts fluid into the interstitial tissue spaces"
             ],
             "answer": 0,
             "rationale": "SGLT-2 inhibitors block renal glucose reabsorption, causing glucosuria and osmotic diuresis. This can result in intravascular volume depletion, dehydration, hypotension, orthostatic dizziness, and syncope."
@@ -1035,12 +1035,12 @@
           "update": "Three months later, Robert develops a severe viral gastroenteritis with vomiting and poor oral intake. He presents to urgent care with nausea, abdominal pain, tachypnea, and confusion. His plasma glucose is only 11.8 mmol/L, but his blood pH is 7.24, HCO3 is 14 mmol/L, and serum ketones are strongly positive.",
           "question": {
             "type": "multiple-choice",
-            "prompt": "Which SGLT-2 inhibitor–related complication is Robert experiencing?",
+            "prompt": "Which SGLT-2 inhibitor\u2013related complication is Robert experiencing?",
             "options": [
-              "SGLT-2 inhibitor–associated diabetic ketoacidosis (DKA) presenting with only mildly elevated blood glucose",
-              "Hyperosmolar hyperglycemic state (HHS) secondary to excessive carbohydrate intake",
-              "Somogyi rebound hyperglycemia from nocturnally elevated insulin levels",
-              "Disulfiram-like reaction caused by canagliflozin and ramipril"
+              "SGLT-2 inhibitor\u2013associated diabetic ketoacidosis with mildly elevated blood glucose",
+              "Hyperosmolar hyperglycemic state secondary to severe viral gastrointestinal fluid loss",
+              "Metformin-induced lactic acidosis precipitated by concurrent digoxin and ramipril use",
+              "Somogyi rebound hyperglycemia triggered by nocturnal counter-regulatory hormone surges"
             ],
             "answer": 0,
             "rationale": "As highlighted in the Health Canada safety review, SGLT-2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin) can precipitate diabetic ketoacidosis (DKA) unexpectedly in patients with type 2 diabetes, often with only mildly or moderately elevated plasma glucose levels."
@@ -1060,10 +1060,10 @@
             "type": "multiple-choice",
             "prompt": "Today during a busy shift, Amira is unable to eat lunch. How should she manage her midday doses of repaglinide and acarbose?",
             "options": [
-              "Skip both the midday repaglinide and acarbose doses because repaglinide causes hypoglycemia if a meal is missed and acarbose only works with food",
-              "Take the repaglinide at 1200 to prevent stress hyperglycemia, but hold the acarbose until supper",
-              "Take double doses of both repaglinide and acarbose with her evening meal at 1800",
-              "Take acarbose on an empty stomach at 1200 and take repaglinide 2 hours after supper"
+              "Skip both the midday repaglinide and acarbose doses since she is omitting lunch",
+              "Take the midday repaglinide to prevent stress hyperglycemia and hold the acarbose",
+              "Hold the midday repaglinide to avoid hypoglycemia and take the acarbose as scheduled",
+              "Combine the missed midday doses with her evening doses before eating supper at 1800"
             ],
             "answer": 0,
             "rationale": "Repaglinide (a glinide) stimulates insulin release and must be skipped whenever a meal is omitted to prevent hypoglycemia. Acarbose (an alpha-glucosidase inhibitor) works locally in the small intestine to delay carbohydrate digestion and must be taken with the first bite of a meal, so it is also omitted if no meal is eaten."
@@ -1095,10 +1095,10 @@
             "type": "multiple-choice",
             "prompt": "What should the nurse teach Amira about how liraglutide (an incretin mimetic / GLP-1 receptor agonist) helps manage her type 2 diabetes and weight?",
             "options": [
-              "It enhances glucose-dependent insulin secretion, suppresses postprandial glucagon, slows gastric emptying, and increases satiety to promote weight loss",
-              "It increases renal sodium and water retention while stimulating adipocyte fat storage",
-              "It blocks hepatic CYP3A4 enzymes to permanently cure autoimmune beta-cell destruction",
-              "It must be mixed in the same syringe with NPH insulin and injected 15 minutes before each meal"
+              "It enhances glucose-dependent insulin release, lowers glucagon, slows gastric emptying, and increases satiety",
+              "It blocks proximal renal tubular glucose reabsorption, promotes glucosuria, and reduces systolic blood pressure",
+              "It activates nuclear peroxisome receptors, increases adipocyte glucose uptake, and reduces hepatic lipid output",
+              "It inhibits intestinal disaccharidase enzymes, delays complex carbohydrate digestion, and blunts glucose spikes"
             ],
             "answer": 0,
             "rationale": "Liraglutide (Victoza) is a GLP-1 receptor agonist (incretin mimetic) that stimulates glucose-dependent insulin secretion, reduces postprandial glucagon production, slows gastric emptying, and increases satiety, typically resulting in weight loss."
@@ -1111,9 +1111,9 @@
             "prompt": "Which rare but life-threatening adverse effect of incretin mimetics (and DPP-4 inhibitors) should the nurse suspect?",
             "options": [
               "Acute hemorrhagic or necrotizing pancreatitis",
-              "Hypothyroidism and myxedema coma",
-              "Metformin-induced vitamin B12 neuropathy",
-              "Subcutaneous lipodystrophy at the injection site"
+              "Contrast-induced nephropathy and renal failure",
+              "Cholestatic jaundice and hepatic cirrhosis",
+              "Mesenteric venous thrombosis and bowel ileus"
             ],
             "answer": 0,
             "rationale": "Both incretin mimetics (exenatide, liraglutide, dulaglutide, albiglutide) and DPP-4 inhibitors have been associated with postmarketing cases of acute, hemorrhagic, or necrotizing pancreatitis after initiation and dose increases. The drug must be stopped immediately and the patient evaluated."
@@ -1133,10 +1133,10 @@
             "type": "multiple-choice",
             "prompt": "At 0700 on the morning of surgery, Walter remains NPO and is receiving an IV infusion of Ringer's lactate. His capillary blood glucose is 6.4 mmol/L. There are no specific NPO insulin parameters written on the chart. What is the nurse's priority action?",
             "options": [
-              "Withhold the morning NPH and regular insulin doses and contact the health care provider to clarify insulin orders while the patient is NPO",
-              "Administer the full 22 units of NPH and 8 units of regular insulin subcutaneously as scheduled so his glucose does not rise during surgery",
-              "Administer the 8 units of regular insulin only and give him 250 mL of orange juice to drink before going to the operating room",
-              "Mix the NPH and regular insulin into his intravenous Ringer's lactate bag to infuse over 8 hours"
+              "Withhold the morning NPH and regular insulin and contact the prescriber to clarify NPO orders",
+              "Administer the full scheduled doses of NPH and regular insulin to prevent surgical stress hyperglycemia",
+              "Administer the 22 units of NPH insulin for basal coverage and hold the 8 units of regular insulin",
+              "Add the scheduled regular insulin dose to the Ringer's lactate bag to infuse over the next 8 hours"
             ],
             "answer": 0,
             "rationale": "When a patient is placed on NPO status for surgery or diagnostic procedures, administering usual mealtime or intermediate-acting insulin without caloric intake carries a high risk of severe hypoglycemia. If specific NPO orders are not written, the nurse must hold the dose and contact the health care provider for instructions."
@@ -1148,10 +1148,10 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's best explanation for Walter's elevated plasma glucose levels?",
             "options": [
-              "Both the physiological stress of surgery and corticosteroid therapy antagonize insulin's action and stimulate hepatic glucose release",
-              "General anesthesia permanently destroys insulin receptors on skeletal muscle cells",
-              "Being NPO for 12 hours causes the kidneys to reabsorb 100% of filtered ketones into glucose",
-              "Hospital glucometers read 50% higher than home glucometers due to arterial oxygenation"
+              "Surgical stress hormones and corticosteroid therapy both antagonize insulin and raise blood glucose",
+              "Preoperative fasting depletes hepatic glycogen stores and impairs peripheral insulin receptor binding",
+              "General anesthetic agents suppress pancreatic beta-cell insulin synthesis for 48 hours after surgery",
+              "Intravenous Ringer's lactate solution is converted into glucose by the kidneys during recovery"
             ],
             "answer": 0,
             "rationale": "Physical stress (surgery, infection, trauma) triggers release of counter-regulatory hormones (cortisol, epinephrine) that mobilize glucagon and hepatic glucose, while exogenous corticosteroids directly antagonize the hypoglycemic effects of insulin, causing significant hyperglycemia."
@@ -1163,10 +1163,10 @@
             "type": "multiple-choice",
             "prompt": "Which preparation and administration technique must the nurse follow for this mixed insulin dose?",
             "options": [
-              "Gently roll the NPH vial, verify the 34-unit dose with a second RN, draw up the 12 units of clear regular insulin before the 22 units of cloudy NPH, and inject within 5 minutes of mixing",
-              "Shake the NPH vial vigorously, draw up the 22 units of cloudy NPH first, then draw up the 12 units of clear regular insulin, and let the syringe sit for 30 minutes before injecting",
-              "Draw up both insulins using a standard 3-mL tuberculin syringe calibrated in millilitres and change the needle after withdrawal",
-              "Inject the mixed insulin subcutaneously within 2 cm of Walter's umbilicus at a 15-degree intradermal angle"
+              "Gently roll the NPH vial, verify the dose with a second RN, draw up regular before NPH, and inject within 5 minutes",
+              "Gently roll the NPH vial, verify the dose with a second RN, draw up NPH before regular, and inject within 5 minutes",
+              "Shake the NPH vial to suspend crystals, draw up regular before NPH in a U-100 syringe, and wait 15 minutes to inject",
+              "Gently roll the NPH vial, draw up regular and NPH in separate tuberculin syringes, and inject within 2 cm of the navel"
             ],
             "answer": 0,
             "rationale": "Insulin is a high-alert medication requiring an independent double-check with another RN. The cloudy NPH vial is gently rolled (never shaken), clear regular insulin is drawn up before cloudy NPH ('clear before cloudy'), only a U-100 insulin syringe with a preattached needle is used, and freshly mixed regular/NPH insulin must be injected within 5 minutes of mixing to prevent binding and altered activity."
@@ -1178,10 +1178,10 @@
             "type": "multiple-choice",
             "prompt": "Which sick-day management instruction should the nurse provide to Walter?",
             "options": [
-              "\"Do not stop taking your insulin on your own; monitor your blood glucose closely because illness raises blood sugar, and contact your health care provider for sick-day dosing advice.\"",
-              "\"Stop all insulin injections immediately whenever you have a fever until you can eat three solid meals again.\"",
-              "\"Double your NPH insulin dose every 4 hours while you have the flu and avoid drinking fluids.\"",
-              "\"Switch to taking your neighbour's oral glyburide tablets whenever you feel nauseated.\""
+              "\"Continue taking your insulin, monitor blood glucose closely, and contact your prescriber for sick-day guidance.\"",
+              "\"Withhold your NPH and regular insulin injections while febrile until you can tolerate three full meals daily.\"",
+              "\"Take half of your morning NPH insulin dose and defer blood glucose testing until your nausea resolves with meals.\"",
+              "\"Double your regular insulin dose every 4 hours during a fever and restrict oral fluids to prevent vomiting.\""
             ],
             "answer": 0,
             "rationale": "Acute illness and fever trigger counter-regulatory stress hormones that elevate plasma glucose levels even when food intake is reduced. Patients should be taught never to stop taking their insulin during illness, to monitor blood glucose frequently, maintain hydration/carbohydrate intake as advised, and contact their health care provider for specific sick-day instructions."

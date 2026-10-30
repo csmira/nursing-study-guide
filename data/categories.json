@@ -3,8 +3,104 @@
     {
       "id": "pharmacology",
       "name": "Pharmacology",
-      "description": "Drug classes, safe administration, antidotes, adverse effects and patient teaching.",
+      "description": "Mixed review of every pharmacology topic below: drug classes, safe administration, adverse effects, antidotes and patient teaching.",
       "bankUrl": "data/pharmacology.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-antihypertensives",
+      "name": "Pharmacology - Antihypertensives",
+      "description": "ACE inhibitors, ARBs, beta blockers, calcium channel blockers, alpha agonists/blockers and vasodilators.",
+      "bankUrl": "data/pharmacology-antihypertensives.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-antidiuretic",
+      "name": "Pharmacology - Antidiuretic",
+      "description": "Loop, thiazide, potassium-sparing, osmotic and carbonic anhydrase inhibitor diuretics, plus antidiuretic hormone drugs.",
+      "bankUrl": "data/pharmacology-antidiuretic.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-antianginal",
+      "name": "Pharmacology - Antianginal",
+      "description": "Nitrates, beta blockers, calcium channel blockers and other drugs for angina.",
+      "bankUrl": "data/pharmacology-antianginal.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-antiepileptic",
+      "name": "Pharmacology - Antiepileptic",
+      "description": "Antiepileptic drugs, therapeutic drug levels, status epilepticus and safety teaching.",
+      "bankUrl": "data/pharmacology-antiepileptic.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-anticoagulants",
+      "name": "Pharmacology - Anticoagulants",
+      "description": "Heparins, warfarin, direct oral anticoagulants, reversal agents, antiplatelets and thrombolytics.",
+      "bankUrl": "data/pharmacology-anticoagulants.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-antiemetics",
+      "name": "Pharmacology - Antiemetics",
+      "description": "Serotonin blockers, dopamine antagonists, antihistamines, anticholinergics and other antinausea drugs.",
+      "bankUrl": "data/pharmacology-antiemetics.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-acid-control",
+      "name": "Pharmacology - Acid control",
+      "description": "Antacids, H2 receptor antagonists, proton pump inhibitors and other acid-controlling drugs.",
+      "bankUrl": "data/pharmacology-acid-control.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-thyroid",
+      "name": "Pharmacology - Thyroid and antithyroid",
+      "description": "Thyroid replacement and antithyroid drugs, thyroid labs, myxedema and thyroid storm.",
+      "bankUrl": "data/pharmacology-thyroid.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-antidiabetics",
+      "name": "Pharmacology - Antidiabetics",
+      "description": "Insulins, oral and injectable non-insulin antidiabetic drugs and hypoglycemia management.",
+      "bankUrl": "data/pharmacology-antidiabetics.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-anti-inflammatory",
+      "name": "Pharmacology - Anti-inflammatory",
+      "description": "NSAIDs, salicylates, COX-2 inhibitors and antigout drugs.",
+      "bankUrl": "data/pharmacology-anti-inflammatory.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-analgesics",
+      "name": "Pharmacology - Analgesics",
+      "description": "Opioids, opioid antagonists, acetaminophen and adjuvant analgesics.",
+      "bankUrl": "data/pharmacology-analgesics.json",
+      "questionsPerTest": 50,
+      "timeLimitMinutes": 60
+    },
+    {
+      "id": "pharmacology-heart-failure",
+      "name": "Pharmacology - Heart failure",
+      "description": "Digoxin, ACE inhibitors/ARBs, ARNI, beta blockers, diuretics and inotropes for heart failure.",
+      "bankUrl": "data/pharmacology-heart-failure.json",
       "questionsPerTest": 50,
       "timeLimitMinutes": 60
     }

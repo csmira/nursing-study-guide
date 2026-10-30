@@ -1,0 +1,1187 @@
+{
+  "categoryId": "pharmacology-thyroid",
+  "items": [
+    {
+      "id": "thy-mc-001",
+      "type": "multiple-choice",
+      "topic": "Thyroid Physiology and Hormone Synthesis",
+      "prompt": "A nursing student is reviewing the synthesis and potency of endogenous thyroid hormones. Which statement accurately compares triiodothyronine (T3) and thyroxine (T4)?",
+      "options": [
+        "T3 is approximately four times more biologically potent than T4, whereas T4 circulates in much greater quantities.",
+        "T4 is four times more biologically active at the cellular level than T3, so T3 is stored only as an inactive prohormone.",
+        "T3 is formed by coupling two diiodotyrosine molecules, whereas T4 is formed from two monoiodotyrosine molecules.",
+        "T4 is secreted directly by the anterior pituitary gland to trigger enzymatic release of T3 from the parathyroid glands."
+      ],
+      "answer": 0,
+      "rationale": "Triiodothyronine (T3) has almost four times the biological potency of thyroxine (T4), but T4 is synthesized and present in much higher quantities (normal T3:T4 ratio is approximately 1:17). T4 is formed from two diiodotyrosine molecules (four iodine atoms), whereas T3 is formed from one diiodotyrosine and one monoiodotyrosine molecule (three iodine atoms)."
+    },
+    {
+      "id": "thy-mc-002",
+      "type": "multiple-choice",
+      "topic": "Thyroid Physiology and Hormone Synthesis",
+      "prompt": "A patient asks the nurse why dietary iodine is necessary for thyroid health. Which explanation by the nurse is most accurate?",
+      "options": [
+        "Iodine directly stimulates the hypothalamus to secrete thyrotropin-releasing hormone into the bloodstream.",
+        "The thyroid gland concentrates dietary iodide to twenty times blood levels and converts it to iodine to couple with tyrosine.",
+        "Iodide binds to serum albumin to prevent peripheral tissues from breaking down circulating calcitonin.",
+        "Dietary iodine suppresses the anterior pituitary gland so that thyroglobulin remains permanently stored in the colloid."
+      ],
+      "answer": 1,
+      "rationale": "Approximately 1 mg of dietary iodide per week is absorbed from the blood, concentrated by the thyroid gland to 20 times its blood level, converted to elemental iodine (I2), and combined with the amino acid tyrosine to synthesize T3 and T4."
+    },
+    {
+      "id": "thy-mc-003",
+      "type": "multiple-choice",
+      "topic": "Pathophysiology of Hypothyroidism",
+      "prompt": "A 46-year-old patient presents with a visibly enlarged neck mass (goitre) along with cold intolerance, fatigue, and weight gain. Laboratory results reveal a markedly elevated TSH and a low free T4 level. How should the nurse interpret the mechanism of the patient's goitre?",
+      "options": [
+        "Excessive circulating thyroxine is depositing protein complexes into the parathyroid tissue.",
+        "Persistent overstimulation of the thyroid gland by elevated TSH levels is causing thyroid tissue hypertrophy.",
+        "A pituitary tumour is suppressing thyrotropin release, leading to fluid retention in the larynx.",
+        "Autoantibodies are rapidly converting peripheral T3 into calcitonin within the thyroid follicles."
+      ],
+      "answer": 1,
+      "rationale": "In primary hypothyroidism, low circulating levels of T3 and T4 trigger the anterior pituitary to secrete high levels of TSH; this chronic overstimulation by TSH causes the thyroid gland to enlarge, forming a goitre."
+    },
+    {
+      "id": "thy-mc-004",
+      "type": "multiple-choice",
+      "topic": "Pathophysiology of Hypothyroidism",
+      "prompt": "The nurse is caring for four patients diagnosed with hypothyroidism. Which patient history is consistent with secondary hypothyroidism?",
+      "options": [
+        "A 35-year-old patient who underwent radioactive iodine ablation of the thyroid gland for Graves' disease",
+        "A 52-year-old patient with anterior pituitary dysfunction resulting in reduced secretion of thyroid-stimulating hormone",
+        "A 60-year-old patient with a hypothalamic lesion that decreases secretion of thyrotropin-releasing hormone",
+        "A 70-year-old patient taking amiodarone hydrochloride who developed defective iodide trapping in the thyroid follicles"
+      ],
+      "answer": 1,
+      "rationale": "Secondary hypothyroidism originates at the level of the pituitary gland due to reduced TSH secretion. Primary hypothyroidism stems from an abnormality in the thyroid gland itself, whereas tertiary hypothyroidism results from reduced thyrotropin-releasing hormone (TRH) from the hypothalamus."
+    },
+    {
+      "id": "thy-mc-005",
+      "type": "multiple-choice",
+      "topic": "Pathophysiology of Hypothyroidism",
+      "prompt": "An adult patient with long-standing untreated hypothyroidism is admitted to the medical unit. Which cluster of clinical findings should the nurse recognize as classic manifestations of adult myxedema?",
+      "options": [
+        "Exophthalmos, resting tachycardia, profuse diaphoresis, and frequent loose stools",
+        "Firm facial edema, yellow dullness of the skin, hair loss, weight gain, and loss of physical stamina",
+        "Short stature, failure of epiphyseal closure, hyperthermia, and hyperactive deep tendon reflexes",
+        "Flushing, heat intolerance, widened pulse pressure, and unintentional weight loss despite increased appetite"
+      ],
+      "answer": 1,
+      "rationale": "Myxedema is severe adult hypothyroidism characterized by a decreased metabolic rate, loss of mental and physical stamina, weight gain, hair loss, firm non-pitting edema (especially around the face), and yellow dullness of the skin. Cretinism occurs in youth and causes short stature and delayed development."
+    },
+    {
+      "id": "thy-mc-006",
+      "type": "multiple-choice",
+      "topic": "Drug-Induced Thyroid Dysfunction",
+      "prompt": "A patient with atrial fibrillation has been prescribed amiodarone hydrochloride for several months. Why must the nurse monitor this patient's thyroid function tests and clinical status closely?",
+      "options": [
+        "Amiodarone inhibits peripheral conversion of T4 to T3 and can also exert direct cytotoxic effects on thyroid follicular cells.",
+        "Amiodarone chelates dietary iodide in the gastrointestinal tract, causing immediate thyroid storm within 48 hours.",
+        "Amiodarone acts as a synthetic T3 analogue that permanently suppresses parathyroid calcium mobilization.",
+        "Amiodarone destroys the anterior pituitary gland, selectively eliminating thyrotropin secretion without affecting T4."
+      ],
+      "answer": 0,
+      "rationale": "Amiodarone is an iodine-rich antidysrhythmic that inhibits the peripheral conversion of T4 to T3 (lowering T3 and raising serum T4) and can also have a direct cytotoxic effect on thyroid follicular cells, potentially causing either hypothyroidism or hyperthyroidism/thyrotoxicosis."
+    },
+    {
+      "id": "thy-mc-007",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Mechanism of Action",
+      "prompt": "When administering levothyroxine sodium to a patient with coronary artery disease, the nurse monitors closely for angina and dysrhythmias. By what cardiovascular mechanism do thyroid hormones increase myocardial workload?",
+      "options": [
+        "They block parasympathetic vagal tone by inhibiting acetylcholinesterase at the sinoatrial node.",
+        "They increase the number of myocardial beta-adrenergic receptors, heightening cardiac sensitivity to catecholamines.",
+        "They cause direct renal sodium and water retention by stimulating aldosterone release from the adrenal cortex.",
+        "They constrict coronary arteries by activating alpha-1 receptors while decreasing glomerular filtration rate."
+      ],
+      "answer": 1,
+      "rationale": "Thyroid hormones stimulate the cardiovascular system by increasing the number of myocardial beta-adrenergic receptors, which increases the sensitivity of the heart to circulating catecholamines and raises heart rate, contractility, and cardiac output."
+    },
+    {
+      "id": "thy-mc-008",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Contraindications",
+      "prompt": "The nurse is reviewing the admission history of a patient newly prescribed levothyroxine sodium. Which condition in the patient's medical record is a contraindication to initiating thyroid hormone replacement?",
+      "options": [
+        "Untreated adrenal insufficiency and a recent myocardial infarction",
+        "Primary hypothyroidism following a total thyroidectomy for thyroid cancer",
+        "Type 2 diabetes mellitus managed with oral antihyperglycemic therapy",
+        "First-trimester pregnancy complicated by a diffusely enlarged goitre"
+      ],
+      "answer": 0,
+      "rationale": "Thyroid replacement drugs are contraindicated in patients with known drug allergy, recent myocardial infarction (due to increased myocardial oxygen demand and catecholamine sensitivity), uncorrected adrenal insufficiency (as increasing metabolic rate can precipitate acute adrenal crisis), and hyperthyroidism."
+    },
+    {
+      "id": "thy-mc-009",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Excipients and Celiac Disease",
+      "prompt": "A patient with primary hypothyroidism is newly diagnosed with celiac disease and begins strict adherence to a gluten-free diet. How should the nurse anticipate this dietary change will affect the patient's thyroid replacement therapy?",
+      "options": [
+        "Intestinal inflammation will subside, improving levothyroxine absorption and potentially requiring a lower levothyroxine dose.",
+        "The patient must be switched from levothyroxine to liothyronine sodium because levothyroxine contains modified wheat gluten.",
+        "Eliminating dietary gluten prevents the thyroid gland from trapping iodide, requiring double the dose of levothyroxine.",
+        "A gluten-free diet accelerates hepatic metabolism of levothyroxine, requiring dosing every 6 hours with meals."
+      ],
+      "answer": 0,
+      "rationale": "Treating celiac disease with a gluten-free diet reduces intestinal mucosal inflammation, which improves the gastrointestinal absorption of levothyroxine and often necessitates a lower dose. Additionally, liothyronine sodium contains modified food starch (gluten), whereas levothyroxine contains cornstarch and lactose."
+    },
+    {
+      "id": "thy-mc-010",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Excipients",
+      "prompt": "A patient with hypothyroidism who has a severe gluten allergy is prescribed thyroid replacement therapy. Which formulation ingredient should the nurse consider when verifying the safety of the prescribed medication?",
+      "options": [
+        "Liothyronine sodium contains modified food starch with gluten, whereas levothyroxine contains cornstarch and lactose.",
+        "Levothyroxine sodium is formulated with wheat gluten, whereas desiccated thyroid is 100% synthetic and filler-free.",
+        "Both levothyroxine and liothyronine are formulated in soybean oil capsules that must be avoided in gluten allergy.",
+        "Desiccated thyroid is the only preparation guaranteed to be free of lactose, cornstarch, and animal proteins."
+      ],
+      "answer": 0,
+      "rationale": "According to the textbook, levothyroxine contains cornstarch and lactose as fillers, whereas liothyronine sodium contains modified food starch, which contains gluten."
+    },
+    {
+      "id": "thy-mc-011",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Clinical Equivalence",
+      "prompt": "A patient who has been stable on oral levothyroxine 100 mcg daily is being evaluated by the endocrinologist. Based on approximate clinically equivalent doses, 100 mcg of levothyroxine is equivalent to which alternative thyroid regimen?",
+      "options": [
+        "Liothyronine 25 mcg or desiccated thyroid 60 to 65 mg",
+        "Liothyronine 100 mcg or desiccated thyroid 10 to 15 mg",
+        "Liothyronine 400 mcg or desiccated thyroid 250 mg",
+        "Liothyronine 5 mcg or desiccated thyroid 500 mg"
+      ],
+      "answer": 0,
+      "rationale": "Table 32.1 states that the approximate clinically equivalent doses are levothyroxine 100 mcg (or more), liothyronine 25 mcg, and desiccated thyroid 60–65 mg."
+    },
+    {
+      "id": "thy-mc-012",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Medication Safety",
+      "prompt": "A post-thyroidectomy patient has an order for levothyroxine 25 mcg PO daily. The unit stock only has liothyronine (Cytomel) 25-mcg tablets available. What is the nurse's priority action?",
+      "options": [
+        "Hold the medication and contact the pharmacy to obtain levothyroxine 25 mcg because 25 mcg of liothyronine is approximately four times as potent.",
+        "Administer the 25-mcg liothyronine tablet since both medications are synthetic thyroid hormones with identical microgram potency.",
+        "Cut the 25-mcg liothyronine tablet in half and administer 12.5 mcg every 12 hours to match the half-life of levothyroxine.",
+        "Substitute 65 mg of desiccated thyroid from the ward stock so the patient does not miss the morning dose."
+      ],
+      "answer": 0,
+      "rationale": "Liothyronine (T3) 25 mcg is clinically equivalent to 100 mcg of levothyroxine (T4)—roughly four times more potent per microgram—and has a much faster onset and shorter half-life. The nurse must never substitute liothyronine for levothyroxine on a microgram-for-microgram basis."
+    },
+    {
+      "id": "thy-mc-013",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — High-Alert Dosing",
+      "prompt": "The nurse reviews a new medication order that reads: 'levothyroxine sodium 0.5 mg PO daily' for an outpatient with mild hypothyroidism. What is the nurse's best action?",
+      "options": [
+        "Question the prescriber before administering, as doses above 200 mcg (0.2 mg) are uncommon and may reflect a microgram-to-milligram error.",
+        "Administer two and a half 200-mcg tablets immediately so the patient achieves a rapid euthyroid state.",
+        "Convert the oral dose to 500 mcg IV push to avoid gastrointestinal binding with dietary fibre.",
+        "Hold the dose only if the patient's serum TSH level is greater than 10 mIU/L."
+      ],
+      "answer": 0,
+      "rationale": "Levothyroxine is dosed in micrograms (mcg), and a common medication error is confusing milligrams and micrograms. Any oral dose higher than 200 mcg (0.2 mg) for routine hypothyroidism must be questioned before administration to prevent severe toxicity."
+    },
+    {
+      "id": "thy-mc-014",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Pharmacokinetics",
+      "prompt": "A patient started on oral levothyroxine 5 days ago tells the nurse, 'I still feel exhausted and cold; this pill isn't working at all, so I want to double my dose.' Which response by the nurse is best?",
+      "options": [
+        "'Levothyroxine has a slow onset and long half-life; symptoms usually begin improving in 2 weeks, with full effects taking 3 to 8 weeks.'",
+        "'You should feel full energy within 2 hours of your first tablet, so we need to switch you to propylthiouracil today.'",
+        "'Taking two tablets at bedtime with a high-calcium snack will help the medication reach peak levels overnight.'",
+        "'If you do not feel better after 5 days, it means your body is destroying the hormone in your stomach.'"
+      ],
+      "answer": 0,
+      "rationale": "Oral levothyroxine has an onset of 3–5 days, an elimination half-life of 6–10 days, and a duration of 1–3 weeks. Improvement in symptoms is usually seen in 2 weeks, with full therapeutic results taking 3 to 4 (up to 4 to 8) weeks; doubling the dose risks severe cumulative toxicity."
+    },
+    {
+      "id": "thy-mc-015",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Pharmacokinetics and Protein Binding",
+      "prompt": "Which pharmacokinetic property of levothyroxine explains why it can be administered once daily and also carries a high risk for cumulative toxicity and drug interactions?",
+      "options": [
+        "It is highly protein-bound with an elimination half-life of 6 to 10 days, acting like a biological sustained-release drug.",
+        "It undergoes complete first-pass metabolism in the stomach within 30 minutes of oral ingestion.",
+        "It is excreted unchanged in the bile within 4 hours unless reabsorbed by intestinal calcium channels.",
+        "It has zero plasma protein binding and crosses exclusively into adipose tissue for immediate degradation."
+      ],
+      "answer": 0,
+      "rationale": "Levothyroxine is highly protein-bound and has a prolonged elimination half-life of 6 to 10 days. Because protein-bound drug acts like a biological sustained-release preparation, it remains in the body longer, permitting once-daily dosing but increasing the risk for interactions with other protein-bound drugs and toxicity."
+    },
+    {
+      "id": "thy-mc-016",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Administration Timing",
+      "prompt": "The nurse is educating a patient newly prescribed levothyroxine (Synthroid). Which instruction should the nurse give regarding when and how to take this medication?",
+      "options": [
+        "Take the tablet once daily in the morning, 60 minutes before breakfast on an empty stomach.",
+        "Take the tablet with your largest evening meal to minimize gastrointestinal irritation and nausea.",
+        "Take half of the tablet with breakfast and the other half right before bedtime to prevent afternoon fatigue.",
+        "Dissolve the tablet in calcium-fortified orange juice each morning to enhance intestinal absorption."
+      ],
+      "answer": 0,
+      "rationale": "Oral thyroid replacement drugs should be taken at the same time every day, ideally once daily in the morning 1 hour (60 minutes) before breakfast on an empty stomach to maximize GI absorption, maintain consistent hormone levels, and prevent insomnia caused by evening dosing."
+    },
+    {
+      "id": "thy-mc-017",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Brand Interchangeability",
+      "prompt": "A patient taking Synthroid calls the clinic and states, 'The pharmacy told me Synthroid is on back order, so they offered me a different brand of levothyroxine instead. Can I just switch?' What is the nurse's most appropriate advice?",
+      "options": [
+        "'Switching between different brands of levothyroxine can destabilize your thyroid levels; if a switch is unavoidable, your prescriber will need to recheck your thyroid blood tests.'",
+        "'All brands of levothyroxine and desiccated thyroid are completely interchangeable without any need for follow-up lab work.'",
+        "'Stop taking your thyroid medication completely for the next 6 weeks until your usual brand is back in stock.'",
+        "'Take two tablets of the new brand every other day so your body adjusts to the different fillers.'"
+      ],
+      "answer": 0,
+      "rationale": "Different brands of levothyroxine (e.g., Synthroid, Eltroxin, generics) are not bioequivalent and should not be interchanged casually because switching can destabilize treatment; if a change in product must occur, thyroid function test results must be monitored more closely."
+    },
+    {
+      "id": "thy-mc-018",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Food and Supplement Interactions",
+      "prompt": "A patient taking levothyroxine at 07:00 asks when she can take her daily iron and calcium carbonate supplements. How should the nurse advise her?",
+      "options": [
+        "Space iron, calcium, magnesium, or aluminum supplements by at least 4 hours from levothyroxine because they bind the drug and reduce absorption.",
+        "Take iron and calcium at 07:00 with levothyroxine because acidic minerals accelerate thyroxine uptake across the gastric mucosa.",
+        "Avoid calcium and iron completely for life, as even small dietary amounts cause irreversible thyroid gland ablation.",
+        "Space supplements by 15 minutes from levothyroxine, provided they are swallowed with soybean milk."
+      ],
+      "answer": 0,
+      "rationale": "Minerals and antacids containing iron, calcium, magnesium, or aluminum, as well as binders like cholestyramine and sevelamer, reduce the GI absorption of thyroid medication and must be spaced by at least 4 hours."
+    },
+    {
+      "id": "thy-mc-019",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Dietary Interactions",
+      "prompt": "The nurse is reviewing the dietary log of an infant with congenital hypothyroidism whose TSH remains elevated despite weight-appropriate oral levothyroxine dosing. Which item in the infant's diet is most likely decreasing levothyroxine absorption?",
+      "options": [
+        "Soybean-based infant formula",
+        "Breast milk expressed in the morning",
+        "Pureed carrots and applesauce",
+        "Electrolyte oral rehydration solution"
+      ],
+      "answer": 0,
+      "rationale": "Foods such as soybean flour (found in soy-based infant formula), cottonseed meal, walnuts, calcium-fortified orange juice, and high dietary fibre bind to levothyroxine in the GI tract and decrease its absorption, necessitating dosage adjustments."
+    },
+    {
+      "id": "thy-mc-020",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Drug Interactions",
+      "prompt": "A patient with atrial fibrillation and hypothyroidism is stabilized on warfarin and digoxin. When levothyroxine therapy is initiated, which combined drug interaction effects should the nurse anticipate?",
+      "options": [
+        "Increased anticoagulant effect of warfarin (higher bleeding risk) and decreased serum digoxin effectiveness",
+        "Decreased anticoagulant effect of warfarin (higher clotting risk) and fatal digoxin toxicity",
+        "Complete inactivation of levothyroxine by digoxin and severe thrombocytopenia from warfarin",
+        "No change in warfarin activity, but immediate bradycardia due to enhanced digoxin sensitivity"
+      ],
+      "answer": 0,
+      "rationale": "Thyroid hormones enhance the activity of oral anticoagulants (increasing bleeding risk and often requiring a lower anticoagulant dose) and decrease serum digoxin levels/effectiveness (often requiring a higher digoxin dose as metabolic rate and renal clearance rise)."
+    },
+    {
+      "id": "thy-mc-021",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Diabetes Interaction",
+      "prompt": "A patient with type 1 diabetes mellitus starts levothyroxine therapy for newly diagnosed primary hypothyroidism. What change in glycemic control should the nurse instruct the patient to monitor for?",
+      "options": [
+        "Increased blood glucose levels and a possible need for higher doses of insulin",
+        "Severe nocturnal hypoglycemia requiring a 50% reduction in basal insulin",
+        "False-negative capillary blood glucose readings caused by circulating thyroxine",
+        "Euglycemic diabetic ketoacidosis triggered by suppression of glucagon"
+      ],
+      "answer": 0,
+      "rationale": "Thyroid hormones increase carbohydrate metabolism and gluconeogenesis, which decreases the efficacy of insulin and oral antihyperglycemic drugs, resulting in increased blood glucose levels and potentially requiring increased dosages of antidiabetic medications."
+    },
+    {
+      "id": "thy-mc-022",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Enzyme Inducer Interactions",
+      "prompt": "A patient who has been euthyroid on a stable dose of levothyroxine is started on phenytoin for a seizure disorder. Which effect on the patient's thyroid status should the nurse monitor for?",
+      "options": [
+        "Reduced levothyroxine effectiveness, potentially causing a return of hypothyroid symptoms and an elevated TSH",
+        "Acute thyrotoxicosis caused by phenytoin inhibiting renal excretion of triiodothyronine",
+        "Agranulocytosis due to synergistic bone marrow suppression between phenytoin and levothyroxine",
+        "Development of Plummer's disease within 1 week of starting phenytoin"
+      ],
+      "answer": 0,
+      "rationale": "According to Table 32.3, phenytoin, fosphenytoin, phenobarbital, and estrogen reduce the effectiveness of levothyroxine, which can lead to inadequate thyroid replacement and rising TSH levels."
+    },
+    {
+      "id": "thy-mc-023",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Special Populations: Pregnancy",
+      "prompt": "A 29-year-old woman with hypothyroidism informs the clinic nurse that she is 6 weeks pregnant and is worried that her levothyroxine will harm her baby. What is the nurse's best response?",
+      "options": [
+        "'Levothyroxine is safe and essential for fetal growth; your thyroid levels will be checked and your dose adjusted every 4 weeks to keep TSH at the lower end of normal.'",
+        "'You must stop levothyroxine during the first trimester and switch to propylthiouracil so the hormone does not cross the placenta.'",
+        "'We will reduce your levothyroxine dose by 50% throughout pregnancy and check your TSH once after delivery.'",
+        "'Untreated hypothyroidism only affects the mother, so you can pause your medication until you finish breastfeeding.'"
+      ],
+      "answer": 0,
+      "rationale": "Thyroid hormone replacement is safe and necessary during pregnancy; untreated maternal hypothyroidism can retard fetal growth. During pregnancy, dosage adjustments are made every 4 weeks to maintain the serum TSH level at the lower end of the normal range."
+    },
+    {
+      "id": "thy-mc-024",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Special Populations: Older Adults",
+      "prompt": "The nurse is reviewing a new prescription for levothyroxine for a 74-year-old patient newly diagnosed with hypothyroidism. Which age-related dosing principle applies to older adults?",
+      "options": [
+        "Thyroid hormone replacement requirements are approximately 25% lower in patients aged 60 and older, so therapy is started low and titrated gradually.",
+        "Older adults require a 50% higher loading dose of levothyroxine because of decreased gastrointestinal blood flow.",
+        "Liothyronine is preferred over levothyroxine in older adults because its rapid peak prevents cardiac dysrhythmias.",
+        "Dosage adjustments in older adults should be made every 48 hours until resting heart rate exceeds 100 beats/min."
+      ],
+      "answer": 0,
+      "rationale": "Older adults (60 years and older) are much more sensitive to thyroid hormones due to decreased liver and kidney function, and their replacement requirements are approximately 25% lower than in younger patients. Therapy must be initiated cautiously and titrated gradually."
+    },
+    {
+      "id": "thy-mc-025",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Older Adult Adverse Effects",
+      "prompt": "A 78-year-old patient taking levothyroxine is being taught by the home health nurse about symptoms that require immediate notification of the health care provider. Which symptoms reported by an older adult warrant urgent evaluation?",
+      "options": [
+        "Palpitations, chest pain, stumbling or falling, shortness of breath, or new incontinence",
+        "Improved daytime energy, regular bowel movements, and a heart rate of 72 beats/min",
+        "Mild hunger before breakfast and sleeping 7 uninterrupted hours at night",
+        "Resolution of facial puffiness and warming of the hands and feet over 4 weeks"
+      ],
+      "answer": 0,
+      "rationale": "In older adults, the textbook specifically highlights that patients must contact their health care provider immediately if they experience palpitations, chest pain, stumbling, falling, depression, incontinence, sweating, shortness of breath, aggravated heart disease, cold intolerance, or weight gain."
+    },
+    {
+      "id": "thy-mc-026",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Laboratory Monitoring Schedule",
+      "prompt": "A patient with newly diagnosed moderate hypothyroidism is started on oral levothyroxine. At what intervals should the nurse expect clinical and laboratory (TSH and free T4) evaluations to be performed during dose titration and after stabilization?",
+      "options": [
+        "Every 6 to 8 weeks during dose titration until TSH normalizes, and at least annually once optimal replacement is achieved",
+        "Every 24 hours for the first week, and then monthly for the remainder of the patient's life",
+        "Every 6 months during the initial titration phase, and every 5 years once symptoms improve",
+        "Only once at 48 hours after the initial dose, as serum TSH equilibrates immediately after oral absorption"
+      ],
+      "answer": 0,
+      "rationale": "Because of levothyroxine's 6- to 10-day half-life, clinical and laboratory evaluations are recommended at 6- to 8-week intervals (or 2- to 3-week intervals in severe hypothyroidism) until serum TSH is normalized, and then at least annually or whenever patient status changes."
+    },
+    {
+      "id": "thy-mc-027",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Toxicity and Overdose",
+      "prompt": "A patient who has been taking levothyroxine for 16 months presents to the clinic reporting a 4-kg unintentional weight loss, insomnia, hand tremors, heat intolerance, and racing heartbeats. What is the nurse's priority action?",
+      "options": [
+        "Assess vital signs and cardiac rhythm, hold the next dose, and notify the prescriber of suspected thyroid hormone toxicity.",
+        "Reassure the patient that these findings indicate an optimal euthyroid metabolic rate and continue the current dose.",
+        "Instruct the patient to crush the levothyroxine tablet and take it with lunch to slow its peak plasma concentration.",
+        "Administer an extra dose of levothyroxine to suppress pituitary thyrotropin-releasing hormone."
+      ],
+      "answer": 0,
+      "rationale": "Weight loss, tachycardia, palpitations, tremors, insomnia, heat intolerance, nervousness, and hypertension are classic manifestations of levothyroxine toxicity (iatrogenic hyperthyroidism). The most significant risk is life-threatening cardiac dysrhythmia, so the nurse should assess vital signs/rhythm and contact the prescriber."
+    },
+    {
+      "id": "thy-mc-028",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Storage and Diagnostic Testing",
+      "prompt": "Which patient teaching point is accurate regarding the storage of thyroid tablets and preparation for scheduled radioactive isotope studies?",
+      "options": [
+        "Protect all thyroid tablets from light, and expect thyroid medication to be discontinued about 4 weeks before radioactive isotope studies if prescribed.",
+        "Store thyroid tablets in a clear container on a sunny windowsill, and double the dose 24 hours before a radioactive iodine uptake scan.",
+        "Keep thyroid tablets frozen at -10°C, and continue taking them right up to the morning of a radioactive isotope uptake test.",
+        "Dissolve a week's supply of thyroid tablets in tap water for storage, and stop the drug 12 hours before isotope studies."
+      ],
+      "answer": 0,
+      "rationale": "All thyroid tablets must be protected from light to prevent degradation. Additionally, if a patient is scheduled to undergo radioactive isotope studies, thyroid medication is usually discontinued about 4 weeks before the test, as prescribed, so exogenous hormone does not suppress thyroid isotope uptake."
+    },
+    {
+      "id": "thy-mc-029",
+      "type": "multiple-choice",
+      "topic": "Myxedema Coma Management",
+      "prompt": "A patient is admitted to the intensive care unit in myxedema coma with profound hypothermia, bradycardia, and obtundation. Which medication route and dosing strategy should the nurse prepare to administer?",
+      "options": [
+        "Intravenous levothyroxine sodium 300 to 500 mcg as a single initial dose, followed by 75 to 100 mcg IV daily until thyroid levels improve",
+        "Oral desiccated thyroid 15 mg crushed and administered via nasogastric tube once weekly",
+        "Oral propylthiouracil 600 mg immediately followed by intravenous propranolol",
+        "Subcutaneous methimazole 60 mg single dose followed by oral potassium iodide"
+      ],
+      "answer": 0,
+      "rationale": "Myxedema coma is a life-threatening hypothyroid emergency treated with intravenous levothyroxine sodium, typically 300–500 mcg in a single IV dose, followed by 75–100 mcg/day IV until clinical stability and thyroid levels improve."
+    },
+    {
+      "id": "thy-mc-030",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculation — Parenteral Levothyroxine",
+      "prompt": "A hospitalized patient with severe hypothyroidism has a prescription reading: 'Give levothyroxine sodium 0.1 mg IV push now.' Available in the automated dispensing cabinet are vials reconstituted to 100 mcg/mL. What dose in micrograms and what volume in millilitres will the nurse administer?",
+      "options": [
+        "100 mcg (1 mL)",
+        "10 mcg (0.1 mL)",
+        "1000 mcg (10 mL)",
+        "50 mcg (0.5 mL)"
+      ],
+      "answer": 0,
+      "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.1 mg × 1000 mcg/mg = 100 mcg. With a concentration of 100 mcg/mL, the nurse administers 1 mL."
+    },
+    {
+      "id": "thy-mc-031",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculation — Oral to Parenteral Conversion",
+      "prompt": "According to the textbook dosage table, a surgical patient who is NPO and normally takes 120 mcg of oral levothyroxine daily is switched to parenteral (IM/IV) levothyroxine at 75% of the oral dose. What parenteral daily dose should the nurse anticipate?",
+      "options": [
+        "90 mcg",
+        "120 mcg",
+        "160 mcg",
+        "30 mcg"
+      ],
+      "answer": 0,
+      "rationale": "In the Selected Thyroid Drugs dosage table (p. 531), the IM/IV maintenance dose is listed as 75% of the oral dose: 120 mcg × 0.75 = 90 mcg (note: bioavailability is higher parenterally than orally, so the parenteral dose is always smaller than the oral dose)."
+    },
+    {
+      "id": "thy-mc-032",
+      "type": "multiple-choice",
+      "topic": "Pathophysiology of Hyperthyroidism",
+      "prompt": "A nursing student is comparing the etiologies of hyperthyroidism. Which statement accurately describes the causes of thyrotoxicosis?",
+      "options": [
+        "Graves' disease is the most common cause of hyperthyroidism, whereas Plummer's disease (toxic nodular disease) is the least common cause.",
+        "Plummer's disease is an autoimmune deficiency of TSH that accounts for 95% of childhood cretinism.",
+        "Graves' disease is caused by excessive dietary intake of turnips and soy products in iodine-deficient regions.",
+        "Multinodular disease occurs only when the parathyroid glands secrete excessive calcitonin into the thyroid colloid."
+      ],
+      "answer": 0,
+      "rationale": "Graves' disease is the most common cause of hyperthyroidism, whereas Plummer's disease (also known as toxic nodular disease) is the least common cause; multinodular disease and thyroid storm are additional causes/manifestations."
+    },
+    {
+      "id": "thy-mc-033",
+      "type": "multiple-choice",
+      "topic": "Thyroid Storm Recognition and Management",
+      "prompt": "A patient with poorly controlled Graves' disease is admitted with pneumonia. Six hours after admission, the patient develops a temperature of 40.2°C, atrial tachycardia at 168 beats/min, severe agitation, delirium, and profuse diarrhea. Which condition and collaborative treatment should the nurse anticipate?",
+      "options": [
+        "Thyroid storm; administer antithyroid drugs to inhibit hormone synthesis/release, a beta-blocker for sympathetic symptoms, and supportive cooling/fluids",
+        "Myxedema coma; administer a 500-mcg intravenous bolus of levothyroxine and apply warming blankets immediately",
+        "Agranulocytosis; administer high-dose intravenous liothyronine and restrict all oral and intravenous fluids",
+        "Pheochromocytoma crisis; administer radioactive iodine-131 IV push to ablate the thyroid gland within 30 minutes"
+      ],
+      "answer": 0,
+      "rationale": "Thyroid storm (thyroid crisis) is a life-threatening exacerbation of hyperthyroidism often precipitated by infection or stress, manifested by hyperthermia, atrial tachycardia, high-output heart failure, delirium/agitation, and GI fluid losses. Death can occur within 48 hours without treatment consisting of symptom management, inhibiting thyroid hormone synthesis/release, and beta-blockers."
+    },
+    {
+      "id": "thy-mc-034",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Mechanism of Action",
+      "prompt": "How does propylthiouracil (PTU) differ mechanistically from methimazole (thiamazole / Tapazole) in the treatment of hyperthyroidism?",
+      "options": [
+        "In addition to blocking iodine incorporation into tyrosine, propylthiouracil also inhibits the peripheral conversion of T4 to T3.",
+        "Propylthiouracil immediately destroys already stored thyroid hormone in the colloid, whereas methimazole takes 6 months to act.",
+        "Propylthiouracil emits destructive beta-rays inside the thyroid follicles, whereas methimazole blocks beta-adrenergic receptors.",
+        "Propylthiouracil stimulates the anterior pituitary to release TSH, whereas methimazole suppresses hypothalamic TRH."
+      ],
+      "answer": 0,
+      "rationale": "Both thioamides (methimazole/thiamazole and propylthiouracil) inhibit the incorporation of iodine molecules into the amino acid tyrosine. However, propylthiouracil has the added ability to inhibit the conversion of T4 to the more potent T3 in the peripheral circulation."
+    },
+    {
+      "id": "thy-mc-035",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Delayed Clinical Response",
+      "prompt": "A patient newly prescribed propylthiouracil for hyperthyroidism asks the nurse why it may take up to 6 weeks before her palpitations and heat intolerance significantly improve. What is the physiological reason for this delay?",
+      "options": [
+        "Antithyroid drugs block new hormone synthesis but cannot inactivate thyroid hormones already synthesized and stored in the thyroid gland.",
+        "Propylthiouracil is not absorbed from the small intestine until intestinal bacteria convert it into active iodine over 6 weeks.",
+        "The medication must first stimulate a transient surge in TSH before the thyroid gland stops trapping dietary iodide.",
+        "Propylthiouracil has an elimination half-life of 21 days, so steady-state blood levels are not reached for 3 months."
+      ],
+      "answer": 0,
+      "rationale": "Neither methimazole nor propylthiouracil can inactivate already existing thyroid hormones stored in the thyroid follicles or circulating in the blood; therefore, clinical improvement awaits the depletion of existing hormone stores (up to 6 weeks with PTU)."
+    },
+    {
+      "id": "thy-mc-036",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Indications",
+      "prompt": "Besides serving as primary medical therapy for Graves' disease, why are thioamide antithyroid drugs prescribed prior to radioactive iodine therapy or thyroidectomy?",
+      "options": [
+        "To deplete thyroid hormone stores and prevent a dangerous surge in thyroid hormones during radioactive iodine treatment or surgery",
+        "To sensitize the parathyroid glands so serum calcium levels do not drop after thyroid tissue removal",
+        "To permanently ablate the thyroid follicles so that the surgeon only needs to remove the isthmus",
+        "To prevent postoperative hypothyroidism so the patient will never require levothyroxine replacement"
+      ],
+      "answer": 0,
+      "rationale": "Antithyroid drugs are given to treat hyperthyroidism and to prevent the surge in circulating thyroid hormones (which could precipitate thyroid storm) that occurs during radioactive iodine therapy or around the time of surgical thyroidectomy."
+    },
+    {
+      "id": "thy-mc-037",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Serious Adverse Effects",
+      "prompt": "A patient taking methimazole (Tapazole) for 4 weeks calls the clinic to report a new sore throat, fever of 38.6°C, and painful mouth ulcers. What is the nurse's priority action?",
+      "options": [
+        "Instruct the patient to seek immediate medical evaluation and obtain a stat complete blood count (CBC) to check for agranulocytosis/leukopenia.",
+        "Advise the patient to gargle with warm iodized salt water and continue taking methimazole with meals.",
+        "Reassure the patient that a mild viral syndrome is expected as the basal metabolic rate returns to normal.",
+        "Tell the patient to double the methimazole dose for 3 days because fever indicates impending thyroid storm."
+      ],
+      "answer": 0,
+      "rationale": "Bone marrow toxicity—specifically agranulocytosis and leukopenia—is one of the most serious adverse effects of thioamide antithyroid drugs. Fever, sore throat, and mouth ulcers or sores are classic early signs of leukopenia/agranulocytosis and must be reported and evaluated with a CBC immediately."
+    },
+    {
+      "id": "thy-mc-038",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Hepatotoxicity and Bleeding",
+      "prompt": "When reviewing baseline and follow-up laboratory tests for a patient taking propylthiouracil (PTU), which two organ systems are at risk for the most serious life-threatening toxicities?",
+      "options": [
+        "Liver (hepatitis, liver toxicity) and bone marrow (agranulocytosis, leukopenia, thrombocytopenia)",
+        "Pancreas (acute necrotizing pancreatitis) and adrenal cortex (Addisonian crisis)",
+        "Retina (optic neuritis) and inner ear (irreversible cochleotoxicity)",
+        "Lungs (pulmonary fibrosis) and parathyroid glands (severe hypercalcemia)"
+      ],
+      "answer": 0,
+      "rationale": "The textbook states that the most serious adverse effects of antithyroid medications are liver toxicity (hepatitis, hypoprothrombinemia) and bone marrow toxicity (agranulocytosis, leukopenia, thrombocytopenia, bleeding), requiring regular monitoring of liver function studies and CBCs."
+    },
+    {
+      "id": "thy-mc-039",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Special Populations: Pregnancy",
+      "prompt": "A 26-year-old woman with Graves' disease is discussing pregnancy planning with her health care provider. Which risk associated with antithyroid drugs during pregnancy should the nurse understand?",
+      "options": [
+        "Antithyroid drugs readily cross the placenta and can cause fetal goitre or cretinism, and thiamazole (methimazole) has been linked to fetal scalp abnormalities.",
+        "Propylthiouracil and thiamazole cannot cross the placenta, so maternal doses must be tripled to protect the fetus.",
+        "Radioactive iodine-131 is the safest first-line alternative during the first trimester of pregnancy.",
+        "Pregnancy naturally cures hyperthyroidism, allowing all antithyroid medications to be permanently stopped at conception."
+      ],
+      "answer": 0,
+      "rationale": "Propylthiouracil and thiamazole cross the placenta and can induce goitre or cretinism in the fetus; additionally, there are case reports of fetal scalp abnormalities with thiamazole. Radioactive iodine is contraindicated in pregnancy, and hyperthyroidism may be exacerbated by the metabolic demands of pregnancy."
+    },
+    {
+      "id": "thy-mc-040",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Administration and Dietary Teaching",
+      "prompt": "The nurse is providing discharge teaching to a patient with a new prescription for propylthiouracil (PTU). Which statement by the patient indicates correct understanding of the teaching?",
+      "options": [
+        "'I will take my medication with meals at the same time every day and avoid foods high in iodine like seafood, soy products, and iodized salt.'",
+        "'I should take my pills 1 hour before breakfast on an empty stomach and eat extra sushi and seaweed to support my thyroid.'",
+        "'If I develop a rash or sore throat, I can abruptly stop taking the medication without calling the clinic.'",
+        "'Because this medication is radioactive, I need to flush the toilet twice and sleep in a separate room from my family.'"
+      ],
+      "answer": 0,
+      "rationale": "Antithyroid medications are best taken with meals or a snack to reduce GI upset, at the same time every day to maintain consistent blood levels, and must never be withdrawn abruptly. Patients must avoid high-iodine foods (seafood/shellfish, iodized salt, tofu/soy products, turnips, some breads) because iodine interferes with the drug's effectiveness."
+    },
+    {
+      "id": "thy-mc-041",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Monitoring for Overtreatment",
+      "prompt": "A patient has been taking methimazole (Tapazole) for 5 months for Graves' disease. At today's clinic visit, the patient reports unexplained weight gain of 5 kg, constant fatigue, hair loss, puffiness around the eyes, and feeling cold all the time. How should the nurse interpret these findings?",
+      "options": [
+        "The patient is developing drug-induced hypothyroidism (myxedema) from excessive antithyroid effect and requires prescriber notification for dose adjustment.",
+        "The patient is experiencing early signs of thyroid storm and needs an immediate increase in the methimazole dose.",
+        "These symptoms represent normal age-related changes unrelated to methimazole therapy.",
+        "The patient has developed agranulocytosis and requires an urgent platelet transfusion."
+      ],
+      "answer": 0,
+      "rationale": "Unexplained weight gain, loss of mental and physical stamina, hair loss, facial edema, cold intolerance, and yellow dullness of the skin indicate hypothyroidism/myxedema resulting from excessive antithyroid dosing; the patient must report these to the prescriber for dosage re-regulation."
+    },
+    {
+      "id": "thy-mc-042",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Drug Interactions",
+      "prompt": "A patient taking propylthiouracil (PTU) is also prescribed warfarin for a deep vein thrombosis and a medication known to cause mild bone marrow suppression. Which drug interaction risks must the nurse monitor for?",
+      "options": [
+        "Increased anticoagulant activity with heightened risk for bleeding, plus additive leukopenic/bone marrow suppression effects",
+        "Complete reversal of warfarin anticoagulation, plus severe thrombocytosis",
+        "Decreased propylthiouracil absorption in the stomach, resulting in immediate hypertension",
+        "Acute renal excretion of warfarin, requiring a three-fold increase in the warfarin dose"
+      ],
+      "answer": 0,
+      "rationale": "Antithyroid drugs interact with oral anticoagulants to increase anticoagulation (raising bleeding risk, especially as PTU can also cause hypoprothrombinemia and thrombocytopenia) and produce additive leukopenic effects when combined with other bone marrow depressants."
+    },
+    {
+      "id": "thy-mc-043",
+      "type": "multiple-choice",
+      "topic": "Radioactive Iodine (Iodine-131)",
+      "prompt": "A patient with hyperthyroidism is scheduled for treatment with radioactive iodine (iodine-131). The patient asks how this treatment works and what to expect afterward. Which explanation by the nurse is accurate?",
+      "options": [
+        "Iodine-131 is taken up by thyroid follicles where it emits destructive beta-rays to ablate thyroid tissue, which usually requires lifelong thyroid hormone replacement afterward.",
+        "Iodine-131 coats the outside of the parathyroid glands with gamma-rays to temporarily pause TSH secretion for 2 weeks.",
+        "Iodine-131 blocks peripheral beta-adrenergic receptors in the heart without harming any cells in the thyroid gland.",
+        "Iodine-131 is a natural animal hormone preparation that restores normal thyroid function without any risk of hypothyroidism."
+      ],
+      "answer": 0,
+      "rationale": "Radioactive iodine (iodine-131) is sequestered into the follicles of the thyroid gland, where it emits destructive beta-rays that destroy (ablate) thyroid tissue. Just like thyroidectomy, ablation typically results in permanent hypothyroidism requiring lifelong thyroid hormone replacement."
+    },
+    {
+      "id": "thy-mc-044",
+      "type": "multiple-choice",
+      "topic": "Radiation Exposure Prophylaxis",
+      "prompt": "In the event of a nuclear radiation emergency involving airborne radioactive iodine, which medication listed in the chapter is administered as prophylaxis to protect the thyroid gland?",
+      "options": [
+        "Potassium iodide",
+        "Liothyronine sodium",
+        "Desiccated thyroid",
+        "Propylthiouracil"
+      ],
+      "answer": 0,
+      "rationale": "Potassium iodide is used as prophylaxis for radiation exposure; by saturating the thyroid gland with stable iodide, it prevents the gland from taking up radioactive iodine isotopes."
+    },
+    {
+      "id": "thy-mc-045",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculation — Pediatric Thiamazole (Methimazole)",
+      "prompt": "A 9-year-old child weighing 30 kg is newly diagnosed with hyperthyroidism and prescribed an initial dose of thiamazole (Tapazole) at 0.4 mg/kg/day PO divided equally into 3 daily doses. How many milligrams should the child receive per dose?",
+      "options": [
+        "4 mg per dose",
+        "12 mg per dose",
+        "6 mg per dose",
+        "0.4 mg per dose"
+      ],
+      "answer": 0,
+      "rationale": "First calculate the total daily dose: 30 kg × 0.4 mg/kg/day = 12 mg/day. Divided into 3 equal daily doses: 12 mg ÷ 3 = 4 mg per dose."
+    },
+    {
+      "id": "thy-mc-046",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculation — Pediatric Congenital Hypothyroidism",
+      "prompt": "An infant weighing 4 kg is diagnosed with congenital hypothyroidism and prescribed oral levothyroxine at 10 mcg/kg/day once daily. What daily dose in micrograms should the nurse verify, and why is prompt treatment critical in infancy?",
+      "options": [
+        "40 mcg/day; untreated hyposecretion of thyroid hormones during youth leads to cretinism (short stature, delayed development, and intellectual disability)",
+        "4 mcg/day; untreated hypothyroidism in infancy causes Graves' disease and premature epiphyseal fusion",
+        "400 mcg/day; infants metabolize levothyroxine ten times faster than adults due to high plasma protein binding",
+        "10 mcg/day; congenital hypothyroidism resolves spontaneously within 2 weeks if given a subtherapeutic dose"
+      ],
+      "answer": 0,
+      "rationale": "4 kg × 10 mcg/kg/day = 40 mcg/day (within the recommended pediatric congenital hypothyroidism range of 3–15 mcg/kg/day). Prompt replacement is vital because thyroid hormone deficiency during youth causes cretinism, marked by low metabolic rate, short stature, delayed sexual development, and intellectual disabilities."
+    },
+    {
+      "id": "thy-mc-047",
+      "type": "multiple-choice",
+      "topic": "Antithyroid Drugs — Common Adverse Effects",
+      "prompt": "Besides hematological and hepatic toxicities, which renal and central nervous system adverse effects listed in the textbook may occur in patients taking antithyroid drugs?",
+      "options": [
+        "Cloudy urine, decreased urine output, elevated BUN and serum creatinine, drowsiness, headache, vertigo, and paresthesia",
+        "Polyuria, glucosuria, metabolic alkalosis, severe insomnia, and tonic-clonic seizures",
+        "Kidney stones from hypercalcemia, urinary incontinence, and permanent expressive aphasia",
+        "Acute glomerular hyperfiltration, hypokalemia, euphoria, and resting tremors"
+      ],
+      "answer": 0,
+      "rationale": "According to Table 32.4, adverse effects of antithyroid drugs include genitourinary/renal effects (cloudy urine, decreased urine output, increased BUN and serum creatinine levels, nephritis) and CNS effects (drowsiness, headache, vertigo, paresthesia)."
+    },
+    {
+      "id": "thy-mc-048",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Diagnostic Use",
+      "prompt": "In addition to treating hypothyroidism and goitre, for which diagnostic purpose are thyroid hormone preparations used clinically?",
+      "options": [
+        "As a TSH-suppression test in the diagnosis of suspected hyperthyroidism",
+        "As a provocation test to induce thyroid storm in patients with subclinical Plummer's disease",
+        "To stimulate parathyroid hormone secretion during a serum calcium challenge test",
+        "To measure glomerular filtration rate in patients with end-stage renal disease"
+      ],
+      "answer": 0,
+      "rationale": "The textbook notes under Indications (p. 530) that thyroid drugs can be used for the diagnosis of suspected hyperthyroidism as a TSH-suppression test, as well as for preventing/treating goitre and replacing hormones after surgery or radioactive iodine."
+    },
+    {
+      "id": "thy-mc-049",
+      "type": "multiple-choice",
+      "topic": "Thyroid Replacement Drugs — Epinephrine Interaction",
+      "prompt": "A patient with coronary artery disease who takes levothyroxine daily is brought to the emergency department with severe bronchospasm, and subcutaneous epinephrine is considered. Why must the nurse exercise extreme caution with this combination?",
+      "options": [
+        "Concurrent use of thyroid preparations with epinephrine in patients with coronary disease may induce acute coronary insufficiency.",
+        "Levothyroxine chemically neutralizes epinephrine, causing immediate hypotension and bronchoconstriction.",
+        "Epinephrine displaces levothyroxine from intestinal bile acids, causing acute hepatic necrosis.",
+        "The combination causes rapid potassium shifting into cells, resulting in flaccid paralysis."
+      ],
+      "answer": 0,
+      "rationale": "Because thyroid hormones upregulate myocardial beta-adrenergic receptors and sensitize the heart to catecholamines, administering epinephrine to a patient with coronary artery disease taking thyroid replacement may precipitate acute coronary insufficiency, angina, or dysrhythmias."
+    },
+    {
+      "id": "thy-mc-050",
+      "type": "multiple-choice",
+      "topic": "Evaluation of Antithyroid Therapy",
+      "prompt": "The nurse is evaluating a patient who has been taking thiamazole (Tapazole) 30 mg/day for 6 weeks for Graves' disease. Which assessment finding indicates that the patient is NOT yet receiving an adequate therapeutic effect from the medication?",
+      "options": [
+        "Persistent resting heart rate of 116 beats/min, insomnia, irritability, fever, and frequent diarrhea",
+        "Weight gain of 1.5 kg, heart rate of 76 beats/min, and resolution of hand tremors",
+        "Sleeping 8 hours per night, improved muscle strength, and normal body temperature",
+        "Decreased nervousness, absence of palpitations, and formed daily bowel movements"
+      ],
+      "answer": 0,
+      "rationale": "As stated in the Evaluation section (p. 534), symptoms indicating that a patient is not receiving adequate doses of antithyroid medication include continued tachycardia, insomnia, irritability, fever, diarrhea, and other ongoing signs of hyperthyroidism."
+    },
+    {
+      "id": "thy-sa-001",
+      "type": "short-answer",
+      "topic": "Thyroid Replacement Drugs",
+      "prompt": "What is the generic name of the synthetic thyroxine (T4) preparation that is the drug of choice for treating hypothyroidism?",
+      "answers": [
+        {
+          "text": "levothyroxine",
+          "aliases": [
+            "levothyroxine sodium",
+            "Synthroid",
+            "Eltroxin",
+            "L-thyroxine"
+          ]
+        }
+      ],
+      "rationale": "Levothyroxine (levothyroxine sodium; Canadian brand names Synthroid and Eltroxin) is chemically pure 100% T4 with a predictable effect and long half-life, making it the drug of choice for hypothyroidism."
+    },
+    {
+      "id": "thy-sa-002",
+      "type": "short-answer",
+      "topic": "Thyroid Replacement Drugs",
+      "prompt": "What is the generic name of the synthetic triiodothyronine (T3) preparation (brand name Cytomel) that has a faster onset than T4 and is approximately four times as potent per microgram?",
+      "answers": [
+        {
+          "text": "liothyronine",
+          "aliases": [
+            "liothyronine sodium",
+            "Cytomel"
+          ]
+        }
+      ],
+      "rationale": "Liothyronine sodium (Cytomel) is the synthetic form of triiodothyronine (T3); 25 mcg of liothyronine is clinically equivalent to approximately 100 mcg of levothyroxine."
+    },
+    {
+      "id": "thy-sa-003",
+      "type": "short-answer",
+      "topic": "Antithyroid Drugs",
+      "prompt": "Which thioamide antithyroid drug both blocks the incorporation of iodine into tyrosine in the thyroid gland AND inhibits the peripheral conversion of T4 to T3?",
+      "answers": [
+        {
+          "text": "propylthiouracil",
+          "aliases": [
+            "PTU"
+          ]
+        }
+      ],
+      "rationale": "Propylthiouracil (PTU) inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosine and uniquely inhibits the peripheral conversion of T4 to the more active T3."
+    },
+    {
+      "id": "thy-sa-004",
+      "type": "short-answer",
+      "topic": "Antithyroid Drugs",
+      "prompt": "What is the generic name of the thioamide antithyroid medication marketed under the brand name Tapazole?",
+      "answers": [
+        {
+          "text": "methimazole",
+          "aliases": [
+            "thiamazole",
+            "Tapazole"
+          ]
+        }
+      ],
+      "rationale": "Methimazole (also referred to by its international nonproprietary name, thiamazole, and brand name Tapazole) is an oral thioamide antithyroid drug that inhibits the incorporation of iodine into tyrosine."
+    },
+    {
+      "id": "thy-sa-005",
+      "type": "short-answer",
+      "topic": "Laboratory Monitoring",
+      "prompt": "Which anterior pituitary hormone (also called thyrotropin) is measured in the serum as the primary laboratory indicator to guide dosage adjustments in primary hypothyroidism?",
+      "answers": [
+        {
+          "text": "TSH",
+          "aliases": [
+            "thyroid-stimulating hormone",
+            "thyroid stimulating hormone",
+            "thyrotropin",
+            "serum TSH"
+          ]
+        }
+      ],
+      "rationale": "Thyroid-stimulating hormone (TSH, or thyrotropin) secreted by the anterior pituitary gland is the primary laboratory test monitored (along with free thyroid hormone levels) to evaluate and titrate thyroid hormone replacement."
+    },
+    {
+      "id": "thy-sa-006",
+      "type": "short-answer",
+      "topic": "Drug-Induced Thyroid Dysfunction",
+      "prompt": "Which iodine-rich Class III antidysrhythmic drug inhibits the peripheral conversion of T4 to T3 and can exert a direct cytotoxic effect on thyroid follicular cells, causing either hypo- or hyperthyroidism?",
+      "answers": [
+        {
+          "text": "amiodarone",
+          "aliases": [
+            "amiodarone hydrochloride",
+            "Cordarone"
+          ]
+        }
+      ],
+      "rationale": "Amiodarone hydrochloride is an iodine-rich antidysrhythmic that inhibits peripheral T4-to-T3 conversion, blocks hormone entry into peripheral tissues, and can have a direct cytotoxic effect on thyroid follicular cells."
+    },
+    {
+      "id": "thy-sa-007",
+      "type": "short-answer",
+      "topic": "Antithyroid Drug Toxicity",
+      "prompt": "What life-threatening hematological condition—manifested by a severe drop in white blood cells, fever, sore throat, and mouth ulcers—must the nurse monitor for in a patient taking propylthiouracil or methimazole?",
+      "answers": [
+        {
+          "text": "agranulocytosis",
+          "aliases": [
+            "leukopenia",
+            "neutropenia",
+            "bone marrow suppression",
+            "bone marrow toxicity",
+            "bone marrow depression"
+          ]
+        }
+      ],
+      "rationale": "Agranulocytosis (severe leukopenia due to bone marrow toxicity) is a serious adverse effect of thioamide antithyroid drugs that presents with fever, sore throat, and oral lesions/ulcers."
+    },
+    {
+      "id": "thy-sa-008",
+      "type": "short-answer",
+      "topic": "Radiation Protection and Ablation",
+      "prompt": "Which iodide salt is administered orally as prophylaxis to protect the thyroid gland in the event of a radiation exposure emergency?",
+      "answers": [
+        {
+          "text": "potassium iodide",
+          "aliases": [
+            "KI",
+            "SSKI"
+          ]
+        }
+      ],
+      "rationale": "Potassium iodide is used as prophylaxis for radiation exposure to block the thyroid gland from sequestering radioactive iodine."
+    },
+    {
+      "id": "thy-cs-001",
+      "type": "case-study",
+      "title": "Primary Hypothyroidism in an Older Adult on Warfarin",
+      "topic": "Levothyroxine Initiation, Interactions, and Titration in Older Adults",
+      "scenario": "Margaret, a 71-year-old retired teacher, visits her primary care clinic reporting progressive fatigue, cold intolerance, constipation, dry thinning hair, and a 4.5-kg weight gain over the past 5 months. Her past medical history includes atrial fibrillation (managed with warfarin 4 mg PO daily; current INR is 2.3) and osteopenia (managed with calcium carbonate 500 mg PO twice daily). Vital signs: BP 134/78 mm Hg, HR 56 beats/min, RR 14 breaths/min, Temp 36.1°C. Laboratory results show serum TSH 18.4 mIU/L (elevated) and free T4 6.2 pmol/L (low). The prescriber diagnoses primary hypothyroidism and prescribes levothyroxine sodium (Synthroid).",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "When reviewing the initial levothyroxine dosage ordered for Margaret, which dosing principle should the nurse expect for a 71-year-old patient compared with a younger adult?",
+            "options": [
+              "Older adults are more sensitive to thyroid hormone and require approximately 25% lower doses, initiated cautiously and titrated gradually.",
+              "Older adults require a 50% higher starting dose because age-related gastric atrophy destroys levothyroxine.",
+              "Margaret should be started on intravenous liothyronine first because oral levothyroxine is contraindicated after age 65.",
+              "The full weight-based adult dose of 200 mcg/day should be started immediately to reverse her bradycardia within 24 hours."
+            ],
+            "answer": 0,
+            "rationale": "Patients aged 60 years and older are much more sensitive to thyroid hormone replacement due to decreased liver and kidney function, and their dosage requirements are approximately 25% lower than in younger adults. Therapy is started low and increased gradually."
+          }
+        },
+        {
+          "update": "The prescriber orders levothyroxine sodium 25 mcg PO once daily to start. Margaret tells the nurse, 'I always take my warfarin and my calcium carbonate tablet together with a bowl of high-fibre bran cereal and soy milk at 08:00. I'll just add this new thyroid pill to my morning handful of pills.'",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which instruction is most important for the nurse to provide Margaret regarding how to take her levothyroxine relative to her food and calcium supplement?",
+            "options": [
+              "Take levothyroxine on an empty stomach 60 minutes before breakfast, and space calcium carbonate by at least 4 hours while avoiding concurrent soy and high fibre.",
+              "Take levothyroxine with the soy milk and bran cereal, and take the calcium carbonate 30 minutes later.",
+              "Take levothyroxine at bedtime with calcium carbonate so it does not interact with morning breakfast foods.",
+              "Crush the levothyroxine tablet into calcium-fortified orange juice at 07:00 to neutralize stomach acid."
+            ],
+            "answer": 0,
+            "rationale": "Levothyroxine should be taken once daily in the morning 1 hour (60 minutes) before breakfast on an empty stomach. Calcium (and iron, magnesium, aluminum, cholestyramine, sevelamer) must be spaced by at least 4 hours, and soybean products and dietary fibre also bind levothyroxine and decrease its GI absorption."
+          }
+        },
+        {
+          "update": "Four weeks into therapy, Margaret calls the clinic to report that she noticed bruising on her forearms and bleeding from her gums when brushing her teeth. She goes to the laboratory, and her INR has risen from 2.3 to 4.1.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the pharmacological explanation for the change in Margaret's INR after starting levothyroxine?",
+            "options": [
+              "Thyroid hormones enhance the activity of oral anticoagulants, often requiring a reduction in the warfarin dosage.",
+              "Levothyroxine causes bone marrow agranulocytosis and severe thrombocytopenia in 80% of older adults.",
+              "Calcium carbonate displaced warfarin from thyroid follicles, causing acute liver failure.",
+              "Hypothyroidism protects against bleeding, so a rising INR proves that the levothyroxine tablet is not being absorbed."
+            ],
+            "answer": 0,
+            "rationale": "Thyroid replacement drugs enhance the anticoagulant activity of oral anticoagulants (such as warfarin) by increasing the catabolism of vitamin K–dependent clotting factors; therefore, INR must be monitored closely and the anticoagulant dose often needs to be reduced."
+          }
+        },
+        {
+          "update": "Margaret's warfarin dose is adjusted, and her levothyroxine is gradually titrated over several months. Six months later, her daughter brings her to the clinic because Margaret has had two near-falls (stumbling), new urinary incontinence, resting palpitations, and mild shortness of breath over the past week. Her HR is 108 beats/min and irregular.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse interpret Margaret's new symptoms and prioritize care?",
+            "options": [
+              "Recognize these as signs of thyroid hormone overreplacement/toxicity in an older adult, hold the dose, obtain an ECG and TSH/free T4, and notify the prescriber immediately.",
+              "Reassure the daughter that stumbling and incontinence are normal aging changes and advise Margaret to take her levothyroxine at night.",
+              "Switch Margaret's prescription from Synthroid to Eltroxin at the same microgram dose without notifying the prescriber.",
+              "Administer subcutaneous epinephrine to stabilize her cardiac output before checking her thyroid labs."
+            ],
+            "answer": 0,
+            "rationale": "In older adults taking thyroid hormones, palpitations, chest pain, stumbling, falling, depression, incontinence, sweating, shortness of breath, and aggravated heart disease are warning signs of adverse reactions/toxicity that require immediate medical evaluation and dosage adjustment."
+          }
+        }
+      ]
+    },
+    {
+      "id": "thy-cs-002",
+      "type": "case-study",
+      "title": "Graves' Disease, Methimazole Therapy, and Pregnancy",
+      "topic": "Antithyroid Drug Monitoring, Teaching, and Pregnancy Considerations",
+      "scenario": "Elena, a 27-year-old graphic designer, is diagnosed with hyperthyroidism secondary to Graves' disease. She presents with a 5-kg weight loss despite an increased appetite, heat intolerance, flushing, hand tremors, insomnia, and frequent diarrhea. Vital signs: BP 138/72 mm Hg, HR 118 beats/min, RR 18 breaths/min, Temp 37.4°C. The endocrinologist prescribes methimazole (Tapazole) 30 mg PO daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Before Elena takes her first dose of methimazole, which baseline laboratory tests are essential for the nurse to verify on the chart besides TSH and free T3/T4?",
+            "options": [
+              "Complete blood count (CBC) with differential and liver function studies",
+              "Serum digoxin trough level and 24-hour urine calcium excretion",
+              "Fasting serum amylase and arterial blood gases",
+              "Cerebrospinal fluid protein and serum calcitonin level"
+            ],
+            "answer": 0,
+            "rationale": "Because the most serious adverse effects of thioamide antithyroid drugs (methimazole and propylthiouracil) are bone marrow toxicity (leukopenia, agranulocytosis, thrombocytopenia) and liver toxicity (hepatitis), baseline and periodic CBCs and liver function tests are essential."
+          }
+        },
+        {
+          "update": "Elena asks the nurse, 'My coworker's aunt had thyroid treatment and had to stay away from her grandchildren because she was radioactive. Will Tapazole make me radioactive too, and are there any foods I should avoid?'",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which response by the nurse best addresses Elena's questions?",
+            "options": [
+              "'Tapazole is not radioactive—that precaution only applies to radioactive iodine-131. However, you should take Tapazole with meals and avoid high-iodine foods like seafood, soy products, tofu, turnips, and iodized salt.'",
+              "'Tapazole emits low-level beta-rays for 48 hours after each dose, so avoid close contact with children and eat extra shellfish to protect your thyroid.'",
+              "'Tapazole is a natural animal hormone that is not radioactive, and you must take it 1 hour before breakfast on an empty stomach.'",
+              "'You will only become radioactive if you eat iodized salt while taking Tapazole, so there are no other dietary restrictions.'"
+            ],
+            "answer": 0,
+            "rationale": "Oral thioamide drugs like methimazole (Tapazole) and propylthiouracil are not radioactive (unlike iodine-131 used for thyroid ablation). Patients taking antithyroid drugs should take them with meals to reduce GI upset and avoid foods high in iodine (seafood/shellfish, iodized salt, tofu/soy products, turnips, some breads) that interfere with drug efficacy."
+          }
+        },
+        {
+          "update": "Five weeks after starting methimazole, Elena calls the clinic triage line. She states, 'I woke up yesterday with a fever of 38.9°C, a terrible sore throat, and two painful sores inside my mouth.'",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Which serious hematological adverse effect of methimazole should the nurse suspect based on Elena's fever, sore throat, and mouth ulcers?",
+            "answers": [
+              {
+                "text": "agranulocytosis",
+                "aliases": [
+                  "leukopenia",
+                  "neutropenia",
+                  "bone marrow toxicity",
+                  "bone marrow suppression",
+                  "bone marrow depression"
+                ]
+              }
+            ],
+            "rationale": "Fever, sore throat, and mouth ulcers or sores in a patient taking an antithyroid drug are hallmark warning signs of agranulocytosis/leukopenia caused by bone marrow toxicity and must be evaluated immediately with a CBC."
+          }
+        },
+        {
+          "update": "Elena's WBC count is found to be mildly decreased but recovers after a dosage reduction to a maintenance dose of 15 mg/day. Eight months later, Elena calls the clinic excitedly and says, 'I just took a home pregnancy test and it's positive! Should I throw away my Tapazole right now?'",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's best instruction to Elena regarding her antithyroid medication and positive pregnancy test?",
+            "options": [
+              "'Do not stop your medication abruptly on your own; come in for an urgent appointment today so your prescriber can evaluate your treatment, as Tapazole carries fetal risks including scalp abnormalities and goitre.'",
+              "'Throw away your Tapazole immediately and schedule a radioactive iodine-131 ablation for next week.'",
+              "'Double your Tapazole dose starting tomorrow morning because pregnancy blocks the placental transfer of all thyroid drugs.'",
+              "'Continue your current dose without notifying the doctor until your routine 20-week ultrasound.'"
+            ],
+            "answer": 0,
+            "rationale": "Antithyroid drugs must never be withdrawn abruptly (especially as pregnancy metabolic demands can exacerbate hyperthyroidism and trigger thyroid storm), but both PTU and thiamazole cross the placenta (risking fetal goitre/cretinism) and thiamazole (methimazole) is associated with fetal scalp abnormalities. Immediate prescriber consultation is required to individualize safe pregnancy management (such as switching to the lowest effective dose of PTU or considering surgery)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "thy-cs-003",
+      "type": "case-study",
+      "title": "Myxedema Coma After Abrupt Discontinuation of Thyroid Replacement",
+      "topic": "Severe Hypothyroidism, Myxedema Coma, and Diabetes Interaction",
+      "scenario": "Arthur, a 66-year-old man with a history of total thyroidectomy 10 years ago and type 2 diabetes mellitus (on insulin glargine and insulin lispro), is brought to the emergency department by paramedics in January after a neighbour found him lethargic and confused in an unheated apartment. His daughter reports that Arthur ran out of his levothyroxine (Eltroxin) 100 mcg tablets 7 weeks ago and did not refill them. Vital signs: BP 88/52 mm Hg, HR 44 beats/min, RR 10 breaths/min, core Temp 34.6°C. He has firm non-pitting facial edema, dry pale-yellow skin, and depressed level of consciousness.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Based on Arthur's history and clinical presentation, which life-threatening endocrine emergency is he experiencing, and what initial medication order should the nurse anticipate?",
+            "options": [
+              "Myxedema coma; intravenous levothyroxine sodium 300 to 500 mcg as a single dose, followed by 75 to 100 mcg IV daily",
+              "Thyroid storm; oral propylthiouracil 600 mg via nasogastric tube and intravenous propranolol",
+              "Plummer's crisis; subcutaneous liothyronine 500 mcg every 2 hours until body temperature reaches 39°C",
+              "Hyperthyroid delirium; intravenous methimazole 100 mg and ice packs to the axillae and groin"
+            ],
+            "answer": 0,
+            "rationale": "Arthur presents with classic myxedema coma (severe hypothermia, bradycardia, hypotension, hypoventilation, firm facial edema, yellow dullness of skin, and obtundation after stopping thyroid replacement). The textbook regimen for myxedema coma is IV levothyroxine 300–500 mcg as a single initial dose, followed by 75–100 mcg/day IV."
+          }
+        },
+        {
+          "update": "The prescriber orders levothyroxine sodium 0.4 mg IV push once now. The pharmacy delivers vials containing levothyroxine sodium reconstituted to a concentration of 100 mcg/mL.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "How many micrograms of levothyroxine are ordered in the 0.4-mg dose? (Enter the number and unit, or just the number in mcg.)",
+            "answers": [
+              {
+                "text": "400 mcg",
+                "aliases": [
+                  "400",
+                  "400 micrograms",
+                  "400mcg"
+                ]
+              }
+            ],
+            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg × 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300–500 mcg IV single-dose range for myxedema coma)."
+          }
+        },
+        {
+          "update": "Over the next 4 days in the ICU, Arthur receives daily IV levothyroxine maintenance doses. His core temperature normalizes to 36.7°C, his heart rate rises to 72 beats/min, and he is alert and eating. However, the nurse notices his capillary blood glucose readings have climbed from 6.5–8.0 mmol/L on admission to 14.8–17.2 mmol/L today.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why have Arthur's blood glucose levels risen significantly as his thyroid hormone levels are restored?",
+            "options": [
+              "Thyroid hormones increase carbohydrate metabolism and decrease the efficacy of insulin, often requiring increased dosages of antidiabetic drugs.",
+              "Intravenous levothyroxine is formulated in 50% dextrose solution, which causes severe osmotic hyperglycemia.",
+              "Levothyroxine permanently destroys pancreatic beta-cells within 72 hours of intravenous administration.",
+              "Normalizing TSH levels suppresses renal glucose filtration while increasing insulin sensitivity."
+            ],
+            "answer": 0,
+            "rationale": "According to Table 32.3 and the Interactions section, thyroid replacement drugs decrease the efficacy of insulin and oral antihyperglycemics, resulting in increased blood glucose levels and necessitating higher dosages of antidiabetic medications."
+          }
+        },
+        {
+          "update": "Arthur is preparing for discharge home on oral levothyroxine (Eltroxin) 100 mcg daily. Because his hypothyroidism was severe, the endocrinologist schedules early follow-up laboratory testing.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "When educating Arthur and his daughter before discharge, which statement by Arthur indicates that he understands his ongoing thyroid management?",
+            "options": [
+              "'Because my thyroid gland was removed, I must take Eltroxin every morning for life, keep my tablets protected from light, and have my labs rechecked in 2 to 3 weeks.'",
+              "'Once my TSH is normal at my next visit, I can stop taking Eltroxin during the warm summer months.'",
+              "'If my pharmacy is out of Eltroxin, I can switch back and forth between Synthroid and desiccated thyroid without telling my doctor.'",
+              "'I will take my Eltroxin at bedtime with my insulin injection so I have extra energy to sleep through the night.'"
+            ],
+            "answer": 0,
+            "rationale": "After thyroidectomy, lifelong hormone replacement is required and must never be abruptly discontinued. Tablets must be protected from light, brands must not be interchanged, dosing is done in the morning before breakfast, and in patients with severe hypothyroidism, clinical and laboratory evaluations are recommended at 2- to 3-week intervals initially."
+          }
+        }
+      ]
+    },
+    {
+      "id": "thy-cs-004",
+      "type": "case-study",
+      "title": "Perioperative Thyroid Storm and Propylthiouracil Management",
+      "topic": "Thyroid Storm, Propylthiouracil, Beta-Blockers, and Radioactive Iodine Preparation",
+      "scenario": "David, a 41-year-old construction supervisor with a recent diagnosis of toxic multinodular goitre, has been nonadherent to his prescribed antithyroid medication. He is admitted to the emergency department with acute appendicitis. Two hours after admission, David becomes acutely agitated and diaphoretic. Vital signs: BP 166/94 mm Hg, HR 162 beats/min (atrial tachycardia on cardiac monitor), RR 26 breaths/min, Temp 40.1°C. He has severe nausea, vomiting, and watery diarrhea.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What acute complication has been precipitated by David's infection and physiological stress, and why is immediate intervention critical?",
+            "options": [
+              "Thyroid storm (thyroid crisis); it can cause high-output heart failure, severe fluid depletion, and death within 48 hours without treatment.",
+              "Secondary hypothyroidism; it causes sudden adrenal medullary failure if levothyroxine is not given within 1 hour.",
+              "Cretinism exacerbation; it leads to acute hypocalcemic tetany from parathyroid compression.",
+              "Agranulocytic shock; it is caused by endogenous thyrotropin destroying circulating platelets."
+            ],
+            "answer": 0,
+            "rationale": "Thyroid storm (thyroid crisis) is a severe, life-threatening exacerbation of hyperthyroidism often induced by stress or infection. Manifestations include hyperthermia, atrial tachycardia, high-output heart failure, agitation/delirium, and GI fluid depletion (nausea, vomiting, diarrhea); death can occur within 48 hours if untreated."
+          }
+        },
+        {
+          "update": "The emergency team initiates cooling measures, intravenous fluids, a beta-blocker, and high-dose oral propylthiouracil (PTU) 200 mg every 6 hours.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why are both propylthiouracil (PTU) and a beta-blocker administered together during David's thyroid storm?",
+            "options": [
+              "PTU inhibits new thyroid hormone synthesis and blocks peripheral conversion of T4 to T3, while the beta-blocker rapidly controls catecholamine-mediated tachycardia and symptoms.",
+              "PTU immediately neutralizes circulating T3 in the bloodstream, while the beta-blocker stimulates TSH release from the pituitary.",
+              "The beta-blocker ablates the thyroid follicles via beta-rays, while PTU prevents beta-blocker hepatotoxicity.",
+              "PTU increases myocardial beta-adrenergic receptors, while the beta-blocker prevents dietary iodide absorption."
+            ],
+            "answer": 0,
+            "rationale": "In hyperthyroidism and thyroid storm, PTU treats the underlying hormone excess by inhibiting iodine incorporation into tyrosine and blocking peripheral conversion of T4 to T3, whereas beta-blockers are used for symptom management to counter the heightened cardiovascular sensitivity to catecholamines."
+          }
+        },
+        {
+          "update": "David stabilizes, undergoes an uncomplicated appendectomy, and is discharged on propylthiouracil 150 mg PO three times daily (450 mg/day). Four weeks later at a follow-up visit, David's laboratory results show elevated AST and ALT levels, an elevated bilirubin, and he reports dark urine, anorexia, right upper quadrant discomfort, and yellowing of his sclerae.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which serious adverse effect of propylthiouracil is David experiencing, and what should the nurse do?",
+            "options": [
+              "Hepatotoxicity (drug-induced hepatitis); hold the medication and notify the health care provider immediately.",
+              "Myxedema coma; instruct David to keep taking PTU and avoid yellow vegetables.",
+              "Expected benign biliary excretion of iodine; reassure David and recheck his labs in 1 year.",
+              "Nephrogenic diabetes insipidus; encourage David to restrict fluid intake to 500 mL/day."
+            ],
+            "answer": 0,
+            "rationale": "Liver toxicity (hepatitis, elevated liver enzymes, jaundice, hypoprothrombinemia) is one of the two most serious adverse effects of antithyroid medications (along with bone marrow toxicity) and requires immediate prescriber notification and drug discontinuation."
+          }
+        },
+        {
+          "update": "Because David cannot tolerate thioamide antithyroid drug therapy due to hepatotoxicity, the endocrinologist discusses definitive treatment options: radioactive iodine (iodine-131) ablation or surgical thyroidectomy.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Whether David undergoes radioactive iodine-131 ablation or a total thyroidectomy, what long-term pharmacological outcome should the nurse prepare him to expect?",
+            "options": [
+              "Lifelong thyroid hormone replacement therapy (such as daily oral levothyroxine) to maintain a euthyroid state",
+              "Lifelong daily potassium iodide tablets to stimulate regrowth of the ablated thyroid lobes",
+              "Complete freedom from all medications and laboratory blood tests once the procedure is finished",
+              "Monthly intravenous infusions of thyroid-stimulating hormone (thyrotropin) to prevent osteoporosis"
+            ],
+            "answer": 0,
+            "rationale": "Both radioactive iodine-131 ablation and surgical removal of the thyroid gland destroy or remove functional thyroid tissue, which effectively cures hyperthyroidism but normally requires lifelong thyroid hormone replacement therapy afterward."
+          }
+        }
+      ]
+    },
+    {
+      "id": "thy-cs-005",
+      "type": "case-study",
+      "title": "Post-Ablation Hypothyroidism, Celiac Disease, and Bile Acid Sequestrant Interaction",
+      "topic": "Levothyroxine Absorption, Excipients, Drug Binders, and Isotope Study Prep",
+      "scenario": "Sonia, a 38-year-old accountant, underwent radioactive iodine (iodine-131) therapy 3 months ago for papillary thyroid cancer and is now on oral levothyroxine sodium (Synthroid) 125 mcg daily for hormone replacement and TSH suppression. She also takes cholestyramine 4 g PO twice daily for bile acid malabsorption and was recently diagnosed with biopsy-confirmed celiac disease.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Sonia tells the nurse that since starting her strict gluten-free diet for celiac disease 8 weeks ago, she has developed tremors, insomnia, sweating, and palpitations even though her Synthroid dose has not changed. What is the best explanation for this change?",
+            "options": [
+              "Treating celiac disease with a gluten-free diet reduces intestinal inflammation and increases levothyroxine absorption, making her previous dose excessive.",
+              "Gluten-free foods contain massive amounts of desiccated animal thyroid that cause exogenous thyrotoxicosis.",
+              "Celiac disease antibodies have suddenly regenerated her ablated thyroid gland, causing Graves' disease.",
+              "Synthroid tablets contain modified wheat gluten that is now causing an IgE-mediated anaphylactic reaction."
+            ],
+            "answer": 0,
+            "rationale": "As highlighted in the textbook (Collins et al., 2012), absorption of levothyroxine is improved when celiac disease is treated with a gluten-free diet because there is less inflammation of the intestine; consequently, a lower dose of levothyroxine is required to prevent hyperthyroid toxicity."
+          }
+        },
+        {
+          "update": "Sonia's levothyroxine dose is reduced to 100 mcg PO daily, and her symptoms resolve. Two months later, however, a routine blood test shows her TSH has risen to 9.8 mIU/L (elevated) and her free T4 is low. Upon questioning, Sonia mentions that she recently changed her schedule and now drinks her morning cholestyramine packet at 07:00 at the same time she swallows her Synthroid tablet.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How does taking cholestyramine at the same time as levothyroxine explain Sonia's rising TSH level, and how should the nurse instruct her to schedule the two medications?",
+            "options": [
+              "Cholestyramine binds to thyroid hormone in the GI tract and reduces its absorption; space levothyroxine and cholestyramine by at least 4 hours.",
+              "Cholestyramine accelerates renal clearance of TSH; take both drugs together with a high-fat dinner instead.",
+              "Cholestyramine blocks peripheral conversion of T4 to T3 in the liver; stop cholestyramine and switch to sevelamer taken with Synthroid.",
+              "Cholestyramine converts levothyroxine into inactive iodide in the bloodstream; space the two drugs by 15 minutes."
+            ],
+            "answer": 0,
+            "rationale": "Cholestyramine (and sevelamer) binds to thyroid hormone in the gastrointestinal tract, significantly reducing levothyroxine absorption. The nurse must instruct the patient to space thyroid medications and binders (or minerals) by at least 4 hours."
+          }
+        },
+        {
+          "update": "Sonia spaces her cholestyramine to 12:00 and 18:00 while taking Synthroid at 07:00 on an empty stomach. Six months later, her oncologist schedules a follow-up whole-body radioactive isotope uptake scan to check for any residual thyroid tissue.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What specific instruction regarding her oral thyroid hormone replacement should the nurse expect the prescriber to order prior to the scheduled radioactive isotope study?",
+            "options": [
+              "Discontinue the thyroid medication about 4 weeks before the radioactive isotope test, strictly as prescribed.",
+              "Double the daily levothyroxine dose for 4 weeks prior to the scan to saturate remaining thyroid cells.",
+              "Continue taking levothyroxine until 1 hour before the scan and swallow it with potassium iodide.",
+              "Switch from oral levothyroxine to intravenous levothyroxine at 100% of the oral dose on the morning of the scan."
+            ],
+            "answer": 0,
+            "rationale": "If a patient is scheduled to undergo radioactive isotope studies, thyroid medication is usually discontinued about 4 weeks before the test (only as prescribed) so that endogenous TSH rises and stimulates any residual thyroid tissue to take up the isotope."
+          }
+        },
+        {
+          "update": "Sonia's scan is clear, and she resumes her daily Synthroid 100 mcg. At her annual follow-up, she asks the nurse where she can find reliable Canadian patient education and support resources for living with a thyroid disorder.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which Canadian organization cited in the textbook should the nurse recommend to Sonia for evidence-based patient information and support?",
+            "options": [
+              "Thyroid Foundation of Canada (www.thyroid.ca)",
+              "Canadian Parathyroid and Adrenal Registry",
+              "North American Iodine Prophylaxis Board",
+              "Canadian Society for Pituitary Ablation"
+            ],
+            "answer": 0,
+            "rationale": "In the Patient Teaching Tips box (p. 535), nurses are advised to provide patients with information on the Thyroid Foundation of Canada (http://www.thyroid.ca/)."
+          }
+        }
+      ]
+    }
+  ]
+}

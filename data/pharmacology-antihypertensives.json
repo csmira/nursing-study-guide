@@ -1,0 +1,1195 @@
+{
+  "categoryId": "pharmacology-antihypertensives",
+  "items": [
+    {
+      "id": "htn-mc-001",
+      "type": "multiple-choice",
+      "topic": "Blood Pressure Regulation & Guidelines",
+      "prompt": "A nurse is calculating the mean arterial pressure (MAP) for a patient in the intensive care unit whose blood pressure is 105/60 mm Hg. What is the patient's MAP, and how should the nurse interpret this finding?",
+      "options": [
+        "75 mm Hg, which indicates adequate tissue perfusion",
+        "55 mm Hg, which indicates inadequate organ perfusion",
+        "82.5 mm Hg, which indicates high-normal blood pressure",
+        "45 mm Hg, which requires immediate vasopressor support"
+      ],
+      "answer": 0,
+      "rationale": "Mean arterial pressure (MAP) is calculated as 1/3(SBP - DBP) + DBP: 1/3(105 - 60) + 60 = 15 + 60 = 75 mm Hg. Because two thirds of the cardiac cycle is spent in diastole, a MAP of 60 mm Hg or greater is necessary to maintain adequate tissue perfusion."
+    },
+    {
+      "id": "htn-mc-002",
+      "type": "multiple-choice",
+      "topic": "Blood Pressure Regulation & Guidelines",
+      "prompt": "According to Hypertension Canada guidelines, what is the target blood pressure for an adult patient who has hypertension and concurrent type 2 diabetes mellitus?",
+      "options": [
+        "Less than 140/90 mm Hg",
+        "Less than 130/80 mm Hg",
+        "Less than 135/85 mm Hg",
+        "Less than 120/75 mm Hg"
+      ],
+      "answer": 1,
+      "rationale": "In patients with hypertension and concurrent diabetes mellitus, the Hypertension Canada blood pressure target is less than 130/80 mm Hg to reduce cardiovascular and renal morbidity. For patients without compelling indications, the non-automated office target is less than 140/90 mm Hg (or <135/85 mm Hg with automated office blood pressure)."
+    },
+    {
+      "id": "htn-mc-003",
+      "type": "multiple-choice",
+      "topic": "Ethnocultural Considerations",
+      "prompt": "A nurse is reviewing a newly diagnosed Black patient's antihypertensive therapy plan. Which classes of antihypertensive medications are documented to be most effective as initial monotherapy in Black patients?",
+      "options": [
+        "ACE inhibitors and beta blockers",
+        "Angiotensin II receptor blockers and direct renin inhibitors",
+        "Calcium channel blockers and diuretics",
+        "Centrally acting alpha2 agonists and selective aldosterone blockers"
+      ],
+      "answer": 2,
+      "rationale": "Calcium channel blockers and diuretics have been shown to be more effective in lowering blood pressure in Black patients than in White patients. Conversely, beta blockers, ACE inhibitors (such as captopril), and ARBs (such as losartan) elicit a lesser monotherapy response in Black patients because of generally lower renin levels."
+    },
+    {
+      "id": "htn-mc-004",
+      "type": "multiple-choice",
+      "topic": "Lifestyle & Nonpharmacological Management",
+      "prompt": "A nurse is providing dietary education to a patient with newly diagnosed stage 1 hypertension based on Hypertension Canada guidelines. Which daily sodium intake limit should the nurse recommend?",
+      "options": [
+        "Less than 1 000 mg (43 mmol) of sodium per day",
+        "Less than 3 400 mg (148 mmol) of sodium per day",
+        "Less than 4 000 mg (174 mmol) of sodium per day",
+        "Less than 2 000 mg (87 mmol) of sodium per day"
+      ],
+      "answer": 3,
+      "rationale": "Hypertension Canada recommends restricting dietary sodium intake to less than 87 mmol (2 000 mg of sodium, or approximately 5 g of salt) per day. The average Canadian consumes over 3 400 mg of sodium daily, primarily from processed, packaged, and restaurant foods."
+    },
+    {
+      "id": "htn-mc-005",
+      "type": "multiple-choice",
+      "topic": "Diuretics",
+      "prompt": "When selecting a first-line thiazide or thiazide-like diuretic for an adult with uncomplicated systolic/diastolic hypertension, which medication is preferred over hydrochlorothiazide according to Hypertension Canada guidelines?",
+      "options": [
+        "Chlorthalidone",
+        "Furosemide",
+        "Spironolactone",
+        "Eplerenone"
+      ],
+      "answer": 0,
+      "rationale": "Hypertension Canada guidelines specify that long-acting thiazide-like diuretics such as chlorthalidone and indapamide are preferred over shorter-acting thiazide diuretics like hydrochlorothiazide for first-line antihypertensive therapy."
+    },
+    {
+      "id": "htn-mc-006",
+      "type": "multiple-choice",
+      "topic": "Centrally Acting Adrenergic Drugs",
+      "prompt": "How does clonidine (Catapres) exert its antihypertensive effect?",
+      "options": [
+        "By blocking peripheral alpha1-adrenergic receptors on arterial and venous smooth muscle",
+        "By stimulating alpha2-adrenergic receptors in the brain to reduce sympathetic outflow",
+        "By directly inhibiting the renin enzyme from converting angiotensinogen to angiotensin I",
+        "By competitively blocking beta1-adrenergic receptors in the Sinoatrial node and myocardium"
+      ],
+      "answer": 1,
+      "rationale": "Clonidine is a centrally acting alpha2-adrenergic agonist. Stimulating inhibitory alpha2 receptors in the brain decreases sympathetic nervous system outflow from the CNS, reducing norepinephrine production and renal renin activity, which lowers blood pressure."
+    },
+    {
+      "id": "htn-mc-007",
+      "type": "multiple-choice",
+      "topic": "Centrally Acting Adrenergic Drugs",
+      "prompt": "In addition to treating hypertension, for which off-label clinical indication is clonidine (Catapres) commonly prescribed?",
+      "options": [
+        "Reversal of drug-induced methemoglobinemia in critical care",
+        "Prevention of cerebral vasospasm following subarachnoid hemorrhage",
+        "Management of opioid, nicotine, or alcohol withdrawal symptoms",
+        "Restoration of scalp hair growth in patients with alopecia"
+      ],
+      "answer": 2,
+      "rationale": "Clonidine is used for hypertension and menopausal flushing, and has common off-label uses including managing withdrawal symptoms in opioid, nicotine, or alcohol withdrawal and migraine prophylaxis. Nimodipine prevents cerebral vasospasm, methylene blue treats methemoglobinemia, and minoxidil restores hair growth."
+    },
+    {
+      "id": "htn-mc-008",
+      "type": "multiple-choice",
+      "topic": "Centrally Acting Adrenergic Drugs",
+      "prompt": "A patient taking clonidine (Catapres) 0.2 mg PO twice daily tells the nurse, 'My blood pressure is finally normal, so I am going to stop taking these pills tomorrow.' What is the nurse's priority concern?",
+      "options": [
+        "Immediate cessation leads to irreversible bilateral renal artery stenosis",
+        "Stopping clonidine suddenly causes acute hypokalemia and ventricular dysrhythmias",
+        "Sudden withdrawal precipitates systemic lupus erythematosus and hemolytic anemia",
+        "Abrupt discontinuation can trigger severe rebound hypertension and risk of stroke"
+      ],
+      "answer": 3,
+      "rationale": "Clonidine and other antihypertensives (especially centrally acting alpha2 agonists and beta blockers) must never be discontinued abruptly because doing so causes severe rebound hypertension—a sudden, dangerously high surge in blood pressure that places the patient at risk for stroke or cardiac events."
+    },
+    {
+      "id": "htn-mc-009",
+      "type": "multiple-choice",
+      "topic": "Centrally Acting Adrenergic Drugs",
+      "prompt": "A patient taking clonidine for hypertension is newly prescribed a tricyclic antidepressant (TCA) for neuropathic pain. The nurse should monitor the patient for which drug interaction?",
+      "options": [
+        "Decreased hypotensive effects of clonidine due to opposing pharmacological actions",
+        "Profound first-dose syncope due to inhibited hepatic metabolism of clonidine",
+        "Acute cyanide toxicity due to accumulation of toxic metabolic by-products",
+        "Severe hyperkalemia due to additive suppression of aldosterone secretion"
+      ],
+      "answer": 0,
+      "rationale": "Tricyclic antidepressants (TCAs), monoamine oxidase inhibitors (MAOIs), appetite suppressants, and amphetamines have opposing actions to clonidine and decrease its hypotensive effects."
+    },
+    {
+      "id": "htn-mc-010",
+      "type": "multiple-choice",
+      "topic": "Centrally Acting Adrenergic Drugs",
+      "prompt": "Which antihypertensive medication is a centrally acting alpha2-adrenergic agonist commonly used to treat hypertension during pregnancy?",
+      "options": [
+        "Enalapril",
+        "Methyldopa",
+        "Losartan",
+        "Aliskiren"
+      ],
+      "answer": 1,
+      "rationale": "Methyldopa is a centrally acting alpha2 receptor agonist commonly used to manage hypertension in pregnancy. Drugs acting on the renin–angiotensin–aldosterone system (enalapril, losartan, aliskiren) are contraindicated or not recommended during pregnancy due to fetal toxicity."
+    },
+    {
+      "id": "htn-mc-011",
+      "type": "multiple-choice",
+      "topic": "Alpha1 Blockers",
+      "prompt": "A 68-year-old male patient has both primary hypertension and obstructive benign prostatic hyperplasia (BPH). Which medication treats both conditions by blocking peripheral alpha1-adrenergic receptors?",
+      "options": [
+        "Nebivolol hydrochloride (Bystolic)",
+        "Tamsulosin hydrochloride (Flomax CR)",
+        "Doxazosin mesylate (Cardura)",
+        "Captopril (Capoten)"
+      ],
+      "answer": 2,
+      "rationale": "Doxazosin mesylate (as well as prazosin and terazosin) blocks peripheral alpha1-adrenergic receptors, dilating arteries and veins to lower blood pressure while relaxing smooth muscle in the bladder neck and prostate urethra to improve urinary flow in BPH. Tamsulosin is indicated solely for BPH and is not used to manage blood pressure."
+    },
+    {
+      "id": "htn-mc-012",
+      "type": "multiple-choice",
+      "topic": "Alpha1 Blockers",
+      "prompt": "A patient is prescribed prazosin (Minipress) for hypertension. When Verapamil hydrochloride is added to the patient's regimen, what interaction should the nurse anticipate?",
+      "options": [
+        "Inhibition of bradykinin breakdown leading to a chronic dry cough",
+        "Decreased absorption of prazosin resulting in rebound hypertension",
+        "Accelerated renal clearance of verapamil causing reflex tachycardia",
+        "Increased serum prazosin levels resulting in increased hypotension"
+      ],
+      "answer": 3,
+      "rationale": "Concurrent administration of verapamil hydrochloride increases serum prazosin levels, which leads to an additive and potentially excessive hypotensive effect."
+    },
+    {
+      "id": "htn-mc-013",
+      "type": "multiple-choice",
+      "topic": "Alpha1 Blockers",
+      "prompt": "A patient is receiving the first dose of doxazosin mesylate (Cardura). During which time window after administration should the nurse most closely monitor supine and standing blood pressures for first-dose orthostatic hypotension?",
+      "options": [
+        "Within 2 to 6 hours after the first dose",
+        "Within 1 to 10 minutes after the first dose",
+        "Between 12 and 24 hours after the first dose",
+        "Only after 2 to 4 weeks of continuous daily dosing"
+      ],
+      "answer": 0,
+      "rationale": "With doxazosin mesylate, first-dose orthostatic hypotension and syncope may occur within 2 to 6 hours after the first dose or after any dosage increase; therefore, supine and standing blood pressures and pulse rates must be assessed before and 2 to 6 hours after dosing."
+    },
+    {
+      "id": "htn-mc-014",
+      "type": "multiple-choice",
+      "topic": "Beta Blockers & Dual-Action Blockers",
+      "prompt": "How does nebivolol hydrochloride (Bystolic) differ pharmacologically from older beta1-selective adrenergic blockers such as atenolol?",
+      "options": [
+        "It potently blocks alpha2 receptors in the brainstem and must be given by continuous intravenous infusion",
+        "It produces endothelium-derived nitric oxide-dependent vasodilation and is promoted as reducing sexual dysfunction",
+        "It directly inhibits angiotensin-converting enzyme and commonly causes a persistent dry hacking cough",
+        "It stimulates beta2 receptors in bronchial smooth muscle and can be stopped abruptly without tapering"
+      ],
+      "answer": 1,
+      "rationale": "Nebivolol is a beta1-selective blocker that also produces endothelium-derived, nitric oxide-dependent vasodilation, decreasing systemic vascular resistance. It is promoted as causing less sexual dysfunction than other beta blockers, though it still must be tapered over 1 to 2 weeks when discontinuing."
+    },
+    {
+      "id": "htn-mc-015",
+      "type": "multiple-choice",
+      "topic": "Beta Blockers & Dual-Action Blockers",
+      "prompt": "A 54-year-old patient with a history of moderate persistent asthma is prescribed labetalol hydrochloride (Trandate) for newly diagnosed hypertension. What is the nurse's priority action?",
+      "options": [
+        "Check the patient's urine for ketones before giving the medication due to false-positive acetone results",
+        "Administer the medication with food to prevent dose-related gastrointestinal diarrhea",
+        "Withhold the dose and contact the prescriber because nonselective beta blockade can trigger bronchoconstriction",
+        "Instruct the patient to take the medication only when experiencing a migraine headache"
+      ],
+      "answer": 2,
+      "rationale": "Labetalol is a dual alpha1 and nonselective beta receptor blocker. Nonselective beta blockade blocks beta2 receptors in the lungs, resulting in unrestrained parasympathetic tone and bronchoconstriction, which is contraindicated in patients with asthma."
+    },
+    {
+      "id": "htn-mc-016",
+      "type": "multiple-choice",
+      "topic": "Beta Blockers & Dual-Action Blockers",
+      "prompt": "Before administering a scheduled morning dose of metoprolol tartrate to a hospitalized patient, the nurse obtains vital signs. Which assessment finding requires the nurse to withhold the medication and notify the health care provider?",
+      "options": [
+        "Blood pressure 104/66 mm Hg and apical pulse 76 beats/min",
+        "Blood pressure 148/88 mm Hg and apical pulse 68 beats/min",
+        "Blood pressure 132/82 mm Hg and respiratory rate 18 breaths/min",
+        "Blood pressure 118/74 mm Hg and apical pulse 54 beats/min"
+      ],
+      "answer": 3,
+      "rationale": "Before administering beta blockers (and other antihypertensives), the nurse must assess blood pressure and apical pulse rate. If the systolic blood pressure is less than 90 mm Hg or the apical pulse rate is less than 60 beats/min (here, 54 beats/min), the nurse should withhold the drug and notify the prescriber."
+    },
+    {
+      "id": "htn-mc-017",
+      "type": "multiple-choice",
+      "topic": "Beta Blockers & Dual-Action Blockers",
+      "prompt": "Why are beta-adrenergic blockers generally avoided or used with extreme caution in patients presenting with acute decompensated heart failure?",
+      "options": [
+        "They exert a negative inotropic effect that decreases cardiac contractility and can worsen heart failure",
+        "They increase renin and aldosterone release from the kidneys, causing acute hypernatremia",
+        "They selectively dilate pulmonary arteries and cause severe methemoglobinemia",
+        "They accelerate atrioventricular nodal conduction and precipitate ventricular fibrillation"
+      ],
+      "answer": 0,
+      "rationale": "Beta blockers have a negative inotropic effect (decreased myocardial contractility) due to beta1 receptor blockade, which can exacerbate acute heart failure and pulmonary edema."
+    },
+    {
+      "id": "htn-mc-018",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "Which two ACE inhibitors are active drugs rather than prodrugs, making them the preferred choices for a hypertensive patient with severe liver dysfunction?",
+      "options": [
+        "Enalapril and ramipril",
+        "Captopril and lisinopril",
+        "Benazepril and perindopril",
+        "Quinapril and fosinopril"
+      ],
+      "answer": 1,
+      "rationale": "Captopril and lisinopril are the only two ACE inhibitors that are NOT prodrugs. All other oral ACE inhibitors are prodrugs that require hepatic transformation into their active metabolites, making captopril and lisinopril advantageous in patients with liver dysfunction."
+    },
+    {
+      "id": "htn-mc-019",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "Why might a prescriber choose captopril (Capoten) over ramipril (Altace) when initiating oral ACE inhibitor therapy in a critically ill, hemodynamically unstable patient?",
+      "options": [
+        "Captopril blocks endothelin receptors in the lungs without affecting systemic vascular resistance",
+        "Captopril is the only ACE inhibitor that can be administered by continuous intravenous infusion",
+        "Captopril has the shortest half-life, so any adverse hemodynamic effects will resolve more quickly if the drug is stopped",
+        "Captopril increases serum aldosterone levels to help maintain intravascular blood volume"
+      ],
+      "answer": 2,
+      "rationale": "Captopril has the shortest elimination half-life (approximately 2 hours) and shortest duration of action (2 to 6 hours) of all ACE inhibitors. Although multiple daily dosing reduces outpatient adherence, its short half-life is advantageous in critically ill patients because adverse effects such as hypotension will be short-lived."
+    },
+    {
+      "id": "htn-mc-020",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "A critically ill postsurgical patient who is NPO requires parenteral ACE inhibitor therapy for acute hypertension. Which medication should the nurse expect to administer?",
+      "options": [
+        "Intramuscular perindopril",
+        "Intravenous lisinopril",
+        "Subcutaneous captopril",
+        "Enalaprilat (intravenous enalapril)"
+      ],
+      "answer": 3,
+      "rationale": "Enalapril is the only ACE inhibitor available in a parenteral preparation (enalaprilat), administered at 1.25 mg IV every 6 hours over 5 minutes for patients who cannot tolerate oral medications."
+    },
+    {
+      "id": "htn-mc-021",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "By what mechanisms do ACE inhibitors reduce both preload and afterload in patients with hypertension and heart failure?",
+      "options": [
+        "They block angiotensin II formation and bradykinin breakdown to lower afterload, and inhibit aldosterone secretion to lower preload",
+        "They stimulate alpha2 receptors in the CNS to lower preload, and block calcium influx in cardiac myocytes to lower afterload",
+        "They directly relax venous smooth muscle to increase preload, and stimulate renin release to reduce afterload",
+        "They block endothelin ETA receptors to lower preload, and inhibit prostacyclin synthesis to lower afterload"
+      ],
+      "answer": 0,
+      "rationale": "ACE inhibitors decrease systemic vascular resistance (afterload) by preventing the conversion of angiotensin I to angiotensin II and inhibiting the breakdown of vasodilating bradykinin and substance P. They decrease preload by preventing aldosterone secretion, which promotes sodium and water excretion (diuresis)."
+    },
+    {
+      "id": "htn-mc-022",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "Why are ACE inhibitors considered standard first-line therapy for hypertensive patients who have concurrent diabetes mellitus?",
+      "options": [
+        "They stimulate pancreatic beta cells to increase endogenous insulin secretion after meals",
+        "They reduce glomerular filtration pressure and proteinuria, slowing the progression of diabetic nephropathy",
+        "They prevent hypoglycemic episodes by promoting hepatic glycogenolysis during fasting",
+        "They are excreted exclusively in the bile and never affect serum creatinine or potassium levels"
+      ],
+      "answer": 1,
+      "rationale": "ACE inhibitors exert a nephroprotective effect by reducing glomerular filtration pressure and decreasing proteinuria, which prevents or delays the progression of diabetic nephropathy."
+    },
+    {
+      "id": "htn-mc-023",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "A nurse is reviewing baseline laboratory values for four patients prior to initiating ramipril (Altace). Which patient has a contraindication to starting ACE inhibitor therapy?",
+      "options": [
+        "A patient with type 2 diabetes mellitus and trace proteinuria on urinalysis",
+        "A patient with left ventricular hypertrophy and a serum sodium level of 138 mmol/L",
+        "A patient with bilateral renal artery stenosis and a serum potassium level of 5.3 mmol/L",
+        "A patient with chronic stable angina and a fasting blood glucose of 7.2 mmol/L"
+      ],
+      "answer": 2,
+      "rationale": "ACE inhibitors are contraindicated in patients with bilateral renal artery stenosis and in those with a baseline serum potassium level of 5.0 mmol/L or higher because ACE inhibitors reduce aldosterone and promote hyperkalemia."
+    },
+    {
+      "id": "htn-mc-024",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "A patient with type 1 diabetes is taking captopril (Capoten) for hypertension and diabetic nephropathy. Which laboratory test interference should the nurse keep in mind when evaluating this patient's urine dipstick results?",
+      "options": [
+        "Captopril can cause false-negative specific gravity readings",
+        "Captopril can cause false-negative urine protein test results",
+        "Captopril can cause false-positive urine leukocyte esterase results",
+        "Captopril can cause false-positive urine acetone test results"
+      ],
+      "answer": 3,
+      "rationale": "Patients taking captopril may have false-positive results on tests for acetone (ketones) in the urine, which is an important consideration when monitoring patients with diabetes."
+    },
+    {
+      "id": "htn-mc-025",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "A patient started perindopril (Coversyl) 2 weeks ago. Baseline serum creatinine was 100 µmol/L. Today, the patient's repeat serum creatinine is 142 µmol/L. What is the appropriate nursing action?",
+      "options": [
+        "Notify the prescriber to discontinue the ACE inhibitor because serum creatinine increased by more than 30% over baseline",
+        "Document the finding as an expected nephroprotective adjustment and continue the current dose",
+        "Administer a potassium chloride supplement to protect the renal tubules from further injury",
+        "Double the perindopril dose to further decrease glomerular filtration pressure"
+      ],
+      "answer": 0,
+      "rationale": "If a patient's serum creatinine increases by more than 30% over baseline after starting an ACE inhibitor (100 to 142 µmol/L is a 42% increase), the ACE inhibitor must be stopped and the prescriber notified."
+    },
+    {
+      "id": "htn-mc-026",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "A patient taking lisinopril (Prinivil) for hypertension is also taking lithium carbonate for bipolar disorder. For which potential drug interaction should the nurse monitor?",
+      "options": [
+        "Rapid renal excretion of lithium resulting in acute manic relapse",
+        "Increased serum lithium concentrations and risk of lithium toxicity",
+        "Severe hypokalemia caused by synergistic aldosterone stimulation",
+        "Inhibition of lisinopril activation in the liver leading to hypertension"
+      ],
+      "answer": 1,
+      "rationale": "Concurrent administration of ACE inhibitors (or ARBs) with lithium carbonate inhibits lithium elimination and can result in elevated lithium concentrations and lithium toxicity."
+    },
+    {
+      "id": "htn-mc-027",
+      "type": "multiple-choice",
+      "topic": "ACE Inhibitors",
+      "prompt": "A patient who started ramipril (Altace) 3 weeks ago calls the clinic reporting a newly dulled sense of taste. Which nursing response is most accurate?",
+      "options": [
+        "Taste alterations indicate severe hypokalemia and should be treated by using potassium-enriched salt substitutes",
+        "Loss of taste is an early warning sign of life-threatening cyanide toxicity requiring an immediate emergency department visit",
+        "Impaired taste is a known adverse effect of ACE inhibitors that may take 2 to 3 months to resolve even if the drug is stopped",
+        "Impaired taste only occurs when ACE inhibitors are taken on an empty stomach and resolves within 24 hours"
+      ],
+      "answer": 2,
+      "rationale": "Impaired or lost taste (dysgeusia) is a recognized adverse effect of ACE inhibitors that may last up to 2 to 3 months after the medication has been discontinued. Potassium supplements and potassium salt substitutes must be avoided due to hyperkalemia risk."
+    },
+    {
+      "id": "htn-mc-028",
+      "type": "multiple-choice",
+      "topic": "Angiotensin II Receptor Blockers",
+      "prompt": "Why do angiotensin II receptor blockers (ARBs) such as valsartan (Diovan) rarely cause the chronic, nonproductive cough frequently seen with ACE inhibitors?",
+      "options": [
+        "ARBs directly degrade circulating renin before angiotensin I can be synthesized in the lungs",
+        "ARBs suppress the cough centre in the medulla oblongata by stimulating central alpha2 receptors",
+        "ARBs block beta2 receptors in the bronchial tree to prevent airway irritation and bronchospasm",
+        "ARBs selectively block AT1 receptors without inhibiting the breakdown of bradykinin and substance P"
+      ],
+      "answer": 3,
+      "rationale": "ACE inhibitors block kininase, causing bradykinin and substance P to accumulate and trigger a dry cough. In contrast, ARBs selectively block the binding of angiotensin II to type 1 (AT1) receptors in vascular smooth muscle and the adrenal gland without preventing bradykinin breakdown."
+    },
+    {
+      "id": "htn-mc-029",
+      "type": "multiple-choice",
+      "topic": "Angiotensin II Receptor Blockers",
+      "prompt": "A patient taking losartan potassium (Cozaar) for hypertension is prescribed phenobarbital for a seizure disorder. How does phenobarbital affect losartan therapy?",
+      "options": [
+        "It increases the metabolism of losartan, resulting in decreased antihypertensive effectiveness",
+        "It blocks renal excretion of losartan, leading to profound bradycardia and syncope",
+        "It displaces losartan from plasma proteins, causing acute angioedema of the larynx",
+        "It inhibits cytochrome P450 3A4, causing life-threatening hyperkalemia within 48 hours"
+      ],
+      "answer": 0,
+      "rationale": "Phenobarbital increases the hepatic metabolism of ARBs such as losartan, which decreases the effectiveness of the ARB and requires close blood pressure monitoring."
+    },
+    {
+      "id": "htn-mc-030",
+      "type": "multiple-choice",
+      "topic": "Angiotensin II Receptor Blockers",
+      "prompt": "A 29-year-old woman who delivered a healthy infant 2 days ago asks the nurse why her pre-pregnancy prescription for candesartan (Atacand) cannot be restarted while she is breastfeeding. What is the nurse's best explanation?",
+      "options": [
+        "ARBs completely suppress maternal prolactin release and halt breast milk production within 24 hours",
+        "ARBs are contraindicated during lactation because they can cause serious adverse effects in the nursing infant",
+        "ARBs are inactivated by mammary tissue enzymes and will fail to control maternal blood pressure",
+        "ARBs cause neonatal hypertrichosis and excessive tooth enamel staining when passed in breast milk"
+      ],
+      "answer": 1,
+      "rationale": "ARBs (such as losartan and candesartan) and ACE inhibitors are contraindicated in breastfeeding women because of the potential for serious adverse effects in the nursing infant."
+    },
+    {
+      "id": "htn-mc-031",
+      "type": "multiple-choice",
+      "topic": "Calcium Channel Blockers",
+      "prompt": "A patient is admitted to the neurosurgical intensive care unit following a subarachnoid hemorrhage. Which calcium channel blocker is specifically indicated to prevent cerebral artery spasms in this patient?",
+      "options": [
+        "Verapamil",
+        "Amlodipine",
+        "Nimodipine",
+        "Diltiazem"
+      ],
+      "answer": 2,
+      "rationale": "Nimodipine is a specific calcium channel blocker used to prevent cerebral artery spasms (vasospasm) that can occur after a subarachnoid hemorrhage."
+    },
+    {
+      "id": "htn-mc-032",
+      "type": "multiple-choice",
+      "topic": "Calcium Channel Blockers",
+      "prompt": "A patient is prescribed the single-pill combination product Caduet to improve medication adherence. Which two medications are contained in Caduet?",
+      "options": [
+        "Aliskiren fumarate and hydrochlorothiazide",
+        "Amlodipine mesylate and telmisartan",
+        "Lisinopril and hydrochlorothiazide",
+        "Amlodipine mesylate and atorvastatin calcium"
+      ],
+      "answer": 3,
+      "rationale": "Caduet is a combination product containing the calcium channel blocker amlodipine mesylate and the cholesterol-lowering drug atorvastatin calcium. Twynsta combines amlodipine and telmisartan, Zestoretic combines lisinopril and hydrochlorothiazide, and Rasilez HCT combines aliskiren and hydrochlorothiazide."
+    },
+    {
+      "id": "htn-mc-033",
+      "type": "multiple-choice",
+      "topic": "Direct-Acting Vasodilators",
+      "prompt": "How does the vascular site of action of sodium nitroprusside (Nipride) differ from that of hydralazine, minoxidil, and diazoxide?",
+      "options": [
+        "Sodium nitroprusside dilates both arterioles and veins, whereas hydralazine, minoxidil, and diazoxide dilate primarily arterioles",
+        "Sodium nitroprusside dilates only systemic veins, whereas hydralazine, minoxidil, and diazoxide dilate only pulmonary capillaries",
+        "Sodium nitroprusside acts via central alpha2 receptors, whereas hydralazine, minoxidil, and diazoxide act via beta2 receptors",
+        "Sodium nitroprusside constricts efferent renal arterioles, whereas hydralazine, minoxidil, and diazoxide dilate coronary veins"
+      ],
+      "answer": 0,
+      "rationale": "Direct-acting vasodilators relax vascular smooth muscle directly. Diazoxide, hydralazine, and minoxidil work primarily through arteriolar vasodilation, whereas sodium nitroprusside produces both arteriolar and venous vasodilation."
+    },
+    {
+      "id": "htn-mc-034",
+      "type": "multiple-choice",
+      "topic": "Direct-Acting Vasodilators",
+      "prompt": "A nurse is reviewing the medical history of a patient prescribed hydralazine hydrochloride (Apresoline) for hypertension. Which condition in the patient's history is a contraindication to hydralazine?",
+      "options": [
+        "Benign prostatic hyperplasia with urinary hesitancy",
+        "Mitral valve dysfunction related to childhood rheumatic fever",
+        "Mild peripheral vascular disease of the lower extremities",
+        "Primary open-angle glaucoma treated with ophthalmic drops"
+      ],
+      "answer": 1,
+      "rationale": "Contraindications to hydralazine include known drug allergy, coronary artery disease, and mitral valve dysfunction (such as that related to childhood rheumatic fever), because reflex tachycardia and increased cardiac output can worsen myocardial ischemia and valvular strain."
+    },
+    {
+      "id": "htn-mc-035",
+      "type": "multiple-choice",
+      "topic": "Direct-Acting Vasodilators",
+      "prompt": "A patient taking oral minoxidil (Loniten) for severe refractory hypertension presents to the emergency department with muffled heart sounds, jugular venous distension, and dyspnea. Which serious adverse effect of minoxidil should the nurse suspect?",
+      "options": [
+        "Laryngeal angioedema",
+        "Drug-induced methemoglobinemia",
+        "Pericardial effusion and cardiac tamponade",
+        "Acute cyanide poisoning"
+      ],
+      "answer": 2,
+      "rationale": "Adverse effects of systemic minoxidil include T-wave ECG changes, pericardial effusion or cardiac tamponade, angina, breast tenderness, rash, thrombocytopenia, and hypertrichosis (hair growth)."
+    },
+    {
+      "id": "htn-mc-036",
+      "type": "multiple-choice",
+      "topic": "Direct-Acting Vasodilators",
+      "prompt": "A patient experiences severe hypotension following an accidental overdose of oral minoxidil. Why are norepinephrine and epinephrine contraindicated for reversing minoxidil-induced hypotension?",
+      "options": [
+        "They chelate serum calcium and precipitate tetany",
+        "They react chemically with minoxidil to release free cyanide ions",
+        "They cause irreversible bronchospasm in the presence of vasodilators",
+        "They can cause excessive cardiac stimulation and dysrhythmias"
+      ],
+      "answer": 3,
+      "rationale": "Treatment of minoxidil overdose is supportive and symptomatic with intravenous fluids. Norepinephrine and epinephrine must not be used to reverse the hypotension because of the risk of excessive cardiac stimulation."
+    },
+    {
+      "id": "htn-mc-037",
+      "type": "multiple-choice",
+      "topic": "Direct-Acting Vasodilators",
+      "prompt": "A nurse is preparing to administer an intravenous infusion of sodium nitroprusside (Nipride) to a patient in hypertensive crisis. Which nursing action is essential for safe administration of this high-alert medication?",
+      "options": [
+        "Inspect the diluted solution and discard it if it has turned blue, green, or red",
+        "Infuse the medication by gravity drip to avoid mechanical pump pressure fluctuations",
+        "Maintain the maximum infusion rate for at least 30 minutes before evaluating blood pressure",
+        "Administer the medication only to patients undergoing neurosurgery for inadequate cerebral perfusion"
+      ],
+      "answer": 0,
+      "rationale": "To prevent complications with sodium nitroprusside, the nurse must dilute it properly and avoid using any solution that has turned blue, green, or red; infuse it only via a volumetric infusion pump with continuous blood pressure monitoring; and never infuse at the maximum dose rate for more than 10 minutes. Inadequate cerebral perfusion is a contraindication."
+    },
+    {
+      "id": "htn-mc-038",
+      "type": "multiple-choice",
+      "topic": "Direct Renin Inhibitors",
+      "prompt": "How does aliskiren fumarate (Rasilez) differ from ACE inhibitors and ARBs in its effect on plasma renin activity?",
+      "options": [
+        "Aliskiren stimulates renal juxtaglomerular cells to double plasma renin secretion while blocking aldosterone receptors",
+        "Aliskiren binds directly to renin and prevents the compensatory rise in plasma renin levels seen with ACE inhibitors and ARBs",
+        "Aliskiren has an ultra-short half-life of 2 minutes and requires continuous intravenous titration",
+        "Aliskiren inhibits kininase in the pulmonary vasculature and causes a high incidence of dry cough"
+      ],
+      "answer": 1,
+      "rationale": "Aliskiren is a direct renin inhibitor that binds directly to the renin enzyme, blocking conversion of angiotensinogen to angiotensin I. Whereas ACE inhibitors and ARBs cause a compensatory rise in plasma renin levels due to suppression of the negative feedback loop, aliskiren reduces plasma renin activity and prevents this compensatory rise due to its direct action and extended half-life (31 to 41 hours)."
+    },
+    {
+      "id": "htn-mc-039",
+      "type": "multiple-choice",
+      "topic": "Direct Renin Inhibitors",
+      "prompt": "A patient is starting aliskiren fumarate (Rasilez) 150 mg PO once daily for mild-to-moderate hypertension. What should the nurse teach the patient about the drug's timeline of therapeutic effect and common adverse effects?",
+      "options": [
+        "Maximum effect requires 6 months of therapy, and a daily potassium supplement must be taken to prevent hypokalemia",
+        "Full blood pressure control occurs within 30 minutes of the first dose, and dark blue urine is an expected harmless effect",
+        "Blood pressure reduction begins within 2 weeks, reaches maximum effect after 4 weeks, and may be accompanied by dose-related diarrhea",
+        "The drug must be taken four times daily before meals, and cyclosporine is often co-prescribed to boost its absorption"
+      ],
+      "answer": 2,
+      "rationale": "With aliskiren 150 mg/day, antihypertensive effects occur within 2 weeks and reach a maximum effect after 4 weeks. Common adverse effects include headache, dizziness, fatigue, and dose-related GI effects such as diarrhea. Concomitant use with cyclosporine is not recommended."
+    },
+    {
+      "id": "htn-mc-040",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Antihypertensives",
+      "prompt": "A patient with hypertension and post-myocardial infarction heart failure is prescribed eplerenone (Inspra). Which mechanism of action accounts for the therapeutic effects of eplerenone?",
+      "options": [
+        "Irreversible inhibition of angiotensin-converting enzyme in the vascular endothelium",
+        "Antagonism of endothelin ETA and ETB receptors in pulmonary arterial smooth muscle",
+        "Direct stimulation of prostacyclin receptors to inhibit platelet aggregation",
+        "Selective blockade of aldosterone receptors in the kidney, heart, blood vessels, and brain"
+      ],
+      "answer": 3,
+      "rationale": "Eplerenone (Inspra) is a selective aldosterone receptor blocker that reduces blood pressure and improves post-MI heart failure survival by blocking the actions of aldosterone at its receptors in the kidney, heart, blood vessels, and brain."
+    },
+    {
+      "id": "htn-mc-041",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Antihypertensives",
+      "prompt": "Which patient profile represents a strict contraindication to the administration of eplerenone (Inspra)?",
+      "options": [
+        "A patient with a serum potassium level of 5.8 mmol/L who is taking a strong CYP3A4 inhibitor antifungal",
+        "A patient with stable left ventricular systolic dysfunction following an acute myocardial infarction",
+        "A patient with mild primary hypertension and a serum sodium level of 140 mmol/L",
+        "A patient with a history of dry cough while taking perindopril erbumine"
+      ],
+      "answer": 0,
+      "rationale": "Eplerenone is contraindicated in patients with elevated serum potassium levels (>5.5 mmol/L), severe kidney impairment, or concurrent use of medications that inhibit cytochrome P450 3A4 (such as certain antibiotics, antifungals, and antivirals)."
+    },
+    {
+      "id": "htn-mc-042",
+      "type": "multiple-choice",
+      "topic": "Pulmonary Artery Hypertension Drugs",
+      "prompt": "A patient with pulmonary artery hypertension (PAH) is prescribed sildenafil citrate. Under which Canadian trade name is sildenafil marketed specifically for the treatment of pulmonary artery hypertension?",
+      "options": [
+        "Adcirca",
+        "Revatio",
+        "Volibris",
+        "Remodulin"
+      ],
+      "answer": 1,
+      "rationale": "When used for pulmonary artery hypertension, sildenafil citrate is marketed under the trade name Revatio (whereas Viagra is used for erectile dysfunction). Tadalafil is marketed as Adcirca for PAH, ambrisentan as Volibris, and treprostinil as Remodulin."
+    },
+    {
+      "id": "htn-mc-043",
+      "type": "multiple-choice",
+      "topic": "Nursing Process & Patient Teaching",
+      "prompt": "A nurse is teaching a patient starting antihypertensive therapy how to monitor daily weights at home to detect fluid retention. Which instruction is correct?",
+      "options": [
+        "Report weight changes only if accompanied by a systolic blood pressure above 180 mm Hg",
+        "Weigh yourself every evening after dinner while wearing shoes and outdoor clothing",
+        "Report a weight gain of 1 kg or more in 24 hours or 2.3 kg or more in 1 week to the health care provider",
+        "Double the morning dose of your antihypertensive medication whenever your weight increases by 0.5 kg"
+      ],
+      "answer": 2,
+      "rationale": "Patients should weigh themselves each morning before breakfast, at the same time, and with the same amount of clothing, and must report an increase in weight of 1 kg or more over 24 hours or 2.3 kg or more in 1 week."
+    },
+    {
+      "id": "htn-mc-044",
+      "type": "multiple-choice",
+      "topic": "Nursing Process & Patient Teaching",
+      "prompt": "When evaluating the long-term effectiveness of antihypertensive drug therapy, which clinical assessment is considered a more reliable indicator of long-term blood pressure control than isolated office blood pressure readings?",
+      "options": [
+        "Weekly dipstick urinalysis for urinary acetone and specific gravity",
+        "Auscultation of apical heart sounds before each morning medication dose",
+        "Measurement of capillary refill time in the fingernail beds once a month",
+        "Ophthalmoscopic examination of the ocular fundus every 6 months"
+      ],
+      "answer": 3,
+      "rationale": "Because high blood pressure causes structural changes in the vasculature of the eye (hypertensive retinopathy), ophthalmoscopic examination of the ocular fundus every 6 months is a more reliable indicator of the long-term effectiveness of antihypertensive treatment than isolated blood pressure readings."
+    },
+    {
+      "id": "htn-mc-045",
+      "type": "multiple-choice",
+      "topic": "Nursing Process & Patient Teaching",
+      "prompt": "A patient taking a beta blocker and an alpha1 blocker for hypertension tells the nurse, 'I love relaxing in the sauna and hot tub at my gym after working out.' Which teaching should the nurse provide?",
+      "options": [
+        "Avoid saunas, hot tubs, and excessive heat because heat causes vasodilation that can worsen hypotension and cause fainting",
+        "Take an extra dose of your beta blocker 30 minutes before entering the sauna to prevent reflex tachycardia",
+        "Saunas and hot tubs are beneficial because sweating eliminates excess sodium and allows you to stop your medications",
+        "Limit sauna use to 45 minutes and drink a caffeinated beverage afterward to maintain vascular tone"
+      ],
+      "answer": 0,
+      "rationale": "Patients taking antihypertensives (especially beta blockers, alpha blockers, and vasodilators) must be educated to avoid hot climates, saunas, hot tubs, and hot environments because heat precipitates vasodilation and exacerbates hypotension, creating a high risk for syncope and injury."
+    },
+    {
+      "id": "htn-mc-046",
+      "type": "multiple-choice",
+      "topic": "Special Populations: Children",
+      "prompt": "A 9-year-old prepubertal child and a 16-year-old adolescent are both evaluated in a pediatric clinic for persistently elevated blood pressure. Which statement accurately reflects the etiology and risk factors of hypertension in children and adolescents?",
+      "options": [
+        "Primary hypertension accounts for 99% of cases in infants and young children, whereas renal artery stenosis occurs only after age 18",
+        "A secondary cause is more likely in prepubertal children, whereas primary hypertension strongly linked to elevated BMI predominates after puberty",
+        "Beta blockers and direct renin inhibitors have the strongest safety data in children, whereas ACE inhibitors are never used under age 18",
+        "Lifestyle modifications are ineffective in children, so combination intravenous vasodilators are always used as initial therapy"
+      ],
+      "answer": 1,
+      "rationale": "In patients who have not reached adolescence, a secondary cause of hypertension is likely to be found, whereas after puberty hypertension is likely primary (essential). Elevated BMI is the strongest risk factor for essential hypertension in youth, and ACE inhibitors, ARBs, and CCBs have the strongest supporting data when pharmacotherapy is required."
+    },
+    {
+      "id": "htn-mc-047",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculations",
+      "prompt": "A 10-year-old child weighing 30 kg is prescribed oral enalapril sodium (Vasotec) at the standard pediatric starting dose of 0.08 mg/kg once daily (up to a maximum of 5 mg/day) for hypertension. How many milligrams of enalapril should the nurse administer per dose?",
+      "options": [
+        "3.75 mg",
+        "0.24 mg",
+        "2.4 mg",
+        "5.0 mg"
+      ],
+      "answer": 2,
+      "rationale": "Multiply the child's weight by the prescribed mg/kg dose: 30 kg × 0.08 mg/kg = 2.4 mg once daily. Because 2.4 mg does not exceed the 5 mg maximum daily starting dose for children under 16 years, the nurse administers 2.4 mg."
+    },
+    {
+      "id": "htn-mc-048",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculations",
+      "prompt": "An adult patient in hypertensive crisis weighs 75 kg and is prescribed an intravenous infusion of sodium nitroprusside (Nipride) at 2 mcg/kg/min. The pharmacy supplies sodium nitroprusside 50 mg diluted in 250 mL of D5W (concentration: 200 mcg/mL). At what rate in mL/hr should the nurse program the volumetric infusion pump?",
+      "options": [
+        "90 mL/hr",
+        "15 mL/hr",
+        "22.5 mL/hr",
+        "45 mL/hr"
+      ],
+      "answer": 3,
+      "rationale": "First calculate the dose in mcg/min: 75 kg × 2 mcg/kg/min = 150 mcg/min. Convert to mcg/hr: 150 mcg/min × 60 min/hr = 9 000 mcg/hr. Divide by the solution concentration (50 000 mcg / 250 mL = 200 mcg/mL): 9 000 mcg/hr ÷ 200 mcg/mL = 45 mL/hr."
+    },
+    {
+      "id": "htn-mc-049",
+      "type": "multiple-choice",
+      "topic": "Angiotensin II Receptor Blockers",
+      "prompt": "A patient calls the clinic in a panic after reading a Health Canada recall notice regarding an N-nitroso-N-methyl-4-aminobutyric acid (NMBA) impurity in certain lots of losartan/hydrochlorothiazide tablets. What instruction should the nurse give the patient?",
+      "options": [
+        "Continue taking your medication and contact your pharmacist or prescriber for a replacement rather than stopping abruptly",
+        "Stop taking the tablets immediately and wait 4 weeks before checking your blood pressure at a pharmacy kiosk",
+        "Induce vomiting immediately and go to the nearest emergency department for hemodialysis",
+        "Take double doses of over-the-counter ibuprofen to control your blood pressure until a new prescription is written"
+      ],
+      "answer": 0,
+      "rationale": "Health Canada advised that there is no immediate risk from taking affected losartan/HCTZ lots and that patients should not abruptly stop taking their antihypertensive medication without consulting their health care provider, as abrupt cessation risks severe rebound hypertension."
+    },
+    {
+      "id": "htn-mc-050",
+      "type": "multiple-choice",
+      "topic": "Nursing Process & Assessment",
+      "prompt": "When assessing a patient for orthostatic hypotension after starting an adrenergic-blocking drug, which change in blood pressure within 3 minutes of standing from a supine or sitting position confirms orthostatic hypotension?",
+      "options": [
+        "A decrease in systolic blood pressure of 5 mm Hg or more, accompanied by a decrease in heart rate of 15 beats/min",
+        "A decrease in systolic blood pressure of 20 mm Hg or more, or a decrease in diastolic blood pressure of 10 mm Hg or more",
+        "An increase in systolic blood pressure of 20 mm Hg or more, or an increase in diastolic blood pressure of 10 mm Hg or more",
+        "A mean arterial pressure that remains above 90 mm Hg after standing for 10 minutes"
+      ],
+      "answer": 1,
+      "rationale": "Orthostatic (postural) hypotension is defined as a sudden drop in systolic blood pressure of 20 mm Hg or greater or a drop in diastolic blood pressure of 10 mm Hg or greater within 3 minutes of standing compared with the sitting or supine reading."
+    },
+    {
+      "id": "htn-sa-001",
+      "type": "short-answer",
+      "topic": "Direct Renin Inhibitors",
+      "prompt": "What is the generic name of the only direct renin inhibitor approved in Canada for the treatment of hypertension?",
+      "answers": [
+        {
+          "text": "aliskiren",
+          "aliases": [
+            "aliskiren fumarate",
+            "Rasilez"
+          ]
+        }
+      ],
+      "rationale": "Aliskiren (aliskiren fumarate; Rasilez) is the sole drug in the direct renin inhibitor class. It binds directly to the renin enzyme to prevent the conversion of angiotensinogen to angiotensin I."
+    },
+    {
+      "id": "htn-sa-002",
+      "type": "short-answer",
+      "topic": "Alpha1 Blockers",
+      "prompt": "What is the clinical term for the severe hypotensive effect and loss of consciousness that can occur when a patient changes position after taking the very first dose of an alpha1-adrenergic blocker?",
+      "answers": [
+        {
+          "text": "first-dose syncope",
+          "aliases": [
+            "first dose syncope",
+            "first-dose effect",
+            "first dose phenomenon",
+            "syncope"
+          ]
+        }
+      ],
+      "rationale": "First-dose syncope refers to a severe hypotensive effect with loss of consciousness that can occur with the initial dose of an alpha1 blocker (such as doxazosin or prazosin) or alpha agonist. Administering the first dose at bedtime helps prevent injury."
+    },
+    {
+      "id": "htn-sa-003",
+      "type": "short-answer",
+      "topic": "ACE Inhibitors",
+      "prompt": "Which life-threatening vascular reaction involving acute inflammation and swelling of submucosal and laryngeal tissues is a rare adverse effect of ACE inhibitors that requires immediate discontinuation of the drug?",
+      "answers": [
+        {
+          "text": "angioedema",
+          "aliases": [
+            "angioneurotic edema",
+            "laryngeal edema"
+          ]
+        }
+      ],
+      "rationale": "Angioedema is a rare but potentially fatal adverse effect of ACE inhibitors involving submucosal and laryngeal swelling that can progress to airway obstruction and anaphylaxis."
+    },
+    {
+      "id": "htn-sa-004",
+      "type": "short-answer",
+      "topic": "ACE Inhibitors",
+      "prompt": "Which ACE inhibitor is the only drug in its class available in both oral (Vasotec) and parenteral (intravenous) formulations?",
+      "answers": [
+        {
+          "text": "enalapril",
+          "aliases": [
+            "enalapril sodium",
+            "enalaprilat",
+            "Vasotec"
+          ]
+        }
+      ],
+      "rationale": "Enalapril sodium (Vasotec) is the only marketed ACE inhibitor available in both oral and parenteral (enalaprilat) preparations."
+    },
+    {
+      "id": "htn-sa-005",
+      "type": "short-answer",
+      "topic": "Direct-Acting Vasodilators",
+      "prompt": "Which direct-acting arteriolar vasodilator is also used topically (under the trade name Rogaine) because of its notable effect of restoring hair growth?",
+      "answers": [
+        {
+          "text": "minoxidil",
+          "aliases": [
+            "Loniten",
+            "Rogaine"
+          ]
+        }
+      ],
+      "rationale": "Minoxidil (Loniten orally; Rogaine topically) is a direct-acting arteriolar vasodilator used for severe hypertension that also stimulates hair growth."
+    },
+    {
+      "id": "htn-sa-006",
+      "type": "short-answer",
+      "topic": "Electrolyte Monitoring",
+      "prompt": "Which serum electrolyte imbalance must the nurse closely monitor for when a patient is taking an ACE inhibitor, an ARB, or eplerenone, particularly if combined with a potassium-sparing diuretic?",
+      "answers": [
+        {
+          "text": "hyperkalemia",
+          "aliases": [
+            "high potassium",
+            "elevated potassium",
+            "potassium"
+          ]
+        }
+      ],
+      "rationale": "ACE inhibitors, ARBs, and selective aldosterone blockers (eplerenone) reduce aldosterone activity, promoting potassium resorption in the kidneys and placing the patient at risk for hyperkalemia (serum potassium > 5.0 to 5.5 mmol/L)."
+    },
+    {
+      "id": "htn-sa-007",
+      "type": "short-answer",
+      "topic": "Miscellaneous Antihypertensives",
+      "prompt": "What is the generic name of the selective aldosterone receptor blocker (trade name Inspra) indicated for hypertension and post-myocardial infarction heart failure?",
+      "answers": [
+        {
+          "text": "eplerenone",
+          "aliases": [
+            "Inspra"
+          ]
+        }
+      ],
+      "rationale": "Eplerenone (Inspra) is the selective aldosterone receptor antagonist indicated for routine hypertension and for improving survival in patients with stable heart failure after a myocardial infarction."
+    },
+    {
+      "id": "htn-sa-008",
+      "type": "short-answer",
+      "topic": "Adrenergic Drugs",
+      "prompt": "What dangerous phenomenon characterized by a sudden, extreme elevation in blood pressure occurs when a patient abruptly stops taking clonidine or a beta blocker?",
+      "answers": [
+        {
+          "text": "rebound hypertension",
+          "aliases": [
+            "rebound hypertensive crisis"
+          ]
+        }
+      ],
+      "rationale": "Abrupt discontinuation of antihypertensive medications—especially centrally acting alpha2 agonists like clonidine and beta blockers—causes rebound hypertension, which can precipitate a stroke or acute cardiac event."
+    },
+    {
+      "id": "htn-sa-009",
+      "type": "short-answer",
+      "topic": "Pharmacology Concepts",
+      "prompt": "What pharmacological term describes a medication (such as oral enalapril or ramipril) that is administered in an inactive form and must be metabolized by the liver to become active?",
+      "answers": [
+        {
+          "text": "prodrug",
+          "aliases": [
+            "pro-drug"
+          ]
+        }
+      ],
+      "rationale": "A prodrug is a drug that is inactive in its administered form and must be metabolized to its active form in the body, generally by the liver, to be effective. All ACE inhibitors except captopril and lisinopril are prodrugs."
+    },
+    {
+      "id": "htn-cs-001",
+      "type": "case-study",
+      "title": "Hypertensive Emergency and Sodium Nitroprusside Toxicity",
+      "topic": "Direct-Acting Vasodilators",
+      "scenario": "Walter, a 72-year-old man with a history of chronic kidney disease (baseline serum creatinine 195 µmol/L) and poorly controlled hypertension, is admitted to the intensive care unit with a severe occipital headache, blurred vision, and a blood pressure of 238/134 mm Hg. An arterial line is placed, and the intensivist orders a continuous intravenous infusion of sodium nitroprusside (Nipride) starting at 0.5 mcg/kg/min, titrated to reduce blood pressure gradually.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Before initiating the sodium nitroprusside infusion for Walter, which nursing action is most important to ensure safe administration?",
+            "options": [
+              "Discontinue continuous arterial blood pressure monitoring and check manual cuff pressures every 4 hours",
+              "Administer an initial IV bolus of 50 mg over 1 minute to rapidly normalize his blood pressure to 110/70 mm Hg",
+              "Mix potassium chloride directly into the sodium nitroprusside bag to prevent vasodilator-induced hypokalemia",
+              "Verify that the freshly diluted solution is not blue, green, or red and connect it to a volumetric infusion pump"
+            ],
+            "answer": 3,
+            "rationale": "Sodium nitroprusside is a high-alert direct vasodilator with an onset of less than 2 minutes. It must be diluted properly, inspected to ensure it has not turned blue, green, or red, infused via a volumetric pump, and monitored continuously via an arterial line."
+          }
+        },
+        {
+          "update": "Eight minutes after the nurse titrates the sodium nitroprusside infusion upward, Walter becomes diaphoretic and dizzy, and the arterial line monitor shows his blood pressure has dropped abruptly to 86/48 mm Hg.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action in response to Walter's sudden drop in blood pressure?",
+            "options": [
+              "Stop the sodium nitroprusside infusion immediately, as its elimination half-life is approximately 2 minutes",
+              "Administer intravenous propranolol to slow his heart rate and stabilize systemic vascular resistance",
+              "Continue the current infusion rate for another 20 minutes because transient hypotension is expected",
+              "Administer oral doxazosin to redistribute blood flow from the venous system to the brain"
+            ],
+            "answer": 0,
+            "rationale": "Because sodium nitroprusside is metabolized rapidly with an elimination half-life of 2 minutes and duration of action of 1 to 10 minutes, discontinuing the infusion has an immediate effect in reversing excessive hypotension."
+          }
+        },
+        {
+          "update": "The infusion is held briefly until Walter's blood pressure rebounds, and it is restarted at a lower rate. However, because of his impaired kidney function and high cumulative dose over the next 36 hours (exceeding 2 mcg/kg/min), Walter develops metabolic acidosis, confusion, and refractory hypotension. The team suspects acute cyanide toxicity from sodium nitroprusside metabolism.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Which sulfur-donating medication is co-administered with sodium nitroprusside to prevent cyanide accumulation and is also injected (along with sodium nitrite and inhaled amyl nitrite) as part of the standard cyanide antidote kit?",
+            "answers": [
+              {
+                "text": "sodium thiosulfate",
+                "aliases": [
+                  "sodium thiosulphate",
+                  "thiosulfate",
+                  "thiosulphate"
+                ]
+              }
+            ],
+            "rationale": "When sodium nitroprusside is combined with sodium thiosulfate (sodium thiosulphate), the potential for cyanide toxicity is greatly reduced. If cyanide or thiocyanate toxicity occurs, treatment uses a standard cyanide antidote kit containing amyl nitrite for inhalation and sodium nitrite and sodium thiosulfate for injection."
+          }
+        },
+        {
+          "update": "During further laboratory evaluation, Walter's blood appears dark chocolate-brown, and arterial blood gases reveal impaired oxygen delivery to tissues despite an adequate cardiac output. Serum laboratory testing confirms drug-induced methemoglobinemia.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which intravenous medication and dosage should the nurse prepare to administer as the treatment of choice for Walter's methemoglobinemia?",
+            "options": [
+              "Atropine sulphate 0.5 mg IV push every 3 minutes",
+              "Enalaprilat 1.25 mg IV given over 5 minutes",
+              "Methylene blue 1 to 2 mg/kg IV given over several minutes",
+              "Hydralazine 40 mg IV push given immediately"
+            ],
+            "answer": 2,
+            "rationale": "Sodium nitroprusside can rarely cause sequestration of hemoglobin as methemoglobin (methemoglobinemia), leading to impaired oxygen delivery despite adequate cardiac output. The treatment of choice is 1 to 2 mg/kg of methylene blue given intravenously over several minutes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "htn-cs-002",
+      "type": "case-study",
+      "title": "Hypertension Management in a Patient with Type 2 Diabetes",
+      "topic": "ACE Inhibitors & ARBs",
+      "scenario": "Maya, a 38-year-old accountant with type 2 diabetes mellitus, presents to the primary care clinic for follow-up. Her blood pressure has averaged 152/94 mm Hg over three visits. Her baseline labs show serum potassium 4.4 mmol/L, serum creatinine 78 µmol/L, eGFR 84 mL/min, and trace proteinuria on urinalysis. The nurse practitioner prescribes captopril (Capoten) 25 mg PO three times daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Maya asks the nurse why she was prescribed captopril instead of a beta blocker. Which explanation by the nurse best describes the dual benefit of an ACE inhibitor for Maya?",
+            "options": [
+              "It lowers blood pressure and reduces glomerular filtration pressure and proteinuria to protect your kidneys from diabetic nephropathy",
+              "It stimulates insulin sensitivity in skeletal muscle and prevents any changes in serum potassium levels",
+              "It only needs to be taken once a week and has no risk of causing orthostatic dizziness",
+              "It blocks calcium channels in the pancreas to prevent diabetic ketoacidosis"
+            ],
+            "answer": 0,
+            "rationale": "ACE inhibitors are first-line drugs of choice for hypertensive patients with diabetes because they reduce glomerular filtration pressure and proteinuria, protecting the kidneys against the progression of diabetic nephropathy."
+          }
+        },
+        {
+          "update": "Before leaving the clinic, Maya mentions that she frequently takes over-the-counter ibuprofen 400 mg several times a week for tension headaches and uses a potassium-enriched salt substitute on her food.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What essential medication teaching must the nurse provide regarding Maya's use of ibuprofen and potassium salt substitutes while taking captopril?",
+            "options": [
+              "Continue taking ibuprofen daily to prevent captopril-induced headaches, and increase potassium salt substitutes to prevent hypokalemia",
+              "Avoid both products: NSAIDs like ibuprofen reduce captopril's blood pressure effect and increase acute kidney injury risk, while potassium substitutes can cause dangerous hyperkalemia",
+              "Ibuprofen enhances the hypotensive effect of captopril, so reduce your captopril dose in half whenever you have a headache",
+              "Potassium salt substitutes are safe as long as you take them at bedtime, and ibuprofen protects the kidneys from proteinuria"
+            ],
+            "answer": 1,
+            "rationale": "NSAIDs such as ibuprofen reduce the antihypertensive effect of ACE inhibitors and predispose patients to acute kidney injury. Because ACE inhibitors inhibit aldosterone secretion and promote potassium retention, potassium supplements or potassium-containing salt substitutes can cause hyperkalemia."
+          }
+        },
+        {
+          "update": "Six weeks later, Maya's blood pressure is 128/78 mm Hg, serum potassium is 4.7 mmol/L, and serum creatinine is 84 µmol/L. However, she reports a persistent, dry, hacking cough that keeps her awake at night and admits she often forgets her midday dose of captopril.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which modification to Maya's pharmacotherapy should the nurse anticipate from the nurse practitioner?",
+            "options": [
+              "Switch captopril to oral enalapril twice daily to eliminate bradykinin accumulation",
+              "Increase the captopril dose to 150 mg four times daily and add an over-the-counter cough suppressant",
+              "Discontinue captopril and switch to once-daily losartan potassium (Cozaar) 50 mg PO",
+              "Discontinue all antihypertensive therapy since her blood pressure is now below 130/80 mm Hg"
+            ],
+            "answer": 2,
+            "rationale": "A dry, nonproductive cough is a classic adverse effect of ACE inhibitors caused by accumulation of bradykinin and substance P. It is reversible upon discontinuation, and the ACE inhibitor is typically switched to a once-daily ARB such as losartan, which does not cause cough and improves adherence."
+          }
+        },
+        {
+          "update": "After 2 months on losartan 50 mg PO once daily, Maya's cough has completely resolved and her blood pressure is well controlled at 126/76 mm Hg. During her visit, she shares that she and her partner are planning to try to conceive a baby in the next few months.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority teaching regarding Maya's plan for pregnancy while taking losartan?",
+            "options": [
+              "Add aliskiren (Rasilez) to losartan during pregnancy to protect fetal kidney development",
+              "Continue taking losartan through the second and third trimesters, as it prevents pre-eclampsia of pregnancy",
+              "Switch back to captopril immediately because non-prodrug ACE inhibitors do not cross the placenta",
+              "Consult your prescriber before conceiving to transition to a pregnancy-safe antihypertensive such as methyldopa, because ARBs and ACE inhibitors cause serious fetal harm"
+            ],
+            "answer": 3,
+            "rationale": "Renin–angiotensin system inhibitors (ACE inhibitors, ARBs like losartan, and direct renin inhibitors like aliskiren) are contraindicated during pregnancy—especially in the second and third trimesters—due to significant fetal morbidity and mortality. Women of childbearing potential planning pregnancy should be transitioned to a safer alternative such as methyldopa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "htn-cs-003",
+      "type": "case-study",
+      "title": "Adrenergic Antihypertensives: First-Dose Syncope and Rebound Hypertension",
+      "topic": "Adrenergic Drugs",
+      "scenario": "Robert, a 66-year-old retired carpenter, is diagnosed with stage 2 hypertension (BP 168/102 mm Hg) and benign prostatic hyperplasia (BPH) causing nocturia and urinary hesitancy. His prescriber initiates doxazosin mesylate (Cardura) 1 mg PO once daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "To minimize the risk of injury from first-dose syncope associated with doxazosin mesylate, what instruction should the nurse give Robert?",
+            "options": [
+              "Take the first dose on an empty stomach immediately before your morning brisk walk",
+              "Take the first dose at bedtime and remain supine, then rise slowly and in stages when getting out of bed",
+              "Drink two glasses of wine with the first dose to promote smooth vascular relaxation",
+              "Crush the tablet and dissolve it in hot water if you feel lightheaded after standing"
+            ],
+            "answer": 1,
+            "rationale": "Alpha1 blockers like doxazosin carry a high risk of orthostatic hypotension and first-dose syncope within 2 to 6 hours of administration. Giving the first dose at bedtime allows the patient to remain supine and sleep through the peak first-dose hypotensive effect."
+          }
+        },
+        {
+          "update": "Four weeks later, Robert's urinary flow has improved, and his doxazosin has been titrated up, but his blood pressure remains elevated at 156/94 mm Hg. The prescriber adds clonidine hydrochloride (Catapres) 0.1 mg PO twice daily.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Robert returns 2 weeks after starting clonidine and reports a troublesome dry mouth, mild constipation, and daytime drowsiness. Which self-care advice is most appropriate for the nurse to provide?",
+            "options": [
+              "Take an over-the-counter amphetamine decongestant each morning to counteract the drowsiness",
+              "Stop taking clonidine for 3 days whenever dry mouth occurs so your salivary glands can recover",
+              "Use sugar-free hard candy or gum and sips of water for dry mouth, increase dietary fibre and fluids for constipation, and avoid driving until drowsiness subsides",
+              "Restrict fluid intake to less than 500 mL per day to prevent clonidine-induced constipation"
+            ],
+            "answer": 2,
+            "rationale": "Dry mouth, constipation, and drowsiness are common adverse effects of centrally acting alpha2 agonists like clonidine. Dry mouth can be alleviated with saliva substitutes or sugar-free gum/candy, constipation with fluids and dietary fibre, and patients must exercise caution with driving until drowsiness subsides."
+          }
+        },
+        {
+          "update": "Three months into combined therapy with doxazosin and clonidine, Robert's blood pressure is 132/82 mm Hg. During a clinic visit, he hesitantly tells the nurse that he has been experiencing erectile dysfunction over the past month and is thinking about throwing his pills away.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the most therapeutic and clinically accurate nursing response to Robert's concern?",
+            "options": [
+              "Tell him that erectile dysfunction is permanent and unavoidable when treating high blood pressure",
+              "Reassure him that antihypertensive drugs never affect sexual function and that his symptoms are simply due to normal aging",
+              "Advise him to stop taking clonidine immediately for 2 weeks to see if his sexual function returns to normal",
+              "Acknowledge that sexual dysfunction is a common adverse effect of antihypertensives, emphasize never stopping the drugs abruptly, and arrange a discussion with the prescriber to adjust the regimen"
+            ],
+            "answer": 3,
+            "rationale": "Sexual dysfunction in males is a common adverse effect of almost any antihypertensive drug and is the leading reason for nonadherence. Nurses should encourage open discussion, inform patients that dosage adjustments or alternative drug classes (such as nebivolol or lower-dose combinations) can help, and reinforce never stopping medications abruptly."
+          }
+        },
+        {
+          "update": "Two months later, Robert goes on a 4-day fishing trip and forgets to pack his clonidine tablets. On the third day without clonidine, he is brought to a rural emergency department with a severe throbbing headache, diaphoresis, tremors, and a blood pressure of 214/122 mm Hg.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "The emergency department physician considers administering a beta blocker for Robert's tachycardia during clonidine withdrawal. Why should the nurse question the administration of a lone beta blocker in acute clonidine withdrawal?",
+            "options": [
+              "Beta blockers can potentiate bradycardia and paradoxically worsen the rebound hypertension of clonidine withdrawal",
+              "Beta blockers rapidly chelate clonidine metabolites and cause acute hepatic necrosis",
+              "Beta blockers stimulate alpha2 receptors in the brain and cause immediate respiratory arrest",
+              "Beta blockers cause severe hypokalemia when given within 72 hours of clonidine"
+            ],
+            "answer": 0,
+            "rationale": "As noted in Table 23.1, beta blockers interact with clonidine to potentiate bradycardia and increase the severity of rebound hypertension during clonidine withdrawal (due to unopposed alpha-mediated vasoconstriction when beta2 vasodilation is blocked)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "htn-cs-004",
+      "type": "case-study",
+      "title": "Post-Myocardial Infarction Heart Failure and Refractory Hypertension",
+      "topic": "ACE Inhibitors, Aldosterone Blockers & Vasodilators",
+      "scenario": "Elena, a 61-year-old woman with a history of alcohol-related liver cirrhosis (elevated AST and ALT) and hypertension, is recovering in the cardiology unit 3 days after an acute anterior myocardial infarction. Her left ventricular ejection fraction is 36%, and her blood pressure is 148/92 mm Hg. The cardiology team wants to start an oral ACE inhibitor to prevent left ventricular remodelling.",
+      "stages": [
+        {
+          "question": {
+            "type": "short-answer",
+            "prompt": "Besides captopril, which once-daily oral ACE inhibitor is NOT a prodrug and does not require hepatic metabolism to convert to its active form, making it ideal for Elena given her liver dysfunction?",
+            "answers": [
+              {
+                "text": "lisinopril",
+                "aliases": [
+                  "Prinivil",
+                  "Zestril"
+                ]
+              }
+            ],
+            "rationale": "Captopril and lisinopril (Prinivil, Zestril) are the only two ACE inhibitors that are not prodrugs. Unlike oral enalapril, ramipril, or perindopril, lisinopril does not depend on liver function for conversion into an active form and offers convenient once-daily dosing."
+          }
+        },
+        {
+          "update": "Elena is started on lisinopril, and 2 weeks later the cardiologist considers adding eplerenone (Inspra) 50 mg PO once daily to improve post-myocardial infarction survival and blood pressure control. The nurse reviews Elena's current labs (serum potassium 4.9 mmol/L, creatinine 92 µmol/L) and medication list.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which finding in Elena's medication reconciliation or laboratory trends would contraindicate the use of eplerenone?",
+            "options": [
+              "A baseline resting apical heart rate of 74 beats/min",
+              "Concurrent use of low-dose enteric-coated aspirin and sublingual nitroglycerin PRN",
+              "A history of anterior myocardial infarction within the past 30 days",
+              "Concurrent therapy with a strong CYP3A4 inhibitor antifungal or a serum potassium level rising above 5.5 mmol/L"
+            ],
+            "answer": 3,
+            "rationale": "Eplerenone is contraindicated in patients with serum potassium levels higher than 5.5 mmol/L, severe kidney impairment, or concurrent use of medications that inhibit cytochrome P450 enzyme 3A4 (such as certain antifungals, antibiotics, and antivirals)."
+          }
+        },
+        {
+          "update": "Six months later, Elena's blood pressure remains difficult to control, and hydralazine hydrochloride (Apresoline) is added and gradually titrated up to 60 mg PO four times daily (240 mg/day). Four months after reaching this dose, Elena presents with fever, joint pain, photosensitivity, a butterfly-shaped facial rash, and leukopenia on her complete blood count.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action based on Elena's new clinical manifestations?",
+            "options": [
+              "Hold the hydralazine and notify the prescriber immediately, as doses above 200 mg/day can induce systemic lupus erythematosus (SLE)",
+              "Administer oral pyridoxine (vitamin B6) and reassure her that the facial rash is a harmless vasodilatory flush",
+              "Increase the hydralazine dose to 100 mg four times daily to improve skin perfusion",
+              "Prepare a cyanide antidote kit because photosensitivity and leukopenia indicate thiocyanate poisoning"
+            ],
+            "answer": 0,
+            "rationale": "With oral hydralazine doses exceeding 200 mg per day (Elena is taking 240 mg/day), drug-induced systemic lupus erythematosus (SLE) may occur, presenting with photosensitivity, characteristic skin rashes, arthralgias, CNS changes, or blood dyscrasias (hemolytic anemia, leukopenia, thrombocytopenia). The drug must be discontinued and the provider notified immediately."
+          }
+        },
+        {
+          "update": "Hydralazine is discontinued and Elena's lupus-like symptoms resolve. Once her heart failure is stable, the cardiologist prescribes nebivolol hydrochloride (Bystolic) 5 mg PO once daily. On morning rounds, Elena's blood pressure is 124/76 mm Hg and her apical pulse is 64 beats/min.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which instruction should the nurse include when teaching Elena about taking nebivolol at home?",
+            "options": [
+              "If your blood pressure is below 130/80 mm Hg for two consecutive days, stop taking nebivolol until it rises above 150/90 mm Hg",
+              "Check your pulse and blood pressure daily, report a pulse below 60 beats/min or systolic BP below 90 mm Hg, and never stop the drug without tapering over 1 to 2 weeks",
+              "Increase your nebivolol dose by 5 mg every 2 days until your resting heart rate is below 45 beats/min",
+              "Nebivolol is a nonselective beta blocker that will cause a chronic dry cough in 20% of patients"
+            ],
+            "answer": 1,
+            "rationale": "Patients taking beta blockers like nebivolol must monitor their pulse and blood pressure and report a pulse <60 beats/min or systolic BP <90 mm Hg. Nebivolol is beta1-selective, titrated at 2-week intervals (up to 20 mg/day), and must be tapered over 1 to 2 weeks rather than stopped abruptly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "htn-cs-005",
+      "type": "case-study",
+      "title": "Targeted Therapy for Pulmonary Artery Hypertension",
+      "topic": "Pulmonary Artery Hypertension Drugs",
+      "scenario": "Sophie, a 49-year-old woman with moderate-to-severe heart failure and progressive dyspnea on exertion, is diagnosed via right heart catheterization with pulmonary artery hypertension (PAH). The respirologist and cardiologist plan to initiate oral bosentan monohydrate (Tracleer) 62.5 mg PO twice daily for 4 weeks, followed by a maintenance dose of 125 mg PO twice daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Sophie asks how bosentan works to lower the pressure in her lungs. Which explanation by the nurse is accurate?",
+            "options": [
+              "It blocks sodium and chloride reabsorption in the loop of Henle to reduce right ventricular preload",
+              "It stimulates alpha2 receptors in the brainstem to slow the heart rate and reduce pulmonary blood flow",
+              "It converts angiotensin I into bradykinin in the pulmonary alveoli to promote diuresis",
+              "It blocks endothelin receptors (ETA and ETB) in the blood vessel lining and smooth muscle to prevent vessel narrowing"
+            ],
+            "answer": 3,
+            "rationale": "Bosentan monohydrate (Tracleer) is an endothelin receptor antagonist. Normally, the hormone endothelin binds to ETA and ETB receptors in the vascular endothelium and smooth muscle to cause vasoconstriction; bosentan blocks these receptors to reduce pulmonary arterial pressure."
+          }
+        },
+        {
+          "update": "Before dispensing bosentan, the nurse performs a comprehensive medication reconciliation and reviews Sophie's baseline laboratory results, including liver transaminases (ALT and AST) and a pregnancy test.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which concurrent medication on Sophie's home list is strictly contraindicated with bosentan therapy?",
+            "options": [
+              "Glyburide or cyclosporine",
+              "Acetaminophen or vitamin D3",
+              "Levothyroxine or pantoprazole",
+              "Salbutamol or tiotropium"
+            ],
+            "answer": 0,
+            "rationale": "Bosentan is contraindicated in patients with known drug allergy, significant liver impairment, pregnancy, and concurrent drug therapy with cyclosporine or glyburide."
+          }
+        },
+        {
+          "update": "A year later, Sophie's pulmonary artery hypertension and severe heart failure progress despite oral therapy. She is admitted to start a continuous subcutaneous infusion of treprostinil sodium (Remodulin) at 1.25 ng/kg/min. Sophie weighs 60 kg.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is unique about the dosing unit of prostacyclin analogues such as treprostinil and epoprostenol, and how many nanograms per minute (ng/min) will Sophie receive at 1.25 ng/kg/min?",
+            "options": [
+              "They are diluted to the gram level; Sophie will receive 75 g/min",
+              "They are diluted to the nanogram level; Sophie will receive 75 ng/min",
+              "They are dosed in international units; Sophie will receive 48 units/min",
+              "They are dosed in milliequivalents; Sophie will receive 12.5 mEq/min"
+            ],
+            "answer": 1,
+            "rationale": "Treprostinil and epoprostenol are unique because they are diluted to the nanogram (ng) level for administration. For a 60-kg patient ordered 1.25 ng/kg/min: 60 kg × 1.25 ng/kg/min = 75 ng/min."
+          }
+        },
+        {
+          "update": "While caring for Sophie during her continuous subcutaneous treprostinil infusion, the nurse monitors her hemodynamic status and assesses for potential adverse effects of prostacyclin analogue therapy.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "In addition to dilating pulmonary and systemic blood vessels, what secondary pharmacological action of treprostinil requires the nurse to monitor Sophie for bruising or bleeding?",
+            "options": [
+              "Direct lysis of circulating fibrinogen",
+              "Depletion of hepatic vitamin K stores",
+              "Inhibition of platelet aggregation",
+              "Destruction of bone marrow megakaryocytes"
+            ],
+            "answer": 2,
+            "rationale": "Treprostinil and epoprostenol are analogues of prostacyclin (a prostaglandin metabolite of arachidonic acid) that lower blood pressure through a combined mechanism: dilating pulmonary and systemic blood vessels and inhibiting platelet aggregation."
+          }
+        }
+      ]
+    }
+  ]
+}

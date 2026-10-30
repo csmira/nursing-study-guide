@@ -1,0 +1,1195 @@
+{
+  "categoryId": "pharmacology-antianginal",
+  "items": [
+    {
+      "id": "ang-mc-001",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient with chronic stable angina is prescribed sublingual nitroglycerin tablets for acute chest pain. Which instruction should the nurse emphasize regarding what to do if chest pain is not relieved 5 minutes after taking the first sublingual tablet?",
+      "options": [
+        "Call 911 immediately, and take a second tablet while awaiting emergency care.",
+        "Take two additional tablets simultaneously and wait another 10 minutes before calling the clinic.",
+        "Swallow the remaining tablet with a full glass of water to speed up gastrointestinal absorption.",
+        "Apply a transdermal nitroglycerin patch immediately to supplement the sublingual dose."
+      ],
+      "answer": 0,
+      "rationale": "Current guidelines state that if chest pain is not relieved within 5 minutes after one sublingual nitroglycerin dose, the patient or a family member must call 911 immediately because unrelieved pain may indicate a myocardial infarction. Up to two additional tablets may be taken at 5-minute intervals while awaiting emergency services (maximum three tablets total)."
+    },
+    {
+      "id": "ang-mc-002",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "The nurse is preparing to administer a scheduled morning dose of oral isosorbide dinitrate to a patient with coronary artery disease. Which assessment finding requires the nurse to withhold the medication and contact the health care provider?",
+      "options": [
+        "Apical pulse rate of 76 beats/min and regular rhythm",
+        "Blood pressure of 92/58 mm Hg while seated",
+        "Patient report of a mild headache after yesterday's dose",
+        "Respiratory rate of 18 breaths/min with clear lung sounds"
+      ],
+      "answer": 1,
+      "rationale": "Antianginal vasodilators such as nitrates lower blood pressure; a systolic blood pressure below 100 mm Hg requires holding the dose and notifying the health care provider. A pulse of 76 beats/min is normal, and a mild headache is an expected, transient vasodilatory effect."
+    },
+    {
+      "id": "ang-mc-003",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "Why is oral nitroglycerin ineffective for rapidly aborting an acute attack of angina pectoris?",
+      "options": [
+        "It selectively constricts splanchnic veins, delaying transport to the coronary vasculature.",
+        "It is completely inactivated by hydrochloric acid in the stomach prior to intestinal absorption.",
+        "It undergoes an extensive first-pass effect in the liver before reaching the systemic circulation.",
+        "It binds irreversibly to dietary proteins in the small intestine unless given parenterally."
+      ],
+      "answer": 2,
+      "rationale": "When administered orally, a large portion of nitroglycerin is metabolized by the liver via the first-pass effect before it can reach the systemic circulation. Sublingual, translingual, topical, and intravenous routes bypass the liver to achieve therapeutic blood levels."
+    },
+    {
+      "id": "ang-mc-004",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient who was recently started on a daily transdermal nitroglycerin patch asks why the health care provider ordered the patch to be removed at 2000 hours every evening and a new one applied at 0800 hours the next morning. What is the nurse's best response?",
+      "options": [
+        "The adhesive loses all active medication after 12 hours and begins drawing nitroglycerin back out of the skin.",
+        "Nighttime removal allows the skin to excrete accumulated cyanide metabolites formed during the day.",
+        "Wearing the patch for 24 hours causes paradoxical coronary artery vasospasm during rapid eye movement sleep.",
+        "Removing the patch overnight prevents the development of drug tolerance to the nitrate's antianginal effects."
+      ],
+      "answer": 3,
+      "rationale": "Tolerance to the vascular effects of nitrates develops rapidly with continuous around-the-clock exposure. Scheduling an 8- to 12-hour nitrate-free interval (usually overnight) allows cellular enzymatic pathways to replenish and preserves therapeutic efficacy."
+    },
+    {
+      "id": "ang-mc-005",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient arrives at the emergency department with acute substernal chest pain. Before administering sublingual nitroglycerin, it is most critical for the nurse to ask whether the patient has recently taken which medication?",
+      "options": [
+        "Sildenafil citrate (Viagra)",
+        "Acetaminophen (Tylenol)",
+        "Atorvastatin (Lipitor)",
+        "Metformin (Glucophage)"
+      ],
+      "answer": 0,
+      "rationale": "Concurrent use of nitrates and phosphodiesterase-5 inhibitors such as sildenafil citrate, tadalafil, or vardenafil hydrochloride is strictly contraindicated because the combination causes life-threatening, refractory hypotension and potential cardiovascular collapse."
+    },
+    {
+      "id": "ang-mc-006",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "Shortly after receiving a dose of sublingual nitroglycerin, a patient's blood pressure drops from 124/78 mm Hg to 104/64 mm Hg, and the heart rate increases from 74 beats/min to 96 beats/min. What physiological mechanism explains this change in heart rate?",
+      "options": [
+        "Direct stimulation of cardiac beta1-adrenergic receptors by nitrate metabolites",
+        "Reflex tachycardia triggered by baroreceptors sensing venous pooling as volume loss",
+        "Toxicity of the sinoatrial node caused by rapid sublingual drug absorption",
+        "Inhibition of vagal parasympathetic tone inside the coronary sinus"
+      ],
+      "answer": 1,
+      "rationale": "Rapid nitrate-induced venous dilation shifts blood volume into the peripheral venous system; baroreceptors in the carotid sinus and aortic arch interpret this drop in central filling pressure as hypovolemia and trigger a sympathetic reflex tachycardia."
+    },
+    {
+      "id": "ang-mc-007",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "The nurse is preparing to initiate a continuous intravenous nitroglycerin infusion for a patient with unstable angina. Which nursing action is essential for safe administration?",
+      "options": [
+        "Give an initial rapid intravenous push bolus over 30 seconds before starting the maintenance drip.",
+        "Dilute the medication in a standard polyvinylchloride bag and infuse via gravity drip roller clamp.",
+        "Administer the infusion using specialized non-polyvinylchloride (non-PVC) plastic tubing and an infusion pump.",
+        "Keep the intravenous solution exposed to bright fluorescent light to maintain chemical stability."
+      ],
+      "answer": 2,
+      "rationale": "Intravenous nitroglycerin binds to standard PVC plastic, which drastically reduces the delivered dose; therefore, non-PVC infusion bags and tubing with an electronic infusion pump must be used, and the solution should be protected from light to prevent decomposition."
+    },
+    {
+      "id": "ang-mc-008",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient is prescribed a translingual nitroglycerin metered-dose pump spray for acute anginal episodes. Which teaching point should the nurse include regarding proper administration?",
+      "options": [
+        "Shake the canister vigorously for 10 seconds immediately before priming and spraying.",
+        "Swallow the spray immediately with cold water to prevent irritation of the oral mucosa.",
+        "Inhale deeply while spraying the mist into the back of the throat for pulmonary absorption.",
+        "Do not shake the canister, and spray the dose onto or under the tongue without inhaling."
+      ],
+      "answer": 3,
+      "rationale": "Translingual nitroglycerin pump sprays must not be shaken (which creates bubbles and alters the metered dose) and should be sprayed directly onto or under the tongue without inhaling or swallowing until dispersed."
+    },
+    {
+      "id": "ang-mc-009",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "Which statement by a patient demonstrates correct understanding of how to store sublingual nitroglycerin tablets at home?",
+      "options": [
+        "\"I will keep the tablets in their original dark amber glass bottle with the metal cap tightly closed.\"",
+        "\"I will transfer a week's worth of tablets into my plastic daily pill organizer so I do not forget them.\"",
+        "\"I will pack extra cotton balls inside the bottle to keep the tablets from chipping when I walk.\"",
+        "\"I will store the bottle on my bathroom windowsill so I can see it every morning when I brush my teeth.\""
+      ],
+      "answer": 0,
+      "rationale": "Sublingual nitroglycerin is volatile and inactivated by light, heat, moisture, plastic, and cotton filler; it must be kept in its original amber-coloured glass container with a metal lid and replaced every 3 to 6 months."
+    },
+    {
+      "id": "ang-mc-010",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A hospitalized patient wearing a transdermal nitroglycerin patch experiences ventricular fibrillation and requires immediate defibrillation. What action must the nurse take regarding the transdermal patch?",
+      "options": [
+        "Leave the patch in place to maintain coronary perfusion during resuscitation.",
+        "Remove the transdermal patch before applying the defibrillator pads or paddles.",
+        "Cover the patch with a wet saline gauze pad to insulate it from the electrical current.",
+        "Cut the patch in half so that only a maintenance amount of drug remains on the chest."
+      ],
+      "answer": 1,
+      "rationale": "Before cardioversion or use of a defibrillator, any transdermal nitrate patch must be removed to prevent electrical arcing, burning of the patient's skin, and damage to the paddles."
+    },
+    {
+      "id": "ang-mc-011",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "The nurse is applying 2% nitroglycerin topical ointment to a hospitalized patient. Which technique by the nurse is correct?",
+      "options": [
+        "Massage the ointment thoroughly into the skin of the lower calf using bare fingers.",
+        "Apply the new dose directly over the previous evening's ointment residue on the forearm to maintain steady absorption.",
+        "Wear gloves, measure the dose on the supplied dosing paper, spread a thin layer on the upper chest without rubbing, and cover with plastic wrap.",
+        "Squeeze the ointment onto a gauze sponge and tape it tightly over a hairy area of the abdomen."
+      ],
+      "answer": 2,
+      "rationale": "Topical nitroglycerin ointment is measured on the manufacturer's dosing paper while wearing gloves, applied in a thin layer (without rubbing) to clean, dry, hairless skin of the upper body or upper arms (never distal to the knees or elbows), and covered with an occlusive wrap after removing previous residue."
+    },
+    {
+      "id": "ang-mc-012",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "How does the primary hemodynamic mechanism of nitrates reduce myocardial oxygen demand in a patient with angina pectoris?",
+      "options": [
+        "Stimulating renal sodium excretion to permanently reduce total circulating plasma volume",
+        "Blocking beta1-adrenergic receptors in the sinoatrial node to slow the resting heart rate",
+        "Inhibiting L-type calcium channels in ventricular myocytes to depress contractility",
+        "Dilating systemic veins to decrease venous return to the heart, thereby reducing preload"
+      ],
+      "answer": 3,
+      "rationale": "Nitrates predominantly dilate venous vascular beds, which decreases venous return to the heart and lowers left ventricular end-diastolic volume (preload), reducing myocardial wall tension and oxygen demand. At higher doses they also dilate arteries to reduce afterload."
+    },
+    {
+      "id": "ang-mc-013",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient taking isosorbide-5-mononitrate (Imdur) extended-release tablets asks why the health care provider chose this medication instead of isosorbide dinitrate (ISDN). What pharmacological advantage of isosorbide-5-mononitrate should the nurse explain?",
+      "options": [
+        "It is already the active metabolite and has no active metabolites itself, producing a more consistent therapeutic response.",
+        "It can be chewed or crushed for rapid sublingual relief during an acute anginal attack.",
+        "It does not cause vasodilation of cerebral blood vessels, eliminating the risk of nitrate headaches.",
+        "It is excreted unchanged in the saliva and never requires a nitrate-free dosing interval."
+      ],
+      "answer": 0,
+      "rationale": "Isosorbide-5-mononitrate is the active metabolite of isosorbide dinitrate and has no active metabolites of its own, which results in more predictable, steady bioavailability and less intra- and inter-patient variation."
+    },
+    {
+      "id": "ang-mc-014",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient using transdermal nitroglycerin patches develops localized erythema and itching strictly confined to the square outline where the patch was applied, with no systemic symptoms. How should the nurse interpret and document this finding?",
+      "options": [
+        "A life-threatening anaphylactic allergy to organic nitrates requiring permanent discontinuation of the class",
+        "A contact dermatitis reaction to the patch adhesive delivery system rather than a true allergy to nitroglycerin",
+        "An early sign of systemic cyanide toxicity resulting from dermal breakdown of the nitrate ester",
+        "An expected therapeutic warmth indicating that the drug is dilating deep coronary arteries"
+      ],
+      "answer": 1,
+      "rationale": "Localized skin inflammation from topical nitrate patches is usually contact dermatitis caused by the delivery system adhesive, not a true drug allergy to nitroglycerin. Accurate documentation prevents unnecessary avoidance of the entire nitrate class."
+    },
+    {
+      "id": "ang-mc-015",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "In which patient condition is the administration of nitroglycerin contraindicated?",
+      "options": [
+        "Vasospastic (Prinzmetal's) angina",
+        "Chronic stable exertional angina",
+        "Severe head injury with increased intracranial pressure",
+        "Mild primary hypertension controlled with diet"
+      ],
+      "answer": 2,
+      "rationale": "Nitrates are contraindicated in patients with severe head injury, increased intracranial or intraocular pressure (such as closed-angle glaucoma), severe anemia, and hypotension because cerebral and ocular vasodilation can dangerously worsen these conditions."
+    },
+    {
+      "id": "ang-mc-016",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient taking extended-release oral nitroglycerin capsules calls the clinic in alarm after noticing an intact tablet-like shell in their stool. What is the nurse's best response?",
+      "options": [
+        "\"Go to the emergency department right away to be evaluated for an acute intestinal obstruction.\"",
+        "\"Take a double dose immediately because your gastrointestinal tract failed to dissolve the capsule.\"",
+        "\"Crush your next capsule and mix it into applesauce so that your stomach can digest it properly.\"",
+        "\"Reassure yourself that this is the harmless wax matrix shell left over after the medication has already been absorbed.\""
+      ],
+      "answer": 3,
+      "rationale": "With certain sustained-release oral formulations, the insoluble wax matrix carrier is excreted in the stool after the active medication has been completely absorbed; patients should be reassured that this is normal and never crush extended-release preparations."
+    },
+    {
+      "id": "ang-mc-017",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "How do cardioselective beta1-adrenergic blockers such as atenolol and metoprolol relieve chronic stable angina?",
+      "options": [
+        "They slow heart rate and decrease myocardial contractility, reducing oxygen demand and prolonging diastolic coronary filling time.",
+        "They directly relax venous smooth muscle to pool blood in the lower extremities and lower preload.",
+        "They stimulate beta2 receptors in the coronary arteries to trigger nitric oxide release during rest.",
+        "They increase sinoatrial node automaticity so that oxygenated blood is pumped through the heart faster."
+      ],
+      "answer": 0,
+      "rationale": "Beta blockers block beta1 receptors in the SA node, AV node, and myocardium, producing negative chronotropic (slower heart rate) and negative inotropic (decreased contractility) effects. This lowers myocardial oxygen demand and lengthens diastole, allowing more time for coronary artery perfusion."
+    },
+    {
+      "id": "ang-mc-018",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "A patient with exertional angina and type 1 diabetes mellitus is prescribed metoprolol tartrate (Lopresor). Which precaution must the nurse emphasize during discharge teaching?",
+      "options": [
+        "Metoprolol causes rapid renal excretion of insulin, requiring the patient to stop all basal insulin injections.",
+        "Metoprolol can mask the warning sign of hypoglycemia-induced tachycardia, so blood glucose must be monitored closely.",
+        "Metoprolol triggers severe flushing and sweating whenever blood glucose rises above 6.0 mmol/L.",
+        "Metoprolol permanently prevents the liver from storing glycogen, making oral carbohydrates ineffective for low blood sugar."
+      ],
+      "answer": 1,
+      "rationale": "Beta blockers blunt sympathetic nervous system responses, masking the tachycardia and tremors that normally warn patients with diabetes of impending hypoglycemia; they can also cause either hypoglycemia or hyperglycemia."
+    },
+    {
+      "id": "ang-mc-019",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "Before administering a scheduled dose of atenolol (Tenormin) 50 mg PO to a patient with stable angina, the nurse auscultates an apical heart rate of 52 beats/min for 1 full minute. What is the nurse's priority action?",
+      "options": [
+        "Give the medication with a meal to slow its absorption and prevent further bradycardia.",
+        "Administer half of the tablet now and recheck the radial pulse in 30 minutes.",
+        "Withhold the dose and contact the health care provider for further instructions.",
+        "Have the patient walk briskly down the hallway to raise the heart rate above 60 beats/min before dosing."
+      ],
+      "answer": 2,
+      "rationale": "Before giving antianginal drugs, the nurse must measure the apical pulse for 1 full minute; if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater), or systolic BP is 100 mm Hg or lower, the nurse should withhold the drug and contact the health care provider."
+    },
+    {
+      "id": "ang-mc-020",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "Why are beta blockers routinely administered to patients in the acute stages following a myocardial infarction (unless strongly contraindicated)?",
+      "options": [
+        "They stimulate renin release from the juxtaglomerular apparatus to maintain coronary perfusion pressure.",
+        "They dissolve the occlusive coronary thrombus by activating endogenous plasminogen within the infarct-related artery.",
+        "They increase left ventricular contractility to compensate for necrotic myocardial tissue.",
+        "They block the harmful effects of high circulating catecholamines, reducing myocardial oxygen demand and preventing fatal dysrhythmias."
+      ],
+      "answer": 3,
+      "rationale": "After an MI, high levels of circulating epinephrine and norepinephrine increase heart rate, worsen oxygen supply-demand imbalance, and irritate the conduction system; beta blockers block these catecholamine effects and significantly improve post-MI survival."
+    },
+    {
+      "id": "ang-mc-021",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "A patient with a history of severe bronchial asthma is admitted with newly diagnosed exertional angina. The nurse questions an order for propranolol hydrochloride for which reason?",
+      "options": [
+        "Nonselective blockade of beta2-adrenergic receptors can induce bronchoconstriction and increase airway resistance.",
+        "Propranolol selectively stimulates histamine release from mast cells in the upper respiratory tract.",
+        "Beta blockers cause rapid fluid accumulation in the pleural space through excessive renin activation.",
+        "Propranolol is only effective for vasospastic angina and has no effect on exertional heart rate."
+      ],
+      "answer": 0,
+      "rationale": "Blocking beta2-adrenergic receptors in bronchial smooth muscle promotes bronchoconstriction, wheezing, and dyspnea; therefore, nonselective beta blockers like propranolol are avoided in patients with asthma or bronchospastic disease."
+    },
+    {
+      "id": "ang-mc-022",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "A patient taking metoprolol tartrate for angina tells the nurse, \"I haven't had chest pain in 3 weeks, so I'm going to stop taking my pills tomorrow.\" What is the nurse's best response?",
+      "options": [
+        "\"That is a safe plan as long as you keep sublingual nitroglycerin in your pocket for emergencies.\"",
+        "\"Never stop taking a beta blocker abruptly, as doing so can trigger rebound hypertension, severe angina, or a heart attack.\"",
+        "\"You should double your dose for 2 days before stopping so that the drug stays in your tissues longer.\"",
+        "\"Stopping metoprolol suddenly only causes mild constipation that can be managed with dietary fibre.\""
+      ],
+      "answer": 1,
+      "rationale": "Abrupt withdrawal of beta blockers or antianginal drugs must be avoided because receptor upregulation can precipitate rebound hypertension, reflex tachycardia, worsening myocardial ischemia, or myocardial infarction."
+    },
+    {
+      "id": "ang-mc-023",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "The nurse is instructing a patient with cardiac risk factors who is starting beta blocker therapy on how to monitor daily weights at home. Which weight change must the patient report to the health care provider immediately?",
+      "options": [
+        "A weight gain of 0.3 kg over 1 month when weighed at different times of day",
+        "A weight loss of 0.2 kg over a 2-week period after starting a low-sodium diet",
+        "A weight gain of 1 kg or more in 24 hours or 2.3 kg or more in 1 week",
+        "Any fluctuation of 0.1 kg between morning and evening measurements"
+      ],
+      "answer": 2,
+      "rationale": "Because beta blockers decrease myocardial contractility and can precipitate or worsen heart failure, patients must weigh themselves daily at the same time in similar clothing and immediately report a gain of 1 kg or more in 24 hours or 2.3 kg or more in 1 week."
+    },
+    {
+      "id": "ang-mc-024",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "Which beta blocker mentioned in the chapter is indicated for heart failure, essential hypertension, and left ventricular dysfunction, rather than being approved as an antianginal drug?",
+      "options": [
+        "Nadolol",
+        "Atenolol",
+        "Metoprolol tartrate",
+        "Carvedilol"
+      ],
+      "answer": 3,
+      "rationale": "As noted in Chapter 24, atenolol, metoprolol, nadolol, and propranolol hydrochloride are approved for angina, whereas carvedilol is indicated for heart failure, essential hypertension, and left ventricular dysfunction."
+    },
+    {
+      "id": "ang-mc-025",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "In addition to its effects on cardiac beta1 receptors, how does a beta blocker help lower blood pressure through the kidneys?",
+      "options": [
+        "It suppresses the release of renin, inhibiting the first step of the renin-angiotensin-aldosterone system.",
+        "It blocks aldosterone receptors directly in the distal convoluted tubule to promote potassium retention.",
+        "It constricts the efferent arteriole to increase the glomerular filtration rate and urine output.",
+        "It inhibits antidiuretic hormone secretion from the posterior pituitary gland."
+      ],
+      "answer": 0,
+      "rationale": "Beta blockers suppress renal release of the potent vasoconstrictor enzyme renin, which inhibits the renin-angiotensin-aldosterone system and results in renal vasodilation and reduced blood pressure."
+    },
+    {
+      "id": "ang-mc-026",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "A patient is prescribed metoprolol tartrate (Lopresor) 150 mg/day PO divided twice daily (bid). The pharmacy supplies 50-mg scored tablets. How many tablets should the nurse administer per dose?",
+      "options": [
+        "2 tablets",
+        "1.5 tablets",
+        "3 tablets",
+        "0.5 tablet"
+      ],
+      "answer": 1,
+      "rationale": "A total daily dose of 150 mg divided twice daily equals 75 mg per dose. With 50-mg tablets available, 75 mg / 50 mg = 1.5 tablets per dose."
+    },
+    {
+      "id": "ang-mc-027",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "A patient is receiving both metoprolol tartrate and verapamil hydrochloride. The nurse should monitor the patient closely for which drug interaction?",
+      "options": [
+        "Rapid hepatic clearance of metoprolol resulting in uncontrolled exertional tachycardia",
+        "Severe hypertensive crisis caused by competitive antagonism at alpha1-adrenergic receptors",
+        "Additive suppression of atrioventricular node conduction leading to severe bradycardia, heart block, and hypotension",
+        "Acute renal calculi formation due to excessive urinary calcium excretion"
+      ],
+      "answer": 2,
+      "rationale": "Combining a beta blocker with a non-dihydropyridine calcium channel blocker such as verapamil or diltiazem produces additive depression of SA and AV nodal conduction and myocardial contractility, increasing the risk of hypotension, bradycardia, and AV heart block."
+    },
+    {
+      "id": "ang-mc-028",
+      "type": "multiple-choice",
+      "topic": "Beta blockers",
+      "prompt": "Which cardiac condition is a contraindication to initiating beta blocker therapy for angina?",
+      "options": [
+        "Essential tremor with mild hypertension",
+        "Chronic stable effort angina",
+        "Post-myocardial infarction state with normal sinus rhythm",
+        "Acute decompensated heart failure"
+      ],
+      "answer": 3,
+      "rationale": "Beta blockers are contraindicated in the acute stage of decompensated heart failure and in serious conduction disturbances because their negative inotropic and chronotropic effects can further depress failing cardiac output and conduction."
+    },
+    {
+      "id": "ang-mc-029",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "A patient is diagnosed with vasospastic (Prinzmetal's) angina that occurs predictably at rest early each morning. Which class of medication is particularly effective at reversing and preventing the underlying coronary artery smooth muscle spasms?",
+      "options": [
+        "Calcium channel blockers such as diltiazem or amlodipine",
+        "Nonselective beta blockers such as propranolol",
+        "Cardiac glycosides such as digoxin",
+        "HMG-CoA reductase inhibitors (statins)"
+      ],
+      "answer": 0,
+      "rationale": "Calcium channel blockers (and nitrates) inhibit calcium influx into vascular smooth muscle cells, relaxing coronary arteries and directly preventing or reversing the coronary artery spasms responsible for Prinzmetal's (vasospastic) angina."
+    },
+    {
+      "id": "ang-mc-030",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "Which dietary instruction is essential for a patient who has been prescribed nifedipine (Adalat XL) for chronic stable angina?",
+      "options": [
+        "Drink at least 250 mL of grapefruit juice with each tablet to enhance intestinal absorption of the drug.",
+        "Avoid consuming grapefruit or grapefruit juice because it inhibits cytochrome P450 metabolism and increases nifedipine toxicity.",
+        "Restrict dietary potassium intake by avoiding bananas, oranges, and green leafy vegetables.",
+        "Take the tablet only with high-fat dairy meals to prevent esophageal ulceration."
+      ],
+      "answer": 1,
+      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system responsible for metabolizing CCBs—especially nifedipine—leading to elevated plasma drug concentrations and excessive hypotensive effects."
+    },
+    {
+      "id": "ang-mc-031",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "How does the cardiovascular profile of dihydropyridine calcium channel blockers (such as amlodipine) differ from that of verapamil and diltiazem?",
+      "options": [
+        "Amlodipine is only available for continuous intravenous infusion in patients with supraventricular tachycardia.",
+        "Amlodipine selectively depresses sinoatrial and atrioventricular node conduction without dilating peripheral arteries.",
+        "Amlodipine reduces afterload via peripheral vasodilation with less negative inotropic and AV nodal effect than verapamil or diltiazem.",
+        "Amlodipine has an ultra-short elimination half-life of 15 minutes and must be taken six times daily."
+      ],
+      "answer": 2,
+      "rationale": "Dihydropyridine CCBs (amlodipine, nifedipine) act primarily as arterial vasodilators to reduce systemic vascular resistance (afterload) and have much less negative inotropic and nodal conduction-slowing effects than verapamil or diltiazem."
+    },
+    {
+      "id": "ang-mc-032",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "The nurse is reviewing medication orders for a patient taking diltiazem hydrochloride. Why must the nurse carefully verify the specific formulation (e.g., Apo-diltiaz, Apo-diltiaz SR, or Apo-diltiaz CD) before administration?",
+      "options": [
+        "Sustained-release diltiazem contains a beta blocker combination that requires holding if the blood glucose is normal.",
+        "Only immediate-release diltiazem tablets may be opened and sprinkled onto hot liquids.",
+        "The controlled-delivery capsule is formulated for sublingual administration during acute chest pain.",
+        "Diltiazem comes in immediate-release, twice-daily sustained-release, and once-daily controlled-delivery forms that are not interchangeable."
+      ],
+      "answer": 3,
+      "rationale": "Several look-alike/sound-alike formulations of diltiazem exist—including immediate-release (taken qid), sustained-release (SR, taken bid), and controlled-delivery (CD, taken once daily)—which can easily be confused and lead to serious dosing errors."
+    },
+    {
+      "id": "ang-mc-033",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "A patient taking verapamil hydrochloride for chronic stable angina reports having hard, infrequent stools since starting the medication. Which nursing intervention is most appropriate?",
+      "options": [
+        "Advise the patient to increase dietary fibre and fluid intake (unless contraindicated) to manage CCB-induced constipation.",
+        "Instruct the patient to discontinue verapamil immediately because constipation indicates impending bowel necrosis.",
+        "Tell the patient to crush the sustained-release verapamil tablets so they pass through the colon faster.",
+        "Recommend restricting fluid intake to less than 500 mL/day to reduce gastrointestinal smooth muscle edema."
+      ],
+      "answer": 0,
+      "rationale": "Constipation is a common adverse effect of calcium channel blockers (especially verapamil) due to relaxation of gastrointestinal smooth muscle; increasing fluids and dietary fibre helps prevent and manage this effect."
+    },
+    {
+      "id": "ang-mc-034",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "Which dihydropyridine calcium channel blocker mentioned in the chapter is indicated solely as an adjunct to treat cerebral artery spasms associated with a ruptured intracranial aneurysm?",
+      "options": [
+        "Felodipine (Plendil)",
+        "Nimodipine (Nimotop)",
+        "Amlodipine (Norvasc)",
+        "Nifedipine (Adalat XL)"
+      ],
+      "answer": 1,
+      "rationale": "Nimodipine (Nimotop) is a dihydropyridine CCB indicated exclusively as an adjunct for improving neurological outcomes by reducing cerebral artery spasms following subarachnoid hemorrhage from a ruptured aneurysm."
+    },
+    {
+      "id": "ang-mc-035",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "A patient with atrial fibrillation and chronic stable angina is taking digoxin and is newly prescribed verapamil hydrochloride. Which potential drug interaction requires close monitoring by the nurse?",
+      "options": [
+        "Digoxin blocks intestinal absorption of verapamil, rendering the calcium channel blocker inactive.",
+        "Verapamil accelerates renal clearance of digoxin, causing rapid loss of ventricular rate control.",
+        "Verapamil interferes with digoxin elimination, which can increase serum digoxin levels and cause digoxin toxicity.",
+        "The combination causes severe hypokalemia by stimulating aldosterone secretion in the adrenal cortex."
+      ],
+      "answer": 2,
+      "rationale": "Calcium channel blockers interfere with the elimination of digoxin, potentially raising serum digoxin concentrations and increasing the risk of digoxin toxicity and additive AV nodal block."
+    },
+    {
+      "id": "ang-mc-036",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "A patient taking amlodipine besylate (Norvasc) 10 mg daily and a statin for coronary artery disease is prescribed clarithromycin for a respiratory infection. Why should the nurse alert the prescriber?",
+      "options": [
+        "The combination causes acute bronchospasm by blocking beta2 receptors in the lungs.",
+        "Clarithromycin induces hepatic enzymes that destroy amlodipine within minutes of oral ingestion.",
+        "Calcium channel blockers chemically bind macrolide antibiotics in the stomach, preventing infection clearance.",
+        "Clarithromycin inhibits the metabolism of calcium channel blockers, leading to elevated CCB levels and severe hypotension, while CCBs also inhibit statin metabolism."
+      ],
+      "answer": 3,
+      "rationale": "Macrolide antibiotics (clarithromycin, erythromycin), azole antifungals, and HIV protease inhibitors decrease the hepatic metabolism of CCBs, causing elevated CCB levels and toxicity; additionally, CCBs inhibit statin metabolism, increasing the risk of statin toxicity."
+    },
+    {
+      "id": "ang-mc-037",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "Which pharmacokinetic characteristic of amlodipine besylate (Norvasc) allows it to be administered once daily with a smooth 24-hour duration of action?",
+      "options": [
+        "A long elimination half-life of 30 to 50 hours",
+        "Irreversible covalent binding to myocardial troponin C",
+        "Delayed gastric emptying that holds the tablet in the stomach for 18 hours",
+        "Conversion in the kidneys into three long-acting nitrate metabolites"
+      ],
+      "answer": 0,
+      "rationale": "Amlodipine besylate has a prolonged elimination half-life of 30 to 50 hours and a peak plasma concentration at 6 to 12 hours, providing a 24-hour duration of action with once-daily oral dosing."
+    },
+    {
+      "id": "ang-mc-038",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "A patient who has just started diltiazem (Cardizem) for chronic stable angina makes which statement that indicates a need for further teaching?",
+      "options": [
+        "\"I will change positions slowly when getting out of bed to prevent feeling dizzy or lightheaded.\"",
+        "\"If I get sudden chest pain while gardening, I will chew an extra diltiazem capsule to stop the attack right away.\"",
+        "\"I will swallow my controlled-delivery capsule whole with a glass of water each morning.\"",
+        "\"I will check my ankles every day and report any new swelling or shortness of breath to my doctor.\""
+      ],
+      "answer": 1,
+      "rationale": "Calcium channel blockers are used for long-term prophylaxis of angina and cannot abort an acute anginal attack (sublingual nitroglycerin is used for acute relief); furthermore, sustained- or controlled-delivery capsules must never be chewed or crushed."
+    },
+    {
+      "id": "ang-mc-039",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "In which patient is the administration of diltiazem hydrochloride contraindicated?",
+      "options": [
+        "A patient with vasospastic angina who has a history of mild seasonal allergies",
+        "A patient with chronic stable angina and primary hypertension",
+        "A patient with third-degree atrioventricular block who does not have an artificial pacemaker",
+        "A patient with paroxysmal supraventricular tachycardia and a blood pressure of 128/80 mm Hg"
+      ],
+      "answer": 2,
+      "rationale": "Calcium channel blockers are contraindicated in patients with second- or third-degree AV block (unless a functioning pacemaker is present), acute MI, hypotension, and known drug allergy."
+    },
+    {
+      "id": "ang-mc-040",
+      "type": "multiple-choice",
+      "topic": "Antianginal therapy overview",
+      "prompt": "A patient with coronary artery disease asks the nurse what causes the aching or squeezing chest pain during an anginal episode. Which explanation by the nurse is accurate?",
+      "options": [
+        "Lactic acid from skeletal muscles travels to the brain and triggers a referred phantom pain in the chest wall.",
+        "Atherosclerotic plaques scrape against the pericardial sac during ventricular systole, causing mechanical friction pain.",
+        "Excessive oxygen delivery to the coronary arteries causes oxidative blistering of the endocardial lining.",
+        "When deprived of oxygen, the myocardium shifts to anaerobic metabolism, producing lactic acid and mediators that stimulate cardiac pain receptors."
+      ],
+      "answer": 3,
+      "rationale": "Under ischemic conditions, myocardial cells switch from aerobic to anaerobic metabolism, resulting in the accumulation of lactic acid, bradykinin, and adenosine, which stimulate pain receptors surrounding the heart."
+    },
+    {
+      "id": "ang-mc-041",
+      "type": "multiple-choice",
+      "topic": "Antianginal therapy overview",
+      "prompt": "A patient reports chest pain that occurs without exertion, has increased in frequency and severity over the past 3 weeks, and is not predictably relieved by rest. Electrocardiogram shows no persistent ST-segment elevation and cardiac biomarkers are negative. How is this presentation classified?",
+      "options": [
+        "Unstable (preinfarction) angina",
+        "Chronic stable (effort) angina",
+        "ST-segment elevation myocardial infarction (STEMI)",
+        "Grade I exertional angina"
+      ],
+      "answer": 0,
+      "rationale": "Unstable angina (also called preinfarction angina) is a presentation of acute coronary syndrome characterized by cardiac ischemia at rest or with recent onset/increasing severity (<2 months), without persistent ST elevation on ECG and without elevated biomarkers of myocardial necrosis."
+    },
+    {
+      "id": "ang-mc-042",
+      "type": "multiple-choice",
+      "topic": "Nursing process & patient teaching",
+      "prompt": "A patient taking oral isosorbide dinitrate and amlodipine plans to go on a winter vacation at a spa resort. Which activity should the nurse advise the patient to avoid?",
+      "options": [
+        "Walking indoors on a climate-controlled track after warming up",
+        "Sitting in hot tubs or saunas and drinking alcoholic beverages",
+        "Eating high-fibre whole grains and drinking water with meals",
+        "Keeping a daily written log of blood pressure, pulse, and any chest discomfort"
+      ],
+      "answer": 1,
+      "rationale": "Patients taking antianginal vasodilators must avoid alcohol, hot tubs, saunas, hot showers, and hot weather because these cause additive vasodilation and severe orthostatic hypotension, leading to dizziness, syncope, and falls."
+    },
+    {
+      "id": "ang-mc-043",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "When evaluating a supine patient's expected clinical response shortly after administering an appropriate dose of a nitrate, what change in vital signs does the nurse anticipate?",
+      "options": [
+        "No change in blood pressure or pulse rate, as nitrates only act on extravascular lung tissue",
+        "An increase in systolic blood pressure of 30 mm Hg accompanied by a drop in heart rate to 45 beats/min",
+        "A decrease in blood pressure of about 10 mm Hg or a rise in heart rate of about 10 beats/min",
+        "A drop in systolic blood pressure to below 70 mm Hg with a heart rate exceeding 140 beats/min"
+      ],
+      "answer": 2,
+      "rationale": "In a supine patient, an appropriate therapeutic dose of a nitrate typically produces a modest fall in blood pressure of about 10 mm Hg or a reflex increase in heart rate of about 10 beats/min, whereas a systolic BP ≤ 100 mm Hg or HR < 60 or > 100 beats/min requires provider notification."
+    },
+    {
+      "id": "ang-mc-044",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient taking sublingual nitroglycerin experiences a throbbing headache that begins 5 minutes after taking a tablet and lasts about 20 minutes. What should the nurse teach the patient about this symptom?",
+      "options": [
+        "It can be prevented by swallowing the sublingual tablet whole with milk instead of placing it under the tongue.",
+        "It indicates an impending hemorrhagic stroke and requires permanent discontinuation of all nitrate medications.",
+        "It means the sublingual tablets have expired and decomposed into toxic compounds in the bottle.",
+        "It is a common vasodilatory effect that usually diminishes over time and can be treated with acetaminophen if not contraindicated."
+      ],
+      "answer": 3,
+      "rationale": "Brief throbbing headaches (lasting ~20 minutes with SL forms) are the most common adverse effect of nitrates due to cerebral vasodilation; they generally decrease in intensity with continued use and may be managed with acetaminophen."
+    },
+    {
+      "id": "ang-mc-045",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "Which cluster of symptoms in a patient using high doses of nitrates indicates potential nitrate overdose requiring immediate medical attention?",
+      "options": [
+        "Blurred vision, dry mouth, and severe persistent headaches",
+        "Increased salivation, pinpoint pupils, and watery diarrhea",
+        "Bilateral ankle edema,chronic dry cough, and hyperkalemia",
+        "Gingival hyperplasia, hirsutism, and coarse facial features"
+      ],
+      "answer": 0,
+      "rationale": "As highlighted in the textbook's Patient Teaching Tips, blurred vision, dry mouth, or severe persistent headaches may indicate nitrate overdose and require immediate medical evaluation."
+    },
+    {
+      "id": "ang-mc-046",
+      "type": "multiple-choice",
+      "topic": "Nitrates",
+      "prompt": "A patient with chronic stable angina knows that sexual intercourse or shovelling snow typically provokes chest pain. When should the nurse advise the patient to use rapid-acting sublingual nitroglycerin tablets or spray for prophylaxis?",
+      "options": [
+        "2 to 3 hours before the activity so the liver can convert it into active metabolites",
+        "5 to 10 minutes before engaging in the activity known to provoke angina",
+        "Only after chest pain has been present at a severe level (8/10) for at least 15 minutes",
+        "Immediately after completing the activity, regardless of whether pain occurred"
+      ],
+      "answer": 1,
+      "rationale": "Because sublingual tablets and translingual sprays have a rapid onset of 2 to 3 minutes and a duration of 30 to 60 minutes, taking a dose 5 to 10 minutes before a known triggering activity effectively prevents exercise- or stress-induced angina."
+    },
+    {
+      "id": "ang-mc-047",
+      "type": "multiple-choice",
+      "topic": "Calcium channel blockers",
+      "prompt": "The health care provider orders diltiazem hydrochloride (Cardizem) immediate-release tablets 30 mg PO qid for a patient starting therapy for angina. When should the nurse schedule these doses to be administered?",
+      "options": [
+        "Only when the patient reports active chest pain greater than 4/10",
+        "Every 2 hours during the morning only, with a 16-hour drug-free interval",
+        "Before meals and at bedtime",
+        "Mixed into a high-calcium meal four times a day to boost drug potency"
+      ],
+      "answer": 2,
+      "rationale": "Immediate-release oral diltiazem is initiated at 30 mg four times daily (qid), scheduled before meals and at bedtime."
+    },
+    {
+      "id": "ang-mc-048",
+      "type": "multiple-choice",
+      "topic": "Nursing process & patient teaching",
+      "prompt": "Why is an older adult patient who is starting antianginal drug therapy at particularly high risk for falls and syncope?",
+      "options": [
+        "Calcium channel blockers cause acute inner ear crystal displacement within 10 minutes of the first dose.",
+        "Antianginal medications selectively demyelinate peripheral motor nerves in patients over 65 years of age.",
+        "Older adults metabolize nitrates into sedative barbiturate compounds in the renal cortex.",
+        "Older adults frequently have age-related orthostatic hypotension that is worsened by the vasodilatory and blood pressure–lowering effects of antianginals."
+      ],
+      "answer": 3,
+      "rationale": "Older adults often experience normal age-related orthostatic blood pressure changes; adding vasodilators, beta blockers, or CCBs can exacerbate orthostatic hypotension, dizziness, and syncope, requiring position changes to be made slowly and medications to be taken while seated or lying down."
+    },
+    {
+      "id": "ang-sa-001",
+      "type": "short-answer",
+      "topic": "Nitrates",
+      "prompt": "What is the prototypical rapid- and long-acting nitrate used to treat acute anginal attacks via the sublingual route and prevent angina via transdermal patches?",
+      "answers": [
+        {
+          "text": "nitroglycerin",
+          "aliases": [
+            "nitroglycerine",
+            "NTG",
+            "Nitrostat",
+            "Nitro-Dur",
+            "Minitran",
+            "Nitrol",
+            "Trinipatch"
+          ]
+        }
+      ],
+      "rationale": "Nitroglycerin is the prototypical nitrate vasodilator available in rapid-acting forms (sublingual tablets, translingual spray, IV infusion) and long-acting forms (transdermal patches, topical ointment, extended-release oral capsules)."
+    },
+    {
+      "id": "ang-sa-002",
+      "type": "short-answer",
+      "topic": "Calcium channel blockers",
+      "prompt": "Which fruit juice must patients avoid when taking calcium channel blockers—especially nifedipine—because it inhibits cytochrome P450 metabolism and can lead to drug toxicity?",
+      "answers": [
+        {
+          "text": "grapefruit juice",
+          "aliases": [
+            "grapefruit"
+          ]
+        }
+      ],
+      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system that metabolizes CCBs (particularly nifedipine), increasing bioavailability and the risk of severe hypotension and toxicity."
+    },
+    {
+      "id": "ang-sa-003",
+      "type": "short-answer",
+      "topic": "Nitrates",
+      "prompt": "What over-the-counter analgesic is recommended in the chapter to relieve the common, transient headaches associated with nitrate therapy (if not contraindicated)?",
+      "answers": [
+        {
+          "text": "acetaminophen",
+          "aliases": [
+            "Tylenol",
+            "paracetamol"
+          ]
+        }
+      ],
+      "rationale": "Nitrate-induced headaches result from cerebral vasodilation, typically last about 20 minutes with sublingual doses, diminish with continued use, and can be safely managed with acetaminophen."
+    },
+    {
+      "id": "ang-sa-004",
+      "type": "short-answer",
+      "topic": "Nitrates",
+      "prompt": "When intravenous nitroglycerin is exposed to light and allowed to decompose, what toxic chemical substance can it break down into?",
+      "answers": [
+        {
+          "text": "cyanide",
+          "aliases": [
+            "cyanide ion",
+            "CN"
+          ]
+        }
+      ],
+      "rationale": "As stated in the chapter's IV implementation guidelines, using specialized non-PVC infusion kits and protecting IV nitroglycerin from light prevents uptake by plastic and prevents decomposition of the nitrate into cyanide."
+    },
+    {
+      "id": "ang-sa-005",
+      "type": "short-answer",
+      "topic": "Calcium channel blockers",
+      "prompt": "Name the benzothiazepine calcium channel blocker (brand names Cardizem, Tiazac) that is available in oral immediate-release, sustained-release, controlled-delivery, and intravenous formulations.",
+      "answers": [
+        {
+          "text": "diltiazem",
+          "aliases": [
+            "diltiazem hydrochloride",
+            "Cardizem",
+            "Cardizem CD",
+            "Tiazac",
+            "Apo-diltiaz"
+          ]
+        }
+      ],
+      "rationale": "Diltiazem hydrochloride is the only benzothiazepine CCB profiled in the chapter and is used orally for angina and hypertension and intravenously for atrial fibrillation/flutter and paroxysmal supraventricular tachycardia."
+    },
+    {
+      "id": "ang-sa-006",
+      "type": "short-answer",
+      "topic": "Calcium channel blockers",
+      "prompt": "Name the popular dihydropyridine calcium channel blocker (brand name Norvasc) that has a 30- to 50-hour elimination half-life and is dosed orally at 5 to 10 mg once daily for angina and hypertension.",
+      "answers": [
+        {
+          "text": "amlodipine",
+          "aliases": [
+            "amlodipine besylate",
+            "Norvasc"
+          ]
+        }
+      ],
+      "rationale": "Amlodipine besylate (Norvasc) is the most popular dihydropyridine CCB, characterized by a 30- to 50-hour half-life that allows once-daily oral dosing."
+    },
+    {
+      "id": "ang-sa-007",
+      "type": "short-answer",
+      "topic": "Nitrates",
+      "prompt": "What is the generic name of the extended-release oral nitrate (brand name Imdur) that is the active metabolite of isosorbide dinitrate and has no active metabolites of its own?",
+      "answers": [
+        {
+          "text": "isosorbide-5-mononitrate",
+          "aliases": [
+            "isosorbide mononitrate",
+            "Imdur"
+          ]
+        }
+      ],
+      "rationale": "Isosorbide-5-mononitrate (isosorbide mononitrate, Imdur) is the active metabolite of isosorbide dinitrate and provides a steady, predictable antianginal response without requiring hepatic conversion."
+    },
+    {
+      "id": "ang-sa-008",
+      "type": "short-answer",
+      "topic": "Pathophysiology of angina",
+      "prompt": "What type of angina (also known as Prinzmetal's or variant angina) is caused by spasms of the smooth muscle layer surrounding the coronary arteries and often occurs at rest at the same time of day?",
+      "answers": [
+        {
+          "text": "vasospastic angina",
+          "aliases": [
+            "vasospastic",
+            "Prinzmetal's angina",
+            "Prinzmetal angina",
+            "variant angina"
+          ]
+        }
+      ],
+      "rationale": "Vasospastic (Prinzmetal's or variant) angina results from coronary artery smooth muscle spasm rather than physical exertion, often occurring at rest in a regular circadian pattern."
+    },
+    {
+      "id": "ang-sa-009",
+      "type": "short-answer",
+      "topic": "Nitrates",
+      "prompt": "What cardiovascular phenomenon occurs when rapid nitrate-induced venous pooling causes carotid and aortic baroreceptors to trigger a compensatory increase in heart rate?",
+      "answers": [
+        {
+          "text": "reflex tachycardia",
+          "aliases": [
+            "tachycardia"
+          ]
+        }
+      ],
+      "rationale": "Reflex tachycardia occurs when rapid venous vasodilation reduces central blood volume, causing arterial baroreceptors to stimulate sympathetic output and temporarily increase heart rate."
+    },
+    {
+      "id": "ang-sa-010",
+      "type": "short-answer",
+      "topic": "Beta blockers",
+      "prompt": "At or below what apical pulse rate (in beats per minute) must the nurse withhold an antianginal beta blocker and contact the health care provider for further instructions?",
+      "answers": [
+        {
+          "text": "60",
+          "aliases": [
+            "60 bpm",
+            "60 beats/min",
+            "60 beats per minute"
+          ]
+        }
+      ],
+      "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater)."
+    },
+    {
+      "id": "ang-cs-001",
+      "type": "case-study",
+      "title": "New Diagnosis of Chronic Stable Angina",
+      "topic": "Nitrates and Beta Blockers",
+      "scenario": "Arthur Pendelton, a 66-year-old retired carpenter, presents to the cardiology clinic after experiencing squeezing retrosternal chest pain over the past month whenever he walks briskly uphill or carries lumber in cold weather. The pain consistently subsides within 5 to 8 minutes when he stops and sits down. Following diagnostic testing, he is diagnosed with coronary artery disease and chronic stable (exertional) angina. The cardiologist prescribes metoprolol tartrate (Lopresor) 50 mg PO twice daily and nitroglycerin 0.4 mg sublingual tablets PRN for chest pain. Baseline vitals: BP 136/82 mm Hg, HR 78 beats/min, RR 16 breaths/min.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Arthur asks the nurse, \"Why do I need to take metoprolol every day when my chest only hurts if I exert myself, and I already have the nitroglycerin tablets for pain?\" Which explanation by the nurse is best?",
+            "options": [
+              "\"Metoprolol is taken daily to slow your heart rate and reduce its oxygen demand during activity to prevent attacks, whereas sublingual nitroglycerin is used rapidly to stop an acute attack that breaks through.\"",
+              "\"Metoprolol dissolves the cholesterol plaques inside your coronary arteries over time, whereas nitroglycerin only numbs the nerves in your chest wall.\"",
+              "\"You must take metoprolol so that your liver enzymes are activated to convert sublingual nitroglycerin into its active form.\"",
+              "\"Metoprolol raises your blood pressure enough to make it safe for you to take up to 10 nitroglycerin tablets at once.\""
+            ],
+            "answer": 0,
+            "rationale": "Long-term prophylactic therapy with a beta blocker blunts exercise-induced increases in heart rate and contractility to reduce myocardial oxygen demand and prevent angina, whereas rapid-acting sublingual nitroglycerin (onset 2 to 3 minutes) provides immediate vasodilation to abort acute attacks."
+          }
+        },
+        {
+          "update": "The nurse reviews the proper administration and storage of sublingual nitroglycerin with Arthur before he leaves the clinic.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which statement by Arthur indicates that he understands how to use his sublingual nitroglycerin tablets safely?",
+            "options": [
+              "\"I will wait 15 minutes after chest pain starts to see if it goes away on its own before taking my first tablet while standing.\"",
+              "\"At the first sign of chest pain, I will sit down, place one tablet under my tongue to dissolve, and call 911 immediately if the pain is not relieved in 5 minutes.\"",
+              "\"I will take three tablets all at once under my tongue and call my family doctor the next morning if my chest still aches.\"",
+              "\"I will chew the sublingual tablet and swallow it with 240 mL of warm water so it works faster.\""
+            ],
+            "answer": 1,
+            "rationale": "Sublingual nitroglycerin should be taken at the first sign of angina while sitting or lying down to prevent hypotension-related falls; if pain is not relieved 5 minutes after the first dose, the patient must call 911 immediately and may take up to two more tablets 5 minutes apart while waiting."
+          }
+        },
+        {
+          "update": "Three days later, Arthur calls the clinic nurse and reports, \"Yesterday I had chest pain while raking leaves. The nitroglycerin tablet stopped the chest pain in 3 minutes, but it gave me a throbbing headache for 20 minutes and made me feel lightheaded when I stood up.\"",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What advice should the nurse provide to Arthur regarding these effects?",
+            "options": [
+              "\"Drink a glass of red wine before taking your next nitroglycerin tablet to relax your neck muscles and prevent the headache.\"",
+              "\"You are having a severe allergic reaction to nitroglycerin; flush the remaining tablets down the toilet and stop your metoprolol immediately.\"",
+              "\"Brief headaches and lightheadedness are common effects of blood vessel dilation; sit or lie down when taking a dose, rise slowly, and you may take acetaminophen for the headache.\"",
+              "\"Leave the bottle uncapped on your kitchen counter for 48 hours so the excess potency evaporates before you use it again.\""
+            ],
+            "answer": 2,
+            "rationale": "Headache and orthostatic dizziness are common, transient vasodilatory adverse effects of nitrates. Sitting or lying down during dosing, changing positions slowly, and taking acetaminophen for headache are appropriate management strategies."
+          }
+        },
+        {
+          "update": "Eight months later, Arthur returns for a routine follow-up visit. He mentions that he still carries the original bottle of sublingual nitroglycerin he opened 8 months ago, and when he placed a tablet under his tongue yesterday, it did not produce any burning or stinging sensation and did not relieve his chest tightness.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse interpret this information and counsel Arthur?",
+            "options": [
+              "Metoprolol has blocked the salivary glands from dissolving the tablet, so he should switch to chewing extended-release capsules.",
+              "He has developed complete irreversible resistance to all antianginal drugs and requires immediate coronary artery bypass surgery.",
+              "The tablets have become too concentrated from age and must be dissolved in fruit juice before administration.",
+              "Sublingual nitroglycerin loses potency after 3 to 6 months; the lack of a burning sensation and lack of relief indicate he needs a fresh prescription refill."
+            ],
+            "answer": 3,
+            "rationale": "Sublingual nitroglycerin tablets remain potent for only 3 to 6 months once opened, even when stored properly in their amber glass container. A potent tablet typically causes a slight burning or stinging sensation under the tongue; after 8 months, a new supply must be obtained."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ang-cs-002",
+      "type": "case-study",
+      "title": "Hospital Management of Unstable Angina",
+      "topic": "Intravenous and Transdermal Nitrates",
+      "scenario": "Elena Rostova, a 61-year-old bookkeeper with a history of hypertension and hyperlipidemia, arrives at the emergency department reporting three episodes of severe, unprovoked substernal chest pain at rest over the past 24 hours. Her 12-lead ECG shows transient ST-segment depression without ST-segment elevation, and initial serial troponin levels are negative. She is diagnosed with unstable angina and admitted to the coronary care unit. Vital signs on arrival: BP 154/92 mm Hg, HR 88 beats/min, SpO2 96% on room air. The cardiologist orders a continuous intravenous nitroglycerin infusion starting at 10 mcg/min, titrated to chest pain and blood pressure.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "When setting up the intravenous nitroglycerin infusion for Elena, which nursing action is required?",
+            "options": [
+              "Use manufacturer-supplied non-PVC plastic infusion tubing with an electronic infusion pump and continuous ECG and blood pressure monitoring.",
+              "Use standard PVC intravenous tubing and infuse by gravity drip, checking vital signs once per shift.",
+              "Mix the nitroglycerin in the same intravenous line with phenytoin and run it without an infusion pump.",
+              "Discard the solution only if it turns bright yellow after 10 days of continuous room-temperature hang time."
+            ],
+            "answer": 0,
+            "rationale": "Intravenous nitroglycerin requires continuous ECG and automatic blood pressure monitoring, an electronic infusion pump, and non-PVC plastic bags and tubing to prevent drug adsorption to PVC plastic and light-induced breakdown."
+          }
+        },
+        {
+          "update": "After 45 minutes of titrating the IV nitroglycerin infusion, Elena's chest pain decreases from 7/10 to 0/10. However, the bedside monitor alarms and displays a blood pressure of 86/50 mm Hg and a heart rate of 112 beats/min, and Elena states she feels very dizzy and nauseated.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action in response to these assessment findings?",
+            "options": [
+              "Increase the nitroglycerin infusion rate to dilate the cerebral arteries and relieve her dizziness.",
+              "Reduce or pause the nitroglycerin infusion per protocol and notify the health care provider immediately of the hypotension and tachycardia.",
+              "Administer sildenafil PO to stabilize her systemic vascular resistance.",
+              "Assist Elena to stand up at the bedside to encourage venous return from the lower extremities."
+            ],
+            "answer": 1,
+            "rationale": "Intravenous nitroglycerin has an onset of 1 to 2 minutes and a brief duration of 3 to 5 minutes; if systolic BP drops to 100 mm Hg or lower or heart rate rises above 100 beats/min, the nurse must immediately contact the provider and decrease/hold the infusion."
+          }
+        },
+        {
+          "update": "The IV nitroglycerin rate is adjusted, and Elena's blood pressure stabilizes at 118/72 mm Hg with a heart rate of 76 beats/min. Twenty-four hours later, she has remained pain-free, and the cardiologist orders a transition from IV nitroglycerin to a transdermal nitroglycerin patch 0.4 mg/hr applied daily at 0800 hours and removed at 2000 hours.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action (in minutes, expressed as a range or single number from 30 to 60) of a transdermal nitroglycerin patch?",
+            "answers": [
+              {
+                "text": "30 to 60 minutes",
+                "aliases": [
+                  "30-60 minutes",
+                  "30-60 min",
+                  "30 to 60 min",
+                  "30",
+                  "30 minutes",
+                  "30 min",
+                  "60",
+                  "60 minutes",
+                  "60 min"
+                ]
+              }
+            ],
+            "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours."
+          }
+        },
+        {
+          "update": "The nurse is preparing Elena for discharge home on the daily transdermal nitroglycerin patch.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which discharge instruction should the nurse include regarding safe application and disposal of the transdermal nitroglycerin patch?",
+            "options": [
+              "\"If a patch loosens at the edges, cut it into smaller strips with scissors and tape it over a skin fold on your abdomen.\"",
+              "\"Apply the patch to your lower ankle or calf each morning, and leave yesterday's patch in place until the new one has been on for 4 hours.\"",
+              "\"Apply the patch to a clean, hairless area above the elbows and knees, rotate sites daily, and fold the removed patch in half with the sticky sides together before discarding out of reach of children and pets.\"",
+              "\"Throw used patches unfolded into an open bedroom wastebasket, as all nitroglycerin is completely gone after 8 hours.\""
+            ],
+            "answer": 2,
+            "rationale": "Transdermal nitrate patches must be applied to clean, dry, hairless skin on the upper body/arms (never distal to the knees or elbows or in skin folds), sites must be rotated with old residue washed off, and used patches must be folded sticky sides together and disposed of safely away from children and pets."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ang-cs-003",
+      "type": "case-study",
+      "title": "Beta Blocker Comorbidities and Monitoring",
+      "topic": "Beta Blockers",
+      "scenario": "Marcus Vance, a 59-year-old high school principal, is admitted to the medical unit for evaluation of exertional chest pain. His medical history includes type 2 diabetes mellitus treated with insulin glargine and mealtime insulin lispro, hypertension, and a history of adult-onset bronchial asthma. His admission vital signs are BP 148/88 mm Hg, apical HR 84 beats/min, RR 18 breaths/min, and blood glucose 6.4 mmol/L.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "A medical resident writes an initial order for propranolol hydrochloride 40 mg PO tid for Marcus's angina. What is the nurse's priority action before administering this medication?",
+            "options": [
+              "Crush the tablet and administer it sublingually so it bypasses the pulmonary circulation.",
+              "Administer the propranolol with 240 mL of orange juice to prevent bronchial irritation.",
+              "Give the dose as ordered because propranolol selectively dilates beta2 receptors in the lungs.",
+              "Withhold the propranolol and contact the prescriber to question the order because nonselective beta blockade can trigger bronchoconstriction in a patient with asthma."
+            ],
+            "answer": 3,
+            "rationale": "Propranolol is a nonselective beta blocker that blocks both beta1 and beta2 receptors; blocking bronchial beta2 receptors causes bronchoconstriction and wheezing in patients with asthma. Even cardioselective beta blockers require caution."
+          }
+        },
+        {
+          "update": "After consulting with the pulmonologist and cardiologist, the order is changed to a low dose of the cardioselective beta1 blocker atenolol (Tenormin) 50 mg PO once daily, with close respiratory and glycemic monitoring.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "At 1630 hours, before dinner, Marcus tells the nurse he feels unusually fatigued and sweaty, and has a mild headache. His apical pulse is 68 beats/min and his blood pressure is 126/76 mm Hg. What action should the nurse take first?",
+            "options": [
+              "Check Marcus's capillary blood glucose level immediately because atenolol masks hypoglycemia-induced tachycardia.",
+              "Administer sublingual nitroglycerin immediately because sweating is only caused by coronary vasospasm.",
+              "Reassure Marcus that since his heart rate is 68 beats/min, his blood glucose cannot be low.",
+              "Administer an extra dose of mealtime insulin lispro to relieve his fatigue."
+            ],
+            "answer": 0,
+            "rationale": "Beta blockers mask the classic sympathetic tachycardia associated with hypoglycemia (diaphoresis and CNS symptoms like fatigue/headache may still occur); therefore, any diabetic patient on a beta blocker with these symptoms must have their blood glucose checked immediately."
+          }
+        },
+        {
+          "update": "Marcus's capillary blood glucose is found to be 3.1 mmol/L, and the nurse treats his hypoglycemia according to protocol. The next morning at 0800 hours, before giving Marcus's scheduled atenolol 50 mg PO, the nurse assesses his vital signs: BP 116/70 mm Hg, apical pulse 54 beats/min (auscultated for 1 full minute), RR 16 breaths/min.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the appropriate nursing action regarding the 0800 hours dose of atenolol?",
+            "options": [
+              "Administer the atenolol as scheduled because the systolic blood pressure is above 100 mm Hg.",
+              "Hold the atenolol dose and notify the health care provider that the apical pulse is 54 beats/min.",
+              "Break the 50-mg tablet into quarters and give 12.5 mg without notifying the provider.",
+              "Recheck the pulse at the radial artery for 15 seconds and give the drug if the patient feels fine."
+            ],
+            "answer": 1,
+            "rationale": "An apical pulse rate of 60 beats/min or lower is a hold parameter for antianginal beta blockers; the nurse must withhold the dose and contact the health care provider for further instructions."
+          }
+        },
+        {
+          "update": "The health care provider adjusts Marcus's atenolol dosage to 25 mg PO daily, and his apical heart rate stabilizes at 66 beats/min. Two weeks after discharge, Marcus calls the clinic nurse to report that he has gained 1.4 kg since yesterday morning and feels slightly short of breath when climbing stairs.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse respond to Marcus's report?",
+            "options": [
+              "Reassure him that weight gain is only significant if it exceeds 5 kg in a single week.",
+              "Advise him to stop taking atenolol abruptly today and restrict all fluids for 48 hours.",
+              "Instruct him to be evaluated by the health care provider immediately, as a weight gain of 1 kg or more in 24 hours with dyspnea may indicate developing heart failure.",
+              "Tell him to take two sublingual nitroglycerin tablets every hour to flush out the excess fluid."
+            ],
+            "answer": 2,
+            "rationale": "A weight gain of 1 kg or more over 24 hours (or 2.3 kg or more in 1 week) accompanied by dyspnea in a patient taking a beta blocker is a warning sign of fluid retention and possible heart failure exacerbation that must be reported to the health care provider immediately."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ang-cs-004",
+      "type": "case-study",
+      "title": "Vasospastic Angina and Calcium Channel Blockers",
+      "topic": "Calcium Channel Blockers",
+      "scenario": "Claire Beaumont, a 52-year-old graphic designer, is evaluated for recurrent episodes of intense chest pain that wake her from sleep around 0500 hours almost every morning, unrelated to physical exertion. Coronary angiography reveals no fixed obstructive plaque, but provocative testing confirms coronary artery spasm. She is diagnosed with vasospastic (Prinzmetal's) angina and prescribed diltiazem hydrochloride controlled-delivery (Cardizem CD) 180 mg PO once daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Claire asks the nurse how diltiazem will prevent her early-morning chest pain. Which explanation is accurate?",
+            "options": [
+              "\"Diltiazem stimulates your adrenal glands to release epinephrine while you sleep.\"",
+              "\"Diltiazem increases calcium influx into your heart muscle so it can forcefully push blood past the spasm.\"",
+              "\"Diltiazem thins your blood by inhibiting platelet aggregation inside the coronary veins.\"",
+              "\"Diltiazem blocks calcium from entering the smooth muscle cells of your coronary arteries, relaxing the vessels and preventing spasms.\""
+            ],
+            "answer": 3,
+            "rationale": "Calcium channel blockers inhibit the movement of calcium ions across cell membranes during excitation-contraction coupling in cardiac and vascular smooth muscle, causing coronary artery relaxation and preventing vasospasm."
+          }
+        },
+        {
+          "update": "When picking up her prescription at the community pharmacy, Claire notices the label reads \"Apo-diltiaz CD 180 mg capsule: Take 1 capsule once daily.\" She mentions that her sister takes \"Apo-diltiaz\" tablets four times a day before meals and at bedtime and asks if the pharmacy made a mistake.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What should the nurse explain to Claire about these diltiazem formulations?",
+            "options": [
+              "\"Apo-diltiaz is an immediate-release tablet taken four times daily, whereas Apo-diltiaz CD is a controlled-delivery capsule designed to be taken once daily and must never be crushed or chewed.\"",
+              "\"All diltiazem capsules and tablets release medication at the exact same speed, so you can divide your capsule powder into four doses.\"",
+              "\"Your sister is taking an overdose, because diltiazem is never prescribed more than once a week.\"",
+              "\"You can swap bottles with your sister if you run out, as long as the total milligram count is similar.\""
+            ],
+            "answer": 0,
+            "rationale": "Diltiazem is manufactured in multiple formulations with similar names: immediate-release (taken qid), sustained-release (SR, taken bid), and controlled-delivery (CD, taken once daily). Patients must take the exact formulation prescribed and never crush or chew extended/controlled-release capsules."
+          }
+        },
+        {
+          "update": "One month later, Claire visits the clinic for follow-up. Her morning angina attacks have resolved, her BP is 122/74 mm Hg, and her HR is 66 beats/min. She mentions that she has been drinking fresh grapefruit juice every morning with breakfast and has developed mild constipation and trace ankle swelling.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which nursing instruction is most important for Claire based on her current report?",
+            "options": [
+              "Stop diltiazem abruptly today because trace ankle edema indicates acute kidney failure.",
+              "Avoid grapefruit juice because it inhibits cytochrome P450 metabolism of calcium channel blockers, and increase dietary fibre and fluid intake to help prevent constipation.",
+              "Drink twice as much grapefruit juice to act as a natural osmotic laxative for the constipation.",
+              "Take over-the-counter pseudoephedrine decongestants to constrict the blood vessels in her ankles."
+            ],
+            "answer": 1,
+            "rationale": "Grapefruit juice inhibits cytochrome P450 enzymes and can elevate CCB levels toward toxicity; constipation is a common CCB adverse effect managed by increasing fluids and dietary fibre, while peripheral edema and daily weights should be monitored."
+          }
+        },
+        {
+          "update": "Six months later, Claire is hospitalized with new-onset rapid atrial fibrillation (ventricular rate 138 beats/min) and is started on an intravenous diltiazem infusion alongside amiodarone hydrochloride.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Because Claire is receiving both diltiazem and amiodarone hydrochloride, the nurse must monitor closely for which drug interaction?",
+            "options": [
+              "Acute hyperthyroidism triggered by calcium channel blockade in the thyroid gland",
+              "Rapid inactivation of amiodarone resulting in uncontrolled ventricular tachycardia",
+              "Decreased metabolism of diltiazem leading to severe bradycardia, atrioventricular block, and decreased cardiac output",
+              "Severe hypertension caused by synergistic arterial vasoconstriction"
+            ],
+            "answer": 2,
+            "rationale": "According to Table 24.6, concurrent use of CCBs and amiodarone hydrochloride results in decreased metabolism and additive cardiac depression, leading to severe bradycardia and decreased cardiac output."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ang-cs-005",
+      "type": "case-study",
+      "title": "Oral Nitrate Regimen and Dangerous Drug Interactions",
+      "topic": "Oral Nitrates",
+      "scenario": "Walter Kowalski, a 71-year-old retired machinist with coronary artery disease and chronic stable angina, is prescribed oral isosorbide dinitrate (ISDN) 20 mg three times daily (scheduled at 0700, 1300, and 1900 hours) and amlodipine besylate (Norvasc) 5 mg PO once daily. His baseline seated vital signs are BP 132/78 mm Hg and apical HR 72 beats/min.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Walter asks the nurse why his isosorbide dinitrate doses are scheduled at 0700, 1300, and 1900 hours instead of every 8 hours around the clock. What is the nurse's best explanation?",
+            "options": [
+              "\"Taking isosorbide dinitrate within 8 hours of morning amlodipine causes the tablets to solidify in the stomach.\"",
+              "\"Isosorbide dinitrate causes severe insomnia if taken after 2000 hours because it stimulates the central nervous system.\"",
+              "\"Your kidneys only filter nitrate metabolites during daylight hours when you are upright.\"",
+              "\"Scheduling the last dose at 1900 hours provides a 12-hour nitrate-free interval overnight so your body does not develop tolerance to the medication.\""
+            ],
+            "answer": 3,
+            "rationale": "Oral isosorbide dinitrate is commonly dosed three times daily (e.g., 0700, 1300, and 1900 hours) to provide a 12-hour drug-free interval that prevents the development of nitrate tolerance."
+          }
+        },
+        {
+          "update": "The nurse provides Walter with additional administration instructions for his oral isosorbide dinitrate tablets.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which instruction regarding oral isosorbide dinitrate administration is accurate?",
+            "options": [
+              "Take the tablets on an empty stomach with 180 to 240 mL of water, or with meals if bothersome headaches or gastrointestinal upset occur.",
+              "Restrict fluid intake to tiny sips when swallowing the tablet to keep the drug concentrated in the esophagus.",
+              "Substitute isosorbide-5-mononitrate (Imdur) tablet-for-tablet whenever the pharmacy is out of isosorbide dinitrate.",
+              "Stand up briskly for 15 minutes immediately after swallowing each dose to speed delivery to the legs."
+            ],
+            "answer": 0,
+            "rationale": "Isosorbide tablets are best taken on an empty stomach with 180 to 240 mL of water, though they may be taken with food if headache or GI upset occurs. Isosorbide dinitrate and isosorbide-5-mononitrate have different pharmacokinetics and are not interchangeable."
+          }
+        },
+        {
+          "update": "At a follow-up visit 2 months later, Walter confides in the nurse that he has been experiencing erectile dysfunction and asks if he can get a prescription for tadalafil (Cialis) or sildenafil citrate (Viagra), or if he can just skip one evening dose of his nitrate whenever he wants to take an erectile dysfunction pill.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's best response to Walter's request?",
+            "options": [
+              "\"Skipping your 1900 hours dose of isosorbide dinitrate makes it completely safe to take tadalafil later that night.\"",
+              "\"Erectile dysfunction drugs like tadalafil and sildenafil are strictly contraindicated with any form of nitrate because the combination can cause a fatal drop in blood pressure.\"",
+              "\"You can safely take sildenafil if we switch your nitrate from isosorbide dinitrate to isosorbide-5-mononitrate.\"",
+              "\"Those medications only interact with topical nitroglycerin patches, not with oral nitrate tablets.\""
+            ],
+            "answer": 1,
+            "rationale": "All organic nitrates (including isosorbide dinitrate, isosorbide-5-mononitrate, and nitroglycerin in any form) are strictly contraindicated with PDE5 inhibitors (sildenafil, tadalafil, vardenafil) due to synergistic vasodilation that causes severe, potentially fatal hypotension."
+          }
+        },
+        {
+          "update": "During the same visit, the nurse reviews fall prevention strategies with Walter, noting that as a 71-year-old taking both isosorbide dinitrate and amlodipine, he is susceptible to orthostatic hypotension.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which set of measures should the nurse teach Walter to reduce his risk of orthostatic hypotension and injury at home?",
+            "options": [
+              "Stop both medications for 3 days whenever he feels slightly tired, and resume them at double the dose.",
+              "Take a hot bath every morning before taking his pills, stand up quickly to test his balance, and limit daily water intake.",
+              "Dangle his legs on the side of the bed and move his legs before standing slowly, avoid alcohol and hot showers/saunas, and remove loose throw rugs.",
+              "Keep his legs completely still and locked at the knees whenever standing in one place for a long time."
+            ],
+            "answer": 2,
+            "rationale": "To decrease injury risk from antianginal-induced orthostatic hypotension, patients should sit or lie down when taking doses, dangle and move their legs before rising slowly, maintain adequate fluid intake, avoid alcohol and heat/saunas, and remove tripping hazards such as loose rugs."
+          }
+        }
+      ]
+    }
+  ]
+}

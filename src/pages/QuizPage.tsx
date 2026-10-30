@@ -81,7 +81,7 @@ export function QuizPage() {
 
   return (
     <div className="page page--quiz">
-      <AppHeader brandDisabled>
+      <AppHeader>
         <div className="quiz-header">
           <span className="quiz-header__title">{attempt.categoryName}</span>
           <span className={`timer ${timerState}`} role="timer" aria-live="off" aria-label={`Time remaining ${formatDuration(remaining)}`}>

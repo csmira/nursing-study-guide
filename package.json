@@ -9,6 +9,7 @@
     "build": "tsc -p . && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -p .",
+    "build:banks": "node scripts/build-combined-bank.mjs",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

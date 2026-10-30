@@ -1,0 +1,1179 @@
+{
+  "categoryId": "pharmacology-acid-control",
+  "items": [
+    {
+      "id": "acid-mc-001",
+      "type": "multiple-choice",
+      "topic": "Gastric Physiology & Acid Secretion",
+      "prompt": "A nursing student is reviewing the physiology of gastric glands before administering acid-controlling medications. Which gastric gland cells are directly responsible for producing and secreting hydrochloric acid (HCl)?",
+      "options": [
+        "Parietal cells",
+        "Chief cells",
+        "Mucous surface epithelial cells",
+        "Enterochromaffin cells"
+      ],
+      "answer": 0,
+      "rationale": "Parietal cells located in the gastric glands produce and secrete hydrochloric acid (HCl) and are the primary site of action for many acid-controlling medications. Chief cells secrete pepsinogen, and mucous cells secrete protective mucus."
+    },
+    {
+      "id": "acid-mc-002",
+      "type": "multiple-choice",
+      "topic": "Gastric Physiology & Acid Secretion",
+      "prompt": "Which substance secreted by the gastric mucosa is a glycoprotein required to facilitate the gastrointestinal absorption of vitamin B12?",
+      "options": [
+        "Pepsinogen",
+        "Intrinsic factor",
+        "Adenylate cyclase",
+        "Prostaglandin E"
+      ],
+      "answer": 1,
+      "rationale": "Intrinsic factor is a glycoprotein secreted by the stomach that facilitates the gastric absorption of vitamin B12. Pepsinogen is a precursor to pepsin for protein digestion, adenylate cyclase is an intracellular enzyme, and prostaglandins provide anti-inflammatory and mucoprotective functions."
+    },
+    {
+      "id": "acid-mc-003",
+      "type": "multiple-choice",
+      "topic": "Gastric Physiology & Acid Secretion",
+      "prompt": "When histamine binds to histamine-2 (H2) receptors on the wall of a gastric parietal cell, which intracellular second messenger is produced to provide energy for the hydrogen–potassium–ATPase pump?",
+      "options": [
+        "Calcium ions",
+        "Pepsin",
+        "Cyclic adenosine monophosphate (cAMP)",
+        "Sodium bicarbonate"
+      ],
+      "answer": 2,
+      "rationale": "Occupation of histamine receptors on the parietal cell results in the production of adenylate cyclase, which converts ATP to cyclic adenosine monophosphate (cAMP) to power the proton pump. Calcium ions serve as the second messenger for acetylcholine and gastrin receptors."
+    },
+    {
+      "id": "acid-mc-004",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient with chronic kidney disease (eGFR 22 mL/min/1.73 m² and serum creatinine 265 µmol/L) asks the nurse which over-the-counter antacid is safest to avoided toxic electrolyte accumulation. What should the nurse tell the patient?",
+      "options": [
+        "Magnesium-based and calcium-based antacids must be avoided because they accumulate to toxic levels in kidney disease.",
+        "Magnesium hydroxide is the safest single-ingredient antacid because it is excreted exclusively in the stool.",
+        "Calcium carbonate at doses up to 8000 mg/day is safe because calcium does not rely on renal homeostatic mechanisms.",
+        "Effervescent sodium bicarbonate is preferred in renal failure because it prevents metabolic acidosis without fluid retention."
+      ],
+      "answer": 0,
+      "rationale": "Both magnesium- and calcium-based antacids are likely to accumulate to toxic levels in patients with impaired kidney function and should be avoided. Aluminum-based antacids are more easily excreted in patients with kidney compromise, though sodium load must also be monitored."
+    },
+    {
+      "id": "acid-mc-005",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient taking an aluminum hydroxide antacid for gastritis reports new-onset constipation. Why are many aluminum-based antacids formulated in combination with magnesium hydroxide?",
+      "options": [
+        "Magnesium blocks the systemic absorption of aluminum across the intestinal wall.",
+        "Magnesium contributes acid-neutralizing capacity while its laxative effect counteracts aluminum-induced constipation.",
+        "Magnesium chelates pepsinogen in the stomach lumen so less aluminum is needed.",
+        "Magnesium lowers the stomach pH slightly to prevent rebound alkalosis from aluminum."
+      ],
+      "answer": 1,
+      "rationale": "Aluminum- and calcium-containing antacids frequently cause constipation, whereas magnesium-containing antacids have a laxative effect that can cause diarrhea. Combining aluminum and magnesium balances out their bowel effects while contributing to acid neutralization."
+    },
+    {
+      "id": "acid-mc-006",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient with gastroesophageal reflux disease (GERD) asks the nurse about purchasing peppermint-flavoured antacid tablets to help relieve bloating and belching. Which nursing response is appropriate?",
+      "options": [
+        "\"Peppermint flavouring is ideal for GERD because it coats the lower esophagus.\"",
+        "\"You should avoid peppermint-flavoured antacids because peppermint relaxes the lower esophageal sphincter and worsens acid reflux.\"",
+        "\"Peppermint chelates stomach acid and doubles the duration of action of calcium carbonate.\"",
+        "\"You may use peppermint antacids as long as you take them immediately before lying down.\""
+      ],
+      "answer": 1,
+      "rationale": "Peppermint relaxes the lower esophageal (cardiac) sphincter to allow gas release, which allows acidic stomach contents to reflux back into the esophagus; therefore, it should not be used in patients with GERD."
+    },
+    {
+      "id": "acid-mc-007",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient is prescribed Gaviscon (an antacid combined with alginate sodium) for reflux symptoms. How does the alginate component exert its therapeutic effect?",
+      "options": [
+        "It irreversibly inhibits the hydrogen–potassium–ATPase pump on parietal cells.",
+        "It forms a floating physical gel barrier between gastric acid and the esophagus to prevent reflux.",
+        "It alters the elasticity of mucus-coated gas bubbles in the lower intestine.",
+        "It competitively blocks histamine-2 receptors on the gastric fundus."
+      ],
+      "answer": 1,
+      "rationale": "Alginate is a substance derived from kelp or seaweed that does not neutralize acid itself; instead, it creates a floating physical gel barrier on top of stomach contents that prevents gastric acid from refluxing into the esophagus."
+    },
+    {
+      "id": "acid-mc-008",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient with a urinary tract infection is prescribed oral ciprofloxacin 500 mg every 12 hours and also takes an aluminum–magnesium antacid (Maalox) for dyspepsia. Which instruction is most important for the nurse to provide?",
+      "options": [
+        "Take the ciprofloxacin and the antacid together with a full glass of milk to prevent stomach upset.",
+        "Take the antacid at least 2 hours before or 2 hours after the ciprofloxacin dose.",
+        "Stop taking ciprofloxacin whenever heartburn occurs and substitute calcium carbonate.",
+        "Space the antacid and ciprofloxacin by 15 minutes to prevent gastric irritation."
+      ],
+      "answer": 1,
+      "rationale": "Antacids decrease the GI absorption of quinolone antibiotics (such as ciprofloxacin, levofloxacin, and moxifloxacin) by more than 50%, which can lead to treatment failure in serious infections. Antacids must be given at least 2 hours before or 2 hours after a quinolone antibiotic."
+    },
+    {
+      "id": "acid-mc-009",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient has been consuming high doses of calcium carbonate (Tums, Rolaids) along with large amounts of milk daily for several months to self-treat epigastric pain. The nurse assesses the patient for headache, anorexia, nausea, vomiting, and unusual fatigue. Which complication is the nurse suspecting?",
+      "options": [
+        "Curling syndrome",
+        "Milk-alkali syndrome",
+        "Zollinger-Ellison syndrome",
+        "Clostridium difficile colitis"
+      ],
+      "answer": 1,
+      "rationale": "Excessive or prolonged intake of calcium-containing antacids such as calcium carbonate can cause milk-alkali syndrome, which presents with headache, anorexia, nausea, vomiting, unusual tiredness, and hypercalcemia."
+    },
+    {
+      "id": "acid-mc-010",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "Chronic overuse of aluminum-containing antacids can lead to which electrolyte imbalance due to binding in the gastrointestinal tract?",
+      "options": [
+        "Hyperkalemia",
+        "Hypophosphatemia",
+        "Hypermagnesemia",
+        "Hyponatremia"
+      ],
+      "answer": 1,
+      "rationale": "Aluminum in antacids binds to dietary phosphate in the GI tract, which may produce hypophosphatemia (manifested by loss of appetite, malaise, muscle weakness, and bone pain) as well as secondary hypercalcemia."
+    },
+    {
+      "id": "acid-mc-011",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "Which patient would be at greatest risk for fluid retention, worsening hypertension, and metabolic alkalosis from frequent use of sodium bicarbonate as an antacid?",
+      "options": [
+        "A 28-year-old athlete with occasional exercise-induced heartburn",
+        "A 72-year-old patient with heart failure, hypertension, and mild renal insufficiency",
+        "A 35-year-old patient taking simethicone for postoperative flatulence",
+        "A 45-year-old patient with seasonal allergies taking famotidine"
+      ],
+      "answer": 1,
+      "rationale": "Sodium bicarbonate is highly soluble and has a very high sodium content and high potential to cause systemic metabolic alkalosis and electrolyte disturbances. It is problematic and generally not recommended for patients with heart failure, hypertension, edema, or kidney insufficiency."
+    },
+    {
+      "id": "acid-mc-012",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "When teaching a patient how to take chewable antacid tablets (excluding rapid-dissolving formulations), which instruction should the nurse include?",
+      "options": [
+        "Swallow the tablet whole with a sip of juice so the protective coating remains intact.",
+        "Chew the tablet thoroughly and follow it with at least 240 mL of water.",
+        "Dissolve the tablet in 30 mL of warm milk and take it simultaneously with morning medications.",
+        "Take the tablet without water so a concentrated paste stays in the esophagus."
+      ],
+      "answer": 1,
+      "rationale": "Chewable antacid tablets must be chewed thoroughly for full neutralizing effect and taken with at least 240 mL (8 oz) of water to ensure the drug reaches the stomach and is properly distributed."
+    },
+    {
+      "id": "acid-mc-013",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "How does an antacid's effect on gastric and urinary pH alter the pharmacokinetics of other weak acid or weak base medications?",
+      "options": [
+        "Increased stomach pH increases the absorption of basic drugs and decreases the absorption of acidic drugs.",
+        "Increased stomach pH increases the absorption of acidic drugs such as ketoconazole and iron salts.",
+        "Increased urinary pH decreases the renal excretion of weak acids and increases excretion of weak bases.",
+        "Antacids lower gastric pH to 1.0, causing immediate precipitation of all oral medications."
+      ],
+      "answer": 0,
+      "rationale": "By raising gastric pH, antacids increase the absorption of weakly basic drugs (such as benzodiazepines or sympathomimetics) and decrease the absorption of weakly acidic drugs. In the urine, increased pH increases the excretion of acidic drugs and decreases the excretion of basic drugs."
+    },
+    {
+      "id": "acid-mc-014",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "Why should patients taking enteric-coated oral medications be advised against taking antacids at the same time?",
+      "options": [
+        "Antacids strengthen the enteric polymer so the tablet passes through the GI tract unabsorbed.",
+        "Antacids raise stomach pH and cause premature dissolution of the enteric coating in the stomach, leading to gastric upset.",
+        "Enteric-coated tablets neutralize antacids and cause severe esophageal burns.",
+        "The combination produces insoluble aluminum crystals in the biliary tree."
+      ],
+      "answer": 1,
+      "rationale": "Enteric coatings are designed to stay intact in the acidic stomach and dissolve in the more alkaline intestine. Antacids raise gastric pH, causing premature dissolution of the enteric coating in the stomach and resulting in gastric irritation and upset."
+    },
+    {
+      "id": "acid-mc-015",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "How do histamine-2 (H2) receptor antagonists such as ranitidine hydrochloride and famotidine reduce gastric acidity?",
+      "options": [
+        "They chemically neutralize existing hydrochloric acid in the gastric lumen through basic ionic salts.",
+        "They competitively block H2 receptors on parietal cells, reducing hydrogen ion secretion in response to histamine, acetylcholine, and gastrin.",
+        "They irreversibly bind to the hydrogen–potassium–ATPase enzyme, creating complete achlorhydria for 72 hours.",
+        "They coat the base of ulcer craters by binding to positively charged necrotic proteins."
+      ],
+      "answer": 1,
+      "rationale": "H2 receptor antagonists competitively block the H2 receptor on acid-producing parietal cells, rendering the cells less responsive not only to histamine but also to acetylcholine and gastrin stimulation, inhibiting up to 90% of acid secretion."
+    },
+    {
+      "id": "acid-mc-016",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "An 81-year-old patient admitted with pneumonia is started on an H2 receptor antagonist for stress ulcer prophylaxis. Which adverse effect requires priority monitoring by the nurse in this older adult patient?",
+      "options": [
+        "Acute confusion, disorientation, and agitation",
+        "Severe gingival hyperplasia",
+        "Permanent sensorineural hearing loss",
+        "Hyperglycemic hyperosmolar state"
+      ],
+      "answer": 0,
+      "rationale": "Central nervous system adverse effects such as confusion, disorientation, lethargy, agitation, and hallucinations are a known risk of H2 receptor antagonists in older adults. The nurse must closely assess level of consciousness and mental status changes."
+    },
+    {
+      "id": "acid-mc-017",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "A male patient who has been taking cimetidine for several months for peptic ulcer disease reports breast tenderness and enlargement, as well as erectile dysfunction. How should the nurse explain this finding?",
+      "options": [
+        "Cimetidine inhibits estradiol metabolism and displaces dihydrotestosterone from androgen-binding sites, causing gynecomastia and impotence.",
+        "These symptoms are unrelated to cimetidine and indicate an acute adrenal crisis.",
+        "All acid-controlling drugs including simethicone and sucralfate cause irreversible testicular atrophy.",
+        "Cimetidine stimulates excessive testosterone synthesis in the liver."
+      ],
+      "answer": 0,
+      "rationale": "Cimetidine can induce erectile dysfunction (impotence) and gynecomastia because it inhibits estradiol metabolism and displaces dihydrotestosterone from peripheral androgen-binding sites, in addition to increasing prolactin secretion."
+    },
+    {
+      "id": "acid-mc-018",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "A patient taking warfarin sodium, phenytoin, and theophylline is prescribed cimetidine for GERD. Why should the nurse contact the prescriber to suggest switching to famotidine?",
+      "options": [
+        "Cimetidine inhibits hepatic cytochrome P450 enzymes (CYP1A2, CYP2D6, CYP3A4), which can dangerously elevate blood levels of narrow-therapeutic-index drugs, whereas famotidine has essentially no effect on the P450 system.",
+        "Cimetidine induces hepatic enzymes and causes rapid subtherapeutic clearance of warfarin and phenytoin.",
+        "Famotidine chelates warfarin in the bloodstream to prevent bleeding.",
+        "Cimetidine is only available as an intravenous infusion in Canada."
+      ],
+      "answer": 0,
+      "rationale": "Cimetidine binds enzymes of the hepatic cytochrome P450 microsomal oxidase system (CYP1A2, CYP2D6, CYP3A4), inhibiting the metabolism of drugs with a narrow therapeutic range such as warfarin, phenytoin, theophylline, and lidocaine. Famotidine and nizatidine have essentially no effect on the P450 system."
+    },
+    {
+      "id": "acid-mc-019",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "A patient is prescribed both an H2 receptor antagonist and an antacid for severe dyspepsia. How should the nurse schedule the administration of these two medications?",
+      "options": [
+        "Administer the H2 receptor antagonist and the antacid together in the same cup to maximize relief.",
+        "Administer the H2 receptor antagonist 1 hour before (or 1 to 2 hours apart from) the antacid.",
+        "Administer the antacid 10 minutes before the H2 receptor antagonist to buffer the stomach first.",
+        "Hold the H2 receptor antagonist on any day that the patient takes an antacid."
+      ],
+      "answer": 1,
+      "rationale": "Antacids decrease the GI absorption of H2 receptor antagonists if given simultaneously. For optimal results, H2 receptor antagonists should be taken 1 hour before (or spaced 1 to 2 hours apart from) antacids."
+    },
+    {
+      "id": "acid-mc-020",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "A patient who smokes 1 pack of cigarettes daily is prescribed ranitidine hydrochloride 150 mg twice daily for a duodenal ulcer. What patient teaching regarding smoking is essential?",
+      "options": [
+        "Smoking increases stomach acid production and decreases the effectiveness of H2 receptor antagonists.",
+        "Smoking slows the hepatic clearance of ranitidine and causes severe bradycardia.",
+        "Nicotine reacts chemically with ranitidine to cause black, tarry stools.",
+        "Smoking has no effect on gastric acid secretion or H2 blocker efficacy."
+      ],
+      "answer": 0,
+      "rationale": "Smoking increases the amount of hydrochloric acid produced in the stomach and has been shown to decrease the therapeutic effectiveness of H2 receptor antagonists."
+    },
+    {
+      "id": "acid-mc-021",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "The nurse is preparing to administer intravenous famotidine to a critically ill patient. Which adverse cardiovascular effect requires careful monitoring of the infusion rate and blood pressure?",
+      "options": [
+        "Hypertensive crisis",
+        "Hypotension",
+        "Atrial fibrillation",
+        "Pericardial tamponade"
+      ],
+      "answer": 1,
+      "rationale": "Rapid intravenous infusion of H2 receptor antagonists can cause hypotension. Careful dilution, infusion over the recommended time frame, and blood pressure monitoring are critical for patient safety."
+    },
+    {
+      "id": "acid-mc-022",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "A patient taking an H2 receptor antagonist is newly prescribed oral ketoconazole for a fungal infection. Why might ketoconazole therapy be less effective in this patient?",
+      "options": [
+        "Ketoconazole requires an acidic gastrointestinal environment for gastric absorption, which is inhibited by H2 receptor antagonists.",
+        "H2 receptor antagonists accelerate the renal tubular secretion of ketoconazole.",
+        "Ketoconazole is inactivated by prolactin released from the anterior pituitary.",
+        "H2 receptor antagonists bind ketoconazole in the portal vein."
+      ],
+      "answer": 0,
+      "rationale": "Certain drugs such as ketoconazole require an acidic GI environment for optimal gastric absorption. By raising gastric pH, H2 receptor antagonists (as well as PPIs and antacids) inhibit ketoconazole absorption."
+    },
+    {
+      "id": "acid-mc-023",
+      "type": "multiple-choice",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "The nurse is reviewing the complete blood count of a patient receiving ranitidine hydrochloride or famotidine and notes a platelet count drop from 240 × 10⁹/L to 68 × 10⁹/L. Which hematological adverse effect is documented with these medications?",
+      "options": [
+        "Polycythemia vera",
+        "Thrombocytopenia",
+        "Thrombocytosis",
+        "Hemochromatosis"
+      ],
+      "answer": 1,
+      "rationale": "Hematological adverse effects including thrombocytopenia, agranulocytosis, neutropenia, and aplastic anemia have been reported with H2 receptor antagonists such as ranitidine hydrochloride and famotidine."
+    },
+    {
+      "id": "acid-mc-024",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "What is the mechanism of action of proton pump inhibitors (PPIs) such as omeprazole, lansoprazole, and pantoprazole sodium?",
+      "options": [
+        "They competitively block histamine-2 receptors on the parietal cell membrane, reducing acid by 50%.",
+        "They irreversibly bind to the hydrogen–potassium–ATPase pump enzyme, blocking the final step of hydrogen ion secretion from parietal cells.",
+        "They stimulate chief cells to secrete bicarbonate and mucus without altering parietal cell function.",
+        "They neutralize secreted hydrochloric acid in the esophageal lumen by releasing carbon dioxide."
+      ],
+      "answer": 1,
+      "rationale": "PPIs bind irreversibly to the hydrogen–potassium–ATPase pump (the proton pump), which is the final step in the acid-secretory pathway of the parietal cell, blocking more than 90% of gastric acid secretion over 24 hours."
+    },
+    {
+      "id": "acid-mc-025",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "A patient asks the nurse how long it takes for stomach acid secretion to return to baseline after discontinuing omeprazole (Losec). Although omeprazole's plasma elimination half-life is only 0.5 to 1 hour, why does its acid-suppressing effect last 3 to 5 days?",
+      "options": [
+        "Omeprazole is stored in adipose tissue and slowly released over several weeks.",
+        "Because PPIs bind irreversibly to the proton pump, parietal cells must synthesize new hydrogen–potassium–ATPase enzymes for acid secretion to return to normal.",
+        "Omeprazole permanently destroys the vagus nerve endings innervating the gastric fundus.",
+        "The metabolites of omeprazole coat the stomach wall like a paste for 5 days."
+      ],
+      "answer": 1,
+      "rationale": "PPIs irreversibly inhibit the hydrogen–potassium–ATPase enzyme. Even though the plasma elimination half-life of omeprazole is short (0.5–1 hour), the duration of action is 3–5 days because the parietal cell must synthesize new proton pump enzymes before acid secretion can resume."
+    },
+    {
+      "id": "acid-mc-026",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "When should oral proton pump inhibitors such as omeprazole magnesium (Losec) or lansoprazole (Prevacid) be administered for maximum effectiveness?",
+      "options": [
+        "On an empty stomach, 30 to 60 minutes before meals (usually breakfast)",
+        "Immediately after the largest evening meal with a glass of milk",
+        "Only at bedtime with an aluminum-based antacid",
+        "In the middle of a high-fat meal to enhance bile salt solubilization"
+      ],
+      "answer": 0,
+      "rationale": "Food decreases the absorption of PPIs, and PPIs require active proton pumps to bind effectively. Therefore, oral PPIs work best when taken on an empty stomach, 30 to 60 minutes before meals (typically before breakfast)."
+    },
+    {
+      "id": "acid-mc-027",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "A 76-year-old patient has been taking high-dose pantoprazole sodium daily for 4 years. Based on safety alerts and Canadian cohort studies, the nurse should monitor this patient for which long-term complications of PPI therapy?",
+      "options": [
+        "Osteoporosis-related fractures (hip, wrist, spine), Clostridium difficile infection, hypomagnesemia, and acute kidney injury/interstitial nephritis",
+        "Pulmonary fibrosis, hypothyroidism, and hypermagnesemia",
+        "Gouty arthritis, hypercalcemia, and metabolic alkalosis",
+        "Ototoxicity, peripheral neuropathy, and gingival bleeding"
+      ],
+      "answer": 0,
+      "rationale": "Long-term PPI therapy is associated with accelerated bone mineral loss and fractures of the wrist, hip, and spine; Clostridium difficile diarrhea; pneumonia; magnesium depletion (hypomagnesemia); and an increased risk of acute kidney injury and interstitial nephritis in older adults."
+    },
+    {
+      "id": "acid-mc-028",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "A patient with dysphagia has a prescription for oral lansoprazole (Prevacid) delayed-release capsules. How should the nurse safely administer this medication?",
+      "options": [
+        "Crush the capsule contents into a fine powder with a mortar and pestle and mix into hot tea.",
+        "Open the capsule, sprinkle the intact granules over at least 1 tablespoon of applesauce (or mix with apple juice for NG tube), and have the patient swallow immediately without chewing.",
+        "Dissolve the capsule in sodium bicarbonate solution so the enteric coating dissolves before swallowing.",
+        "Instruct the patient to chew the capsule thoroughly for 2 minutes before swallowing."
+      ],
+      "answer": 1,
+      "rationale": "Lansoprazole delayed-release capsules contain enteric-coated granules that must not be crushed or chewed. If a patient has difficulty swallowing, the capsule may be opened and the intact granules sprinkled over at least a tablespoon of applesauce (or mixed, not crushed, with apple juice for NG tube administration) and swallowed immediately."
+    },
+    {
+      "id": "acid-mc-029",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "Which statement by a patient prescribed oral omeprazole capsules or pantoprazole sodium enteric-coated tablets indicates a correct understanding of administration?",
+      "options": [
+        "\"I will swallow the capsule or tablet whole before breakfast and will not crush, split, or chew it.\"",
+        "\"I will split the pantoprazole tablet in half whenever my heartburn feels mild.\"",
+        "\"I will chew the omeprazole capsule so that it works faster in my esophagus.\"",
+        "\"I only need to take this medication after meals when I feel sour stomach.\""
+      ],
+      "answer": 0,
+      "rationale": "Omeprazole capsules and pantoprazole sodium enteric-coated tablets must be swallowed whole before meals and must not be crushed, split, opened (in the case of standard omeprazole tablets/capsules unless manufacturer specifies), or chewed because stomach acid would destroy the drug before absorption."
+    },
+    {
+      "id": "acid-mc-030",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "A patient is admitted to the emergency department with an acute upper gastrointestinal bleed from a peptic ulcer and undergoes endoscopic hemostasis. Which intravenous medication is recommended by consensus guidelines as a bolus followed by continuous infusion to prevent ulcer rebleeding?",
+      "options": [
+        "Pantoprazole sodium (Pantoloc, Panto IV)",
+        "Sucralfate",
+        "Misoprostol",
+        "Simethicone"
+      ],
+      "answer": 0,
+      "rationale": "Pantoprazole sodium (Panto IV) is available for IV use and is recommended as high-dose IV PPI therapy (bolus followed by continuous infusion) after endoscopic hemostasis; it is significantly more effective than H2 receptor antagonists in preventing ulcer rebleeding."
+    },
+    {
+      "id": "acid-mc-031",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "The nurse is reviewing the medication profile of a patient starting omeprazole. Which drug interaction requires close monitoring by the nurse?",
+      "options": [
+        "Increased serum levels of diazepam and phenytoin, and an increased risk of bleeding with warfarin sodium",
+        "Enhanced GI absorption of ketoconazole, iron salts, and ampicillin",
+        "Complete inactivation of omeprazole when taken on the same day as an antacid",
+        "Severe hypoglycemia when combined with simethicone"
+      ],
+      "answer": 0,
+      "rationale": "PPIs can increase serum concentrations of diazepam and phenytoin and increase the chance of bleeding in patients taking warfarin sodium. PPIs also interfere with (decrease) the absorption of ketoconazole, ampicillin, iron salts, and digoxin."
+    },
+    {
+      "id": "acid-mc-032",
+      "type": "multiple-choice",
+      "topic": "Helicobacter pylori Eradication",
+      "prompt": "A patient is diagnosed with a duodenal ulcer positive for Helicobacter pylori and is prescribed first-line triple therapy (such as HP-PAC). Which combination of medications makes up standard first-line triple therapy?",
+      "options": [
+        "A proton pump inhibitor (e.g., lansoprazole) plus clarithromycin and either amoxicillin or metronidazole for 7 to 14 days",
+        "An antacid plus sucralfate and misoprostol for 4 weeks",
+        "Ranitidine hydrochloride plus ciprofloxacin and gentamicin for 3 days",
+        "Simethicone plus bismuth subsalicylate and vancomycin for 10 days"
+      ],
+      "answer": 0,
+      "rationale": "Standard triple therapy for H. pylori includes a 7- to 14-day course of a PPI plus the antibiotics clarithromycin and either amoxicillin or metronidazole. HP-PAC is a combination package of lansoprazole, amoxicillin, and clarithromycin."
+    },
+    {
+      "id": "acid-mc-033",
+      "type": "multiple-choice",
+      "topic": "Helicobacter pylori Eradication",
+      "prompt": "Why is clarithromycin preferred over metronidazole in first-line Helicobacter pylori eradication regimens?",
+      "options": [
+        "There are high rates of bacterial resistance to metronidazole.",
+        "Metronidazole stimulates parietal cells to secrete excess hydrochloric acid.",
+        "Clarithromycin is an H2 receptor blocker as well as an antibiotic.",
+        "Metronidazole cannot be absorbed orally in the presence of a PPI."
+      ],
+      "answer": 0,
+      "rationale": "Treatment with clarithromycin is preferred as first-line therapy because of high rates of metronidazole resistance."
+    },
+    {
+      "id": "acid-mc-034",
+      "type": "multiple-choice",
+      "topic": "Helicobacter pylori Eradication",
+      "prompt": "Which four medications are combined in quadruple therapy for a patient with Helicobacter pylori infection?",
+      "options": [
+        "A proton pump inhibitor, bismuth subsalicylate, tetracycline, and metronidazole",
+        "Famotidine, calcium carbonate, amoxicillin, and levofloxacin",
+        "Omeprazole, sucralfate, clarithromycin, and isoniazid",
+        "Cimetidine, misoprostol, ampicillin, and nitrofurantoin"
+      ],
+      "answer": 0,
+      "rationale": "Quadruple therapy for H. pylori consists of a proton pump inhibitor, bismuth subsalicylate, and the antibiotics tetracycline and metronidazole."
+    },
+    {
+      "id": "acid-mc-035",
+      "type": "multiple-choice",
+      "topic": "Stress-Related Mucosal Damage",
+      "prompt": "A patient admitted to the burn unit with 45% total body surface area burns is prescribed stress ulcer prophylaxis. Which type of acute duodenal stress ulcer is specifically associated with severe burns and mucosal ischemia from hypovolemia?",
+      "options": [
+        "Curling ulcer",
+        "Cushing ulcer",
+        "Barrett ulcer",
+        "Mallory-Weiss tear"
+      ],
+      "answer": 0,
+      "rationale": "A Curling ulcer is an acute peptic ulcer of the duodenum that occurs in patients with severe burns when decreased blood volume leads to ischemia and cell necrosis of the gastric mucosa. A Cushing ulcer occurs after severe head trauma."
+    },
+    {
+      "id": "acid-mc-036",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Sucralfate",
+      "prompt": "A patient with peptic ulcer disease asks how sucralfate works to heal the ulcer. Which explanation by the nurse is accurate?",
+      "options": [
+        "\"It acts locally in the stomach by dissociating into aluminum hydroxide and sulphated sucrose anions that bind to positively charged proteins at the ulcer base, forming a protective barrier.\"",
+        "\"It is absorbed into the bloodstream and blocks acetylcholine receptors on the vagus nerve.\"",
+        "\"It neutralizes all stomach acid within 5 minutes and releases carbon dioxide gas.\"",
+        "\"It breaks up mucus-coated gas bubbles in the small and large intestines.\""
+      ],
+      "answer": 0,
+      "rationale": "Sucralfate acts locally (not systemically) as a mucosal protectant. In gastric acid, it dissociates into aluminum hydroxide and sulphated sucrose molecules that bind to positively charged tissue proteins in ulcer bases and erosions, forming a 'liquid bandage' that blocks pepsin, concentrates epidermal growth factor, and stimulates prostaglandins, mucus, and bicarbonate."
+    },
+    {
+      "id": "acid-mc-037",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Sucralfate",
+      "prompt": "How should the nurse schedule the administration of oral sucralfate 1 g four times daily?",
+      "options": [
+        "On an empty stomach, 1 hour before meals and at bedtime, with other medications given at least 2 hours ahead of sucralfate",
+        "With each meal and mixed into an aluminum–magnesium antacid suspension",
+        "Once daily in the morning simultaneously with oral digoxin and phenytoin",
+        "Only as needed after spicy meals, within 15 minutes of taking an antacid"
+      ],
+      "answer": 0,
+      "rationale": "Sucralfate must be given on an empty stomach, 1 hour before meals and at bedtime, so it can bind to ulcer sites unimpeded by food. Because it physically interferes with the absorption of other drugs (and PPIs), other medications should be taken at least 2 hours before sucralfate, and antacids must be avoided near sucralfate dosing."
+    },
+    {
+      "id": "acid-mc-038",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Sucralfate",
+      "prompt": "A patient taking sucralfate 1 g four times daily should be monitored for which most common adverse effect?",
+      "options": [
+        "Constipation",
+        "Severe watery diarrhea",
+        "Gynecomastia",
+        "Uterine cramping and vaginal bleeding"
+      ],
+      "answer": 0,
+      "rationale": "Because sucralfate contains an aluminum salt and has minimal systemic absorption, adverse effects are uncommon and local, primarily consisting of constipation, nausea, and dry mouth."
+    },
+    {
+      "id": "acid-mc-039",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Misoprostol",
+      "prompt": "A 62-year-old patient with severe rheumatoid arthritis requires long-term high-dose NSAID therapy and is prescribed misoprostol 200 mcg four times daily. How does misoprostol prevent NSAID-induced gastric ulcers?",
+      "options": [
+        "As a synthetic prostaglandin E analogue, it inhibits gastric acid secretion and provides cytoprotection by enhancing local mucus and bicarbonate production, cell regeneration, and mucosal blood flow.",
+        "It coats the stomach with insoluble bismuth salts that eradicate Helicobacter pylori.",
+        "It blocks histamine-2 receptors and inhibits hepatic CYP3A4 metabolism of NSAIDs.",
+        "It chelates NSAIDs in the duodenum so they cannot contact the mucosa."
+      ],
+      "answer": 0,
+      "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and exerts cytoprotective functions by enhancing local production of mucus and bicarbonate, promoting local cell regeneration, and maintaining mucosal blood flow."
+    },
+    {
+      "id": "acid-mc-040",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Misoprostol",
+      "prompt": "Before administering misoprostol to a 29-year-old female patient taking naproxen, which assessment is the highest priority?",
+      "options": [
+        "Confirming that the patient is not pregnant and is aware of the need to avoid pregnancy, as misoprostol induces uterine contractions and is an abortifacient.",
+        "Checking a baseline serum magnesium and phosphorus level.",
+        "Performing a carbon-13 urea breath test for Helicobacter pylori.",
+        "Measuring a trough serum phenytoin concentration."
+      ],
+      "answer": 0,
+      "rationale": "Misoprostol induces uterine contractions and has abortifacient properties, causing vaginal bleeding and pregnancy loss. It is strictly contraindicated in pregnant women or women trying to become pregnant."
+    },
+    {
+      "id": "acid-mc-041",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Misoprostol",
+      "prompt": "When should misoprostol 200 mcg four times daily be administered to minimize gastrointestinal distress such as abdominal cramps and diarrhea?",
+      "options": [
+        "With meals and at bedtime",
+        "On an empty stomach 2 hours before meals",
+        "Dissolved in apple juice 60 minutes before breakfast",
+        "Simultaneously with high-dose magnesium hydroxide"
+      ],
+      "answer": 0,
+      "rationale": "Misoprostol is given with food—typically with meals and at bedtime—for the duration of NSAID therapy to reduce GI adverse effects such as abdominal cramps and diarrhea."
+    },
+    {
+      "id": "acid-mc-042",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Simethicone",
+      "prompt": "A postoperative patient experiencing painful gaseous abdominal distention and flatulence is prescribed simethicone (Ovol, Phazyme). How does simethicone relieve gas discomfort?",
+      "options": [
+        "It alters the elasticity of mucus-coated gas bubbles, causing them to break into smaller bubbles that are more easily expelled via belching or flatus.",
+        "It neutralizes hydrochloric acid to prevent carbon dioxide formation in the stomach.",
+        "It inhibits colonic bacteria from fermenting dietary carbohydrates.",
+        "It stimulates peristalsis by irritating the myenteric plexus of the colon."
+      ],
+      "answer": 0,
+      "rationale": "Simethicone is an antiflatulent surfactant that works by altering the elasticity of mucus-coated gas bubbles, causing them to break into smaller ones, reducing gas pain and facilitating expulsion via the mouth or rectum. It has no antacid effect."
+    },
+    {
+      "id": "acid-mc-043",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Simethicone",
+      "prompt": "Which patient teaching should the nurse provide for a patient taking simethicone for excessive flatulence?",
+      "options": [
+        "Take after meals and at bedtime, chew chewable tablets thoroughly or shake liquid suspensions well, and avoid gas-producing foods (such as beans, broccoli, cauliflower) and carbonated beverages.",
+        "Take on an empty stomach 1 hour before meals and avoid dairy products to prevent milk-alkali syndrome.",
+        "Limit use to 3 days because simethicone is systemically absorbed and causes hepatotoxicity.",
+        "Space simethicone at least 4 hours apart from PPIs because it irreversibly binds proton pumps."
+      ],
+      "answer": 0,
+      "rationale": "Simethicone is taken after meals and at bedtime (up to a maximum daily dose of 500 mg/day in adults). Chewable tablets must be chewed thoroughly, suspensions shaken well, and patients advised to avoid problematic gas-producing foods (legumes, cruciferous vegetables) and carbonated beverages."
+    },
+    {
+      "id": "acid-mc-044",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculations",
+      "prompt": "A patient with Zollinger-Ellison syndrome is prescribed oral omeprazole magnesium 60 mg once daily initially. The pharmacy supplies omeprazole 20 mg delayed-release capsules. How many capsules will the nurse administer per dose?",
+      "options": [
+        "1 capsule",
+        "2 capsules",
+        "3 capsules",
+        "4 capsules"
+      ],
+      "answer": 2,
+      "rationale": "Desired dose = 60 mg; Available = 20 mg per capsule. 60 mg ÷ 20 mg/capsule = 3 capsules."
+    },
+    {
+      "id": "acid-mc-045",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculations",
+      "prompt": "The prescriber orders ranitidine hydrochloride 50 mg in 100 mL of 0.9% sodium chloride IV piggyback to be infused over 30 minutes every 8 hours. At what rate in mL/hr should the nurse set the infusion pump?",
+      "options": [
+        "50 mL/hr",
+        "100 mL/hr",
+        "150 mL/hr",
+        "200 mL/hr"
+      ],
+      "answer": 3,
+      "rationale": "To infuse 100 mL over 30 minutes (0.5 hours): Rate = 100 mL ÷ 0.5 hr = 200 mL/hr."
+    },
+    {
+      "id": "acid-mc-046",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculations",
+      "prompt": "A patient with an active duodenal ulcer is prescribed sucralfate 1 g PO four times daily (1 hour before meals and at bedtime). Available are sucralfate 1000 mg tablets. How many total tablets will the patient take in a 24-hour period?",
+      "options": [
+        "2 tablets",
+        "4 tablets",
+        "6 tablets",
+        "8 tablets"
+      ],
+      "answer": 1,
+      "rationale": "1 g = 1000 mg, which equals 1 tablet per dose. Given 4 times daily (qid), the patient will take 4 tablets in 24 hours."
+    },
+    {
+      "id": "acid-mc-047",
+      "type": "multiple-choice",
+      "topic": "Nursing Assessment & Priorities",
+      "prompt": "A patient who has been self-medicating with over-the-counter antacids and famotidine for 6 weeks presents to the clinic. Which assessment finding requires immediate notification of the health care provider?",
+      "options": [
+        "Passage of black, tarry stools (melena) and coffee-ground emesis",
+        "Relief of epigastric burning within 30 minutes of chewing an antacid",
+        "Passage of soft, formed brown stool once daily",
+        "Mild belching after taking calcium carbonate"
+      ],
+      "answer": 0,
+      "rationale": "Long-term self-medication with acid-controlling drugs can mask serious underlying conditions such as bleeding peptic ulcers or malignancy. Black, tarry stools (melena), hematemesis, abdominal distention/rigidity, or worsening abdominal pain indicate potential GI bleeding or perforation and require immediate medical evaluation."
+    },
+    {
+      "id": "acid-mc-048",
+      "type": "multiple-choice",
+      "topic": "Antacids",
+      "prompt": "A patient who has been taking large amounts of high-potency calcium-based antacids several times a day abruptly stops taking them and experiences severe worsening of heartburn. What is this phenomenon called?",
+      "options": [
+        "Rebound hyperacidity (acid rebound)",
+        "Achlorhydria",
+        "Tachyphylaxis of the proton pump",
+        "Dumping syndrome"
+      ],
+      "answer": 0,
+      "rationale": "Rebound hyperacidity (acid rebound) occurs with overuse/misuse or abrupt discontinuation of antacids with high acid-neutralizing capacity (especially calcium-containing products), where a sudden rise in gastric pH triggers increased gastrin and acid secretion, followed by a rapid decline to a hyperacidic state."
+    },
+    {
+      "id": "acid-mc-049",
+      "type": "multiple-choice",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "A patient with a nasogastric (NG) tube is prescribed esomeprazole magnesium dihydrate. According to chapter guidelines for tubal administration of esomeprazole capsules, how can this medication be administered?",
+      "options": [
+        "Open the capsule, dissolve the granules in 50 mL of water, and administer through the NG tube without crushing the granules.",
+        "Pulverize the granules in a mortar with normal saline and inject through a 5-French catheter.",
+        "Boil the intact capsule in 100 mL of dextrose 5% in water until melted.",
+        "Esomeprazole and other PPIs can never be administered through an enteral feeding tube."
+      ],
+      "answer": 0,
+      "rationale": "Esomeprazole magnesium dihydrate capsules may be opened, the intact granules dissolved/suspended in 50 mL of water, and the solution administered through a nasogastric or PEG tube (checking particle size and tube size, and never crushing the enteric-coated granules)."
+    },
+    {
+      "id": "acid-mc-050",
+      "type": "multiple-choice",
+      "topic": "Gastric Physiology & Acid Secretion",
+      "prompt": "A dose of an antacid raises a patient's gastric pH from 1.3 to 2.3 (an increase of 1 full pH unit). By approximately what percentage does this 1-point increase in pH reduce gastric acidity?",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "90%"
+      ],
+      "answer": 3,
+      "rationale": "Because the pH scale is logarithmic, raising gastric pH by just 0.3 points (from 1.3 to 1.6) reduces gastric acidity by 50%, whereas raising the pH by 1 full point (from 1.3 to 2.3) reduces gastric acidity by 90%."
+    },
+    {
+      "id": "acid-sa-001",
+      "type": "short-answer",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Sucralfate",
+      "prompt": "Name the mucosal protectant drug (generic name) that dissociates in stomach acid into aluminum hydroxide and sulphated sucrose anions, binding to positively charged proteins at the base of ulcers to form a local protective barrier.",
+      "answers": [
+        {
+          "text": "sucralfate",
+          "aliases": [
+            "Sulcrate"
+          ]
+        }
+      ],
+      "rationale": "Sucralfate acts locally in the stomach by dissociating into aluminum hydroxide and sulphate anions that bind to positively charged tissue proteins in ulcer craters and erosions, forming a protective 'liquid bandage.'"
+    },
+    {
+      "id": "acid-sa-002",
+      "type": "short-answer",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Misoprostol",
+      "prompt": "Name the synthetic prostaglandin E analogue (generic name) used to prevent NSAID-induced gastric ulcers that is strictly contraindicated in pregnancy because it induces uterine contractions.",
+      "answers": [
+        {
+          "text": "misoprostol",
+          "aliases": [
+            "Cytotec"
+          ]
+        }
+      ],
+      "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and provides cytoprotection against NSAID-induced ulcers, but it is an abortifacient and contraindicated during pregnancy."
+    },
+    {
+      "id": "acid-sa-003",
+      "type": "short-answer",
+      "topic": "Miscellaneous Acid-Controlling Drugs: Simethicone",
+      "prompt": "Name the antiflatulent surfactant medication (generic name) that alters the elasticity of mucus-coated gas bubbles in the gastrointestinal tract so they break into smaller bubbles and are more easily expelled.",
+      "answers": [
+        {
+          "text": "simethicone",
+          "aliases": [
+            "Ovol",
+            "Pediacol",
+            "Phazyme"
+          ]
+        }
+      ],
+      "rationale": "Simethicone (Ovol, Pediacol, Phazyme) is an antiflatulent drug that alters the surface elasticity of mucus-coated gas bubbles, breaking them into smaller bubbles to relieve flatulence and bloating."
+    },
+    {
+      "id": "acid-sa-004",
+      "type": "short-answer",
+      "topic": "H2 Receptor Antagonists",
+      "prompt": "Which prototypical H2 receptor antagonist (generic name) inhibits hepatic cytochrome P450 pathways (CYP1A2, CYP2D6, CYP3A4) and can cause gynecomastia and erectile dysfunction?",
+      "answers": [
+        {
+          "text": "cimetidine",
+          "aliases": [
+            "Tagamet"
+          ]
+        }
+      ],
+      "rationale": "Cimetidine was the first H2 receptor antagonist released. Unlike famotidine, it inhibits CYP1A2, CYP2D6, and CYP3A4 enzymes and can cause gynecomastia and impotence due to antiandrogenic and estradiol-inhibiting effects."
+    },
+    {
+      "id": "acid-sa-005",
+      "type": "short-answer",
+      "topic": "Gastric Physiology & Acid Secretion",
+      "prompt": "Which digestive proenzyme (enzyme precursor) is secreted by the chief cells of the gastric glands and becomes activated into a protein-digesting enzyme upon exposure to hydrochloric acid?",
+      "answers": [
+        {
+          "text": "pepsinogen",
+          "aliases": [
+            "pepsin"
+          ]
+        }
+      ],
+      "rationale": "Chief cells in the gastric glands secrete pepsinogen, a proenzyme that is activated by gastric acid into pepsin, a proteolytic enzyme that digests dietary proteins."
+    },
+    {
+      "id": "acid-sa-006",
+      "type": "short-answer",
+      "topic": "Helicobacter pylori Eradication",
+      "prompt": "What is the full genus and species name of the gram-negative spiral bacterium implicated in approximately 90% of duodenal ulcers and 70% of gastric ulcers?",
+      "answers": [
+        {
+          "text": "Helicobacter pylori",
+          "aliases": [
+            "H. pylori",
+            "H pylori",
+            "Campylobacter pylori"
+          ]
+        }
+      ],
+      "rationale": "Helicobacter pylori (formerly called Campylobacter pylori) is the gram-negative spiral bacterium found in the GI tract of roughly 90% of patients with duodenal ulcers and 70% of those with gastric ulcers."
+    },
+    {
+      "id": "acid-sa-007",
+      "type": "short-answer",
+      "topic": "Stress-Related Mucosal Damage",
+      "prompt": "What is the eponym (name) for the acute stress ulcer that can develop after severe head trauma?",
+      "answers": [
+        {
+          "text": "Cushing ulcer",
+          "aliases": [
+            "Cushing's ulcer",
+            "Cushing"
+          ]
+        }
+      ],
+      "rationale": "A Cushing ulcer is a stress ulcer that occurs after severe head trauma, whereas a Curling ulcer occurs in patients with severe burns."
+    },
+    {
+      "id": "acid-sa-008",
+      "type": "short-answer",
+      "topic": "Proton Pump Inhibitors",
+      "prompt": "Which proton pump inhibitor (generic name) is profiled in the chapter as being used as a high-dose intravenous bolus followed by continuous IV infusion to prevent peptic ulcer rebleeding after endoscopic hemostasis?",
+      "answers": [
+        {
+          "text": "pantoprazole",
+          "aliases": [
+            "pantoprazole sodium",
+            "Pantoloc",
+            "Panto IV",
+            "Panto"
+          ]
+        }
+      ],
+      "rationale": "Pantoprazole sodium (Pantoloc, Panto IV) is administered intravenously as a bolus followed by continuous infusion for acute peptic ulcer bleeding after endoscopic therapy."
+    },
+    {
+      "id": "acid-cs-001",
+      "type": "case-study",
+      "title": "Chronic Self-Medication with Antacids in a Patient with Renal Impairment",
+      "topic": "Antacids & Renal Compromise",
+      "scenario": "Arthur, a 74-year-old retired machinist with a history of hypertension, heart failure, and stage 4 chronic kidney disease (baseline eGFR 24 mL/min/1.73 m², serum creatinine 250 µmol/L), presents to the medical clinic complaining of 3 weeks of worsening postprandial heartburn. He tells the nurse he has been drinking several doses a day of milk of magnesia and chewing Rolaids (calcium carbonate and magnesium hydroxide) for the past 10 days.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority concern regarding Arthur's use of magnesium- and calcium-containing antacids?",
+            "options": [
+              "Magnesium- and calcium-based antacids can accumulate to toxic electrolyte levels in patients with impaired kidney function and should be avoided.",
+              "Milk of magnesia will cause severe constipation and fecal impaction within 24 hours.",
+              "Rolaids will permanently inactivate his parietal cell proton pumps.",
+              "Calcium carbonate will cause acute hypoglycemia in patients with heart failure."
+            ],
+            "answer": 0,
+            "rationale": "Both magnesium- and calcium-based antacids are excreted via renal homeostatic mechanisms and can accumulate to toxic levels (hypermagnesemia and hypercalcemia/milk-alkali syndrome) in patients with kidney failure."
+          }
+        },
+        {
+          "update": "Arthur states, \"My neighbour told me I should just dissolve baking soda (sodium bicarbonate) in water whenever my stomach burns since it doesn't have magnesium or calcium.\" His blood pressure today is 158/92 mm Hg, and he has 2+ pitting ankle edema.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse respond to Arthur's plan to use sodium bicarbonate as an antacid?",
+            "options": [
+              "Advise against sodium bicarbonate because its high sodium content can exacerbate his heart failure, hypertension, and edema, and it carries a high risk of metabolic alkalosis.",
+              "Encourage sodium bicarbonate because it has a long duration of action and no systemic absorption.",
+              "Recommend taking Alka-Seltzer instead because the added acetylsalicylic acid protects the gastric mucosa.",
+              "Instruct him to take sodium bicarbonate with 500 mL of milk four times daily."
+            ],
+            "answer": 0,
+            "rationale": "Sodium bicarbonate is highly soluble, causes systemic metabolic alkalosis, and contains a large sodium load that can worsen hypertension, heart failure, edema, and renal insufficiency."
+          }
+        },
+        {
+          "update": "Laboratory results return: serum calcium 2.78 mmol/L (elevated), serum magnesium 1.35 mmol/L (elevated), and hemoglobin 98 g/L (down from 128 g/L 3 months ago). Arthur mentions that his stools have looked \"dark and tarry like road tar\" for the past 4 days, and he is also taking oral ciprofloxacin for a complicated urinary tract infection.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which two critical issues must the nurse address immediately with the health care provider?",
+            "options": [
+              "Possible upper GI tract bleeding (melena/anemia masked by self-medication with antacids) and reduced absorption of ciprofloxacin (>50% reduction) due to concurrent antacid intake.",
+              "Expected benign darkening of stool from magnesium hydroxide and enhanced ciprofloxacin toxicity.",
+              "Hypocalcemic tetany and ciprofloxacin-induced bradycardia.",
+              "Normal age-related hemoglobin decline and the need to take ciprofloxacin with calcium carbonate."
+            ],
+            "answer": 0,
+            "rationale": "Long-term self-medication with antacids can mask symptoms of serious underlying disease such as a bleeding ulcer (manifested by black, tarry stools and dropping hemoglobin). Additionally, antacids reduce the GI absorption of quinolone antibiotics like ciprofloxacin by more than 50%, risking treatment failure."
+          }
+        },
+        {
+          "update": "Arthur's antacids are discontinued, his GI bleed is evaluated, and he is prescribed an oral medication regimen. Before discharge, the nurse reviews general rules for spacing antacids if an aluminum-based antacid is ever prescribed in the future.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How many hours apart must an antacid be spaced from a quinolone antibiotic such as ciprofloxacin?",
+            "options": [
+              "At least 2 hours before or 2 hours after the quinolone antibiotic",
+              "At least 15 minutes before the antibiotic",
+              "Only 30 minutes after the antibiotic",
+              "No spacing is needed if taken with 240 mL of water"
+            ],
+            "answer": 0,
+            "rationale": "To prevent chelation and a >50% reduction in antibiotic absorption, antacids must be administered at least 2 hours before or 2 hours after a quinolone antibiotic."
+          }
+        }
+      ]
+    },
+    {
+      "id": "acid-cs-002",
+      "type": "case-study",
+      "title": "H2 Receptor Antagonist Therapy and Polypharmacy in an Older Adult",
+      "topic": "H2 Receptor Antagonists",
+      "scenario": "Walter, an 80-year-old man with atrial fibrillation, a seizure disorder, and chronic obstructive pulmonary disease, takes warfarin sodium, phenytoin, and theophylline daily. He visits the community pharmacy and clinic because he started taking an over-the-counter H2 receptor antagonist 5 days ago for nocturnal heartburn, and his wife later gave him leftover prescription cimetidine 400 mg twice daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why does the addition of cimetidine pose a high risk of drug toxicity for Walter?",
+            "options": [
+              "Cimetidine inhibits hepatic cytochrome P450 enzymes (CYP1A2, CYP2D6, CYP3A4), which decreases the metabolism and raises blood concentrations of warfarin, phenytoin, and theophylline.",
+              "Cimetidine increases the renal glomerular filtration rate, causing subtherapeutic levels of warfarin and phenytoin.",
+              "Cimetidine chelates theophylline in the stomach and prevents its absorption.",
+              "Cimetidine causes immediate platelet aggregation that counteracts warfarin."
+            ],
+            "answer": 0,
+            "rationale": "Cimetidine binds enzymes of the liver cytochrome P450 microsomal oxidase system (CYP1A2, CYP2D6, CYP3A4), inhibiting the hepatic oxidation of narrow-therapeutic-index drugs such as warfarin sodium, phenytoin, theophylline, and lidocaine, leading to potentially toxic blood levels."
+          }
+        },
+        {
+          "update": "Walter's wife reports that over the past 48 hours, Walter has become increasingly confused, disoriented to place, lethargic, and had slurred speech this morning. His vital signs are BP 124/76 mm Hg, HR 78 beats/min, RR 16 breaths/min, and SpO2 96%.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "In addition to checking Walter's INR and serum phenytoin/theophylline levels, how does the nurse interpret his acute confusion and disorientation?",
+            "options": [
+              "Older adults are particularly susceptible to central nervous system adverse effects of H2 receptor antagonists, including confusion, disorientation, lethargy, agitation, and slurred speech.",
+              "H2 receptor antagonists do not cross the blood–brain barrier and cannot cause CNS symptoms.",
+              "Confusion indicates that his stomach pH has dropped below 1.0.",
+              "Slurred speech and confusion are classic signs of rebound hyperchlorhydria."
+            ],
+            "answer": 0,
+            "rationale": "CNS adverse effects (confusion, disorientation, lethargy, hallucinations, agitation, slurred speech) are a documented risk of H2 receptor antagonists, particularly in older adults, and warrant prompt medical evaluation and medication review."
+          }
+        },
+        {
+          "update": "The prescriber discontinues cimetidine and considers switching Walter to a different H2 receptor antagonist at a reduced renal-adjusted dose once his mental status and drug levels stabilize.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Name the H2 receptor antagonist (generic name; brand name Pepcid) profiled in the chapter that has essentially no effect on the hepatic cytochrome P450 enzyme system and minimal drug interaction concerns.",
+            "answers": [
+              {
+                "text": "famotidine",
+                "aliases": [
+                  "Pepcid",
+                  "Pepcid AC"
+                ]
+              }
+            ],
+            "rationale": "Famotidine (Pepcid) and nizatidine have essentially no effect on the hepatic cytochrome P450 enzyme system, making famotidine much safer than cimetidine regarding CYP450 drug interactions."
+          }
+        },
+        {
+          "update": "Walter is discharged on oral famotidine 20 mg at bedtime. He asks if he can take an antacid at the exact same time as his famotidine if he feels heartburn after dinner, and mentions he still smokes 10 cigarettes a day.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which discharge teaching by the nurse is accurate?",
+            "options": [
+              "Space antacids at least 1 hour apart from H2 receptor antagonists, and stop or reduce smoking because smoking increases stomach acid and decreases the effectiveness of H2 blockers.",
+              "Take the antacid and famotidine together in the same mouthful to double acid suppression.",
+              "Continue smoking after meals because nicotine relaxes the pyloric sphincter and helps famotidine work.",
+              "Crush the famotidine into peppermint oil to prevent nocturnal reflux."
+            ],
+            "answer": 0,
+            "rationale": "Antacids can reduce the absorption of H2 receptor antagonists and should be separated by at least 1 hour. Smoking increases gastric acid production and decreases the effectiveness of H2 receptor antagonists."
+          }
+        }
+      ]
+    },
+    {
+      "id": "acid-cs-003",
+      "type": "case-study",
+      "title": "Acute Upper GI Bleeding and Helicobacter pylori Eradication",
+      "topic": "Proton Pump Inhibitors & H. pylori Therapy",
+      "scenario": "Elena, a 58-year-old accountant, is brought to the emergency department after two episodes of hematemesis and lightheadedness. She reports burning epigastric pain for the past 2 months. Vital signs: BP 96/62 mm Hg, HR 112 beats/min. Urgent upper endoscopy reveals a bleeding duodenal ulcer, and endoscopic hemostasis is achieved.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Following endoscopic hemostasis, the gastroenterologist orders high-dose intravenous proton pump inhibitor therapy (IV bolus followed by continuous infusion) to prevent ulcer rebleeding. Which medication and mechanism of action correspond to this order?",
+            "options": [
+              "Pantoprazole sodium (Panto IV), which irreversibly binds to the hydrogen–potassium–ATPase pump on parietal cells to block the final step of acid secretion",
+              "Cimetidine IV, which neutralizes stomach acid chemically in the duodenal lumen",
+              "Sucralfate IV, which forms a systemic fibrin clot over the duodenal ulcer",
+              "Simethicone IV, which coalesces gas bubbles to reduce intragastric pressure"
+            ],
+            "answer": 0,
+            "rationale": "Intravenous pantoprazole sodium (Pantoloc, Panto IV) given as a high-dose bolus followed by continuous infusion is the mainstay of treatment after endoscopic hemostasis to prevent peptic ulcer rebleeding, outperforming H2 receptor antagonists by irreversibly inhibiting the H+/K+ ATPase pump."
+          }
+        },
+        {
+          "update": "Biopsy and testing confirm a Helicobacter pylori infection. Elena stabilizes after 72 hours and is transitioned to oral triple therapy with HP-PAC (lansoprazole, clarithromycin, and amoxicillin) for 14 days.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Elena asks the nurse when she should take her lansoprazole and whether she can stop the antibiotics once her stomach pain disappears in a few days. What is the nurse's best response?",
+            "options": [
+              "\"Take the lansoprazole on an empty stomach 30 to 60 minutes before meals, and take every dose of the PPI and both antibiotics for the full prescribed course without fail so the infection does not recur.\"",
+              "\"Take the lansoprazole immediately after a heavy dinner, and you may stop the antibiotics as soon as your pain resolves.\"",
+              "\"Chew the lansoprazole capsules thoroughly with milk, and take the antibiotics only when you feel heartburn.\"",
+              "\"Open the lansoprazole capsule and stir it into a cup of sodium bicarbonate before each meal.\""
+            ],
+            "answer": 0,
+            "rationale": "PPIs should be taken on an empty stomach 30 to 60 minutes before meals for optimal absorption and efficacy. In H. pylori regimens, taking every drug (including the antibiotics) exactly as prescribed for the full course is essential to eradicate the bacterium and prevent ulcer recurrence."
+          }
+        },
+        {
+          "update": "On day 4 of hospitalization before discharge, Elena reports difficulty swallowing the large lansoprazole delayed-release capsules whole.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse administer the oral lansoprazole capsule to Elena?",
+            "options": [
+              "Open the capsule, sprinkle the intact granules over 1 tablespoon of applesauce, and have her swallow it immediately without chewing.",
+              "Crush the granules in a pill crusher and dissolve them in hot water.",
+              "Have Elena chew the capsule thoroughly with 240 mL of water.",
+              "Mix the crushed capsule contents with magnesium hydroxide suspension."
+            ],
+            "answer": 0,
+            "rationale": "If a patient has difficulty swallowing lansoprazole capsules, the capsule may be opened and the intact enteric-coated granules sprinkled over at least a tablespoon of applesauce and swallowed immediately without crushing or chewing."
+          }
+        },
+        {
+          "update": "Elena mentions that her 79-year-old mother has been taking high-dose omeprazole continuously for 6 years without medical reassessment and recently had a wrist fracture and an episode of severe watery diarrhea.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which long-term adverse effects of high-dose proton pump inhibitor therapy should the nurse explain to Elena?",
+            "options": [
+              "Long-term high-dose PPI use is associated with bone mineral loss and fractures (wrist, hip, spine), Clostridium difficile diarrhea, hypomagnesemia, pneumonia, and acute kidney injury in older adults.",
+              "Long-term PPI use increases bone density and prevents all bacterial intestinal infections.",
+              "PPIs cause milk-alkali syndrome and hypermagnesemia after 1 year of therapy.",
+              "Wrist fractures and diarrhea are caused only by simethicone, not PPIs."
+            ],
+            "answer": 0,
+            "rationale": "Long-term use of high-dose PPIs is associated with osteoporosis and wrist, hip, and spine fractures; Clostridium difficile infections (due to loss of acid-mediated antimicrobial defence); pneumonia; magnesium depletion; and acute kidney injury/interstitial nephritis in older patients."
+          }
+        }
+      ]
+    },
+    {
+      "id": "acid-cs-004",
+      "type": "case-study",
+      "title": "NSAID-Induced Ulcer Prevention and Mucosal Protection",
+      "topic": "Misoprostol & Sucralfate",
+      "scenario": " Nadia, a 34-year-old graphic designer with severe psoriatic arthritis, requires daily NSAID therapy with naproxen. Because she had a previous NSAID-related gastric erosion, her rheumatologist considers prescribing misoprostol 200 mcg four times daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "During the pre-prescription nursing assessment, Nadia tells the nurse that she and her partner stopped using contraception 2 months ago because they are actively trying to conceive. What is the nurse's priority action?",
+            "options": [
+              "Hold the misoprostol and notify the prescriber immediately, because misoprostol induces uterine contractions, acts as an abortifacient, and is strictly contraindicated in women who are pregnant or trying to become pregnant.",
+              "Administer the misoprostol with meals and reassure her that prostaglandin analogues support early pregnancy.",
+              "Double the dose of misoprostol to protect the fetus from NSAID exposure.",
+              "Instruct her to take misoprostol on an empty stomach 2 hours before breakfast."
+            ],
+            "answer": 0,
+            "rationale": "Misoprostol is a synthetic prostaglandin E analogue that induces uterine contractions and has abortifacient properties. It is contraindicated in pregnant women and in women trying to become pregnant."
+          }
+        },
+        {
+          "update": "Nadia's arthritis regimen is adjusted, and several months later she develops an active duodenal ulcer and is prescribed oral sucralfate 1 g four times daily.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How does sucralfate protect Nadia's ulcer from further acid and enzyme damage?",
+            "options": [
+              "It acts locally by dissociating into aluminum hydroxide and sulphated sucrose molecules that bind to positively charged proteins at the ulcer base, forming a protective barrier against acid and pepsin while concentrating epidermal growth factor.",
+              "It is systemically absorbed and blocks gastrin and acetylcholine receptors on parietal cells.",
+              "It irreversibly inhibits the hydrogen–potassium–ATPase pump for 24 hours after a single tablet.",
+              "It releases carbon dioxide gas to float a kelp-derived gel raft at the lower esophageal sphincter."
+            ],
+            "answer": 0,
+            "rationale": "Sucralfate acts locally (with minimal systemic absorption) by dissociating in stomach acid into aluminum hydroxide and sulphated sucrose anions that bind positively charged tissue proteins in ulcer craters, limiting pepsin access, concentrating epidermal growth factor, and stimulating prostaglandin, mucus, and bicarbonate secretion."
+          }
+        },
+        {
+          "update": "Nadia also takes levothyroxine (thyroid hormone) every morning and occasional aluminum–magnesium antacids for breakthrough dyspepsia. She asks when she should take her sucralfate in relation to food, other medications, and antacids.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which medication schedule should the nurse teach Nadia?",
+            "options": [
+              "Take sucralfate on an empty stomach 1 hour before meals and at bedtime; take other oral medications at least 2 hours before sucralfate; and avoid antacids within 30 minutes to 2 hours of sucralfate.",
+              "Take sucralfate with meals and swallow it together with levothyroxine and an antacid.",
+              "Take sucralfate only after high-fat meals and within 10 minutes of calcium carbonate.",
+              "Dissolve sucralfate in milk of magnesia and take once daily at noon."
+            ],
+            "answer": 0,
+            "rationale": "Sucralfate must be taken on an empty stomach (1 hour before meals and at bedtime). Because it physically interferes with the absorption of other drugs, other medications should be taken at least 2 hours ahead of sucralfate, and antacids should be avoided around sucralfate administration."
+          }
+        },
+        {
+          "update": "Two weeks after starting sucralfate, Nadia calls the clinic to report that her epigastric pain has improved, but she is having infrequent, hard stools and dry mouth.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse counsel Nadia regarding these symptoms?",
+            "options": [
+              "Explain that constipation and dry mouth are the most common adverse effects of sucralfate (due to its aluminum salt component), and review measures to prevent and manage constipation while continuing therapy as directed.",
+              "Instruct her to go to the emergency department immediately for emergency colectomy.",
+              "Tell her that sucralfate always causes severe secretory diarrhea and her constipation must be an infection.",
+              "Advise her to take 10 tablets of sucralfate at once to flush the bowel."
+            ],
+            "answer": 0,
+            "rationale": "Adverse effects of sucralfate are uncommon because it is minimally absorbed, but include constipation (from the aluminum hydroxide salt), nausea, and dry mouth. Patient teaching includes measures to prevent and minimize constipation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "acid-cs-005",
+      "type": "case-study",
+      "title": "Critical Care Stress Ulcer Prophylaxis and Postoperative Flatulence",
+      "topic": "Stress Ulcer Prophylaxis & Antiflatulents",
+      "scenario": "Marcus, a 46-year-old construction worker, is admitted to the Critical Care Unit (CCU) on mechanical ventilation with a nasogastric (NG) tube following severe head trauma and emergency craniotomy. The critical care team orders stress ulcer prophylaxis within 24 hours of admission.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why is Marcus at high risk for stress-related mucosal damage and upper GI bleeding in the CCU?",
+            "options": [
+              "Severe head trauma (associated with Cushing ulcers), mechanical ventilation, nasogastric tube placement, and mucosal hypoperfusion/ischemia predispose critically ill patients to GI lesions within the first 24 hours.",
+              "Head trauma causes excessive chief cell proliferation and hypermagnesemia.",
+              "Mechanical ventilation forces swallowed nitrogen into the portal vein, causing duodenal varices.",
+              "Stress ulcers only occur in outpatients who consume spicy food and caffeine."
+            ],
+            "answer": 0,
+            "rationale": "Critically ill patients in the CCU frequently develop stress-related mucosal lesions within 24 hours due to mucosal ischemia, hypoperfusion, reperfusion injury, severe head trauma (Cushing ulcer), burns (Curling ulcer), mechanical ventilation, NG tubes, coagulopathy, sepsis, or steroid use."
+          }
+        },
+        {
+          "update": "Marcus is prescribed intravenous ranitidine hydrochloride 50 mg every 8 hours for stress ulcer prophylaxis. The pharmacy provides ranitidine 50 mg diluted in 50 mL of compatible IV solution to be infused over 20 minutes.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What nursing action is essential when administering IV ranitidine hydrochloride, and what pump rate (in mL/hr) will deliver 50 mL over 20 minutes?",
+            "options": [
+              "Infuse at 150 mL/hr and monitor blood pressure closely, because rapid IV administration of H2 receptor antagonists can cause hypotension.",
+              "Infuse at 50 mL/hr and monitor for acute hypertensive crisis.",
+              "Push the 50 mL undiluted over 10 seconds to achieve immediate gastric alkalinity.",
+              "Infuse at 25 mL/hr and mix aluminum hydroxide into the IV bag."
+            ],
+            "answer": 0,
+            "rationale": "50 mL infused over 20 minutes (1/3 of an hour) = 50 mL × 3 = 150 mL/hr. IV H2 receptor antagonists must be diluted properly and infused over the recommended time frame with blood pressure monitoring because rapid infusion can cause hypotension."
+          }
+        },
+        {
+          "update": "Five days later, Marcus is extubated, transferred to the surgical step-down unit, and starts a regular diet. He complains of uncomfortable postoperative abdominal bloating and gas pain. The surgeon orders oral simethicone (Ovol) chewable tablets after meals and at bedtime.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "What is the maximum daily dose (in mg/day, enter number and unit such as '500 mg') of simethicone for an adult as stated in the chapter?",
+            "answers": [
+              {
+                "text": "500 mg",
+                "aliases": [
+                  "500",
+                  "500mg",
+                  "500 mg/day",
+                  "500mg/day"
+                ]
+              }
+            ],
+            "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day."
+          }
+        },
+        {
+          "update": "Before administering the simethicone, the nurse performs a focused gastrointestinal assessment.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which assessment steps and administration instructions are required for Marcus's simethicone therapy?",
+            "options": [
+              "Assess bowel patterns and bowel sounds and rule out abdominal distention and rigidity (which may indicate a medical emergency); instruct him to chew the tablets thoroughly after meals and at bedtime.",
+              "Administer simethicone only when bowel sounds are absent and the abdomen is board-like and rigid.",
+              "Instruct him to swallow the chewable simethicone tablets whole on an empty stomach 2 hours before meals.",
+              "Check a trough serum simethicone level 30 minutes before each dose to prevent hepatotoxicity."
+            ],
+            "answer": 0,
+            "rationale": "Before giving simethicone, the nurse must assess bowel patterns and bowel sounds and assess for abdominal distention and rigidity, which could indicate a surgical/medical emergency. Simethicone has no systemic absorption or pharmacokinetic levels, is taken after meals and at bedtime, and chewable tablets must be chewed thoroughly."
+          }
+        }
+      ]
+    }
+  ]
+}

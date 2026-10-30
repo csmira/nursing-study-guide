@@ -9,7 +9,7 @@ import { formatDuration, useStartTest } from '../hooks/quiz'
 import { gradeAttempt, isAnswered } from '../lib/quiz'
 import type { QuestionResult } from '../types'
 
-type Filter = 'all' | 'incorrect' | 'correct' | 'flagged'
+type Filter = 'all' | 'answered' | 'incorrect' | 'correct' | 'flagged'
 
 export function ResultsPage() {
   const { attempt } = useQuiz()
@@ -34,6 +34,7 @@ export function ResultsPage() {
 
   const filters: { id: Filter; label: string; match: (r: QuestionResult) => boolean }[] = [
     { id: 'all', label: 'All', match: () => true },
+    { id: 'answered', label: 'Answered', match: (r) => isAnswered(r.response) },
     { id: 'incorrect', label: 'Incorrect', match: (r) => !r.correct },
     { id: 'correct', label: 'Correct', match: (r) => r.correct },
     { id: 'flagged', label: 'Flagged', match: (r) => !!attempt.flagged[r.question.key] },

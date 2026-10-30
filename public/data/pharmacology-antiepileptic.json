@@ -1,0 +1,1190 @@
+{
+  "categoryId": "pharmacology-antiepileptic",
+  "items": [
+    {
+      "id": "aed-mc-001",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "A nurse is preparing to administer intravenous phenytoin (Dilantin) to an adult patient for seizure control. Which administration technique is essential to prevent serious vascular and cardiac complications?",
+      "options": [
+        "Dilute only in 0.9% normal saline and infuse at a rate not exceeding 50 mg/min using an in-line filter",
+        "Mix in 5% dextrose in water and infuse rapidly over 2 minutes through a small peripheral vein",
+        "Administer undiluted via intramuscular injection into the ventrogluteal muscle to avoid vein irritation",
+        "Infuse at 150 mg/min through a central line and flush the catheter afterward with lactated Ringer's solution"
+      ],
+      "answer": 0,
+      "rationale": "Parenteral phenytoin has a pH of 12, is incompatible with dextrose solutions (causing precipitation), and must only be diluted in normal saline with a filter and infused at a maximum rate of 50 mg/min in adults to prevent hypotension, cardiac dysrhythmias, and severe venous irritation. Intramuscular injection of phenytoin must never be used."
+    },
+    {
+      "id": "aed-mc-002",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "A prescriber orders a loading dose of fosphenytoin (Cerebyx) 1000 mg phenytoin equivalents (PE) IV for an adult in status epilepticus. What is the fastest safe time frame over which the nurse may infuse this dose?",
+      "options": [
+        "At least 7 minutes (maximum rate of 150 mg PE/min)",
+        "At least 20 minutes (maximum rate of 50 mg PE/min)",
+        "At least 2 minutes (maximum rate of 500 mg PE/min)",
+        "At least 60 minutes (maximum rate of 16.7 mg PE/min)"
+      ],
+      "answer": 0,
+      "rationale": "Fosphenytoin is administered at a maximum rate of 150 mg PE/min to prevent hypotension and cardiorespiratory depression (1000 mg PE / 150 mg PE/min = 6.67 minutes, or at least 7 minutes). By contrast, IV phenytoin has a maximum infusion rate of 50 mg/min."
+    },
+    {
+      "id": "aed-mc-003",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "A patient with chronic kidney failure and severe malnutrition has a serum albumin level of 21 g/L and is receiving oral phenytoin. How does hypoalbuminemia affect the patient's response to phenytoin?",
+      "options": [
+        "Reduced protein-binding sites increase the fraction of free, pharmacologically active phenytoin, raising the risk of toxicity",
+        "Low albumin accelerates hepatic CYP450 metabolism of phenytoin, causing subtherapeutic drug levels",
+        "Decreased oncotic pressure prevents gastrointestinal absorption of phenytoin, requiring a higher oral dose",
+        "Hypoalbuminemia traps phenytoin in peripheral tissues, delaying the onset of anticonvulsant action"
+      ],
+      "answer": 0,
+      "rationale": "Phenytoin is highly bound to plasma proteins (albumin). In malnourished patients or those with chronic kidney failure who have low serum albumin, fewer binding sites are available, resulting in higher levels of free, unbound, active phenytoin and exaggerated drug effects or toxicity even at seemingly normal total levels."
+    },
+    {
+      "id": "aed-mc-004",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "During a routine clinic visit, a patient taking phenytoin (Dilantin) for 2 years asks how to minimize the swelling and tenderness in their gums. Which nursing instruction is most appropriate?",
+      "options": [
+        "Perform scrupulous daily oral hygiene, use a soft toothbrush, and schedule regular dental visits",
+        "Discontinue phenytoin for one week each month to allow the gum tissue to recede naturally",
+        "Rinse the mouth with an alcohol-based antiseptic four times daily and avoid flossing",
+        "Crush the extended-release phenytoin capsules and mix them with milk to coat the oral mucosa"
+      ],
+      "answer": 0,
+      "rationale": "Gingival hyperplasia (overgrowth of gum tissue) is a well-known adverse effect of long-term phenytoin therapy; scrupulous daily dental care and frequent dental checkups help prevent and minimize gingival hypertrophy. Extended-release capsules must never be crushed, and AEDs must never be stopped abruptly."
+    },
+    {
+      "id": "aed-mc-005",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "A nurse is assessing a patient whose morning serum phenytoin level is 32 mcg/mL. Which clinical findings should the nurse anticipate based on this laboratory result?",
+      "options": [
+        "Nystagmus, ataxia, dysarthria, and mental confusion",
+        "Severe hypertension, bradycardia, and pinpoint pupils",
+        "Dry flushed skin, urinary retention, and absent bowel sounds",
+        "Paradoxical hyperactivity, insomnia, and weight loss"
+      ],
+      "answer": 0,
+      "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL. At toxic levels (>20 mcg/mL), phenytoin characteristically causes nystagmus, ataxia, dysarthria (slurred speech), cognitive changes, and encephalopathy."
+    },
+    {
+      "id": "aed-mc-006",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "A patient stabilized on warfarin (Coumadin) for atrial fibrillation is prescribed phenytoin after a secondary generalized seizure. What initial interaction should the nurse monitor for?",
+      "options": [
+        "Increased free warfarin levels and elevated bleeding risk due to displacement from plasma protein-binding sites",
+        "Decreased phenytoin absorption from the gastrointestinal tract due to chelation with warfarin",
+        "Immediate precipitation of acute renal failure from combined nephrotoxic metabolites",
+        "Severe hypertension caused by synergistic stimulation of alpha-adrenergic receptors"
+      ],
+      "answer": 0,
+      "rationale": "According to Table 15.5, phenytoin displaces warfarin sodium from plasma protein-binding sites, which increases free warfarin levels in the blood and heightens the risk of bleeding."
+    },
+    {
+      "id": "aed-mc-007",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "While administering intravenous phenytoin through a peripheral catheter, the nurse notices swelling, pallor, and coolness at the insertion site, indicating infiltration into subcutaneous tissue. What is the priority nursing action?",
+      "options": [
+        "Stop the infusion immediately, leave the IV catheter in place until prescriber orders are received, and notify the prescriber",
+        "Slow the infusion rate to 10 mg/min and apply a cold compress over the IV site while completing the dose",
+        "Remove the IV catheter immediately, apply firm pressure for 15 minutes, and restart the infusion in the same hand",
+        "Flush the infiltrated catheter vigorously with 50 mL of 5% dextrose in water to neutralize the alkaline pH"
+      ],
+      "answer": 0,
+      "rationale": "If infiltration of IV phenytoin occurs, the high alkalinity (pH 12) can cause severe ischemia, tissue necrosis, and sloughing. The nurse must discontinue the infusion immediately, leave the IV catheter in place so any ordered antidote can be administered through it, and contact the prescriber immediately."
+    },
+    {
+      "id": "aed-mc-008",
+      "type": "multiple-choice",
+      "topic": "Hydantoins",
+      "prompt": "A female patient who has been taking phenytoin for several years is counselled about long-term skeletal adverse effects. Which supplement is commonly recommended to help prevent this complication?",
+      "options": [
+        "Vitamin D",
+        "Vitamin K",
+        "Ferrous sulfate",
+        "Potassium chloride"
+      ],
+      "answer": 0,
+      "rationale": "Osteoporosis is a recognized long-term consequence of phenytoin therapy because phenytoin interferes with vitamin D metabolism. Vitamin D supplementation helps prevent bone demineralization, particularly in women."
+    },
+    {
+      "id": "aed-mc-009",
+      "type": "multiple-choice",
+      "topic": "Barbiturates",
+      "prompt": "A patient taking oral phenobarbital once daily asks why this medication does not need to be taken three or four times a day like some other seizure medications. What pharmacokinetic property of phenobarbital supports once-daily dosing?",
+      "options": [
+        "It has a very long elimination half-life of 50 to 120 hours",
+        "It is irreversibly bound to postsynaptic AMPA glutamate receptors",
+        "It undergoes zero-order renal tubular reabsorption in the loop of Henle",
+        "It is stored in gastric parietal cells and released slowly with meals"
+      ],
+      "answer": 0,
+      "rationale": "Phenobarbital has a long elimination half-life of 50 to 120 hours, which allows once-a-day maintenance dosing and helps maintain therapeutic blood levels even if a dose is taken several hours late."
+    },
+    {
+      "id": "aed-mc-010",
+      "type": "multiple-choice",
+      "topic": "Barbiturates",
+      "prompt": "A neurologist prescribes primidone instead of phenobarbital for a patient with generalized tonic-clonic seizures. How does primidone produce its anticonvulsant effect?",
+      "options": [
+        "It is metabolized in the liver to phenobarbital and phenylethylmalonamide, both of which have anticonvulsant activity",
+        "It selectively blocks alpha2-delta calcium channel subunits without undergoing hepatic metabolism",
+        "It inhibits intestinal CYP3A4 enzymes to prevent the breakdown of endogenous enkephalins",
+        "It acts as a direct prodrug of fosphenytoin, converting in the bloodstream within 15 minutes"
+      ],
+      "answer": 0,
+      "rationale": "Primidone is a barbiturate that is metabolized in the liver to phenobarbital and phenylethylmalonamide (PEMA); both active metabolites provide anticonvulsant effects at a lower serum phenobarbital concentration, reducing sedation and fatigue."
+    },
+    {
+      "id": "aed-mc-011",
+      "type": "multiple-choice",
+      "topic": "Barbiturates",
+      "prompt": "Before administering phenobarbital to a newly admitted patient, the nurse reviews the patient's medical history. Which condition is a specific contraindication to phenobarbital therapy?",
+      "options": [
+        "Porphyria",
+        "Trigeminal neuralgia",
+        "Postherpetic neuralgia",
+        "Migraine headaches"
+      ],
+      "answer": 0,
+      "rationale": "Contraindications to phenobarbital include known drug allergy, porphyria (a disorder of heme synthesis that barbiturates can precipitate), significant liver or kidney impairment, and severe respiratory illness."
+    },
+    {
+      "id": "aed-mc-012",
+      "type": "multiple-choice",
+      "topic": "Barbiturates",
+      "prompt": "A 78-year-old patient is started on phenobarbital for focal onset seizures. Several hours after the dose, the patient becomes agitated, restless, and irritable rather than sleepy. How should the nurse interpret this finding?",
+      "options": [
+        "Older adults and young children may experience a paradoxical excitement reaction to barbiturates",
+        "The patient is experiencing acute barbiturate withdrawal due to ultra-rapid renal clearance",
+        "The dose has caused Stevens-Johnson syndrome affecting the cerebral meninges",
+        "Phenobarbital has induced acute hypoglycemia by stimulating pancreatic beta cells"
+      ],
+      "answer": 0,
+      "rationale": "Extremely young patients and older adults react with heightened sensitivity to barbiturates and other AEDs and may exhibit paradoxical reactions characterized by irritability, restlessness, excitement, and hyperactivity rather than sedation."
+    },
+    {
+      "id": "aed-mc-013",
+      "type": "multiple-choice",
+      "topic": "Iminostilbenes",
+      "prompt": "A patient with a history of generalized absence and myoclonic seizures is evaluated for antiepileptic therapy. Why is carbamazepine (Tegretol) contraindicated for this patient?",
+      "options": [
+        "Carbamazepine may worsen myoclonic and absence seizures",
+        "Carbamazepine is only available as an intravenous infusion for status epilepticus",
+        "Carbamazepine causes immediate neuromuscular blockade in generalized seizure disorders",
+        "Carbamazepine is ineffective unless combined with a monoamine oxidase inhibitor"
+      ],
+      "answer": 0,
+      "rationale": "Carbamazepine is a first-line drug for focal and generalized tonic-clonic seizures, but it can exacerbate myoclonic or absence seizures and is therefore contraindicated in patients with those seizure types, as well as in those with bone marrow depression."
+    },
+    {
+      "id": "aed-mc-014",
+      "type": "multiple-choice",
+      "topic": "Iminostilbenes",
+      "prompt": "A patient who started carbamazepine (Tegretol) 6 weeks ago reports having a breakthrough focal seizure despite taking every dose on schedule. The serum carbamazepine level is lower than it was 3 weeks ago. Which pharmacological phenomenon best explains this finding?",
+      "options": [
+        "Autoinduction, in which carbamazepine stimulates hepatic enzymes that accelerate its own metabolism",
+        "Competitive inhibition of gastric intrinsic factor, which blocks intestinal drug absorption over time",
+        "Development of anti-carbamazepine antibodies that neutralize the drug in the bloodstream",
+        "Saturation of renal tubular transporters, causing complete urinary excretion of unchanged drug"
+      ],
+      "answer": 0,
+      "rationale": "Carbamazepine undergoes autoinduction within the first 2 months of therapy: it induces hepatic CYP450 enzymes that enhance its own metabolism, leading to lower-than-expected serum drug concentrations and potential breakthrough seizures if the dose is not adjusted."
+    },
+    {
+      "id": "aed-mc-015",
+      "type": "multiple-choice",
+      "topic": "Iminostilbenes",
+      "prompt": "When providing dietary teaching to a patient prescribed carbamazepine (Tegretol), which beverage must the nurse instruct the patient to avoid completely?",
+      "options": [
+        "Grapefruit juice",
+        "Cranberry juice",
+        "Skim milk",
+        "Apple juice"
+      ],
+      "answer": 0,
+      "rationale": "Grapefruit and grapefruit juice potently inhibit intestinal CYP3A4 enzymes responsible for first-pass metabolism of carbamazepine, increasing bioavailability and causing dangerously elevated serum carbamazepine levels and toxicity."
+    },
+    {
+      "id": "aed-mc-016",
+      "type": "multiple-choice",
+      "topic": "Iminostilbenes",
+      "prompt": "A patient taking carbamazepine asks the nurse if it is safe to take high doses of acetaminophen for chronic back pain. What is the nurse's best response based on known drug interactions?",
+      "options": [
+        "Carbamazepine increases hepatic metabolism of acetaminophen, which reduces pain relief and increases the risk of liver toxicity",
+        "Acetaminophen completely blocks the intestinal absorption of carbamazepine, triggering immediate status epilepticus",
+        "Combining acetaminophen and carbamazepine causes severe gingival hyperplasia and tooth loss within days",
+        "There is no interaction between carbamazepine and acetaminophen because neither drug is metabolized by the liver"
+      ],
+      "answer": 0,
+      "rationale": "As shown in Table 15.5, carbamazepine alters CYP450 enzyme metabolism, which increases the hepatic metabolism of acetaminophen into hepatotoxic metabolites (increasing toxicity risk) while reducing acetaminophen's analgesic efficacy."
+    },
+    {
+      "id": "aed-mc-017",
+      "type": "multiple-choice",
+      "topic": "Iminostilbenes",
+      "prompt": "A prescriber selects oxcarbazepine (Trileptal) rather than carbamazepine for an older adult taking multiple medications for chronic cardiovascular conditions. What is the primary pharmacological advantage of oxcarbazepine in this situation?",
+      "options": [
+        "Unlike carbamazepine, oxcarbazepine is not a potent hepatic enzyme inducer and has far fewer common drug interactions",
+        "Oxcarbazepine is administered once monthly as a depot intramuscular injection, improving adherence",
+        "Oxcarbazepine cures the underlying seizure focus within 14 days so lifelong therapy is unnecessary",
+        "Oxcarbazepine enhances the efficacy of oral contraceptives and beta blockers by inhibiting renal clearance"
+      ],
+      "answer": 0,
+      "rationale": "Oxcarbazepine is a chemical analogue of carbamazepine that blocks voltage-sensitive sodium channels, but unlike carbamazepine, it is not a major hepatic enzyme inducer and is therefore associated with far fewer drug interactions."
+    },
+    {
+      "id": "aed-mc-018",
+      "type": "multiple-choice",
+      "topic": "Succinimides",
+      "prompt": "An 8-year-old child is diagnosed with uncomplicated absence seizures characterized by brief episodes of staring and repetitive eye blinking lasting 10 to 20 seconds. Which antiepileptic drug is specifically indicated as a first-line treatment for this seizure type?",
+      "options": [
+        "Ethosuximide (Zarontin)",
+        "Phenytoin (Dilantin)",
+        "Carbamazepine (Tegretol)",
+        "Gabapentin (Neurontin)"
+      ],
+      "answer": 0,
+      "rationale": "Ethosuximide (Zarontin), a succinimide, is a first-line drug specifically indicated for uncomplicated absence seizures (along with valproic acid). Phenytoin and carbamazepine are ineffective for—or may worsen—absence seizures."
+    },
+    {
+      "id": "aed-mc-019",
+      "type": "multiple-choice",
+      "topic": "Valproic Acid",
+      "prompt": "Before initiating valproic acid (Epival) therapy in a patient with generalized tonic-clonic seizures, the nurse checks the patient's medical history. Which two conditions are specific contraindications to valproic acid?",
+      "options": [
+        "Liver impairment and urea cycle disorders",
+        "Asthma and open-angle glaucoma",
+        "Osteoarthritis and hypothyroidism",
+        "Gout and benign prostatic hyperplasia"
+      ],
+      "answer": 0,
+      "rationale": "Valproic acid is contraindicated in patients with known drug allergy, liver impairment (due to the risk of fatal hepatotoxicity), and urea cycle disorders (genetic disorders of urea metabolism)."
+    },
+    {
+      "id": "aed-mc-020",
+      "type": "multiple-choice",
+      "topic": "Valproic Acid",
+      "prompt": "A patient taking valproic acid (Depakene) presents to the emergency department with severe upper abdominal pain radiating to the back, persistent vomiting, and anorexia. Alongside liver enzymes, which laboratory test is essential to evaluate for a life-threatening adverse effect of valproic acid?",
+      "options": [
+        "Serum amylase and lipase to assess for acute pancreatitis",
+        "Serum troponin and creatine kinase-MB to rule out myocarditis",
+        "Thyroid-stimulating hormone to evaluate for thyroid storm",
+        "Serum uric acid to detect drug-induced tumour lysis syndrome"
+      ],
+      "answer": 0,
+      "rationale": "The two most serious adverse effects of valproic acid are hepatotoxicity and pancreatitis. Severe abdominal pain, nausea, and vomiting warrant immediate evaluation for pancreatitis and hepatotoxicity."
+    },
+    {
+      "id": "aed-mc-021",
+      "type": "multiple-choice",
+      "topic": "Valproic Acid",
+      "prompt": "The parent of a 9-year-old child prescribed oral valproic acid asks how to administer the medication to prevent stomach upset. Which instruction should the nurse provide?",
+      "options": [
+        "Give the medication with food and water, but avoid mixing or giving it with milk or carbonated beverages",
+        "Dissolve the enteric-coated tablet in warm milk or ginger ale 30 minutes before the child's bedtime",
+        "Chew the extended-release tablets thoroughly on an empty stomach with a glass of orange juice",
+        "Administer the dose only when the child experiences an aura or prodromal tremor"
+      ],
+      "answer": 0,
+      "rationale": "Oral forms of valproic acid should be taken with food and 180 to 240 mL of water to minimize GI upset, but must NOT be given with milk or carbonated beverages because they can cause the drug to dissolve early and irritate the oral/GI mucosa. Enteric-coated or extended-release tablets must never be chewed or crushed."
+    },
+    {
+      "id": "aed-mc-022",
+      "type": "multiple-choice",
+      "topic": "Valproic Acid",
+      "prompt": "A patient taking divalproex sodium (Epival) daily for generalized seizures begins taking aspirin three times a day for a sprained ankle. What is the expected pharmacological result of this combination?",
+      "options": [
+        "Aspirin displaces valproic acid from plasma protein-binding sites, increasing free valproic acid levels and toxicity risk",
+        "Aspirin induces CYP3A4 enzymes, rapidly lowering valproic acid levels and causing withdrawal seizures",
+        "Valproic acid converts aspirin into an inactive metabolite, eliminating its anti-inflammatory effect",
+        "The combination causes acute angle-closure glaucoma and permanent optic nerve atrophy"
+      ],
+      "answer": 0,
+      "rationale": "Valproic acid is highly bound to plasma proteins. Aspirin competes for and displaces valproic acid from plasma protein-binding sites, resulting in elevated free (unbound) valproic acid levels and clinical toxicity even without a change in the valproic acid dose."
+    },
+    {
+      "id": "aed-mc-023",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient with focal seizures is prescribed perampanel (Fycompa) as adjunct therapy. By what mechanism of action does perampanel reduce neuronal hyperexcitation?",
+      "options": [
+        "It acts as a selective, noncompetitive antagonist at postsynaptic AMPA glutamate receptors",
+        "It directly binds to GABA-A chloride channels to prolong chloride ion influx into presynaptic neurons",
+        "It inhibits carbonic anhydrase in the choroid plexus to acidify cerebrospinal fluid",
+        "It blocks hepatic monoamine oxidase type B to increase synaptic dopamine concentrations"
+      ],
+      "answer": 0,
+      "rationale": "Perampanel (Fycompa) is a selective, noncompetitive antagonist of the ionotropic alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on postsynaptic neurons, reducing glutamate-mediated neuronal hyperexcitation."
+    },
+    {
+      "id": "aed-mc-024",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "Although pregabalin (Lyrica) is structurally similar to the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), how does it exert its pharmacological effect in the central nervous system?",
+      "options": [
+        "It binds to alpha2-delta receptor sites, which modulate voltage-gated calcium channels in CNS tissues",
+        "It agonizes postsynaptic GABA-B receptors and blocks acetylcholine release at the neuromuscular junction",
+        "It irreversibly destroys glutamate-producing astrocytes in the cerebral cortex",
+        "It stimulates sodium-potassium ATPase pumps in peripheral myelin sheaths"
+      ],
+      "answer": 0,
+      "rationale": "Pregabalin is structurally related to GABA, but it does not bind directly to GABA receptors; instead, it binds to alpha2-delta receptor sites in the CNS, affecting calcium channels to stabilize hyperexcited neurons."
+    },
+    {
+      "id": "aed-mc-025",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A nurse is teaching a patient who is starting lamotrigine (Lamictal) for focal seizures. Why is the dosage of lamotrigine titrated very slowly over several weeks?",
+      "options": [
+        "Slow titration reduces the risk of life-threatening dermatological reactions such as Stevens-Johnson syndrome",
+        "Rapid dosing causes immediate renal tubular necrosis and anuria within 24 hours",
+        "Lamotrigine causes severe bradycardia and complete heart block if given at full maintenance doses initially",
+        "Slow titration prevents autoinduction of intestinal P-glycoprotein efflux pumps"
+      ],
+      "answer": 0,
+      "rationale": "Lamotrigine can cause serious, potentially fatal dermatological emergencies including Stevens-Johnson syndrome (SJS) and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). Doses are slowly titrated over several weeks to minimize the risk of severe rash."
+    },
+    {
+      "id": "aed-mc-026",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient who started lamotrigine 3 weeks ago presents with a high fever, malaise, facial swelling, a widespread skin rash, and elevated liver transaminases. Bloodwork reveals marked eosinophilia. Which severe adverse reaction should the nurse suspect?",
+      "options": [
+        "Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)",
+        "Dilantin facies with secondary gingival hypertrophy",
+        "Acute anticholinergic crisis",
+        "Serotonin syndrome"
+      ],
+      "answer": 0,
+      "rationale": "DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) is a serious dermatological and systemic emergency associated with lamotrigine that has a latency period of more than 2 weeks after starting the drug and presents with fever, rash, eosinophilia, and internal organ involvement (most commonly the liver)."
+    },
+    {
+      "id": "aed-mc-027",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient taking valproic acid has lamotrigine added to their regimen. How does valproic acid affect lamotrigine pharmacokinetics?",
+      "options": [
+        "Valproic acid inhibits lamotrigine metabolism, increasing lamotrigine levels and the risk of toxicity",
+        "Valproic acid induces CYP450 enzymes, reducing lamotrigine levels by more than 80%",
+        "Valproic acid blocks renal reabsorption of lamotrigine, requiring triple the usual lamotrigine dose",
+        "Valproic acid chelates lamotrigine in the stomach unless the drugs are separated by 6 hours"
+      ],
+      "answer": 0,
+      "rationale": "As noted in Table 15.5, valproic acid alters hepatic metabolism to increase serum lamotrigine levels and toxicity risk (such as severe skin rash), often requiring a lower lamotrigine dosage."
+    },
+    {
+      "id": "aed-mc-028",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient is prescribed levetiracetam (Keppra) as adjunct therapy for focal onset seizures. In addition to drowsiness, for which significant adverse effect must the nurse specifically monitor and educate the patient and family?",
+      "options": [
+        "Neuropsychiatric and behavioural changes, including agitation, anxiety, hostility, depression, or suicidal ideation",
+        "Severe gingival hyperplasia and coarsening of subcutaneous facial tissues",
+        "Aplastic anemia and agranulocytosis requiring weekly bone marrow biopsies",
+        "Permanent yellow-green discolouration of the teeth and sclerae"
+      ],
+      "answer": 0,
+      "rationale": "Levetiracetam (Keppra) is associated with neuropsychiatric symptoms including agitation, hostility, anxiety, depression, behavioural changes, and suicidal ideation; patients and families must be instructed to report mood or behaviour changes immediately."
+    },
+    {
+      "id": "aed-mc-029",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient taking topiramate (Topamax) calls the neurology clinic reporting sudden blurred vision and severe eye pain. What is the nurse's priority action?",
+      "options": [
+        "Instruct the patient to seek immediate medical evaluation because topiramate can cause acute angle-closure glaucoma",
+        "Reassure the patient that mild visual blurring is expected and will resolve after 4 to 5 half-lives",
+        "Advise the patient to double the evening dose of topiramate to suppress ocular nerve hyperexcitability",
+        "Recommend over-the-counter artificial tears and a warm compress before bedtime"
+      ],
+      "answer": 0,
+      "rationale": "Topiramate can cause acute angle-closure glaucoma; patients must immediately report any visual changes or eye pain so urgent ophthalmic evaluation and drug discontinuation/taper can occur."
+    },
+    {
+      "id": "aed-mc-030",
+      "type": "multiple-choice",
+      "topic": "Special Populations",
+      "prompt": "A woman of childbearing age who takes topiramate (Topamax) for epilepsy tells the nurse she is planning to become pregnant. Which specific teratogenic risk associated with topiramate use during pregnancy should the nurse recognize?",
+      "options": [
+        "Increased risk of cleft palate in the infant",
+        "Premature closure of the fetal ductus arteriosus",
+        "Permanent staining of fetal dental enamel",
+        "Congenital bilateral renal agenesis"
+      ],
+      "answer": 0,
+      "rationale": "Infants born to mothers who take topiramate during pregnancy have an increased risk of oral clefts (cleft palate). Women contemplating pregnancy should seek preconception medical advice from their prescriber."
+    },
+    {
+      "id": "aed-mc-031",
+      "type": "multiple-choice",
+      "topic": "Status Epilepticus",
+      "prompt": "A patient is brought to the emergency department having continuous generalized tonic-clonic seizure activity for the past 7 minutes. After securing the airway, breathing, and circulation and establishing IV access, which drug class is administered first-line to terminate status epilepticus rapidly?",
+      "options": [
+        "An intravenous benzodiazepine such as lorazepam or diazepam",
+        "An oral iminostilbene such as carbamazepine or oxcarbazepine",
+        "An oral succinimide such as ethosuximide",
+        "An oral GABA analogue such as gabapentin or pregabalin"
+      ],
+      "answer": 0,
+      "rationale": "Status epilepticus (continuous seizure activity lasting 5 minutes or longer, or recurrent seizures without recovery between episodes) is a medical emergency. After ABCs are maintained, fast-acting IV benzodiazepines (such as lorazepam or diazepam) are given first, followed by longer-acting AEDs like phenytoin or fosphenytoin."
+    },
+    {
+      "id": "aed-mc-032",
+      "type": "multiple-choice",
+      "topic": "Status Epilepticus",
+      "prompt": "Why does status epilepticus require immediate, aggressive pharmacological intervention?",
+      "options": [
+        "Prolonged seizure activity causes catecholamine surge followed by hypotension, hyperthermia, metabolic acidosis, hypoxia, and permanent brain damage",
+        "Continuous muscle contractions rapidly deplete serum calcium, leading to immediate parathyroid gland necrosis",
+        "Seizures lasting longer than 5 minutes cause irreversible destruction of the sinoatrial node",
+        "Status epilepticus triggers autoimmune demyelination of peripheral motor nerves within 10 minutes"
+      ],
+      "answer": 0,
+      "rationale": "During generalized convulsive status epilepticus, an initial catecholamine release causes tachycardia, dysrhythmias, and hyperglycemia, followed by hypotension, elevated body temperature, metabolic acidosis, hypoxia, brain damage, and potentially death."
+    },
+    {
+      "id": "aed-mc-033",
+      "type": "multiple-choice",
+      "topic": "General Principles of AED Therapy",
+      "prompt": "A 28-year-old patient experiences a single, isolated seizure while sleep-deprived, with a normal MRI and EEG and no prior history of neurological disease. The patient asks why the neurologist did not prescribe daily antiepileptic medication. Which response by the nurse is accurate?",
+      "options": [
+        "Antiepileptic drug therapy is generally not recommended after a single isolated seizure because there is only about a 40% chance of recurrence",
+        "Antiepileptic drugs cannot cross the blood-brain barrier unless the patient has had at least five generalized convulsions",
+        "Starting antiepileptic drugs after a first seizure guarantees lifelong dependence and causes immediate liver failure",
+        "Health Canada regulations prohibit prescribing antiepileptic drugs until a patient has been hospitalized twice for status epilepticus"
+      ],
+      "answer": 0,
+      "rationale": "In both children and adults, there is only a 40% chance of recurrence after a first focal or generalized seizure; therefore, long-term AED therapy (which carries significant adverse effects) is not recommended after a single isolated seizure event."
+    },
+    {
+      "id": "aed-mc-034",
+      "type": "multiple-choice",
+      "topic": "General Principles of AED Therapy",
+      "prompt": "A patient with newly diagnosed epilepsy is being started on monotherapy with carbamazepine, phenytoin, or valproic acid. What happens if the initial single antiepileptic drug fails to control the seizures despite titration?",
+      "options": [
+        "The first drug is tapered slowly while a second antiepileptic drug is gradually introduced",
+        "The first drug is stopped abruptly and three new antiepileptic drugs are started simultaneously at maximum doses",
+        "The patient is kept off all medications for a 2-week washout period before trying another drug",
+        "Intravenous lorazepam is prescribed for daily home self-administration in place of oral therapy"
+      ],
+      "answer": 0,
+      "rationale": "Patients are started on a single AED and titrated until seizures are controlled or toxicity occurs. If the first drug is ineffective, it is tapered slowly while a second drug is introduced; AEDs must never be stopped abruptly unless a severe adverse effect occurs, to avoid withdrawal/rebound seizures."
+    },
+    {
+      "id": "aed-mc-035",
+      "type": "multiple-choice",
+      "topic": "Mechanism of Action",
+      "prompt": "Which statement accurately describes one of the three primary pharmacological mechanisms by which antiepileptic drugs control seizure activity?",
+      "options": [
+        "They increase the threshold of activity in the motor cortex, making neurons less responsive to excessive electrical or chemical stimulation",
+        "They accelerate the speed of nerve impulse conduction within hyperexcited cortical neurons to exhaust seizure foci",
+        "They decrease levels of the inhibitory neurotransmitter GABA in the cerebral cortex to stabilize cell membranes",
+        "They stimulate rapid influx of sodium and calcium ions into depolarized neurons to prolong action potentials"
+      ],
+      "answer": 0,
+      "rationale": "The three major effects of AEDs are: (1) increasing the threshold of activity in the motor cortex to make nerves less excitable, (2) limiting the spread of seizure discharge to adjacent neurons, and (3) decreasing the speed of nerve impulse conduction within a given neuron (often by altering ion movement or enhancing inhibitory GABA activity)."
+    },
+    {
+      "id": "aed-mc-036",
+      "type": "multiple-choice",
+      "topic": "Patient Teaching",
+      "prompt": "A patient newly prescribed phenytoin asks the nurse when they will legally be allowed to drive to work again. Which statement by the nurse provides accurate patient education regarding driving and epilepsy in Canada?",
+      "options": [
+        "Drivers are legally required to report epilepsy to provincial or territorial authorities, and generally may drive once seizure-free on medication for 6 months without impairing drowsiness",
+        "You may resume driving immediately as long as a family member rides in the passenger seat during your commute",
+        "Once your first serum drug level falls within the therapeutic range, you are automatically cleared to drive without notifying anyone",
+        "Individuals diagnosed with epilepsy are permanently barred from holding a driver's licence in all Canadian provinces and territories"
+      ],
+      "answer": 0,
+      "rationale": "In all Canadian provinces and territories, drivers are required by law to report health conditions like epilepsy that interfere with driving. Generally, a person may legally drive when seizures are controlled by medication, they have been seizure-free for 6 months, and medications do not cause drowsiness or poor coordination."
+    },
+    {
+      "id": "aed-mc-037",
+      "type": "multiple-choice",
+      "topic": "Patient Teaching",
+      "prompt": "A nurse is reviewing home safety measures with a patient whose seizure disorder is not yet fully controlled on medication. Which statement by the patient indicates a correct understanding of home safety?",
+      "options": [
+        "\"I will cook using the microwave or rear burners of an electric stove, use plastic dishes, and leave the bathroom door unlocked when bathing.\"",
+        "\"I will lock the bathroom door and fill the bathtub to the top with hot water to relax my muscles before bed.\"",
+        "\"I should cook on a gas stove with an open flame so I can easily see when the burner is turned on.\"",
+        "\"I can go swimming alone at the community pool as long as I take my morning dose of medication on time.\""
+      ],
+      "answer": 0,
+      "rationale": "Home safety teaching for patients with epilepsy includes using a microwave or rear burners of an electric stove (no open flame), using plastic dishes, installing heat-control devices on faucets, carpeting floors, never locking the bathroom door, bathing only with a few inches of water while someone is home, and never swimming alone."
+    },
+    {
+      "id": "aed-mc-038",
+      "type": "multiple-choice",
+      "topic": "Nursing Implementation",
+      "prompt": "A hospitalized patient begins having a generalized tonic-clonic seizure while lying in bed. Which nursing intervention is appropriate during the seizure?",
+      "options": [
+        "Protect the patient from injury, position the patient on their side if possible to maintain a patent airway, and never force a tongue blade between clenched teeth",
+        "Insert a padded tongue blade firmly between the patient's teeth to prevent tongue biting and restrain all four extremities",
+        "Assist the patient out of bed to walk around the room so the tonic muscle spasms resolve more quickly",
+        "Administer an oral dose of extended-release carbamazepine with 240 mL of water while the seizure is occurring"
+      ],
+      "answer": 0,
+      "rationale": "During a seizure, priority nursing care focuses on maintaining the airway (using a side-lying position or chin lift/jaw thrust and having oxygen and suction ready) and protecting the patient from injury. Never use a tongue blade or other instrument to pry open clenched teeth, and never give oral fluids/medications during a seizure."
+    },
+    {
+      "id": "aed-mc-039",
+      "type": "multiple-choice",
+      "topic": "Drug Interactions",
+      "prompt": "A 24-year-old woman taking oral contraceptives is prescribed oxcarbazepine (Trileptal) for focal seizures. What essential counselling must the nurse provide?",
+      "options": [
+        "Oxcarbazepine reduces the effectiveness of oral contraceptives through CYP450 enzyme induction, so an alternative or backup birth control method is needed",
+        "Oral contraceptives double the serum concentration of oxcarbazepine, causing severe gingival hyperplasia",
+        "Combining oxcarbazepine with oral contraceptives causes immediate ovarian failure and permanent infertility",
+        "No contraceptive adjustments are needed because oxcarbazepine only interacts with intravenous medications"
+      ],
+      "answer": 0,
+      "rationale": "Many AEDs—including barbiturates, phenytoin, carbamazepine, oxcarbazepine, lamotrigine, and topiramate—alter CYP450 metabolism and reduce the efficacy of oral contraceptives, increasing the risk of unintended pregnancy. Patients should be counselled to use alternative birth control methods."
+    },
+    {
+      "id": "aed-mc-040",
+      "type": "multiple-choice",
+      "topic": "Dosage Calculation",
+      "prompt": "A prescriber orders ethosuximide (Zarontin) 20 mg/kg/day PO divided into two equal doses for a child weighing 25 kg who has absence seizures. How many milligrams should the nurse administer for each individual dose?",
+      "options": [
+        "250 mg",
+        "500 mg",
+        "125 mg",
+        "400 mg"
+      ],
+      "answer": 0,
+      "rationale": "Total daily dose = 20 mg/kg/day × 25 kg = 500 mg/day. Divided into two equal doses (500 mg / 2), the child will receive 250 mg per dose."
+    },
+    {
+      "id": "aed-mc-041",
+      "type": "multiple-choice",
+      "topic": "Special Populations",
+      "prompt": "A nurse is caring for a 4-year-old child who was started on lamotrigine 10 days ago. During the morning assessment, the nurse notes a new maculopapular skin rash on the child's trunk. What is the priority nursing action?",
+      "options": [
+        "Withhold the medication and notify the prescriber immediately",
+        "Apply hydrocortisone 1% cream and administer the scheduled morning dose",
+        "Document the benign rash and re-evaluate at the next clinic visit in 2 weeks",
+        "Cut the lamotrigine tablet in half and administer it with milk"
+      ],
+      "answer": 0,
+      "rationale": "According to the Special Populations: Children guidelines, if a skin rash develops in a child or infant taking phenytoin, carbamazepine, lamotrigine, phenobarbital, or valproate, the drug must be discontinued/withheld immediately and the prescriber notified due to the risk of Stevens-Johnson syndrome."
+    },
+    {
+      "id": "aed-mc-042",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient is prescribed gabapentin (Neurontin) 300 mg PO three times daily. When the patient asks about meal timing and discontinuation, which instruction by the nurse is accurate?",
+      "options": [
+        "Gabapentin may be taken without regard to meals, and if discontinued, it must be tapered over at least 1 week to prevent rebound seizures",
+        "Gabapentin must be taken strictly 2 hours before meals on an empty stomach and can be stopped abruptly once pain subsides",
+        "Gabapentin must be taken with grapefruit juice to ensure adequate absorption across the intestinal wall",
+        "Gabapentin capsules should be opened and dissolved in carbonated soda to speed onset of action"
+      ],
+      "answer": 0,
+      "rationale": "Gabapentin is one of the AEDs that can be taken without regard to meals. Like all AEDs, if discontinuation is indicated, the dosage must be tapered over at least 1 week to avoid withdrawal/rebound seizure activity."
+    },
+    {
+      "id": "aed-mc-043",
+      "type": "multiple-choice",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "A patient taking perampanel (Fycompa) 8 mg PO at bedtime is started on carbamazepine for refractory focal seizures. How does carbamazepine affect perampanel therapy?",
+      "options": [
+        "Carbamazepine induces CYP450 metabolism, reducing perampanel serum levels by up to 67%",
+        "Carbamazepine inhibits renal excretion of perampanel, causing acute perampanel overdose",
+        "Carbamazepine displaces perampanel from bone tissue, causing hypercalcemia",
+        "Carbamazepine has no effect on perampanel because neither drug undergoes hepatic metabolism"
+      ],
+      "answer": 0,
+      "rationale": "As shown in Table 15.5, enzyme-inducing AEDs such as carbamazepine, phenytoin, and oxcarbazepine alter CYP450 enzyme metabolism and reduce perampanel levels by up to 67%."
+    },
+    {
+      "id": "aed-mc-044",
+      "type": "multiple-choice",
+      "topic": "Therapeutic Drug Monitoring",
+      "prompt": "A nurse is reviewing morning serum drug levels for four patients on the neurology unit. Which patient's laboratory result is within the established normal therapeutic plasma range?",
+      "options": [
+        "A patient taking valproic acid with a serum level of 75 mcg/mL",
+        "A patient taking carbamazepine with a serum level of 22 mcg/mL",
+        "A patient taking phenytoin with a serum level of 35 mcg/mL",
+        "A patient taking primidone with a serum level of 25 mcg/mL"
+      ],
+      "answer": 0,
+      "rationale": "According to Table 15.6, the normal therapeutic plasma levels are: valproic acid 50–100 mcg/mL (so 75 mcg/mL is therapeutic), carbamazepine 4–12 mcg/mL, phenytoin 10–20 mcg/mL, phenobarbital 15–30 mcg/mL, and primidone 5–12 mcg/mL."
+    },
+    {
+      "id": "aed-mc-045",
+      "type": "multiple-choice",
+      "topic": "Pediatric Seizures",
+      "prompt": "An 18-month-old toddler is brought to the clinic after experiencing a brief febrile seizure during an acute viral illness with a temperature of 39.4°C. The parents are terrified that their child now has lifelong epilepsy and will need daily phenytoin. Which explanation by the nurse is most accurate?",
+      "options": [
+        "Febrile seizures occur in children 6 months to 5 years of age due to fever, are usually outgrown without becoming chronic epilepsy, and are normally managed acutely with antipyretics like acetaminophen",
+        "Febrile seizures always progress to Lennox-Gastaut syndrome unless lifelong intravenous fosphenytoin is started immediately",
+        "Children under 5 years of age with a febrile seizure require daily gabapentin therapy until they reach adulthood",
+        "A single febrile seizure confirms primary idiopathic epilepsy and requires surgical resection of the temporal lobe"
+      ],
+      "answer": 0,
+      "rationale": "Febrile seizures occur in children aged 6 months to 5 years and are caused by fever. Children usually outgrow the tendency to have febrile seizures, so they do not constitute a chronic illness; antipyretic drugs (e.g., acetaminophen) are normally adequate for acute treatment."
+    },
+    {
+      "id": "aed-sa-001",
+      "type": "short-answer",
+      "topic": "Hydantoins",
+      "prompt": "What is the only intravenous solution compatible for diluting parenteral phenytoin (Dilantin) or fosphenytoin (Cerebyx) when preparing an IV infusion according to nursing implementation guidelines?",
+      "answers": [
+        {
+          "text": "normal saline",
+          "aliases": [
+            "0.9% normal saline",
+            "0.9% sodium chloride",
+            "NS",
+            "0.9% NaCl",
+            "0.9% saline",
+            "sodium chloride 0.9%"
+          ]
+        }
+      ],
+      "rationale": "Parenteral phenytoin is highly alkaline (pH 12) and precipitates if mixed with dextrose or other acidic solutions; therefore, normal saline (0.9% sodium chloride) is the only compatible dilutional fluid used to dilute and flush IV phenytoin lines."
+    },
+    {
+      "id": "aed-sa-002",
+      "type": "short-answer",
+      "topic": "Iminostilbenes",
+      "prompt": "What is the pharmacological term for the metabolic process in which a drug such as carbamazepine stimulates the production of hepatic enzymes that enhance its own metabolism over time, leading to lower serum drug concentrations?",
+      "answers": [
+        {
+          "text": "autoinduction",
+          "aliases": [
+            "auto-induction"
+          ]
+        }
+      ],
+      "rationale": "Autoinduction is a metabolic process in which a drug stimulates hepatic enzymes that accelerate its own metabolism over time (typically within the first 2 months of carbamazepine therapy), reducing therapeutic drug concentrations."
+    },
+    {
+      "id": "aed-sa-003",
+      "type": "short-answer",
+      "topic": "Succinimides",
+      "prompt": "Name the succinimide antiepileptic drug (generic name) that is a first-line medication specifically indicated for the treatment of uncomplicated absence seizures.",
+      "answers": [
+        {
+          "text": "ethosuximide",
+          "aliases": [
+            "Zarontin"
+          ]
+        }
+      ],
+      "rationale": "Ethosuximide (Zarontin) is the prototypical succinimide antiepileptic drug used as a first-line agent for uncomplicated absence seizures."
+    },
+    {
+      "id": "aed-sa-004",
+      "type": "short-answer",
+      "topic": "Seizure Emergencies",
+      "prompt": "What medical emergency is defined as continuous clinical or electrographic seizure activity lasting 5 minutes or longer, or recurrent seizures without recovery to baseline between episodes?",
+      "answers": [
+        {
+          "text": "status epilepticus",
+          "aliases": [
+            "SE"
+          ]
+        }
+      ],
+      "rationale": "Status epilepticus is a true medical emergency characterized by prolonged seizure activity lasting 5 minutes or longer or repeated seizures without recovery between episodes."
+    },
+    {
+      "id": "aed-sa-005",
+      "type": "short-answer",
+      "topic": "Hydantoins",
+      "prompt": "What is the medical term for the overgrowth of gum tissue that frequently occurs as an adverse effect of long-term oral phenytoin therapy?",
+      "answers": [
+        {
+          "text": "gingival hyperplasia",
+          "aliases": [
+            "gingival hypertrophy",
+            "gum hyperplasia"
+          ]
+        }
+      ],
+      "rationale": "Gingival hyperplasia (or gingival hypertrophy) is the overgrowth of gum tissue commonly associated with long-term phenytoin therapy; it is minimized through scrupulous dental hygiene."
+    },
+    {
+      "id": "aed-sa-006",
+      "type": "short-answer",
+      "topic": "Hydantoins",
+      "prompt": "Name the water-soluble injectable prodrug of phenytoin (generic name) that is dosed in phenytoin equivalents (PE) and can be administered intramuscularly or intravenously at up to 150 mg PE/min.",
+      "answers": [
+        {
+          "text": "fosphenytoin",
+          "aliases": [
+            "fosphenytoin sodium",
+            "Cerebyx"
+          ]
+        }
+      ],
+      "rationale": "Fosphenytoin (Cerebyx) is a water-soluble prodrug of phenytoin (150 mg fosphenytoin = 100 mg phenytoin, or 100 mg PE) that causes less venous irritation and can be given IM or IV at rates up to 150 mg PE/min."
+    },
+    {
+      "id": "aed-sa-007",
+      "type": "short-answer",
+      "topic": "Mechanism of Action",
+      "prompt": "What is the primary inhibitory neurotransmitter in the brain (abbreviation or full name) whose levels or activity are enhanced by many antiepileptic drugs to reduce neuronal excitability?",
+      "answers": [
+        {
+          "text": "GABA",
+          "aliases": [
+            "gamma-aminobutyric acid",
+            "gamma aminobutyric acid"
+          ]
+        }
+      ],
+      "rationale": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the brain that regulates neuronal excitability; low GABA levels are associated with seizures, and many AEDs enhance GABA activity."
+    },
+    {
+      "id": "aed-sa-008",
+      "type": "short-answer",
+      "topic": "Barbiturates",
+      "prompt": "Name the barbiturate antiepileptic drug (generic name) that is metabolized in the liver to phenobarbital and phenylethylmalonamide (PEMA).",
+      "answers": [
+        {
+          "text": "primidone",
+          "aliases": []
+        }
+      ],
+      "rationale": "Primidone is metabolized in the liver into two active anticonvulsant metabolites: phenobarbital and phenylethylmalonamide (PEMA)."
+    },
+    {
+      "id": "aed-sa-009",
+      "type": "short-answer",
+      "topic": "Miscellaneous AEDs",
+      "prompt": "Name the antiepileptic drug (generic name) that is chemically similar to fructose, is used for focal and generalized seizures as well as Lennox-Gastaut drop attacks, and carries a risk of acute angle-closure glaucoma and fetal cleft palate.",
+      "answers": [
+        {
+          "text": "topiramate",
+          "aliases": [
+            "Topamax"
+          ]
+        }
+      ],
+      "rationale": "Topiramate (Topamax) is a fructose-derivative AED indicated for focal and generalized tonic-clonic seizures and drop attacks in Lennox-Gastaut syndrome; notable risks include angle-closure glaucoma and cleft palate in infants exposed in utero."
+    },
+    {
+      "id": "aed-cs-001",
+      "type": "case-study",
+      "title": "Status Epilepticus and Hydantoin Therapy in an Older Adult",
+      "topic": "Hydantoins",
+      "scenario": "Arthur Pendelton, a 68-year-old man (weight 75 kg) with a history of ischemic stroke and secondary epilepsy, is brought to the emergency department by ambulance after his wife found him having repeated generalized tonic-clonic seizures without regaining consciousness between episodes for the past 10 minutes. His vital signs on arrival are BP 158/94 mm Hg, HR 128 beats/min, RR 24 breaths/min, and SpO2 89% on room air. An IV line is established in his right forearm with a 20-gauge catheter, and high-flow oxygen is applied.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "The emergency physician orders lorazepam (Ativan) 4 mg IV push STAT, followed by a loading dose of phenytoin (Dilantin) 1500 mg IV (20 mg/kg). Why is lorazepam administered before phenytoin in status epilepticus?",
+            "options": [
+              "Lorazepam has a rapid onset of 1 to 20 minutes to halt acute seizures immediately, whereas IV phenytoin has an onset of 1 to 2 hours and provides sustained seizure control",
+              "Lorazepam alkalinizes the bloodstream to a pH of 12 so that phenytoin will not precipitate in the patient's veins",
+              "Phenytoin causes severe paradoxical convulsions unless GABA receptors are first blocked by lorazepam",
+              "Lorazepam prevents phenytoin from binding to plasma albumin, allowing rapid renal excretion"
+            ],
+            "answer": 0,
+            "rationale": "According to Table 15.1, IV lorazepam has a rapid onset of 1 to 20 minutes to terminate status epilepticus acutely, while IV phenytoin has a delayed onset of 1 to 2 hours (duration 12 to 24 hours) for ongoing seizure suppression."
+          }
+        },
+        {
+          "update": "Arthur's active convulsions stop 3 minutes after receiving IV lorazepam. The nurse now prepares to administer the ordered phenytoin (Dilantin) 1500 mg IV loading dose. The existing peripheral IV line is currently infusing 5% dextrose in water (D5W) at 30 mL/hr.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which nursing action is mandatory when administering Arthur's IV phenytoin loading dose?",
+            "options": [
+              "Flush the IV line thoroughly with 0.9% normal saline before and after the phenytoin infusion, use an in-line filter, and infuse at no more than 50 mg/min",
+              "Add the phenytoin directly to the hanging 5% dextrose in water bag and infuse over 15 minutes using an infusion pump",
+              "Infuse the phenytoin at 150 mg/min without a filter to ensure rapid therapeutic brain concentrations",
+              "Administer half the dose intravenously and inject the remaining 750 mg intramuscularly into the deltoid muscle"
+            ],
+            "answer": 0,
+            "rationale": "Phenytoin is incompatible with dextrose solutions (D5W) and will form crystals/precipitate; existing lines must be flushed with normal saline before and after dosing, an in-line filter must be used, and the rate must never exceed 50 mg/min in adults."
+          }
+        },
+        {
+          "update": "Twenty minutes into the phenytoin infusion, Arthur's cardiac monitor displays sinus bradycardia at 48 beats/min with frequent premature ventricular contractions, and his blood pressure drops to 86/52 mm Hg.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority intervention in response to these changes in Arthur's vital signs?",
+            "options": [
+              "Discontinue the phenytoin infusion immediately, monitor vital signs closely, and notify the prescriber",
+              "Increase the infusion rate to finish the loading dose before blood pressure drops further",
+              "Administer oral carbamazepine 400 mg immediately to counteract the cardiac dysrhythmias",
+              "Place the patient in a high Fowler's position and administer intravenous furosemide"
+            ],
+            "answer": 0,
+            "rationale": "Hypotension and cardiac dysrhythmias are life-threatening cardiovascular adverse effects of IV phenytoin/fosphenytoin. If dysrhythmias or hypotension occur during infusion, the nurse must stop the infusion immediately, monitor vital signs, and contact the prescriber."
+          }
+        },
+        {
+          "update": "After discontinuing the phenytoin infusion and stabilizing Arthur's blood pressure, the prescriber switches the order to fosphenytoin (Cerebyx) and later transitions Arthur to oral phenytoin maintenance therapy. Laboratory results on day 3 show a serum albumin of 24 g/L (low) and a total serum phenytoin level of 24 mcg/mL. Arthur exhibits horizontal nystagmus and an unsteady, ataxic gait when attempting to stand.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL (enter the number only, e.g., 20)?",
+            "answers": [
+              {
+                "text": "20",
+                "aliases": [
+                  "20 mcg/mL",
+                  "10-20",
+                  "10 to 20",
+                  "10-20 mcg/mL"
+                ]
+              }
+            ],
+            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia."
+          }
+        }
+      ]
+    },
+    {
+      "id": "aed-cs-002",
+      "type": "case-study",
+      "title": "Carbamazepine Initiation and Drug Interactions in Focal Epilepsy",
+      "topic": "Iminostilbenes",
+      "scenario": "Elena Rostova, a 26-year-old graphic designer, is diagnosed with complex focal onset seizures after experiencing recurrent episodes of impaired awareness and postictal confusion. She has no history of absence or myoclonic seizures. Her neurologist prescribes oral carbamazepine (Tegretol) 200 mg twice daily, with a plan to titrate to 800 mg/day. Elena currently takes a combined oral contraceptive pill daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Before Elena starts carbamazepine therapy, which baseline laboratory test and patient history check are highest priority for the nurse to review?",
+            "options": [
+              "Complete blood cell count (CBC) and any history of bone marrow depression",
+              "Fasting lipid panel and family history of hypercholesterolemia",
+              "24-hour urine protein collection and history of nephrolithiasis",
+              "Arterial blood gases and history of seasonal allergic rhinitis"
+            ],
+            "answer": 0,
+            "rationale": "Carbamazepine can cause serious blood dyscrasias such as aplastic anemia and agranulocytosis, and is contraindicated in patients with bone marrow depression. Therefore, a baseline CBC must be obtained and documented before starting therapy."
+          }
+        },
+        {
+          "update": "Elena's baseline CBC and liver function studies are within normal ranges. During discharge teaching, the nurse reviews her current medication list, which includes her combined oral contraceptive pill, and discusses dietary habits.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which statement by Elena indicates that she understands the essential teaching regarding carbamazepine interactions?",
+            "options": [
+              "\"I will avoid drinking grapefruit juice and will talk with my prescriber about using an alternative barrier method of birth control.\"",
+              "\"I will drink a large glass of grapefruit juice with my morning tablet to prevent stomach upset.\"",
+              "\"Carbamazepine will make my birth control pills stronger, so I only need to take them every other day.\"",
+              "\"If I feel dizzy during the first week, I can stop taking carbamazepine immediately without calling the clinic.\""
+            ],
+            "answer": 0,
+            "rationale": "Carbamazepine induces hepatic CYP450 enzymes, reducing the efficacy of oral contraceptives and requiring alternative contraceptive measures. Additionally, grapefruit juice inhibits CYP3A4 metabolism of carbamazepine, leading to increased drug levels and toxicity."
+          }
+        },
+        {
+          "update": "Seven weeks after starting carbamazepine, Elena returns to the neurology clinic. She states, \"I haven't missed a single dose, and my seizures stopped completely during the first month, but yesterday I had another focal seizure at work.\" Her serum carbamazepine level is 3.1 mcg/mL.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse interpret Elena's serum carbamazepine level of 3.1 mcg/mL at 7 weeks of therapy?",
+            "options": [
+              "The level is subtherapeutic (normal range 4 to 12 mcg/mL), likely due to carbamazepine autoinduction within the first 2 months of therapy",
+              "The level is in the toxic range (normal range 0.5 to 2.0 mcg/mL), indicating she accidentally took an extra tablet",
+              "The level confirms complete renal failure blocking the conversion of carbamazepine to phenobarbital",
+              "The level is therapeutic, meaning carbamazepine must be immediately discontinued and replaced with ethosuximide"
+            ],
+            "answer": 0,
+            "rationale": "The therapeutic plasma level for carbamazepine is 4 to 12 mcg/mL (Table 15.6). Within the first 2 months of therapy, carbamazepine undergoes autoinduction (stimulating hepatic enzymes that enhance its own metabolism), which lowers serum concentrations and may require a dosage adjustment by the prescriber."
+          }
+        },
+        {
+          "update": "The neurologist increases Elena's carbamazepine dose to 400 mg PO twice daily. Two months later, she develops a sinus infection and an urgent care provider considers prescribing clarithromycin (a macrolide antibiotic) or fluconazole (an azole antifungal).",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What effect do macrolide antibiotics and azole antifungals have on serum carbamazepine concentrations?",
+            "options": [
+              "They inhibit CYP450 metabolism of carbamazepine, increasing carbamazepine levels and the risk of toxicity",
+              "They accelerate renal clearance of carbamazepine, causing immediate withdrawal seizures",
+              "They displace carbamazepine from bone marrow receptors, curing any underlying anemia",
+              "They chemically inactivate carbamazepine in the stomach if taken on the same day"
+            ],
+            "answer": 0,
+            "rationale": "According to Table 15.5, azole antifungals, macrolides, diltiazem, verapamil, isoniazid, protease inhibitors, SSRIs, and valproic acid alter CYP450 enzyme metabolism to increase serum carbamazepine levels and the risk of toxicity (dizziness, ataxia, diplopia, nausea)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "aed-cs-003",
+      "type": "case-study",
+      "title": "Valproic Acid Management and Toxicity in a Pediatric Patient",
+      "topic": "Valproic Acid",
+      "scenario": "Liam Tremblay, a 10-year-old boy weighing 30 kg, is diagnosed with generalized tonic-clonic and myoclonic seizures. After confirming normal baseline liver function studies and platelet counts and ruling out urea cycle disorders, the pediatric neurologist prescribes valproic acid (Depakene) 15 mg/kg/day PO divided into two equal doses (BID).",
+      "stages": [
+        {
+          "question": {
+            "type": "short-answer",
+            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams of valproic acid will the nurse administer per single dose (enter number and unit or number only, e.g., 225 mg)?",
+            "answers": [
+              {
+                "text": "225 mg",
+                "aliases": [
+                  "225",
+                  "225mg"
+                ]
+              }
+            ],
+            "rationale": "Total daily dose = 15 mg/kg/day × 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose."
+          }
+        },
+        {
+          "update": "Liam's parents ask the nurse for advice on giving the oral valproic acid at home, as Liam dislikes swallowing medications and often complains of an upset stomach.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which administration instruction should the nurse give Liam's parents?",
+            "options": [
+              "Administer the medication with food and a full glass of water, and never give it with milk or carbonated beverages",
+              "Mix the oral syrup into a glass of cola or ginger ale so the carbonation masks the taste",
+              "Have Liam chew the enteric-coated divalproex tablets with a glass of warm milk at bedtime",
+              "Skip the morning dose on school days if Liam feels slightly drowsy when waking up"
+            ],
+            "answer": 0,
+            "rationale": "Oral forms of valproic acid should be given with food and 180 to 240 mL of water to minimize GI upset, but must NOT be given with milk or carbonated beverages because they cause early dissolution and mucosal irritation. Enteric-coated tablets must never be chewed."
+          }
+        },
+        {
+          "update": "Four months later, Liam's dose has been titrated and his seizures are well controlled with a steady serum valproic acid level of 80 mcg/mL. He develops a viral respiratory illness with muscle aches, and his father gives him aspirin several times over 2 days. Liam becomes extremely lethargic, confused, and develops a coarse hand tremor. At the hospital, his free valproic acid activity is markedly elevated.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why did giving aspirin precipitate acute valproic acid toxicity in Liam?",
+            "options": [
+              "Aspirin displaces valproic acid from plasma protein-binding sites, sharply increasing free, active valproic acid levels in the blood",
+              "Aspirin blocks renal glomerular filtration of valproic acid, causing complete anuria",
+              "Aspirin converts valproic acid into phenytoin inside the gastrointestinal tract",
+              "Aspirin opens the blood-brain barrier by destroying cerebral capillary endothelial cells"
+            ],
+            "answer": 0,
+            "rationale": "Valproic acid is highly protein-bound. Aspirin displaces valproic acid from plasma protein-binding sites (Table 15.5), increasing free (unbound) valproic acid concentrations and causing clinical toxicity (And aspirin should also be avoided in children with viral illnesses)."
+          }
+        },
+        {
+          "update": "Six months into therapy, Liam's mother calls the clinic to report that Liam has lost his appetite, has vomited three times today, complains of severe right upper quadrant and epigastric abdominal pain, and has yellowish discolouration of his sclerae.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action based on Liam's new symptoms?",
+            "options": [
+              "Direct the parents to bring Liam for immediate emergency medical evaluation and laboratory testing for hepatotoxicity and pancreatitis",
+              "Reassure the mother that mild jaundice and vomiting are benign adverse effects that resolve after 2 weeks",
+              "Instruct the parents to give an extra dose of valproic acid to replace the dose lost through vomiting",
+              "Advise the parents to administer high-dose acetaminophen every 4 hours for the abdominal pain"
+            ],
+            "answer": 0,
+            "rationale": "Anorexia, nausea, vomiting, severe abdominal pain, and jaundice in a patient taking valproic acid are hallmark warning signs of life-threatening hepatotoxicity or acute pancreatitis, requiring immediate medical evaluation and liver/pancreatic enzyme testing."
+          }
+        }
+      ]
+    },
+    {
+      "id": "aed-cs-004",
+      "type": "case-study",
+      "title": "Lamotrigine Titration and Dermatological Emergencies",
+      "topic": "Miscellaneous AEDs",
+      "scenario": "maya Lin, a 31-year-old woman with refractory focal onset seizures that secondarily generalize, has been taking valproic acid 500 mg PO twice daily. Because she continues to have breakthrough seizures, her neurologist adds lamotrigine (Lamictal) PO to her regimen.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "When reviewing the initial prescription for lamotrigine in a patient already taking valproic acid, what dosing principle should the nurse expect?",
+            "options": [
+              "A lower initial dose and slower titration of lamotrigine are required because valproic acid inhibits lamotrigine metabolism and increases toxicity risk",
+              "A double loading dose of lamotrigine is required because valproic acid induces rapid CYP450 breakdown of lamotrigine",
+              "Lamotrigine must be started at the maximum dose of 400 mg/day on day 1 to overcome valproic acid antagonism",
+              "Valproic acid must be stopped abruptly the night before starting the first dose of lamotrigine"
+            ],
+            "answer": 0,
+            "rationale": "Valproic acid decreases the hepatic clearance of lamotrigine, significantly increasing serum lamotrigine levels and the risk of life-threatening skin rashes. Therefore, a reduced dosage and very slow titration over several weeks are essential."
+          }
+        },
+        {
+          "update": "The nurse provides comprehensive education to Maya before she begins her starter titration pack of lamotrigine.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which prodromal symptoms and skin findings must the nurse instruct Maya to report immediately as early indicators of Stevens-Johnson syndrome (SJS)?",
+            "options": [
+              "Fever, sore throat, chills, malaise, mucosal lesions, and any blistering skin rash occurring 1 to 3 weeks after starting therapy",
+              "Mild transient drowsiness during the first 2 days of therapy that improves after drinking coffee",
+              "Slight weight gain of 1 kg over 3 months accompanied by increased appetite",
+              "Temporary hair thinning that resolves without changing the medication dosage"
+            ],
+            "answer": 0,
+            "rationale": "Stevens-Johnson syndrome is a potentially fatal immune dermatological reaction that typically occurs 1 to 3 weeks after starting an AED like lamotrigine; it is often preceded by fever, sore throat, chills, and malaise, followed by mucosal lesions, multiple blisters, and skin sloughing."
+          }
+        },
+        {
+          "update": "Eighteen days after starting lamotrigine, Maya presents to the urgent care clinic with a temperature of 38.9°C, painful oral mucosal ulcers, conjunctival redness, and a tender, blistering erythematous rash spreading across her chest and back.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the priority clinical action when Maya presents with these findings?",
+            "options": [
+              "Withhold lamotrigine immediately, notify the prescriber for emergency hospitalization, and provide supportive care",
+              "Continue lamotrigine at the same dose because abrupt withdrawal of AEDs is never permitted under any circumstances",
+              "Increase the lamotrigine dose to suppress the autoimmune response while applying topical antibiotic ointment",
+              "Switch Maya immediately to high-dose carbamazepine without consulting the neurologist"
+            ],
+            "answer": 0,
+            "rationale": "While AEDs are generally never stopped abruptly, the textbook explicitly notes: 'AEDs are never to be stopped abruptly unless a severe adverse effect occurs.' Stevens-Johnson syndrome is a life-threatening dermatological emergency that resembles a third-degree burn and requires immediate drug discontinuation and urgent medical management."
+          }
+        },
+        {
+          "update": "Maya is hospitalized, lamotrigine is permanently discontinued, and her skin and mucosal lesions heal with supportive care. Once stable, she expresses feeling overwhelmed, hopeless about living with a lifelong illness, and states, \"Sometimes I think everyone would be better off if I weren't around.\"",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action in response to Maya's statement?",
+            "options": [
+              "Stay with the patient, conduct a suicide risk assessment, and notify the prescriber immediately regarding her suicidal ideation",
+              "Document low self-esteem in the chart and advise her to read an Epilepsy Canada brochure when she goes home",
+              "Tell her that everyone with epilepsy feels sad initially and change the subject to her meal preferences",
+              "Administer an extra dose of valproic acid to sedate her until the morning shift arrives"
+            ],
+            "answer": 0,
+            "rationale": "Both epilepsy diagnosis and AED therapy carry a risk of depression and suicidal ideation; patient teaching and nursing implementation emphasize that any suicidal thoughts or actions must be reported to the prescriber immediately while ensuring patient safety."
+          }
+        }
+      ]
+    },
+    {
+      "id": "aed-cs-005",
+      "type": "case-study",
+      "title": "Phenobarbital Therapy, Monitoring, and Alcohol Interaction",
+      "topic": "Barbiturates",
+      "scenario": "Marcus Vance, a 42-year-old warehouse worker with a history of generalized tonic-clonic seizures, takes oral phenobarbital 100 mg daily. Because he works rotating shifts, his neurologist selected phenobarbital for its once-daily dosing convenience. Marcus arrives at the outpatient clinic for routine follow-up and therapeutic drug monitoring.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Marcus tells the nurse, \"Last week my shift ran late and I took my phenobarbital 12 hours later than usual, though I didn't have a seizure.\" Why did Marcus likely maintain seizure protection despite the 12-hour delay?",
+            "options": [
+              "Phenobarbital has a very long elimination half-life of 50 to 120 hours, allowing therapeutic blood levels to be maintained even if a dose is 12 to 24 hours late",
+              "Phenobarbital is stored in skeletal muscle fibres and released only when lactic acid levels rise during a seizure",
+              "Phenobarbital permanently deactivates cortical sodium channels for 30 days after a single oral dose",
+              "Oral phenobarbital has a delayed onset of action of 48 hours, so daily timing never affects serum concentrations"
+            ],
+            "answer": 0,
+            "rationale": "As stated in the phenobarbital profile, a major advantage of phenobarbital is its long half-life (50 to 120 hours), which permits once-daily dosing and maintains therapeutic blood levels even if a dose is taken 12 or 24 hours late—though patients should still be counselled to take AEDs at the same time every day."
+          }
+        },
+        {
+          "update": "The laboratory reports that Marcus's serum phenobarbital level is 22 mcg/mL. He reports mild drowsiness that has improved since he first started the medication, and zero seizures over the past 8 months.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse interpret Marcus's serum phenobarbital level of 22 mcg/mL?",
+            "options": [
+              "It is within the established normal therapeutic plasma range of 15 to 30 mcg/mL (or 15 to 40 mcg/mL in adults), indicating effective maintenance",
+              "It is subtherapeutic (normal range 50 to 100 mcg/mL), requiring an immediate intravenous loading dose",
+              "It is critically toxic (normal range 4 to 12 mcg/mL), requiring immediate administration of flumazenil",
+              "It indicates complete nonadherence with the prescribed phenobarbital regimen"
+            ],
+            "answer": 0,
+            "rationale": "Table 15.6 lists the normal therapeutic plasma level for phenobarbital as 15 to 30 mcg/mL (and the drug profile notes 15 to 40 mcg/mL in adults). A level of 22 mcg/mL with seizure freedom and minimal adverse effects is therapeutic."
+          }
+        },
+        {
+          "update": "During the visit, Marcus mentions that he was recently diagnosed with hypertension and asthma, and his primary care provider prescribed a beta blocker, oral prednisone for an acute asthma flare, and oral theophylline.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How will Marcus's daily phenobarbital therapy affect these newly prescribed medications?",
+            "options": [
+              "Phenobarbital strongly induces hepatic CYP450 enzymes, accelerating the clearance and reducing the therapeutic effects of beta blockers, corticosteroids, and theophylline",
+              "Phenobarbital inhibits renal excretion of beta blockers and theophylline, causing immediate fatal bradycardia",
+              "Phenobarbital chelates prednisone in the gastrointestinal tract, causing acute adrenal crisis within 1 hour",
+              "Phenobarbital has no effect on other drugs because barbiturates are excreted 100% unchanged in the feces"
+            ],
+            "answer": 0,
+            "rationale": "Phenobarbital is a potent inducer of hepatic microsomal CYP450 enzymes (Table 15.5), which causes more rapid hepatic clearance and reduced therapeutic effects of beta blockers, corticosteroids (e.g., prednisone), oral contraceptives, dihydropyridine calcium channel blockers, metronidazole, quinidine, and theophylline."
+          }
+        },
+        {
+          "update": "Before leaving the clinic, Marcus asks if he can drink a few beers with his coworkers on Friday night and whether he can stop taking his phenobarbital next month since he has been seizure-free for 8 months.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which response by the nurse is most accurate and prioritizes Marcus's safety?",
+            "options": [
+              "\"Alcohol must be avoided because combining it with phenobarbital causes additive, potentially fatal CNS depression, and stopping phenobarbital abruptly can trigger severe withdrawal seizures.\"",
+              "\"You may drink up to three beers as long as you skip your phenobarbital dose that evening to prevent drowsiness.\"",
+              "\"Since you have been seizure-free for 6 months, you are cured of epilepsy and can stop your pills whenever you wish.\"",
+              "\"Alcohol actually increases phenobarbital metabolism, so you should take an extra 100 mg tablet whenever you drink beer.\""
+            ],
+            "answer": 0,
+            "rationale": "Combining ethanol (alcohol) with barbiturates produces additive CNS and respiratory depression that can be fatal (Table 15.5). Additionally, alcohol is a seizure trigger, and abrupt withdrawal of phenobarbital or any AED can precipitate rebound withdrawal seizures or status epilepticus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "aed-cs-006",
+      "type": "case-study",
+      "title": "Newer Generation Antiepileptics: Levetiracetam and Topiramate",
+      "topic": "Miscellaneous AEDs",
+      "scenario": "Sophie Desjardins, a 29-year-old schoolteacher with focal onset seizures with secondary generalization, had an allergic rash to carbamazepine in the past. Her neurologist initiates oral levetiracetam (Keppra) 500 mg twice daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "When conducting a baseline nursing assessment before Sophie starts levetiracetam, which specific assessment data are essential to document alongside liver and kidney function?",
+            "options": [
+              "Baseline neuropsychiatric status, including mood, anxiety, agitation, depression, or history of suicidal ideation",
+              "Baseline gum thickness and presence of hirsutism or Dilantin facies",
+              "Baseline serum ammonia and family history of urea cycle disorders",
+              "Baseline porphyrin levels in a 24-hour urine specimen"
+            ],
+            "answer": 0,
+            "rationale": "In patients taking levetiracetam (Keppra), the nurse must assess and document baseline neuropsychiatric symptoms because levetiracetam can cause agitation, hostility, anxiety, depression, mood/behavioural changes, and suicidal ideation, as well as assessing baseline liver and kidney function."
+          }
+        },
+        {
+          "update": "Sophie asks if levetiracetam will interact with her other daily medications the way carbamazepine did, and whether it is safe for her to drive home after her first dose.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which information should the nurse provide to Sophie regarding drug interactions and initial safety precautions with levetiracetam?",
+            "options": [
+              "Levetiracetam has no listed CYP450 drug interactions, but it can cause additive CNS depression with other sedating drugs, and you should not drive or make major decisions until steady state is achieved",
+              "Levetiracetam is a potent CYP3A4 inducer that inactivates all other medications, but it causes zero drowsiness",
+              "Levetiracetam causes severe hypertension if taken with tyramine-rich foods like aged cheese or red wine",
+              "You must avoid all dairy products within 4 hours of taking levetiracetam to prevent crystal formation in the kidneys"
+            ],
+            "answer": 0,
+            "rationale": "Levetiracetam has no listed CYP450 drug interactions, though additive CNS depression can occur when combined with other sedating drugs. With the start of any AED therapy, patients must be advised not to drive, operate heavy machinery, or make major decisions until a steady state is achieved (typically after 4 to 5 half-lives) and sedation resolves."
+          }
+        },
+        {
+          "update": "Six weeks later, Sophie's husband calls the clinic concerned that Sophie has become uncharacteristically irritable, hostile, and anxious, and cried last night saying she felt like giving up on life. The neurologist transitions Sophie off levetiracetam and prescribes topiramate (Topamax) 100 mg PO twice daily.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which administration and safety teaching is specific to Sophie's new prescription for topiramate (Topamax)?",
+            "options": [
+              "Swallow the tablets whole without crushing or breaking them, and report any visual changes or eye pain immediately due to the risk of angle-closure glaucoma",
+              "Chew the topiramate tablets thoroughly on an empty stomach and expect harmless yellow-green vision changes",
+              "Take topiramate only when a seizure aura begins, up to a maximum of three tablets per week",
+              "Dissolve the tablets in carbonated water to increase absorption and prevent gingival hyperplasia"
+            ],
+            "answer": 0,
+            "rationale": "Topiramate tablets must not be altered, crushed, or broken in any way. Additionally, topiramate can cause acute angle-closure glaucoma, so patients must immediately report any visual changes or eye pain."
+          }
+        },
+        {
+          "update": "One year later, Sophie's seizures are well controlled on topiramate monotherapy. At her annual follow-up, she mentions that she and her husband are thinking about trying to conceive a baby next year.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What counselling should the nurse provide regarding topiramate and pregnancy planning?",
+            "options": [
+              "Advise her to consult her neurologist and obstetrician before conceiving, as topiramate reduces oral contraceptive efficacy and carries an increased risk of cleft palate in infants exposed during pregnancy",
+              "Instruct her to stop taking topiramate immediately tonight so the drug washes out of her system before her next ovulation",
+              "Reassure her that topiramate is completely free of teratogenic risk and does not require any specialist monitoring during pregnancy",
+              "Tell her that women with epilepsy are medically prohibited from becoming pregnant due to a 100% rate of status epilepticus during labour"
+            ],
+            "answer": 0,
+            "rationale": "Female patients contemplating pregnancy must seek preconception medical advice from their prescriber because topiramate is associated with an increased risk of cleft palate in infants exposed in utero, and women with epilepsy require close monitoring by both an obstetrician and a neurologist during pregnancy. AEDs must never be stopped abruptly without medical supervision."
+          }
+        }
+      ]
+    }
+  ]
+}

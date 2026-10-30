@@ -1,0 +1,1181 @@
+{
+  "categoryId": "pharmacology-antidiuretic",
+  "items": [
+    {
+      "id": "diur-mc-001",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "A patient with acute decompensated heart failure and pulmonary edema is prescribed intravenous furosemide (Lasix) 80 mg. At what maximum rate should the nurse administer this high-dose intravenous infusion?",
+      "options": [
+        "4 mg/min",
+        "10 mg/min",
+        "20 mg/min",
+        "40 mg/min"
+      ],
+      "answer": 0,
+      "rationale": "High-dose intravenous furosemide must be administered as a controlled infusion at a rate not exceeding 4 mg/min to minimize the risk of ototoxicity (tinnitus and hearing loss). Faster infusion rates significantly increase neurotoxic and ototoxic adverse effects."
+    },
+    {
+      "id": "diur-mc-002",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "Which statement accurately explains why loop diuretics such as furosemide are preferred over thiazide diuretics in a patient whose creatinine clearance is 20 mL/min?",
+      "options": [
+        "Loop diuretics retain their diuretic efficacy even when creatinine clearance falls below 25 mL/min.",
+        "Loop diuretics are metabolized exclusively by the liver and do not enter the renal tubules.",
+        "Loop diuretics prevent potassium and calcium excretion when glomerular filtration is reduced.",
+        "Loop diuretics constrict the afferent arterioles to increase glomerular filtration pressure."
+      ],
+      "answer": 0,
+      "rationale": "Loop diuretics have a distinct advantage over conventional thiazide diuretics because their diuretic action continues even when creatinine clearance decreases below 25 mL/min, whereas most thiazides lose efficacy when creatinine clearance drops below 30 to 50 mL/min."
+    },
+    {
+      "id": "diur-mc-003",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "A patient receiving daily oral furosemide and digoxin for heart failure reports new-onset nausea, anorexia, blurred vision, and lethargy. Which laboratory value should the nurse review first?",
+      "options": [
+        "Serum potassium level",
+        "Serum calcium level",
+        "Fasting blood glucose level",
+        "Serum uric acid level"
+      ],
+      "answer": 0,
+      "rationale": "Loop diuretics cause significant potassium loss, and hypokalemia predisposes patients taking digoxin to digoxin toxicity, which manifests as anorexia, nausea, visual disturbances, confusion, and bradycardia or dysrhythmias."
+    },
+    {
+      "id": "diur-mc-004",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "The nurse is reviewing the medication profile of a patient hospitalized with sepsis who is receiving intravenous furosemide. Concurrent administration of which medication places this patient at greatest risk for additive ototoxicity?",
+      "options": [
+        "Vancomycin",
+        "Metoprolol",
+        "Acetaminophen",
+        "Levothyroxine"
+      ],
+      "answer": 0,
+      "rationale": "Loop diuretics exhibit neurotoxic and ototoxic properties that are additive when combined with other ototoxic medications such as aminoglycosides or vancomycin. Metoprolol, acetaminophen, and levothyroxine do not cause additive ototoxicity."
+    },
+    {
+      "id": "diur-mc-005",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "Where in the nephron do loop diuretics such as bumetanide and furosemide exert their primary mechanism of action?",
+      "options": [
+        "Proximal convoluted tubule, inhibiting carbonic anhydrase",
+        "Thick ascending limb of the loop of Henle, blocking chloride and sodium resorption",
+        "Distal convoluted tubule, competing for aldosterone receptor sites",
+        "Collecting duct, increasing osmotic pull within the tubular filtrate"
+      ],
+      "answer": 1,
+      "rationale": "Loop diuretics act primarily along the thick ascending limb of the loop of Henle, where they block active chloride resorption and subsequent passive sodium resorption. Carbonic anhydrase inhibitors act in the proximal tubule, and aldosterone antagonists act in the distal tubule and collecting duct."
+    },
+    {
+      "id": "diur-mc-006",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "A patient with heart failure who takes oral furosemide 40 mg daily tells the nurse, 'I started taking ibuprofen every day for my knee arthritis, and now my ankles are swelling again.' How should the nurse explain this occurrence?",
+      "options": [
+        "NSAIDs inhibit kidney prostaglandins, which reduces renal blood flow and diminishes the diuretic effect of furosemide.",
+        "Ibuprofen chemically binds to furosemide in the stomach and prevents its gastrointestinal absorption.",
+        "NSAIDs stimulate excessive aldosterone release from the adrenal cortex, overriding loop diuretics.",
+        "Ibuprofen accelerates hepatic metabolism of furosemide, shortening its elimination half-life."
+      ],
+      "answer": 0,
+      "rationale": "Loop diuretics activate renal prostaglandins to dilate blood vessels and reduce vascular resistance. Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit renal prostaglandins, decreasing renal blood flow and diminishing the diuretic and vascular response to loop diuretics."
+    },
+    {
+      "id": "diur-mc-007",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "A patient is being switched from oral furosemide 40 mg daily to oral bumetanide. Based on equipotent dosing for loop diuretics, which daily dose of bumetanide should the nurse anticipate?",
+      "options": [
+        "0.25 mg",
+        "1 mg",
+        "10 mg",
+        "50 mg"
+      ],
+      "answer": 1,
+      "rationale": "The equipotent doses for loop diuretics are bumetanide 1 mg, furosemide 40 mg, and ethacrynic acid 50 mg. Therefore, 1 mg of bumetanide is equivalent in potency to 40 mg of furosemide."
+    },
+    {
+      "id": "diur-mc-008",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "When caring for a neonate receiving furosemide for heart failure, which pharmacokinetic difference requires the nurse's close attention to the dosing schedule?",
+      "options": [
+        "The half-life of furosemide is increased in neonates, so the interval between doses may need to be lengthened.",
+        "Neonates metabolize furosemide four times faster than adults, requiring continuous infusion.",
+        "Oral furosemide is completely inactivated by gastric acid in neonates and cannot be given enterally.",
+        "Furosemide causes paradoxical potassium retention in neonates during the first month of life."
+      ],
+      "answer": 0,
+      "rationale": "In neonates, the elimination half-life of furosemide is prolonged compared with older children and adults; consequently, the dosing interval often needs to be lengthened to prevent drug accumulation and toxicity."
+    },
+    {
+      "id": "diur-mc-009",
+      "type": "multiple-choice",
+      "topic": "Loop Diuretics",
+      "prompt": "In addition to managing edema and hypertension, for which electrolyte imbalance is a loop diuretic such as furosemide specifically indicated to promote renal excretion?",
+      "options": [
+        "Hypercalcemia",
+        "Hypomagnesemia",
+        "Hyponatremia",
+        "Hypokalemia"
+      ],
+      "answer": 0,
+      "rationale": "Unlike thiazide diuretics (which increase serum calcium), loop diuretics increase the renal excretion of calcium and are clinically indicated to lower serum calcium levels in patients with hypercalcemia."
+    },
+    {
+      "id": "diur-mc-010",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "An older adult patient is newly prescribed hydrochlorothiazide (Urozide) 25 mg daily for primary hypertension. During which time frame is this patient at highest risk for falls related to the medication?",
+      "options": [
+        "During the first 3 weeks after the prescription is initiated",
+        "Only after taking the medication continuously for more than 6 months",
+        "Between 12 and 18 hours after each morning dose",
+        "Only if the daily dosage is reduced below 12.5 mg"
+      ],
+      "answer": 0,
+      "rationale": "Thiazide diuretics are associated with an increased risk of falls in older adults due to fluid shifts and orthostatic hypotension, with the highest risk occurring during the first 3 weeks after a prescription is started."
+    },
+    {
+      "id": "diur-mc-011",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "The health care provider orders oral metolazone (Zaroxolyn) to be given 30 minutes prior to intravenous furosemide for a patient with severe heart failure and refractory edema. What is the pharmacological rationale for combining these two diuretics?",
+      "options": [
+        "Sequential nephron blockade inhibits sodium and water resorption at multiple sites in the nephron.",
+        "Metolazone blocks aldosterone receptors in the collecting duct to prevent furosemide-induced hypokalemia.",
+        "Metolazone alkalinizes the urine to prevent crystallization of intravenous furosemide in the tubules.",
+        "Furosemide prevents the dose-dependent hyperglycemia and hyperuricemia caused by metolazone."
+      ],
+      "answer": 0,
+      "rationale": "Combining a loop diuretic with a thiazide-like diuretic (especially metolazone) produces sequential nephron blockade, blocking sodium and water reabsorption in both the loop of Henle and the distal convoluted tubule for a potent synergistic diuresis."
+    },
+    {
+      "id": "diur-mc-012",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "Why are daily doses of hydrochlorothiazide for hypertension generally kept at or below 25 mg/day rather than increasing to 100 mg/day?",
+      "options": [
+        "Doses exceeding 50 mg/day exhibit a ceiling effect, providing little added antihypertensive benefit while increasing metabolic toxicity.",
+        "Doses above 25 mg/day convert hydrochlorothiazide into an osmotic diuretic that causes pulmonary congestion.",
+        "Higher doses selectively block antidiuretic hormone receptors and induce irreversible nephrogenic diabetes insipidus.",
+        "Doses above 25 mg/day cause severe hyperkalemia and metabolic acidosis in most patients."
+      ],
+      "answer": 0,
+      "rationale": "Hydrochlorothiazide demonstrates a ceiling effect: dosages exceeding 50 mg/day rarely produce additional antihypertensive clinical results, and keeping doses at or below 25 mg daily minimizes dose-dependent metabolic adverse effects such as hypokalemia and hyperglycemia."
+    },
+    {
+      "id": "diur-mc-013",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "A patient taking hydrochlorothiazide for hypertension enjoys eating natural black licorice candy daily. Which complication should the nurse teach the patient that excessive licorice consumption can cause?",
+      "options": [
+        "Additive hypokalemia",
+        "Severe hyperkalemia",
+        "Acute hypoglycemic shock",
+        "Exfoliative dermatitis"
+      ],
+      "answer": 0,
+      "rationale": "Excessive consumption of licorice (which has mineralocorticoid-like effects) in patients taking thiazide diuretics can lead to additive potassium loss and severe hypokalemia."
+    },
+    {
+      "id": "diur-mc-014",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "Which laboratory abnormalities are recognized metabolic adverse effects of thiazide diuretic therapy?",
+      "options": [
+        "Hypokalemia, hypercalcemia, hyperglycemia, and hyperuricemia",
+        "Hyperkalemia, hypocalcemia, hypoglycemia, and hypouricemia",
+        "Hypernatremia, hyperkalemia, metabolic acidosis, and hypolipidemia",
+        "Hypocalcemia, hypermagnesemia, hypoglycemia, and uremia"
+      ],
+      "answer": 0,
+      "rationale": "Thiazide and thiazide-like diuretics decrease potassium excretion recovery (causing hypokalemia) while elevating serum levels of calcium (hypercalcemia), lipids (dyslipidemia), glucose (hyperglycemia), and uric acid (hyperuricemia)."
+    },
+    {
+      "id": "diur-mc-015",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "Based on a Health Canada safety review, prolonged use of hydrochlorothiazide is associated with a potential risk of developing which condition, warranting patient education on sun protection and skin monitoring?",
+      "options": [
+        "Non-melanoma skin cancer",
+        "Thyroid follicular adenoma",
+        "Hepatocellular carcinoma",
+        "Acute myeloid leukemia"
+      ],
+      "answer": 0,
+      "rationale": "Health Canada has advised that prolonged use of hydrochlorothiazide carries a potential risk for developing non-melanoma skin cancer, in addition to causing photosensitivity; patients should protect their skin from sun exposure and monitor skin changes."
+    },
+    {
+      "id": "diur-mc-016",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "A patient with type 2 diabetes mellitus controlled on an oral antihyperglycemic medication is prescribed chlorthalidone for hypertension. What teaching should the nurse provide?",
+      "options": [
+        "Monitor blood glucose levels closely because thiazide-like diuretics can antagonize oral antihyperglycemic drugs and raise blood glucose.",
+        "Stop taking the oral antihyperglycemic medication immediately because chlorthalidone causes severe hypoglycemia.",
+        "Take chlorthalidone at bedtime so its peak effect does not overlap with daytime meals.",
+        "Restrict dietary potassium intake because chlorthalidone causes potassium retention in patients with diabetes."
+      ],
+      "answer": 0,
+      "rationale": "Thiazide and thiazide-like diuretics cause dose-related hyperglycemia and antagonize the therapeutic hypoglycemic effects of oral antihyperglycemic drugs, requiring close blood glucose monitoring and potential dosage adjustment."
+    },
+    {
+      "id": "diur-mc-017",
+      "type": "multiple-choice",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "A patient with chronic kidney disease has a creatinine clearance of 15 mL/min and requires a thiazide-type diuretic for edema. Which medication in this class remains effective at a creatinine clearance as low as 10 mL/min?",
+      "options": [
+        "Hydrochlorothiazide",
+        "Trichlormethiazide",
+        "Metolazone",
+        "Indapamide"
+      ],
+      "answer": 2,
+      "rationale": "Unlike conventional thiazides that lose effectiveness when creatinine clearance falls below 30 to 50 mL/min, metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min."
+    },
+    {
+      "id": "diur-mc-018",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "Why are potassium-sparing diuretics such as spironolactone (Aldactone) frequently prescribed for pediatric patients with heart failure?",
+      "options": [
+        "Pediatric heart failure is often accompanied by excess aldosterone secretion, making aldosterone antagonists particularly effective.",
+        "Loop diuretics are strictly contraindicated in all patients under 12 years of age due to growth plate closure.",
+        "Spironolactone has an immediate 5-minute onset of action that rapidly resolves acute pulmonary edema in infants.",
+        "Children excrete sodium exclusively through the proximal convoluted tubule where spironolactone acts."
+      ],
+      "answer": 0,
+      "rationale": "Pediatric heart problems are frequently accompanied by excess secretion of aldosterone, and spironolactone blocks aldosterone receptors in the distal tubule, making it the most commonly prescribed potassium-sparing diuretic for children with heart failure."
+    },
+    {
+      "id": "diur-mc-019",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "In addition to its diuretic and potassium-conserving effects, what major therapeutic benefit does spironolactone provide for patients with severe heart failure following a myocardial infarction?",
+      "options": [
+        "It inhibits aldosterone-mediated ventricular myocardial remodelling, reducing morbidity and mortality.",
+        "It directly increases myocardial contractility by opening voltage-gated calcium channels.",
+        "It dissolves coronary artery thrombi by activating endogenous tissue plasminogen activator.",
+        "It dilates the coronary arteries by inhibiting phosphodiesterase type 5."
+      ],
+      "answer": 0,
+      "rationale": "A hyperactive renin-angiotensin-aldosterone system causes permanent ventricular myocardial wall damage (remodelling) after myocardial infarction. Spironolactone provides a cardioprotective benefit by blocking aldosterone receptors, preventing remodelling and reducing morbidity and mortality in severe heart failure."
+    },
+    {
+      "id": "diur-mc-020",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "A male patient taking spironolactone 100 mg daily for ascites secondary to liver cirrhosis reports breast tenderness and enlargement. How should the nurse interpret this finding?",
+      "options": [
+        "Gynecomastia is a known endocrine adverse effect of spironolactone due to its steroid structure.",
+        "It indicates life-threatening spironolactone hepatotoxicity requiring emergency dialysis.",
+        "It is an allergic reaction to the sulfonamide moiety in spironolactone.",
+        "It is a manifestation of severe hypokalemia and metabolic alkalosis."
+      ],
+      "answer": 0,
+      "rationale": "Spironolactone is a synthetic steroid that blocks aldosterone receptors and can also interact with sex hormone receptors, causing endocrine adverse effects such as gynecomastia in men and amenorrhea, irregular menses, or postmenopausal bleeding in women."
+    },
+    {
+      "id": "diur-mc-021",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "The nurse is preparing to administer morning medications to a patient with heart failure who is prescribed spironolactone. Which baseline laboratory result is a contraindication that requires the nurse to withhold the dose and notify the prescriber?",
+      "options": [
+        "Serum potassium of 5.8 mmol/L",
+        "Serum sodium of 138 mmol/L",
+        "Serum potassium of 3.9 mmol/L",
+        "Blood urea nitrogen of 11.2 mmol/L"
+      ],
+      "answer": 0,
+      "rationale": "Potassium-sparing diuretics are contraindicated in patients with hyperkalemia (defined in the text as a serum potassium level greater than 5.5 mmol/L) because further potassium retention can precipitate fatal cardiac dysrhythmias."
+    },
+    {
+      "id": "diur-mc-022",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "A patient taking ramipril (an ACE inhibitor) for hypertension is prescribed amiloride (Midamor). Why must the nurse closely monitor this patient's serum electrolyte levels?",
+      "options": [
+        "Concurrent use of an ACE inhibitor and a potassium-sparing diuretic significantly increases the risk of life-threatening hyperkalemia.",
+        "Amiloride and ACE inhibitors combine to cause profound hypokalemia and hypochloremic alkalosis.",
+        "ACE inhibitors prevent amiloride from reaching the proximal tubule, causing acute hypernatremia.",
+        "The combination causes rapid calcium depletion and tetany within 24 hours."
+      ],
+      "answer": 0,
+      "rationale": "Both ACE inhibitors and potassium-sparing diuretics (such as amiloride, spironolactone, eplerenone, and triamterene) conserve potassium; combining them can cause severe hyperkalemia and fatal cardiac dysrhythmias."
+    },
+    {
+      "id": "diur-mc-023",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "How does the mechanism of action of amiloride and triamterene differ from that of spironolactone?",
+      "options": [
+        "Amiloride and triamterene directly inhibit sodium reabsorption in the distal tubule and collecting duct without binding to aldosterone receptors.",
+        "Amiloride and triamterene competitively bind to aldosterone receptors in the glomerulus.",
+        "Amiloride and triamterene inhibit carbonic anhydrase in the proximal convoluted tubule.",
+        "Amiloride and triamterene act as nonabsorbable solutes that increase osmotic pressure in the loop of Henle."
+      ],
+      "answer": 0,
+      "rationale": "Whereas spironolactone is a competitive antagonist that binds directly to aldosterone receptors, amiloride and triamterene do not bind to aldosterone receptors; instead, they act directly on the distal tubule and collecting ducts to inhibit both aldosterone-induced and basal sodium reabsorption and potassium excretion."
+    },
+    {
+      "id": "diur-mc-024",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "Which unique haematological and renal adverse effects are specifically associated with triamterene, even though they occur rarely?",
+      "options": [
+        "Reduced folic acid levels, megaloblastic anemia, and kidney stones",
+        "Aplastic anemia, thrombocytosis, and acute glomerulonephritis",
+        "Hemolytic anemia, disseminated intravascular coagulation, and bladder polyps",
+        "Iron-deficiency anemia, neutropenic fever, and neurogenic bladder"
+      ],
+      "answer": 0,
+      "rationale": "Triamterene may reduce folic acid levels, precipitate megaloblastic anemia, and cause the formation of kidney stones and urinary casts."
+    },
+    {
+      "id": "diur-mc-025",
+      "type": "multiple-choice",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "A patient is starting oral spironolactone (Aldactone) for hypertension and asks how quickly the medication will reach its full effect. Based on the pharmacokinetics of spironolactone, what should the nurse tell the patient?",
+      "options": [
+        "The onset of action takes 1 to 3 days, with peak effects occurring in 2 to 3 days.",
+        "The medication begins working within 5 minutes and peaks in 15 minutes.",
+        "Full diuretic and antihypertensive effects occur within 1 to 2 hours of the first tablet.",
+        "The drug requires 6 to 8 weeks to reach therapeutic plasma concentrations."
+      ],
+      "answer": 0,
+      "rationale": "Oral spironolactone has a slow onset of action of 1 to 3 days, reaches peak plasma concentration in 2 to 3 days, and has a duration of action of 2 to 3 days."
+    },
+    {
+      "id": "diur-mc-026",
+      "type": "multiple-choice",
+      "topic": "Osmotic Diuretics",
+      "prompt": "Before administering a 20% intravenous solution of mannitol (Osmitrol) to a patient with elevated intracranial pressure, which nursing intervention is essential?",
+      "options": [
+        "Inspect the vial for crystals and administer the solution intravenously through an in-line filter.",
+        "Mix the mannitol withpacked red blood cells in the same infusion line to maintain oncotic pressure.",
+        "Chill the solution in an ice bath for 30 minutes prior to infusion to prevent phlebitis.",
+        "Administer the dose subcutaneously in the abdomen to ensure slow, sustained absorption."
+      ],
+      "answer": 0,
+      "rationale": "Mannitol solutions (especially concentrations exceeding 15%) may crystallize when exposed to low temperatures. Vials are often stored in a warmer, must be inspected for crystals, and should always be administered intravenously through a filter."
+    },
+    {
+      "id": "diur-mc-027",
+      "type": "multiple-choice",
+      "topic": "Osmotic Diuretics",
+      "prompt": "Why is mannitol (Osmitrol) NOT indicated for the management of chronic peripheral edema caused by heart failure?",
+      "options": [
+        "It promotes water excretion with only a slight loss of sodium, and can worsen pulmonary congestion.",
+        "It is completely absorbed by the gastrointestinal tract and inactivated by first-pass hepatic metabolism.",
+        "It selectively excretes potassium and calcium while retaining 100% of filtered water.",
+        "It takes 3 to 5 days to produce a diuretic response, which is too slow for peripheral edema."
+      ],
+      "answer": 0,
+      "rationale": "Mannitol pulls water into the renal tubules via osmotic pressure in the glomerular filtrate, producing rapid water diuresis with only a slight loss of electrolytes (especially sodium). Because it does not promote sufficient sodium excretion and can cause pulmonary congestion, it is not indicated for peripheral or pulmonary edema."
+    },
+    {
+      "id": "diur-mc-028",
+      "type": "multiple-choice",
+      "topic": "Osmotic Diuretics",
+      "prompt": "In which patient condition is the administration of mannitol (Osmitrol) strictly contraindicated?",
+      "options": [
+        "Active intracranial bleeding",
+        "Early oliguric phase of acute kidney injury",
+        "Elevated intraocular pressure unresponsive to other drugs",
+        "Cerebral edema secondary to closed head trauma"
+      ],
+      "answer": 0,
+      "rationale": "Mannitol is contraindicated in patients with active intracranial bleeding (cerebral hemorrhage), anuria, severe dehydration, or pulmonary edema/congestion. It is indicated for the early oliguric phase of acute kidney injury, elevated intraocular pressure, and cerebral edema."
+    },
+    {
+      "id": "diur-mc-029",
+      "type": "multiple-choice",
+      "topic": "Osmotic Diuretics",
+      "prompt": "The health care provider orders mannitol 0.5 g/kg IV now for a patient weighing 80 kg who has elevated intracranial pressure. The pharmacy supplies a 20% mannitol solution (20 g per 100 mL). How many millilitres of solution should the nurse prepare to administer?",
+      "options": [
+        "100 mL",
+        "150 mL",
+        "200 mL",
+        "400 mL"
+      ],
+      "answer": 2,
+      "rationale": "First, calculate the required dose in grams: 0.5 g/kg × 80 kg = 40 g of mannitol. Next, using the 20% solution (20 g / 100 mL = 0.2 g/mL), calculate the volume: (40 g ÷ 20 g) × 100 mL = 200 mL."
+    },
+    {
+      "id": "diur-mc-030",
+      "type": "multiple-choice",
+      "topic": "Carbonic Anhydrase Inhibitors",
+      "prompt": "A mountaineer is prescribed oral acetazolamide (Acetazolam) before ascending to a high-altitude base camp. How does acetazolamide help prevent and treat high-altitude sickness?",
+      "options": [
+        "It inhibits carbonic anhydrase, inducing a mild metabolic acidosis that stimulates ventilation, cerebral blood flow, and oxygenation.",
+        "It constricts pulmonary arteries to prevent fluid leakage into the alveolar spaces at low atmospheric pressure.",
+        "It stimulates erythropoietin synthesis in the renal cortex, doubling red blood cell mass within 24 hours.",
+        "It blocks aldosterone receptors in the collecting duct, increasing serum bicarbonate to buffer lactic acid."
+      ],
+      "answer": 0,
+      "rationale": "Acetazolamide reduces bicarbonate and hydrogen ion formation by inhibiting carbonic anhydrase, inducing metabolic acidosis. This acidosis increases oxygenation during hypoxia by increasing ventilation, increasing cerebral blood flow, and promoting dissociation of oxygen from oxyhemoglobin."
+    },
+    {
+      "id": "diur-mc-031",
+      "type": "multiple-choice",
+      "topic": "Carbonic Anhydrase Inhibitors",
+      "prompt": "Why does the diuretic effectiveness of acetazolamide diminish after 2 to 4 days of continuous administration?",
+      "options": [
+        "The metabolic acidosis induced by the drug reduces the availability of bicarbonate and hydrogen ions needed for its mechanism of action.",
+        "The liver rapidly induces cytochrome P450 enzymes that destroy 95% of the drug before it reaches the kidneys.",
+        "The distal convoluted tubule hypertrophies and reabsorbs all filtered bicarbonate within 48 hours.",
+        "Autoantibodies against sulfonamide derivatives neutralize the drug in the bloodstream."
+      ],
+      "answer": 0,
+      "rationale": "Carbonic anhydrase inhibitors act in the proximal tubule by preventing hydrogen ion generation for sodium exchange, causing bicarbonate and sodium excretion. Within 2 to 4 days, the resulting metabolic acidosis depletes bicarbonate stores and diminishes the diuretic effect."
+    },
+    {
+      "id": "diur-mc-032",
+      "type": "multiple-choice",
+      "topic": "Carbonic Anhydrase Inhibitors",
+      "prompt": "In addition to high-altitude sickness, edema, and epilepsy, for which ophthalmic condition is acetazolamide used as an adjunct therapy?",
+      "options": [
+        "Open-angle glaucoma",
+        "Age-related macular degeneration",
+        "Bacterial conjunctivitis",
+        "Retinal detachment"
+      ],
+      "answer": 0,
+      "rationale": "Carbonic anhydrase is present in the eyes as well as the kidneys. Acetazolamide and methazolamide are used as adjuncts in the management of open-angle glaucoma and preoperatively in ocular surgery to lower intraocular pressure by increasing aqueous humour outflow/reducing aqueous humour formation."
+    },
+    {
+      "id": "diur-mc-033",
+      "type": "multiple-choice",
+      "topic": "Carbonic Anhydrase Inhibitors",
+      "prompt": "Which patient history is a contraindication to the administration of acetazolamide?",
+      "options": [
+        "Cirrhosis and severe liver dysfunction",
+        "Open-angle glaucoma",
+        "Mild ankle edema",
+        "Planned travel to high altitude"
+      ],
+      "answer": 0,
+      "rationale": "Contraindications to carbonic anhydrase inhibitors include known sulfonamide/drug allergy, hyponatremia, hypokalemia, acidosis, adrenal gland insufficiency, severe kidney or liver dysfunction, and cirrhosis."
+    },
+    {
+      "id": "diur-mc-034",
+      "type": "multiple-choice",
+      "topic": "Diuretic Nursing Care",
+      "prompt": "A patient taking oral furosemide 40 mg daily asks the nurse which foods are best to include in their daily diet to prevent electrolyte depletion. Which meal selection indicates the patient understands the dietary teaching?",
+      "options": [
+        "Baked fish with a baked potato, broccoli, and a banana",
+        "White rice with skinless chicken breast, apple slices, and white bread",
+        "Egg noodle soup with saltine crackers, cheddar cheese, and cranberry juice",
+        "Cornflakes with skim milk, white toast with butter, and pear nectar"
+      ],
+      "answer": 0,
+      "rationale": "Patients taking potassium-wasting diuretics (loop or thiazide diuretics) should eat potassium-rich foods such as bananas, oranges, apricots, dates, raisins, broccoli, green beans, potatoes, tomatoes, meats, fish, wheat bread, and legumes."
+    },
+    {
+      "id": "diur-mc-035",
+      "type": "multiple-choice",
+      "topic": "Diuretic Nursing Care",
+      "prompt": "While assessing a patient who started diuretic therapy 2 days ago, the nurse obtains a blood pressure of 132/80 mm Hg supine and 106/64 mm Hg upon standing, accompanied by dizziness. How should the nurse document and manage this finding?",
+      "options": [
+        "Recognize orthostatic hypotension (a drop of 20 mm Hg or more upon standing), assist the patient to sit or lie down safely, and teach slow position changes.",
+        "Document a normal physiological response to standing and encourage the patient to walk briskly down the hall.",
+        "Administer an immediate extra dose of the diuretic to flush out excess vasodilating toxins.",
+        "Place the patient in a hot shower to stimulate peripheral vasoconstriction and raise blood pressure."
+      ],
+      "answer": 0,
+      "rationale": "A drop in systolic blood pressure of 20 mm Hg or more upon standing defines orthostatic hypotension, a common adverse effect of diuretic-induced fluid volume loss. Priority nursing care focuses on fall prevention, assisting the patient back to bed/chair safely, and teaching slow position changes."
+    },
+    {
+      "id": "diur-mc-036",
+      "type": "multiple-choice",
+      "topic": "Diuretic Nursing Care",
+      "prompt": "A patient taking lithium carbonate for bipolar disorder is prescribed hydrochlorothiazide for hypertension. Which potential drug interaction requires vigilant nursing monitoring?",
+      "options": [
+        "Decreased renal clearance of lithium, leading to lithium toxicity",
+        "Rapid renal excretion of lithium, precipitating acute mania",
+        "Inactivation of hydrochlorothiazide in the distal convoluted tubule",
+        "Severe hypernatremia and metabolic acidosis"
+      ],
+      "answer": 0,
+      "rationale": "Diuretics (loop, thiazide, and potassium-sparing) reduce the renal clearance of lithium, which can lead to elevated serum lithium levels and serious lithium toxicity."
+    },
+    {
+      "id": "diur-mc-037",
+      "type": "multiple-choice",
+      "topic": "Diuretic Nursing Care",
+      "prompt": "Which instruction should the nurse include when teaching a patient who is taking a loop or thiazide diuretic about summer weather and hot environments?",
+      "options": [
+        "Avoid prolonged exposure to heat, saunas, or hot tubs because excessive sweating causes further losses of potassium, sodium, and water.",
+        "Spend at least 30 minutes in a sauna daily to help the kidneys eliminate excess sodium through the skin.",
+        "Double the morning diuretic dose on hot days to prevent heat-induced peripheral ankle swelling.",
+        "Stop drinking water whenever the outdoor temperature exceeds 28°C to prevent hyponatremia."
+      ],
+      "answer": 0,
+      "rationale": "Heat raises core body temperature and causes additional loss of potassium, sodium, and water through sweat, increasing the risk of dehydration, hypotension, heat stroke, and electrolyte imbalances in patients taking diuretics."
+    },
+    {
+      "id": "diur-mc-038",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "Where in the kidney do posterior pituitary antidiuretic hormone (ADH) drugs such as vasopressin and desmopressin exert their primary antidiuretic action?",
+      "options": [
+        "Distal tubules and collecting ducts, increasing water resorption and concentrating urine",
+        "Glomerular afferent arterioles, increasing glomerular filtration rate and sodium excretion",
+        "Proximal convoluted tubules, inhibiting hydrogen-sodium exchange",
+        "Ascending limb of the loop of Henle, blocking active chloride transport"
+      ],
+      "answer": 0,
+      "rationale": "Vasopressin and desmopressin mimic endogenous ADH by increasing water resorption in the distal tubules and collecting ducts of the nephrons, concentrating the urine and reducing water excretion by up to 90%."
+    },
+    {
+      "id": "diur-mc-039",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "How do the pharmacological properties of desmopressin (DDAVP) compare with those of vasopressin (Pressyn)?",
+      "options": [
+        "Desmopressin has 10 times the antidiuretic action of vasopressin but 1,500 times less vasoconstrictor action.",
+        "Desmopressin has 100 times greater vasoconstrictor potency than vasopressin and no antidiuretic activity.",
+        "Desmopressin is an ADH receptor antagonist, whereas vasopressin is an ADH receptor agonist.",
+        "Desmopressin can only be given by continuous central venous infusion, whereas vasopressin is an oral tablet."
+      ],
+      "answer": 0,
+      "rationale": "Desmopressin is a synthetic structural analogue of human arginine vasopressin engineered to have 10 times the antidiuretic activity of vasopressin while having 1,500 times less vasoconstrictor activity, making it ideal for outpatient management of central diabetes insipidus."
+    },
+    {
+      "id": "diur-mc-040",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "In addition to central diabetes insipidus and nocturnal enuresis, for which hematological conditions is desmopressin (Octostim, DDAVP) clinically indicated?",
+      "options": [
+        "Mild hemophilia A and mild type 1 von Willebrand's disease",
+        "Sickle cell crisis and beta-thalassemia major",
+        "Heparin-induced thrombocytopenia and polycythemia vera",
+        "Pernicious anemia and folic acid deficiency"
+      ],
+      "answer": 0,
+      "rationale": "Desmopressin causes a dose-dependent increase in plasma levels of factor VIII (antihemophilic factor), von Willebrand factor, and tissue plasminogen activator, making it effective for preventing or treating bleeding in patients with mild hemophilia A and mild type 1 von Willebrand's disease."
+    },
+    {
+      "id": "diur-mc-041",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "A patient with liver cirrhosis is admitted to the emergency department with acute bleeding esophageal varices and hemodynamic instability. Why is intravenous vasopressin (Pressyn) prescribed for this patient?",
+      "options": [
+        "It causes potent splanchnic vasoconstriction, reducing portal blood flow and pressure on esophageal varices.",
+        "It inhibits gastric acid secretion in the stomach to prevent clot breakdown on the varices.",
+        "It blocks aldosterone receptors in the liver to rapidly drain ascitic fluid into the colon.",
+        "It acts as a beta-1 adrenergic blocker to slow the heart rate below 50 beats/min."
+      ],
+      "answer": 0,
+      "rationale": "In larger doses, vasopressin is a potent vasoconstrictor that reduces portal blood flow, portal-systemic collateral blood flow, and pressure within bleeding esophageal varices, helping arrest gastrointestinal hemorrhage."
+    },
+    {
+      "id": "diur-mc-042",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "The nurse is teaching a patient with central diabetes insipidus how to use a new bottle of desmopressin (DDAVP) nasal spray, which delivers 10 mcg per spray. Which instruction should the nurse include?",
+      "options": [
+        "Clear the nasal passages first, prime the pump by pressing down four times before first use, and divide doses higher than 10 mcg equally between both nostrils.",
+        "Inhale deeply through the mouth while spraying the medication into the throat, and reprime the pump before every single daily dose.",
+        "Shake the bottle vigorously for 2 minutes, tilt the head backward, and administer 5 mcg by pressing the pump halfway down.",
+        "Store the open nasal spray in the freezer between doses and discard the bottle after 10 sprays."
+      ],
+      "answer": 0,
+      "rationale": "Intranasal desmopressin must be given after clearing the nasal passages. The pump is primed prior to first use (and if unused for >1 week) by pressing down four times. Each spray delivers 10 mcg (it cannot deliver <10 mcg); if a higher dose is ordered, half is given in each nostril."
+    },
+    {
+      "id": "diur-mc-043",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "A patient receiving desmopressin for diabetes insipidus is also taking carbamazepine for a seizure disorder. What effect does this drug interaction have on the patient's therapy?",
+      "options": [
+        "Enhanced antidiuretic effects of desmopressin, increasing the risk of water intoxication and hyponatremia",
+        "Complete inhibition of desmopressin, causing severe polyuria and hypernatremia",
+        "Rapid hepatic clearance of carbamazepine, precipitating status epilepticus",
+        "Severe hypokalemia and metabolic alkalosis within hours of co-administration"
+      ],
+      "answer": 0,
+      "rationale": "Carbamazepine (and fludrocortisone with vasopressin) enhances the antidiuretic effects of desmopressin and vasopressin, which can lead to excessive water retention (water intoxication) and hyponatremia."
+    },
+    {
+      "id": "diur-mc-044",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "Which substance or medication reduces the antidiuretic effectiveness of desmopressin or vasopressin when taken concurrently?",
+      "options": [
+        "Lithium carbonate or alcohol",
+        "Carbamazepine",
+        "Fludrocortisone",
+        "Acetaminophen"
+      ],
+      "answer": 0,
+      "rationale": "Lithium carbonate, alcohol, and norepinephrine reduce the antidiuretic effects of desmopressin and vasopressin, potentially worsening polyuria and polydipsia."
+    },
+    {
+      "id": "diur-mc-045",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "A patient with syndrome of inappropriate antidiuretic hormone (SIADH) and marked symptomatic euvolemic hyponatremia is prescribed tolvaptan. How does tolvaptan correct this patient's condition?",
+      "options": [
+        "It acts as a vasopressin antagonist, blocking ADH receptors to promote free water excretion and raise serum sodium.",
+        "It mimics endogenous ADH in the collecting duct to concentrate urine and conserve body water.",
+        "It inhibits carbonic anhydrase in the proximal tubule to excrete sodium bicarbonate.",
+        "It stimulates aldosterone release from the adrenal cortex to exchange potassium for sodium."
+      ],
+      "answer": 0,
+      "rationale": "Tolvaptan is a vasopressin receptor antagonist used to treat marked symptomatic hyponatremia associated with SIADH or heart failure by blocking the water-retaining effects of ADH."
+    },
+    {
+      "id": "diur-mc-046",
+      "type": "multiple-choice",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "For a patient in the intensive care unit with septic (vasodilatory) shock whose hypotension is unresponsive to norepinephrine alone, which continuous intravenous vasopressin infusion rate is typically ordered as an adjunct for an adult?",
+      "options": [
+        "0.03 units/min",
+        "2.5 units/min",
+        "10 units/min",
+        "40 units/min"
+      ],
+      "answer": 0,
+      "rationale": "For adult patients with septic shock, intravenous vasopressin is typically infused at 0.03 units/min in addition to norepinephrine to restore vascular tone and blood pressure."
+    },
+    {
+      "id": "diur-sa-001",
+      "type": "short-answer",
+      "topic": "Loop Diuretics",
+      "prompt": "Name the prototypical loop diuretic (generic name) whose trade name, Lasix, was derived from its 6-hour oral duration of action.",
+      "answers": [
+        {
+          "text": "furosemide",
+          "aliases": [
+            "Lasix"
+          ]
+        }
+      ],
+      "rationale": "Furosemide (Lasix) is the prototypical and most commonly used loop diuretic; its trade name reflects that its action lasts approximately 6 hours when given orally."
+    },
+    {
+      "id": "diur-sa-002",
+      "type": "short-answer",
+      "topic": "Osmotic Diuretics",
+      "prompt": "Name the prototypical osmotic diuretic (generic name) that is a nonabsorbable solute used to reduce intracranial pressure and cerebral edema.",
+      "answers": [
+        {
+          "text": "mannitol",
+          "aliases": [
+            "Osmitrol"
+          ]
+        }
+      ],
+      "rationale": "Mannitol (Osmitrol) is a nonabsorbable solute that acts as an osmotic diuretic along the nephron (primarily the proximal tubule and descending loop of Henle) to reduce cerebral edema and intracranial pressure."
+    },
+    {
+      "id": "diur-sa-003",
+      "type": "short-answer",
+      "topic": "Potassium-Sparing Diuretics",
+      "prompt": "Name the synthetic steroid potassium-sparing diuretic (generic name) that acts as a competitive antagonist of aldosterone receptors and is used to treat ascites and heart failure.",
+      "answers": [
+        {
+          "text": "spironolactone",
+          "aliases": [
+            "Aldactone"
+          ]
+        }
+      ],
+      "rationale": "Spironolactone (Aldactone) is a synthetic steroid that competitively binds to aldosterone receptors in the distal tubule, causing sodium and water excretion while retaining potassium."
+    },
+    {
+      "id": "diur-sa-004",
+      "type": "short-answer",
+      "topic": "Carbonic Anhydrase Inhibitors",
+      "prompt": "Name the most commonly used carbonic anhydrase inhibitor (generic name) indicated for open-angle glaucoma and the prevention and treatment of high-altitude sickness.",
+      "answers": [
+        {
+          "text": "acetazolamide",
+          "aliases": [
+            "Acetazolam"
+          ]
+        }
+      ],
+      "rationale": "Acetazolamide (Acetazolam) is the prototypical carbonic anhydrase inhibitor acting in the proximal convoluted tubule and eye."
+    },
+    {
+      "id": "diur-sa-005",
+      "type": "short-answer",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "prompt": "Name the thiazide-like diuretic (generic name) that remains effective at a creatinine clearance as low as 10 mL/min and is frequently combined with a loop diuretic for sequential nephron blockade.",
+      "answers": [
+        {
+          "text": "metolazone",
+          "aliases": [
+            "Zaroxolyn"
+          ]
+        }
+      ],
+      "rationale": "Metolazone (Zaroxolyn) is a potent thiazide-like diuretic that remains effective in severe kidney impairment (down to a creatinine clearance of 10 mL/min) and is combined with loop diuretics for sequential nephron blockade."
+    },
+    {
+      "id": "diur-sa-006",
+      "type": "short-answer",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "Name the synthetic structural analogue of human antidiuretic hormone (generic name) that has 10 times the antidiuretic activity of vasopressin and is used to treat central diabetes insipidus and mild hemophilia A.",
+      "answers": [
+        {
+          "text": "desmopressin",
+          "aliases": [
+            "desmopressin acetate",
+            "DDAVP",
+            "Octostim",
+            "Nocdurna"
+          ]
+        }
+      ],
+      "rationale": "Desmopressin (DDAVP, Octostim, Nocdurna) is a synthetic vasopressin analogue with potent antidiuretic activity, minimal vasoconstrictor effect, and the ability to increase factor VIII and von Willebrand factor levels."
+    },
+    {
+      "id": "diur-sa-007",
+      "type": "short-answer",
+      "topic": "Antidiuretic Hormone Drugs",
+      "prompt": "Name the vasopressin receptor antagonist (generic name) mentioned in Chapter 31 that is prescribed to treat marked symptomatic hyponatremia in patients with SIADH or heart failure.",
+      "answers": [
+        {
+          "text": "tolvaptan",
+          "aliases": []
+        }
+      ],
+      "rationale": "Tolvaptan is a vasopressin antagonist used to treat marked symptomatic hyponatremia associated with syndrome of inappropriate antidiuretic hormone (SIADH) and heart failure."
+    },
+    {
+      "id": "diur-sa-008",
+      "type": "short-answer",
+      "topic": "Loop Diuretics",
+      "prompt": "What is the single most common and clinically dangerous electrolyte imbalance (medical term) caused by loop and thiazide diuretics that increases the risk of digoxin toxicity?",
+      "answers": [
+        {
+          "text": "hypokalemia",
+          "aliases": [
+            "low potassium",
+            "low serum potassium",
+            "potassium depletion"
+          ]
+        }
+      ],
+      "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L) is the most common and clinically important electrolyte abnormality associated with loop and thiazide diuretics and predisposes patients to digoxin toxicity and cardiac dysrhythmias."
+    },
+    {
+      "id": "diur-cs-001",
+      "type": "case-study",
+      "title": "Acute Decompensated Heart Failure and Loop Diuretic Therapy",
+      "topic": "Loop Diuretics",
+      "scenario": "Arthur, a 74-year-old retired machinist, is admitted to the cardiac step-down unit with acute decompensated heart failure. He has 3+ bilateral pitting pedal edema, bibasilar crackles on lung auscultation, and dyspnea at rest. His vital signs are BP 154/92 mm Hg, HR 98 beats/min (irregular, atrial fibrillation), RR 24 breaths/min, and SpO2 91% on 2 L/min nasal cannula. Home medications include digoxin 0.125 mg PO daily. Baseline labs show serum potassium 3.9 mmol/L, sodium 137 mmol/L, and creatinine 115 µmol/L. The prescriber orders furosemide (Lasix) 40 mg IV now.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "After the nurse administers furosemide 40 mg IV, within what time frame should the nurse expect the onset of diuretic action and peak plasma concentration?",
+            "options": [
+              "Onset in 5 minutes; peak in 15 minutes",
+              "Onset in 30 to 60 minutes; peak in 1 to 2 hours",
+              "Onset in 2 hours; peak in 4 to 6 hours",
+              "Onset in 1 to 3 days; peak in 2 to 3 days"
+            ],
+            "answer": 0,
+            "rationale": "Intravenous furosemide has a rapid onset of action of 5 minutes, reaches peak plasma concentration in 15 minutes, and has a duration of action of 2 hours (whereas oral furosemide has an onset of 30 to 60 minutes)."
+          }
+        },
+        {
+          "update": "Over the next 24 hours, Arthur receives scheduled IV furosemide and produces 3,400 mL of urine. His lung crackles decrease, but on the second morning he reports muscle weakness, lethargy, nausea, and seeing yellow-green halos around the room lights. His pulse rate is 54 beats/min.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which pathophysiological mechanism best explains Arthur's new symptoms?",
+            "options": [
+              "Furosemide-induced hypokalemia has precipitated digoxin toxicity.",
+              "Furosemide has caused acute hyperkalemia and third-degree heart block.",
+              "Rapid fluid removal has triggered cerebral edema and increased intracranial pressure.",
+              "Cross-sensitivity between furosemide and digoxin has caused an anaphylactic reaction."
+            ],
+            "answer": 0,
+            "rationale": "Potent diuresis from furosemide causes potassium loss (hypokalemia). Hypokalemia sensitizes the myocardium to digoxin and precipitates digoxin toxicity, which presents with bradycardia (HR < 60 beats/min), nausea, lethargy, muscle weakness, and visual disturbances."
+          }
+        },
+        {
+          "update": "Arthur's morning serum potassium level returns at 2.9 mmol/L. Digoxin is held, and his potassium is safely replaced until it reaches 4.2 mmol/L. However, on hospital day 4, his peripheral edema becomes resistant to IV furosemide alone, and his estimated creatinine clearance is 22 mL/min. The cardiologist adds a daily oral thiazide-like diuretic to produce sequential nephron blockade.",
+          "question": {
+            "type": "short-answer",
+            "prompt": "Which oral thiazide-like diuretic (generic name) is specifically chosen to combine with a loop diuretic for sequential nephron blockade when creatinine clearance is below 25 mL/min?",
+            "answers": [
+              {
+                "text": "metolazone",
+                "aliases": [
+                  "Zaroxolyn"
+                ]
+              }
+            ],
+            "rationale": "Metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min and is combined with loop diuretics to block sodium and water reabsorption at multiple sites along the nephron (sequential nephron blockade)."
+          }
+        },
+        {
+          "update": "Arthur stabilizes after 3 days of therapy and is being prepared for discharge on oral furosemide 40 mg daily and digoxin 0.125 mg daily.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which statement by Arthur indicates that he understands his discharge teaching regarding his medications?",
+            "options": [
+              "'I will take my furosemide in the morning, weigh myself at the same time every day, and check my pulse before taking digoxin.'",
+              "'I will take my furosemide right before bedtime so that I am lying down when the medication peaks.'",
+              "'If my ankles feel stiff, I can take over-the-counter ibuprofen without affecting my water pill.'",
+              "'I should avoid eating bananas, potatoes, and oranges while taking furosemide.'"
+            ],
+            "answer": 0,
+            "rationale": "Diuretics should be taken in the morning to prevent nocturia and nighttime falls. Patients should record daily weights at the same time each day, consume potassium-rich foods, avoid NSAIDs, and monitor their pulse rate (reporting HR ≤ 60 beats/min) when taking digoxin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "diur-cs-002",
+      "type": "case-study",
+      "title": "Hypertension Management with Hydrochlorothiazide in an Older Adult",
+      "topic": "Thiazide and Thiazide-Like Diuretics",
+      "scenario": "Evelyn, a 68-year-old retired librarian, is diagnosed with primary hypertension after three consecutive clinic blood pressure readings averaging 152/90 mm Hg. Her baseline laboratory results are normal: serum potassium 4.3 mmol/L, creatinine 72 µmol/L (creatinine clearance 78 mL/min), and fasting blood glucose 5.4 mmol/L. She is prescribed hydrochlorothiazide (Urozide) 25 mg PO daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Evelyn asks the nurse how hydrochlorothiazide lowers her blood pressure. Which explanation is accurate?",
+            "options": [
+              "It inhibits sodium, potassium, and chloride resorption in the distal convoluted tubule and causes direct relaxation of arterioles to reduce afterload.",
+              "It blocks aldosterone receptors in the collecting duct and increases left ventricular filling pressures.",
+              "It acts as a nonabsorbable solute in the glomerulus to pull intracellular water into the vena cava.",
+              "It inhibits carbonic anhydrase in the proximal tubule to induce metabolic acidosis."
+            ],
+            "answer": 0,
+            "rationale": "Thiazide diuretics act in the distal convoluted tubule to inhibit sodium, potassium, and chloride reabsorption (reducing preload/plasma volume) and also cause direct arteriolar dilation, which reduces peripheral vascular resistance (afterload)."
+          }
+        },
+        {
+          "update": "Ten days after starting hydrochlorothiazide, Evelyn calls the clinic and reports feeling lightheaded when getting out of bed in the morning, and says she nearly tripped in her hallway last night when rushing to the bathroom to urinate.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Upon questioning, Evelyn mentions she takes her tablet with supper at 18:30. What is the nurse's best recommendation to improve her safety?",
+            "options": [
+              "Take the hydrochlorothiazide in the morning to prevent nocturia, rise slowly from lying to standing, and consider a bedside commode if needed.",
+              "Double the dose to 50 mg at bedtime so the bladder empties completely in a single trip.",
+              "Stop taking hydrochlorothiazide every other week so her blood pressure can rebound.",
+              "Drink two cups of caffeinated coffee before bed to counteract orthostatic dizziness."
+            ],
+            "answer": 0,
+            "rationale": "Taking diuretics late in the afternoon or evening causes nocturia, sleep loss, and nighttime falls in older adults. Morning dosing prevents nocturia, and rising slowly minimizes orthostatic hypotension during the high-risk first 3 weeks of therapy."
+          }
+        },
+        {
+          "update": "At her 6-month follow-up visit, Evelyn's blood pressure is well controlled at 128/76 mm Hg. However, routine blood work reveals a serum potassium of 3.3 mmol/L, fasting blood glucose of 7.8 mmol/L, serum uric acid elevated above normal, and serum calcium mildly elevated.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which assessment finding should the nurse associate with Evelyn's elevated serum uric acid and glucose levels?",
+            "options": [
+              "These are known metabolic adverse effects of thiazide diuretics (hyperglycemia, hyperuricemia, hypercalcemia, and hypokalemia).",
+              "Evelyn has developed syndrome of inappropriate antidiuretic hormone (SIADH) from the thiazide.",
+              "Hydrochlorothiazide has caused acute adrenal insufficiency (Addisonian crisis).",
+              "These values indicate an acute hemolytic transfusion-like reaction to sulfonamides."
+            ],
+            "answer": 0,
+            "rationale": "Major adverse effects of thiazide diuretics stem from metabolic and electrolyte disturbances: decreased potassium (hypokalemia) and elevated levels of calcium (hypercalcemia), lipids, glucose (hyperglycemia), and uric acid (hyperuricemia)."
+          }
+        },
+        {
+          "update": "Evelyn is started on an oral antihyperglycemic agent for newly diagnosed type 2 diabetes mellitus and plans a sunny vacation to Florida next month.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which additional teaching point is essential for Evelyn regarding long-term hydrochlorothiazide therapy and her upcoming trip?",
+            "options": [
+              "Use sun protection and monitor for skin changes due to photosensitivity and the potential risk of non-melanoma skin cancer, and avoid dehydration in hot weather.",
+              "Discontinue blood glucose monitoring during vacation because sunlight enhances insulin sensitivity with thiazides.",
+              "Spend extra time in hot tubs to relax arterioles and prevent thiazide crystallization in the skin.",
+              "Eat large amounts of black licorice daily on vacation to stabilize potassium levels."
+            ],
+            "answer": 0,
+            "rationale": "Hydrochlorothiazide causes photosensitivity and carries a Health Canada warning regarding a potential risk of non-melanoma skin cancer with prolonged use; additionally, hot climates increase sweat loss of water and electrolytes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "diur-cs-003",
+      "type": "case-study",
+      "title": "Traumatic Brain Injury and Osmotic Diuretic Therapy",
+      "topic": "Osmotic Diuretics",
+      "scenario": "Marcus, a 29-year-old construction worker, is brought to the trauma centre after falling from scaffolding. A head CT scan confirms diffuse cerebral edema with elevated intracranial pressure (ICP of 26 mm Hg) and rules out active intracranial hemorrhage. Marcus weighs 90 kg, his urine output is 45 mL/hr, and his lungs are clear. The neurosurgeon orders mannitol (Osmitrol) 1.5 g/kg IV over 45 minutes.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why did the neurosurgeon confirm the absence of active intracranial bleeding on the CT scan before ordering mannitol?",
+            "options": [
+              "Active intracranial bleeding is a strict contraindication to mannitol therapy.",
+              "Mannitol dissolves blood clots by activating factor VIII and von Willebrand factor.",
+              "Mannitol is only effective when administered directly into the cerebral ventricles.",
+              "Active bleeding neutralizes the pH of mannitol in the proximal convoluted tubule."
+            ],
+            "answer": 0,
+            "rationale": "Mannitol is contraindicated in patients with active intracranial bleeding (cerebral hemorrhage), anuria, severe dehydration, or pulmonary edema."
+          }
+        },
+        {
+          "update": "The nurse retrieves vials of 20% mannitol solution from the medication room and notices fine white crystals at the bottom of one vial that was sitting near an air-conditioning vent.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What should the nurse do before administering the mannitol infusion to Marcus?",
+            "options": [
+              "Use a warmed, crystal-free vial (or warm the vial to dissolve crystals) and administer the IV infusion through an in-line filter.",
+              "Shake the cold vial and inject the crystals rapidly via IV push without a filter so they dissolve in the bloodstream.",
+              "Dilute the crystallized mannitol in 5% dextrose and administer it intramuscularly into the ventrogluteal muscle.",
+              "Switch the order to oral hydrochlorothiazide, which has an identical osmotic effect on cerebral edema."
+            ],
+            "answer": 0,
+            "rationale": "Mannitol solutions above 15% readily crystallize when exposed to low temperatures. Vials are stored in a warmer, must be free of crystals prior to administration, and must always be infused intravenously through a filter."
+          }
+        },
+        {
+          "update": "Within 45 minutes of starting the mannitol infusion, Marcus's ICP decreases from 26 mm Hg to 14 mm Hg, and his urine output increases to 350 mL/hr.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How does mannitol achieve this rapid reduction in cerebral edema and increase in urine output?",
+            "options": [
+              "As a nonabsorbable solute, it increases osmotic pressure in the glomerular filtrate and tubules, pulling water out of edematous tissues and inhibiting tubular water reabsorption.",
+              "It blocks aldosterone receptors in the collecting duct, causing massive sodium excretion over 48 hours.",
+              "It inhibits the Na+/K+/2Cl- cotransporter in the ascending loop of Henle to excrete calcium and magnesium.",
+              "It mimics antidiuretic hormone to concentrate urine and shift water into the brain parenchyma."
+            ],
+            "answer": 0,
+            "rationale": "Mannitol is a nonabsorbable solute that acts along the entire nephron (primarily the proximal tubule and descending loop of Henle) to increase osmotic pressure of the glomerular filtrate, drawing water from intracellular/interstitial spaces and inhibiting tubular water reabsorption."
+          }
+        },
+        {
+          "update": "Twelve hours later, after a repeat dose of mannitol, the nurse auscultates new bibasilar crackles in Marcus's lungs, notes jugular venous distension, and observes that his urine output has dropped to 15 mL/hr over the past 2 hours.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action based on these new assessment findings?",
+            "options": [
+              "Withhold further mannitol doses and notify the prescriber immediately, as pulmonary congestion and worsening kidney impairment require termination of therapy.",
+              "Increase the mannitol infusion rate to 500 mL/hr to flush fluid out of the alveoli.",
+              "Administer desmopressin intranasally to restore urine output.",
+              "Document the crackles as an expected benign effect of osmotic diuresis."
+            ],
+            "answer": 0,
+            "rationale": "Pulmonary congestion/edema and severe heart or kidney impairment (e.g., oliguria/anuria) are serious adverse effects/contraindications of mannitol; treatment must be terminated immediately if these develop."
+          }
+        }
+      ]
+    },
+    {
+      "id": "diur-cs-004",
+      "type": "case-study",
+      "title": "Cirrhosis with Ascites and Potassium-Sparing Diuretic Therapy",
+      "topic": "Potassium-Sparing Diuretics",
+      "scenario": "Jean-Luc, a 59-year-old chef with alcohol-related liver cirrhosis, is admitted with tense abdominal ascites (abdominal girth 112 cm) and 2+ lower extremity edema. His baseline serum potassium is 3.7 mmol/L, sodium is 133 mmol/L, and creatinine is 88 µmol/L. The hepatologist prescribes spironolactone (Aldactone) 100 mg PO daily.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Why is spironolactone, rather than acetazolamide, selected to manage Jean-Luc's cirrhosis-related ascites?",
+            "options": [
+              "Spironolactone blocks the hyperaldosteronism driving ascites in cirrhosis, whereas carbonic anhydrase inhibitors like acetazolamide are contraindicated in cirrhosis and liver dysfunction.",
+              "Acetazolamide causes severe hyperkalemia and gynecomastia in patients with liver disease.",
+              "Spironolactone acts in the glomerulus within 5 minutes, whereas acetazolamide takes 3 days to work.",
+              "Acetazolamide is only available as an ophthalmic eye drop in Canada."
+            ],
+            "answer": 0,
+            "rationale": "Spironolactone is a competitive aldosterone antagonist used in high dosages to treat ascites associated with liver cirrhosis, whereas carbonic anhydrase inhibitors (acetazolamide) are contraindicated in patients with cirrhosis or significant liver dysfunction."
+          }
+        },
+        {
+          "update": "During morning medication rounds on day 3, Jean-Luc asks his wife to bring him his salt substitute from home (which contains potassium chloride) and a bag of dried apricots and bananas because his roommate told him 'all water pills drain your potassium.'",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What teaching should the nurse provide to Jean-Luc regarding his diet and salt substitute?",
+            "options": [
+              "Explain that spironolactone is a potassium-sparing diuretic, so he must avoid potassium-containing salt substitutes and excessive high-potassium foods to prevent hyperkalemia.",
+              "Encourage him to use the potassium salt substitute liberally at every meal to prevent cardiac dysrhythmias.",
+              "Tell him that spironolactone only affects calcium levels and has no effect on serum potassium.",
+              "Advise him to take an over-the-counter potassium supplement tablet alongside the dried apricots."
+            ],
+            "answer": 0,
+            "rationale": "Unlike loop and thiazide diuretics, spironolactone retains potassium. Patients taking potassium-sparing diuretics must avoid potassium supplements, potassium-based salt substitutes, and excessive intake of high-potassium foods to prevent life-threatening hyperkalemia."
+          }
+        },
+        {
+          "update": "Two months after discharge, Jean-Luc visits his primary care clinic. His ascites is much improved, but he had started taking over-the-counter ibuprofen for back pain and was recently started on an ACE inhibitor by a walk-in physician. Today he complains of abdominal cramping, nausea, diarrhea, and generalized weakness.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Jean-Luc's stat serum potassium level is 6.2 mmol/L. Which factors contributed to this critical laboratory value and his symptoms?",
+            "options": [
+              "Combining spironolactone with an ACE inhibitor caused additive potassium retention, presenting with gastrointestinal symptoms and weakness of hyperkalemia.",
+              "Ibuprofen increased renal prostaglandin synthesis, causing excessive sodium reabsorption and hypokalemia.",
+              "Spironolactone has lost its potency after 2 months, resulting in metabolic alkalosis.",
+              "The ACE inhibitor accelerated the hepatic breakdown of spironolactone into toxic ammonia."
+            ],
+            "answer": 0,
+            "rationale": "Concurrent use of a potassium-sparing diuretic (spironolactone) and an ACE inhibitor causes severe hyperkalemia (K+ > 5.5 mmol/L), which manifests clinically as nausea, vomiting, diarrhea, abdominal cramping, weakness, and potentially fatal cardiac dysrhythmias. Additionally, NSAIDs decrease renal blood flow and impair diuretic response."
+          }
+        },
+        {
+          "update": "After Jean-Luc's hyperkalemia is treated and the ACE inhibitor and ibuprofen are discontinued, he mentions to the nurse that his breasts have become swollen and tender over the past month and he is embarrassed.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "If the prescriber decides to switch Jean-Luc to a selective aldosterone blocker in the same potassium-sparing class that has fewer sex-hormone-related endocrine adverse effects, which medication listed in Chapter 29 could be prescribed?",
+            "options": [
+              "Eplerenone (Inspar)",
+              "Ethacrynic acid",
+              "Methazolamide",
+              "Chlorthalidone"
+            ],
+            "answer": 0,
+            "rationale": "Eplerenone (Inspar) is a potassium-sparing aldosterone-inhibiting diuretic listed in Chapter 29. Ethacrynic acid is a loop diuretic, methazolamide is a carbonic anhydrase inhibitor, and chlorthalidone is a thiazide-like diuretic."
+          }
+        }
+      ]
+    },
+    {
+      "id": "diur-cs-005",
+      "type": "case-study",
+      "title": "Glaucoma and High-Altitude Sickness Management with Acetazolamide",
+      "topic": "Carbonic Anhydrase Inhibitors",
+      "scenario": "Priya, a 46-year-old photographer with type 1 diabetes mellitus and chronic open-angle glaucoma, is prescribed oral acetazolamide (Acetazolam) 250 mg twice daily as an adjunct to her topical miotic eye drops before scheduled ocular surgery. She also asks about using acetazolamide for an upcoming photography expedition to Cusco, Peru (elevation 3,400 m).",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How does acetazolamide lower intraocular pressure in Priya's open-angle glaucoma?",
+            "options": [
+              "It inhibits carbonic anhydrase in the eye and promotes increased outflow/reduced formation of aqueous humour.",
+              "It paralyzes the ciliary muscle and dilates the pupil to widen the optic canal.",
+              "It increases systemic blood pressure to perfuse the optic nerve head.",
+              "It acts as an osmotic agent in the vitreous humour only when given intravenously."
+            ],
+            "answer": 0,
+            "rationale": "Carbonic anhydrase is present in the eye; inhibiting it with acetazolamide reduces intraocular pressure by improving the balance/outflow of aqueous humour as an adjunct to topical miotics."
+          }
+        },
+        {
+          "update": "Three days after starting acetazolamide, Priya contacts the clinic reporting tingling ('pins and needles') in her fingers and toes, mild drowsiness, and higher-than-usual blood glucose readings with positive urine glucose.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "How should the nurse interpret Priya's symptoms and laboratory changes?",
+            "options": [
+              "Paresthesias, drowsiness, and elevated blood glucose (with glycosuria in patients with diabetes) are recognized adverse effects of carbonic anhydrase inhibitors.",
+              "Priya is experiencing acute angle-closure glaucoma and hypoglycemic shock.",
+              "Acetazolamide has caused severe metabolic alkalosis and hypercalcemia.",
+              "These symptoms indicate that acetazolamide has converted into a loop diuretic."
+            ],
+            "answer": 0,
+            "rationale": "Adverse effects of carbonic anhydrase inhibitors include paresthesias, drowsiness, dizziness, anorexia, metabolic acidosis, hypokalemia, and elevated blood glucose levels causing glycosuria in patients with diabetes."
+          }
+        },
+        {
+          "update": "The nurse reviews Priya's complete medication and allergy profile and notes that she takes phenytoin for a history of focal seizures.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What potential drug interaction between acetazolamide and phenytoin should the nurse monitor for?",
+            "options": [
+              "Increased effects and potential toxicity of phenytoin when taken concurrently with a carbonic anhydrase inhibitor",
+              "Complete inactivation of phenytoin, requiring a 400% dose increase",
+              "Acute renal failure due to crystallization of phenytoin in acidic urine",
+              "Severe hypertension and bradycardia within 15 minutes of dosing"
+            ],
+            "answer": 0,
+            "rationale": "The effects of phenytoin, amphetamines, carbamazepine, cyclosporine, and quinidine sulphate may be increased when these drugs are taken concurrently with carbonic anhydrase inhibitors."
+          }
+        },
+        {
+          "update": "Priya asks which symptoms of high-altitude sickness acetazolamide helps prevent and treat during her mountain ascent.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Which group of symptoms should the nurse identify as the manifestations of high-altitude sickness prevented and treated by acetazolamide?",
+            "options": [
+              "Headache, nausea, shortness of breath, dizziness, drowsiness, and fatigue",
+              "Urinary retention, severe constipation, bradycardia, and hypothermia",
+              "Gouty arthritis, hypercalcemia, gynecomastia, and alopecia",
+              "Diplopia, tinnitus, exfoliative dermatitis, and agranulocytosis"
+            ],
+            "answer": 0,
+            "rationale": "Acetazolamide is effective in both preventing and treating the symptoms of high-altitude sickness, which include headache, nausea, shortness of breath, dizziness, drowsiness, and fatigue."
+          }
+        }
+      ]
+    },
+    {
+      "id": "diur-cs-006",
+      "type": "case-study",
+      "title": "Post-Neurosurgical Diabetes Insipidus and ADH Replacement Therapy",
+      "topic": "Antidiuretic Hormone Drugs",
+      "scenario": "Liam, a 34-year-old software engineer, underwent transsphenoidal resection of a pituitary adenoma 18 hours ago. Over the past 4 hours, his urine output has surged to 650 mL/hr of pale, dilute urine (specific gravity 1.002), and he complains of intense, unquenchable thirst (polydipsia). His serum sodium has risen to 151 mmol/L, and his BP is 94/58 mm Hg. He is diagnosed with postoperative central diabetes insipidus.",
+      "stages": [
+        {
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Because Liam is initially hemodynamically unstable in the post-anesthesia care unit with postoperative diabetes insipidus, the intensivist orders parenteral vasopressin (Pressyn). Before drawing up the parenteral solution, what must the nurse check?",
+            "options": [
+              "Check the clarity of the parenteral solution and discard it if there are visible particles or any fluid discoloration.",
+              "Shake the vial vigorously until a cloudy white suspension forms.",
+              "Freeze the vial for 10 minutes to stabilize the synthetic polypeptide chain.",
+              "Mix the vasopressin in the same syringe with intravenous furosemide."
+            ],
+            "answer": 0,
+            "rationale": "Before administering parenteral vasopressin, the nurse must always check the clarity of the solution and discard it if there are visible particles or any fluid discoloration."
+          }
+        },
+        {
+          "update": "While Liam is receiving IV vasopressin in the intensive care unit, the nurse assesses his IV insertion site on the left forearm and notices the site is swollen, pale, and cool to the touch.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What is the nurse's priority action upon discovering this IV site finding?",
+            "options": [
+              "Stop the infusion immediately and notify the prescriber, because vasopressin is a potent vasoconstrictor that can cause severe tissue ischemia and necrosis if extravasation occurs.",
+              "Apply an ice pack tightly over the IV site and double the infusion rate to flush the vein.",
+              "Leave the IV catheter in place and inject subcutaneous somatropin around the site.",
+              "Document the swelling as a normal local antidiuretic effect and reassess in 4 hours."
+            ],
+            "answer": 0,
+            "rationale": "Vasopressin is a high-alert drug with potent vasoconstrictor properties. Swelling and coolness at the IV site indicate infiltration/extravasation, requiring immediate cessation of the infusion at that site to prevent severe local vasoconstriction and tissue necrosis."
+          }
+        },
+        {
+          "update": "By postoperative day 4, Liam is hemodynamically stable, transferring to the neurosurgical ward, and transitioning to intranasal desmopressin (DDAVP) 20 mcg twice daily for ongoing central diabetes insipidus.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "Given that the desmopressin nasal spray pump delivers 10 mcg per spray, how should the nurse instruct Liam to self-administer his 20-mcg dose?",
+            "options": [
+              "Clear the nasal passages, ensure the pump is primed, and administer 1 spray (10 mcg) into each nostril.",
+              "Administer 2 sprays into the left nostril while inhaling deeply into the lungs.",
+              "Press the pump halfway down four times in the right nostril.",
+              "Spray 20 mcg onto the tongue and swallow with 500 mL of water."
+            ],
+            "answer": 0,
+            "rationale": "The desmopressin nasal spray pump delivers 10 mcg per spray. When a dose higher than 10 mcg is prescribed (such as 20 mcg), half the dose should be administered in each nostril after clearing the nasal passages."
+          }
+        },
+        {
+          "update": "One week after discharge, Liam's partner calls the clinic stating that Liam has been drinking large amounts of water out of habit despite taking his desmopressin, and today he has a throbbing headache, nausea, drowsiness, and mild confusion.",
+          "question": {
+            "type": "multiple-choice",
+            "prompt": "What complication of desmopressin therapy does the nurse suspect, and what teaching is required?",
+            "options": [
+              "Water intoxication and hyponatremia (sodium deficit); fluid intake must be adjusted and monitored closely, and he should be evaluated immediately.",
+              "Hyperglycemic hyperosmolar state; he needs an immediate subcutaneous injection of insulin.",
+              "Rebound hypernatremia from nasal spray failure; he should drink 3 L of water over the next hour.",
+              "Acute hypokalemic alkalosis; he should consume four bananas and take a loop diuretic."
+            ],
+            "answer": 0,
+            "rationale": "Because desmopressin reduces water excretion by up to 90%, excessive fluid intake while on therapy causes water intoxication and dilutional hyponatremia (manifesting as headache, nausea, drowsiness, confusion, and potential seizures). Fluid intake must be carefully adjusted and monitored in patients with diabetes insipidus."
+          }
+        }
+      ]
+    }
+  ]
+}

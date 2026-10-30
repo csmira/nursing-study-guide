@@ -91,7 +91,9 @@ export function HomePage() {
           {categories && (
             <div className="category-grid">
               {categories.map((c) => {
-                const Icon = CATEGORY_ICONS[c.id] ?? ClipboardIcon;
+                const Icon =
+                  CATEGORY_ICONS[c.id] ??
+                  (c.id.startsWith("pharmacology-") ? PillIcon : ClipboardIcon);
                 const loading = pending === c.id;
                 return (
                   <article key={c.id} className="card category-card">

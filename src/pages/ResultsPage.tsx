@@ -26,12 +26,6 @@ export function ResultsPage() {
   const elapsed = Math.min(attempt.finishedAt, attempt.endsAt) - attempt.startedAt
   const unanswered = results.filter((r) => !isAnswered(r.response)).length
 
-  const breakdown = [
-    { label: 'Multiple choice', items: results.filter((r) => !r.question.case && r.question.type === 'multiple-choice') },
-    { label: 'Fill in the blank', items: results.filter((r) => !r.question.case && r.question.type === 'short-answer') },
-    { label: 'Case studies', items: results.filter((r) => r.question.case) },
-  ].filter((b) => b.items.length > 0)
-
   const filters: { id: Filter; label: string; match: (r: QuestionResult) => boolean }[] = [
     { id: 'all', label: 'All', match: () => true },
     { id: 'answered', label: 'Answered', match: (r) => isAnswered(r.response) },
@@ -69,24 +63,6 @@ export function ResultsPage() {
               </li>
               {unanswered > 0 && <li>{unanswered} unanswered</li>}
             </ul>
-            <div className="breakdown">
-              {breakdown.map((b) => {
-                const c = b.items.filter((r) => r.correct).length
-                return (
-                  <div key={b.label} className="breakdown__item">
-                    <div className="breakdown__row">
-                      <span>{b.label}</span>
-                      <span className="muted">
-                        {c}/{b.items.length}
-                      </span>
-                    </div>
-                    <div className="mini-bar">
-                      <div style={{ width: `${(c / b.items.length) * 100}%` }} />
-                    </div>
-                  </div>
-                )
-              })}
-            </div>
             <div className="score-card__actions">
               <button type="button" className="btn btn--primary" disabled={!!pending} onClick={() => void startTest(attempt.categoryId)}>
                 <RefreshIcon size={18} /> {pending ? 'Preparing…' : 'Start new test'}

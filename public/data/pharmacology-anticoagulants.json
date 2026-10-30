@@ -8,12 +8,12 @@
       "prompt": "A patient diagnosed with an acute pulmonary embolism is started on a continuous intravenous infusion of unfractionated heparin. How does heparin exert its therapeutic anticoagulant effect?",
       "options": [
         "It binds to antithrombin III to inactivate clotting factors IIa, Xa, and IXa.",
-        "It directly degrades insoluble fibrin threads within the existing pulmonary thrombus.",
+        "It activates circulating plasminogen to degrade insoluble fibrin threads in the clot.",
         "It inhibits hepatic synthesis of vitamin K-dependent clotting factors II, VII, IX, and X.",
-        "It irreversibly acetylates cyclooxygenase in circulating platelets to block aggregation."
+        "It acetylates cyclooxygenase in circulating platelets to prevent thromboxane A2 synthesis."
       ],
       "answer": 0,
-      "rationale": "Unfractionated heparin binds to antithrombin III (AT-III), accelerating the inactivation of activated clotting factors IIa (thrombin), Xa, and IXa to prevent clot formation and extension. Thrombolytics (not heparin) degrade existing fibrin clots, warfarin inhibits vitamin K-dependent factor synthesis, and aspirin irreversibly acetylates platelet cyclooxygenase."
+      "rationale": "Unfractionated heparin binds to antithrombin III (AT-III), accelerating the inactivation of activated clotting factors IIa (thrombin), Xa, and IXa to prevent clot formation and extension. Thrombolytics (not heparin) degrade existing fibrin clots via plasminogen, warfarin inhibits vitamin K-dependent factor synthesis, and aspirin irreversibly acetylates platelet cyclooxygenase."
     },
     {
       "id": "coag-mc-002",
@@ -35,10 +35,10 @@
       "topic": "Unfractionated Heparin",
       "prompt": "A postoperative patient is prescribed unfractionated heparin 5 000 units subcutaneously every 12 hours for deep vein thrombosis prophylaxis. Which nursing action is appropriate for this prescription?",
       "options": [
-        "Draw blood for an aPTT level 1 hour prior to each scheduled subcutaneous injection.",
-        "Massage the injection site firmly for 2 minutes after withdrawing the needle to enhance absorption.",
-        "Administer the injection into the abdominal fatty tissue at least 5 cm away from the umbilicus without aspirating.",
-        "Hold the dose if the patient's international normalized ratio (INR) is below 2.0."
+        "Draw blood for an aPTT level 1 hour before each scheduled subcutaneous injection.",
+        "Aspirate the plunger before injecting and apply firm pressure with gentle massage.",
+        "Inject into abdominal fatty tissue at least 5 cm from the umbilicus without aspirating.",
+        "Withhold the scheduled dose if the patient's morning international normalized ratio is 1.5."
       ],
       "answer": 2,
       "rationale": "Subcutaneous heparin and LMWHs should be injected deep into subcutaneous fatty tissue on the abdomen at least 5 cm away from the umbilicus, scars, or wounds, without aspirating or massaging, to prevent hematoma formation. Routine aPTT monitoring is not required for prophylactic subcutaneous doses of 5 000 units every 8 to 12 hours, and INR monitors warfarin rather than heparin."
@@ -47,15 +47,15 @@
       "id": "coag-mc-004",
       "type": "multiple-choice",
       "topic": "Heparin-Induced Thrombocytopenia",
-      "prompt": "A patient has been receiving intravenous unfractionated heparin for 6 days. Today's complete blood count reveals that the platelet count has dropped from a baseline of 260 × 10⁹/L to 98 × 10⁹/L. What is the nurse's priority action?",
+      "prompt": "A patient has been receiving intravenous unfractionated heparin for 6 days. Today's complete blood count reveals that the platelet count has dropped from a baseline of 260 \u00d7 10\u2079/L to 98 \u00d7 10\u2079/L. What is the nurse's priority action?",
       "options": [
-        "Continue the infusion as ordered because a >50% platelet drop is an expected therapeutic effect.",
-        "Switch the intravenous heparin to subcutaneous enoxaparin using a unit-for-unit conversion.",
-        "Administer oral vitamin K immediately to restore normal platelet production in the bone marrow.",
-        "Hold the heparin infusion and notify the health care provider immediately of suspected type II HIT."
+        "Continue the infusion at the current rate and recheck the platelet count in 24 hours.",
+        "Transition the intravenous heparin to subcutaneous enoxaparin at a weight-based dose.",
+        "Reduce the heparin infusion rate by 50% and request an order for a platelet transfusion.",
+        "Stop the heparin infusion and notify the health care provider of suspected type II HIT."
       ],
       "answer": 3,
-      "rationale": "An acute reduction in platelet count of more than 50% from baseline indicates type II heparin-induced thrombocytopenia (HIT), which requires immediate discontinuation of heparin due to the risk of fatal paradoxical thrombosis. Direct thrombin inhibitors (such as argatroban or bivalirudin), danaparoid, or fondaparinux are used instead; LMWHs and unit-for-unit conversions are unsafe, and vitamin K is the antidote for warfarin."
+      "rationale": "An acute reduction in platelet count of more than 50% from baseline indicates type II heparin-induced thrombocytopenia (HIT), which requires immediate discontinuation of heparin due to the risk of fatal paradoxical thrombosis. Direct thrombin inhibitors (such as argatroban or bivalirudin), danaparoid, or fondaparinux are used instead; LMWHs are unsafe in HIT."
     },
     {
       "id": "coag-mc-005",
@@ -69,7 +69,7 @@
         "90 mg"
       ],
       "answer": 0,
-      "rationale": "Protamine sulphate reverses unfractionated heparin at a ratio of 1 mg of protamine sulphate for every 100 units of heparin. To neutralize 4 500 units of heparin, the nurse calculates 4 500 units ÷ 100 units/mg = 45 mg."
+      "rationale": "Protamine sulphate reverses unfractionated heparin at a ratio of 1 mg of protamine sulphate for every 100 units of heparin. To neutralize 4 500 units of heparin, the nurse calculates 4 500 units \u00f7 100 units/mg = 45 mg."
     },
     {
       "id": "coag-mc-006",
@@ -77,10 +77,10 @@
       "topic": "Anticoagulant Reversal Agents",
       "prompt": "The nurse is administering intravenous protamine sulphate to reverse a severe enoxaparin overdose. Which adverse effect can occur if protamine sulphate is infused too rapidly?",
       "options": [
-        "Severe hypertension and reflex tachycardia",
-        "Acute hypotension, bradycardia, dyspnea, and flushing",
-        "Hyperkalemia and peaked T waves on the electrocardiogram",
-        "Acute hepatic necrosis and jaundice"
+        "Reflex hypertension, sinus tachycardia, and facial pallor",
+        "Acute hypotension, bradycardia, dyspnea, and skin flushing",
+        "Hyperkalemia, muscle twitching, and peaked T waves on ECG",
+        "Bronchospasm, severe urticaria, and acute urinary retention"
       ],
       "answer": 1,
       "rationale": "Too-rapid intravenous administration of protamine sulphate can cause acute hypotensive episodes, bradycardia, dyspnea, and transient feelings of warmth and flushing. Vital signs must be monitored closely during administration."
@@ -91,10 +91,10 @@
       "topic": "Low-Molecular-Weight Heparins",
       "prompt": "Why do low-molecular-weight heparins (LMWHs) such as enoxaparin (Lovenox) and dalteparin (Fragmin) not require routine aPTT laboratory monitoring like unfractionated heparin?",
       "options": [
-        "They selectively inhibit vitamin K epoxide reductase in the liver rather than circulating clotting factors.",
-        "They are completely inactivated by gastric acid before reaching the systemic circulation.",
-        "They have a smaller molecular structure with greater specificity for factor Xa, producing a predictable anticoagulant response.",
-        "They act exclusively by dissolving fibrin threads at the site of an established thrombus."
+        "They inhibit hepatic vitamin K epoxide reductase rather than circulating clotting factors.",
+        "They undergo rapid first-pass hepatic clearance with minimal systemic factor IIa activity.",
+        "They have greater specificity for factor Xa and produce a predictable anticoagulant response.",
+        "They bind reversibly to platelet glycoprotein IIb/IIIa receptors with a fixed plasma half-life."
       ],
       "answer": 2,
       "rationale": "LMWHs are smaller fragments with much greater specificity for activated factor X (Xa) than for thrombin (factor IIa), high bioavailability, and a longer half-life, resulting in a predictable anticoagulant response that eliminates the need for routine aPTT monitoring."
@@ -105,8 +105,8 @@
       "topic": "Low-Molecular-Weight Heparins",
       "prompt": "A patient who underwent total knee arthroplasty has an indwelling epidural catheter for postoperative analgesia. The surgical team removes the epidural catheter at 0900. What is the earliest time the nurse may safely administer the prescribed subcutaneous dalteparin (Fragmin)?",
       "options": [
-        "Immediately at 0900 while applying pressure to the lumbar site",
-        "At 0930 after verifying motor function in both legs",
+        "At 0930, at least 30 minutes after removal of the epidural catheter",
+        "At 1000, at least 1 hour after removal of the epidural catheter",
         "At 2100, at least 12 hours after removal of the epidural catheter",
         "At 1100, at least 2 hours after removal of the epidural catheter"
       ],
@@ -125,7 +125,7 @@
         "1.98 mL"
       ],
       "answer": 0,
-      "rationale": "First, convert weight in pounds to kilograms: 198 lb ÷ 2.2 lb/kg = 90 kg. At 1 mg/kg per dose, the patient requires 90 mg every 12 hours. Using the concentration of 100 mg/mL, 90 mg ÷ 100 mg/mL = 0.9 mL."
+      "rationale": "First, convert weight in pounds to kilograms: 198 lb \u00f7 2.2 lb/kg = 90 kg. At 1 mg/kg per dose, the patient requires 90 mg every 12 hours. Using the concentration of 100 mg/mL, 90 mg \u00f7 100 mg/mL = 0.9 mL."
     },
     {
       "id": "coag-mc-010",
@@ -135,8 +135,8 @@
       "options": [
         "Allergies to eggs, soybeans, or penicillins",
         "Allergies to pork products, sulphites, or benzyl alcohol",
-        "Allergies to shellfish, iodine, or latex",
-        "Allergies to lactose, gluten, or tartrazine"
+        "Allergies to shellfish, povidone-iodine, or natural latex",
+        "Allergies to beef products, polysorbate 80, or tartrazine"
       ],
       "answer": 1,
       "rationale": "Heparins and LMWHs are derived from porcine mucosa and LMWH formulations contain sulphites and benzyl alcohol as preservatives; therefore, patients must be assessed for allergies to pork products, sulphites, and benzyl alcohol."
@@ -147,10 +147,10 @@
       "topic": "Warfarin",
       "prompt": "A patient diagnosed with a pulmonary embolism is started on both a continuous intravenous heparin infusion and oral warfarin (Coumadin) 5 mg daily. The patient asks the nurse, 'Why am I getting both an IV blood thinner and a pill at the same time?' Which explanation by the nurse is best?",
       "options": [
-        "'Warfarin dissolves the clot in your lungs while heparin keeps your platelets from sticking together.'",
-        "'Taking both drugs together reduces the risk that you will need laboratory blood draws during your hospital stay.'",
-        "'Warfarin takes 4 to 5 days to reach its full effect as existing clotting factors are cleared, so heparin protects you in the meantime.'",
-        "'Heparin prevents warfarin from irritating your stomach lining during the first week of treatment.'"
+        "'Warfarin dissolves the existing clot in your lungs while heparin prevents new platelet plugs.'",
+        "'Combining a low dose of each medication lowers the risk of bleeding into your digestive tract.'",
+        "'Warfarin takes several days to reach full effect, so heparin protects you during that waiting period.'",
+        "'Heparin neutralizes clotting factors in your veins while warfarin clears them from your arteries.'"
       ],
       "answer": 2,
       "rationale": "Warfarin inhibits the hepatic synthesis of vitamin K-dependent clotting factors (II, VII, IX, X) and takes 4 to 7 days to reach full therapeutic effect. Overlapping parenteral heparin with warfarin (bridge therapy) provides immediate anticoagulation until the INR is in the therapeutic range."
@@ -161,13 +161,13 @@
       "topic": "Warfarin",
       "prompt": "The nurse is reviewing morning laboratory results for four patients taking daily oral warfarin (Coumadin). Which patient has an INR within the expected therapeutic target range for their specific indication?",
       "options": [
-        "A patient with nonvalvular atrial fibrillation whose INR is 1.1",
-        "A patient receiving thromboprevention after hip surgery whose INR is 1.3",
-        "A patient being treated for a first-time calf DVT whose INR is 4.6",
-        "A patient with a mechanical mitral heart valve whose INR is 3.1"
+        "A patient with nonvalvular atrial fibrillation whose morning INR is 1.2",
+        "A patient receiving thromboprevention after hip surgery whose INR is 1.4",
+        "A patient being treated for a first-time proximal calf DVT whose INR is 4.6",
+        "A patient with a mechanical mitral heart valve whose morning INR is 3.1"
       ],
       "answer": 3,
-      "rationale": "For most indications (e.g., atrial fibrillation, DVT), the target INR on warfarin is 2.0 to 3.0; for patients with mechanical heart valves or recurrent systemic embolism, the target INR is 2.5 to 3.5 (middle value of 3.0). An INR of 1.1 or 1.3 is near normal/subtherapeutic, and 4.6 is supratherapeutic."
+      "rationale": "For most indications (e.g., atrial fibrillation, DVT), the target INR on warfarin is 2.0 to 3.0; for patients with mechanical heart valves or recurrent systemic embolism, the target INR is 2.5 to 3.5 (middle value of 3.0). An INR of 1.2 or 1.4 is subtherapeutic, and 4.6 is supratherapeutic."
     },
     {
       "id": "coag-mc-013",
@@ -175,10 +175,10 @@
       "topic": "Warfarin",
       "prompt": "A patient stabilised on warfarin (Coumadin) 6 mg daily for chronic atrial fibrillation develops ventricular dysrhythmias and is prescribed oral amiodarone hydrochloride. What adjustment to the patient's warfarin regimen should the nurse anticipate?",
       "options": [
-        "Reducing the warfarin dose by approximately half because amiodarone increases the INR by about 50%",
-        "Doubling the warfarin dose because amiodarone induces hepatic metabolism of warfarin",
-        "Discontinuing warfarin permanently because amiodarone possesses intrinsic factor Xa inhibitory activity",
-        "Administering daily oral vitamin K supplements alongside the current 6 mg warfarin dose"
+        "Reduce the warfarin dose by half because amiodarone increases the INR by about 50%.",
+        "Double the warfarin dose because amiodarone induces hepatic metabolism of warfarin.",
+        "Switch warfarin to dabigatran because amiodarone blocks hepatic VKORC1 binding sites.",
+        "Maintain the current warfarin dose and add a daily oral vitamin K1 supplement of 5 mg."
       ],
       "answer": 0,
       "rationale": "Amiodarone inhibits the metabolism of warfarin and displaces it from protein-binding sites, leading to an approximate 50% increase in the INR. When amiodarone is added to warfarin therapy, it is recommended that the warfarin dose be cut in half and the INR monitored closely."
@@ -189,13 +189,13 @@
       "topic": "Warfarin",
       "prompt": "The nurse is providing dietary teaching to a patient newly prescribed warfarin (Coumadin). Which statement by the patient indicates an accurate understanding of dietary vitamin K intake?",
       "options": [
-        "'I must completely eliminate all green vegetables like spinach and broccoli from my diet forever.'",
-        "'I should keep my intake of leafy green vegetables consistent from week to week rather than making sudden changes.'",
-        "'I should drink several glasses of cranberry juice and green tea every day to keep my INR stable.'",
-        "'Eating more kale and Brussels sprouts will make my blood thinner and increase my risk of bruising.'"
+        "'I will avoid leafy green vegetables such as spinach, kale, and broccoli while on this drug.'",
+        "'I will keep my intake of leafy green vegetables consistent from week to week without sudden changes.'",
+        "'I will drink cranberry juice or green tea with meals to help keep my INR within the target range.'",
+        "'I will eat extra servings of Brussels sprouts and cabbage if I notice easy bruising on my arms.'"
       ],
       "answer": 1,
-      "rationale": "Patients taking warfarin do not need to avoid all leafy green vegetables, but they must maintain a consistent dietary intake of vitamin K-rich foods so their maintenance warfarin dose keeps the INR steady. Sudden increases in vitamin K intake decrease the INR (reducing warfarin's effect), and beverages like green tea, cranberry juice, and alcohol should be avoided as they alter anticoagulation."
+      "rationale": "Patients taking warfarin do not need to avoid leafy green vegetables, but they must maintain a consistent dietary intake of vitamin K-rich foods so their maintenance warfarin dose keeps the INR steady. Sudden increases in vitamin K intake decrease the INR (reducing warfarin's effect), and beverages like green tea, cranberry juice, and alcohol should be avoided as they alter anticoagulation."
     },
     {
       "id": "coag-mc-015",
@@ -203,10 +203,10 @@
       "topic": "Warfarin Interactions",
       "prompt": "During a clinic visit, a patient taking warfarin (Coumadin) mentions using several natural health products and over-the-counter remedies. Which product decreases the INR and increases the risk of blood clot formation when taken with warfarin?",
       "options": [
-        "Ginkgo biloba extract",
-        "Garlic capsules",
-        "St. John's wort or ginseng (such as in Cold-FX)",
-        "Dong quai"
+        "Ginkgo biloba leaf extract",
+        "Deodorized garlic capsules",
+        "St. John's wort or ginseng",
+        "Concentrated dong quai root"
       ],
       "answer": 2,
       "rationale": "According to Table 27.3, St. John's wort and ginseng (alone or in Cold-FX) decrease the INR and increase the risk of clotting when taken with warfarin. Conversely, dong quai, garlic, and ginkgo increase the INR and bleeding risk."
@@ -217,10 +217,10 @@
       "topic": "Warfarin",
       "prompt": "A patient taking warfarin (Coumadin) for a history of deep vein thrombosis is prescribed rifampin for a mycobacterial infection. How does rifampin interact with warfarin?",
       "options": [
-        "It inhibits CYP450 enzymes, causing acute warfarin toxicity and hemorrhage.",
-        "It directly chelates ionized calcium in the intrinsic clotting cascade.",
-        "It binds warfarin in the gastrointestinal tract, preventing its absorption.",
-        "It induces hepatic metabolizing enzymes, decreasing the anticoagulant effect of warfarin."
+        "It inhibits hepatic CYP2C9 enzymes and increases the risk of severe bleeding.",
+        "It displaces warfarin from plasma protein-binding sites and raises the INR level.",
+        "It binds warfarin in the small intestine and prevents its systemic absorption.",
+        "It induces hepatic metabolizing enzymes and decreases the anticoagulant effect."
       ],
       "answer": 3,
       "rationale": "Rifampin, barbiturates, carbamazepine, and phenytoin cause hepatic enzyme induction, which accelerates warfarin metabolism and decreases its anticoagulant effect. Cholestyramine and sucralfate impair warfarin absorption in the GI tract."
@@ -231,10 +231,10 @@
       "topic": "Anticoagulant Reversal Agents",
       "prompt": "A patient presents to the emergency department with epistaxis, hematuria, and an INR of 8.4 resulting from a warfarin overdose. The prescriber orders intravenous vitamin K1 (phytonadione). Why do current guidelines recommend using the lowest effective dose of vitamin K and diluting intravenous doses for slow infusion over 30 minutes?",
       "options": [
-        "High doses cause warfarin resistance for up to 7 days, and rapid IV administration carries a risk of anaphylaxis.",
-        "High doses trigger acute type II thrombocytopenia, and rapid IV infusion causes severe hypokalemia.",
-        "High doses permanently destroy hepatic VKORC1 enzymes, and rapid IV infusion causes seizures.",
-        "High doses lyse established clots, and rapid IV infusion causes acute renal tubular necrosis."
+        "High doses cause warfarin resistance for 7 days, and rapid IV infusion risks anaphylaxis.",
+        "High doses trigger acute type II thrombocytopenia, and rapid IV infusion causes hypokalemia.",
+        "High doses saturate hepatic VKORC1 enzyme complexes, and rapid IV infusion causes seizures.",
+        "High doses provoke rebound systemic fibrinolysis, and rapid IV infusion causes renal necrosis."
       ],
       "answer": 0,
       "rationale": "Giving high doses of vitamin K can cause warfarin resistance for up to 7 days, preventing effective re-anticoagulation with warfarin during that period. Furthermore, intravenous vitamin K carries a risk of anaphylaxis (dyspnea, hypotension, shock, cardiac arrest), which is minimized by diluting it and infusing slowly over 30 minutes."
@@ -245,10 +245,10 @@
       "topic": "Anticoagulant Special Populations",
       "prompt": "A 29-year-old patient who is at 14 weeks' gestation develops an acute lower-extremity deep vein thrombosis. Which anticoagulant regimen does the nurse anticipate for this patient?",
       "options": [
-        "Oral warfarin (Coumadin) titrated to an INR of 2.0 to 3.0",
-        "Parenteral heparin therapy, because warfarin is strongly contraindicated in pregnancy",
-        "Oral aspirin 325 mg combined with warfarin 2 mg daily",
-        "No anticoagulant therapy until after delivery due to universal teratogenicity"
+        "Oral warfarin sodium titrated to a lower target INR of 1.5 to 2.0",
+        "Parenteral heparin therapy, as warfarin is contraindicated in pregnancy",
+        "Oral dabigatran etexilate 75 mg twice daily through the second trimester",
+        "Enteric-coated aspirin 325 mg daily combined with graduated compression"
       ],
       "answer": 1,
       "rationale": "Warfarin is strongly contraindicated in pregnancy because it crosses the placenta and causes teratogenic effects and fetal hemorrhage. When anticoagulation is required during pregnancy, heparin is the drug of choice."
@@ -259,10 +259,10 @@
       "topic": "Pharmacogenomics of Warfarin",
       "prompt": "Prior to initiating warfarin (Coumadin) therapy, a patient undergoes pharmacogenetic testing. Variations in which genes alter warfarin metabolism and sensitivity, helping clinicians select an appropriate initial dosage?",
       "options": [
-        "HLA-B*1502 and TPMT",
-        "BRCA1 and BRCA2",
+        "HLA-B*1502 and TPMT alleles",
+        "CYP2D6 and UGT1A1 isoforms",
         "CYP2C9 (CYP2CP) and VKORC1",
-        "ACE and APOE4"
+        "SLCO1B1 and G6PD variants"
       ],
       "answer": 2,
       "rationale": "About one third of patients metabolize warfarin differently due to variations in the CYP2C9 (referred to as CYP2CP in text) and VKORC1 genes. Genetic testing helps determine the initial warfarin dosage, while maintenance dosing is still guided by the INR."
@@ -273,13 +273,13 @@
       "topic": "Dabigatran",
       "prompt": "The nurse is providing discharge instructions to a patient prescribed dabigatran etexilate mesylate (Pradaxa) for stroke prevention in nonvalvular atrial fibrillation. Which instruction regarding medication storage and administration is essential?",
       "options": [
-        "'Transfer a week's worth of capsules into your daily plastic pill organizer every Sunday morning.'",
-        "'Have your blood drawn every week for an INR check so your dose can be adjusted.'",
-        "'Open the capsule and sprinkle the pellets onto applesauce if you have trouble swallowing pills.'",
-        "'Keep the capsules in the original bottle or blister package with the cap tightly closed to protect them from moisture, and use within 4 months of opening.'"
+        "'Transfer a 7-day supply of capsules into a daily pillbox organizer to prevent missed doses.'",
+        "'Schedule a weekly prothrombin time and INR blood draw so your dose can be titrated.'",
+        "'Open the capsule and sprinkle the pellets onto soft food if swallowing becomes difficult.'",
+        "'Keep capsules in the original container to protect from moisture and use within 4 months.'"
       ],
       "answer": 3,
-      "rationale": "Dabigatran breaks down easily and loses potency when exposed to moisture. It must be stored in its original bottle (which contains a desiccant in the cap) or blister pack, kept tightly closed, never placed in pillboxes/organizers, and used within 4 months of opening the bottle. It does not require routine coagulation monitoring."
+      "rationale": "Dabigatran breaks down easily and loses potency when exposed to moisture. It must be stored in its original bottle (which contains a desiccant in the cap) or blister pack, kept tightly closed, not placed in pillboxes/organizers, and used within 4 months of opening the bottle. It does not require routine coagulation monitoring."
     },
     {
       "id": "coag-mc-021",
@@ -287,10 +287,10 @@
       "topic": "Dabigatran",
       "prompt": "A 74-year-old patient with nonvalvular atrial fibrillation is prescribed dabigatran etexilate mesylate (Pradaxa). Laboratory testing reveals the patient's creatinine clearance is 24 mL/min. What dosage modification mentioned in the textbook is indicated?",
       "options": [
-        "Reduce the dosage from 150 mg twice daily to 75 mg twice daily",
-        "Increase the dosage from 150 mg twice daily to 300 mg twice daily",
-        "Administer the standard 150 mg dose via intramuscular injection instead of orally",
-        "Add phenytoin to accelerate hepatic clearance of the prodrug"
+        "Reduce the dosage from 150 mg twice daily to 75 mg twice daily.",
+        "Reduce the dosage from 150 mg twice daily to 110 mg once daily.",
+        "Extend the dosing interval from every 12 hours to every 24 hours.",
+        "Withhold dabigatran and transition to subcutaneous fondaparinux."
       ],
       "answer": 0,
       "rationale": "Dabigatran is excreted extensively by the kidneys. The standard dose of 150 mg twice daily must be reduced to 75 mg twice daily if the patient's creatinine clearance is less than 30 mL/min."
@@ -301,10 +301,10 @@
       "topic": "Selective Factor Xa Inhibitors",
       "prompt": "The nurse is preparing to administer fondaparinux sodium (Arixtra) subcutaneously for DVT prophylaxis to a postoperative orthopedic patient. Which patient finding is a contraindication to administering fondaparinux?",
       "options": [
-        "Platelet count of 210 × 10⁹/L and hemoglobin of 132 g/L",
-        "Body weight of 46 kg and a creatinine clearance of 25 mL/min",
-        "10 hours elapsed since completion of the orthopedic surgery",
-        "History of type II heparin-induced thrombocytopenia (HIT)"
+        "Platelet count of 210 \u00d7 10\u2079/L and serum hemoglobin of 128 g/L",
+        "Body weight of 46 kg and creatinine clearance of 25 mL/min",
+        "Elapsed time of 10 hours since completion of orthopedic surgery",
+        "Documented history of type II heparin-induced thrombocytopenia"
       ],
       "answer": 1,
       "rationale": "Fondaparinux is contraindicated in patients with a body weight less than 50 kg or severe renal impairment (creatinine clearance less than 30 mL/min). It should not be given for at least 6 to 8 hours after surgery, so 10 hours post-op is acceptable, and it can be used in patients with HIT."
@@ -315,13 +315,13 @@
       "topic": "Selective Factor Xa Inhibitors",
       "prompt": "A patient receiving subcutaneous fondaparinux sodium (Arixtra) for treatment of a pulmonary embolism has a daily complete blood count drawn. At what platelet count threshold should fondaparinux therapy be discontinued?",
       "options": [
-        "Below 250 × 10⁹/L (250 000/µL)",
-        "Below 180 × 10⁹/L (180 000/µL)",
-        "Below 100 × 10⁹/L (100 000/µL)",
-        "Below 20 × 10⁹/L (20 000/µL)"
+        "Below 250 \u00d7 10\u2079/L (250 000/\u00b5L)",
+        "Below 150 \u00d7 10\u2079/L (150 000/\u00b5L)",
+        "Below 100 \u00d7 10\u2079/L (100 000/\u00b5L)",
+        "Below 50 \u00d7 10\u2079/L (50 000/\u00b5L)"
       ],
       "answer": 2,
-      "rationale": "Thrombocytopenia can occur with fondaparinux therapy, and the drug should be stopped if the platelet count falls below 100 000 platelets per microlitre (100 × 10⁹/L)."
+      "rationale": "Thrombocytopenia can occur with fondaparinux therapy, and the drug should be stopped if the platelet count falls below 100 000 platelets per microlitre (100 \u00d7 10\u2079/L)."
     },
     {
       "id": "coag-mc-024",
@@ -329,10 +329,10 @@
       "topic": "Direct Thrombin Inhibitors",
       "prompt": "A patient with active heparin-induced thrombocytopenia (HIT) requires continuous parenteral anticoagulation and also has severe hepatic dysfunction. The prescriber orders an intravenous infusion of argatroban. Which consideration applies to argatroban therapy in this patient?",
       "options": [
-        "Argatroban must be administered intramuscularly every 6 hours to bypass portal circulation.",
-        "Argatroban is contraindicated in hepatic impairment and must be replaced with unfractionated heparin.",
-        "The infusion requires no laboratory monitoring because argatroban does not affect the aPTT.",
-        "The dosage of argatroban must be reduced because the drug is metabolized in the liver."
+        "Administer argatroban subcutaneously every 12 hours to bypass first-pass metabolism.",
+        "Replace argatroban with fondaparinux because argatroban requires hepatic activation.",
+        "Monitor the international normalized ratio every 6 hours instead of checking the aPTT.",
+        "Administer a reduced dosage of argatroban because the drug is metabolized in the liver."
       ],
       "answer": 3,
       "rationale": "Argatroban is a synthetic direct thrombin inhibitor given intravenously to treat HIT (titrated to an aPTT of 1.5 to 3 times baseline). Because it is hepatically cleared, a lower dosage must be used in patients with severe liver dysfunction."
@@ -343,10 +343,10 @@
       "topic": "Novel Oral Anticoagulants",
       "prompt": "A patient is prescribed rivaroxaban (Xarelto) after undergoing elective hip replacement surgery. How do rivaroxaban and apixaban (Eliquis) prevent thrombus formation?",
       "options": [
-        "They are oral direct-acting selective factor Xa inhibitors.",
-        "They bind reversibly to the lysine binding site of plasminogen.",
+        "They act as oral direct-acting selective inhibitors of clotting factor Xa.",
+        "They bind reversibly to the lysine-binding site on circulating plasminogen.",
         "They block glycoprotein IIb/IIIa receptors on the surface of activated platelets.",
-        "They stimulate endothelial release of von Willebrand factor and factor VIII."
+        "They inhibit hepatic vitamin K epoxide reductase to deplete prothrombin levels."
       ],
       "answer": 0,
       "rationale": "Rivaroxaban (Xarelto) and apixaban (Eliquis) are oral direct-acting selective factor Xa inhibitors approved for VTE prophylaxis after hip or knee surgery, treatment of DVT/PE, and stroke prevention in atrial fibrillation."
@@ -357,10 +357,10 @@
       "topic": "Antiplatelet Drugs: Aspirin",
       "prompt": "A patient taking daily low-dose aspirin (81 mg) for transient ischemic attack (TIA) prophylaxis is scheduled for an elective surgical procedure. Why must aspirin typically be withheld for 5 to 7 days prior to surgery?",
       "options": [
-        "Aspirin has an elimination half-life of 72 hours and accumulates in adipose tissue.",
-        "Aspirin irreversibly inhibits platelet cyclooxygenase and thromboxane A2 synthesis for the 7-day lifespan of the platelet.",
-        "Aspirin suppresses bone marrow megakaryocytes for 1 week after each oral dose.",
-        "Aspirin depletes hepatic vitamin K stores, requiring 7 days for clotting factor resynthesis."
+        "Aspirin has a 72-hour plasma half-life and accumulates in subcutaneous adipose tissue.",
+        "Aspirin irreversibly inhibits platelet cyclooxygenase for the 7-day platelet lifespan.",
+        "Aspirin suppresses bone marrow megakaryocyte maturation for 7 days after an oral dose.",
+        "Aspirin depletes hepatic prothrombin stores and requires 1 week for factor resynthesis."
       ],
       "answer": 1,
       "rationale": "Aspirin irreversibly acetylates and inhibits cyclooxygenase in platelets, preventing the formation of thromboxane A2 (TXA2). Because platelets cannot regenerate this enzyme, the antiplatelet effect lasts for the lifespan of the platelet (approximately 7 days)."
@@ -371,10 +371,10 @@
       "topic": "Antiplatelet Drugs: Aspirin",
       "prompt": "Which nursing instruction is appropriate for an adult patient taking daily enteric-coated aspirin for myocardial infarction prophylaxis?",
       "options": [
-        "'Chew or crush the enteric-coated tablet thoroughly so it absorbs faster in your stomach.'",
-        "'Give this medication to your teenagers if they develop a fever or flu-like illness.'",
-        "'Swallow the tablet whole with 180 to 240 mL of water and food, remain upright for 30 minutes, and discard the bottle if it smells strongly like vinegar.'",
-        "'Take ibuprofen alongside your aspirin every day to protect your stomach lining from ulcers.'"
+        "'Chew the enteric-coated tablet with antacids so it dissolves rapidly in the stomach.'",
+        "'Take the tablet at bedtime on an empty stomach and lie flat to prevent dizziness.'",
+        "'Swallow the tablet whole with water and food, and discard it if it smells like vinegar.'",
+        "'Alternate your daily aspirin with ibuprofen to protect your gastric mucosa from ulcers.'"
       ],
       "answer": 2,
       "rationale": "Extended-release or enteric-coated aspirin must be swallowed whole without crushing or chewing, taken with 180 to 240 mL of water and food to reduce GI upset, and followed by remaining upright for up to 30 minutes to prevent esophageal irritation. A strong vinegar-like odour indicates chemical breakdown (hydrolysis to salicylic and acetic acid), so the drug must be discarded."
@@ -385,10 +385,10 @@
       "topic": "Antiplatelet Drugs: P2Y12 Inhibitors",
       "prompt": "A patient who underwent coronary stent placement is prescribed dual antiplatelet therapy with aspirin and clopidogrel bisulphate (Plavix). How does clopidogrel inhibit platelet aggregation?",
       "options": [
-        "It competitive inhibits vitamin K in the large intestine.",
-        "It increases red blood cell flexibility and stimulates prostacyclin release like methylxanthines.",
-        "It converts circulating plasminogen into plasmin to dissolve coronary plaques.",
-        "It blocks ADP-mediated activation of the glycoprotein IIb/IIIa receptor complex on the platelet membrane."
+        "It competitively inhibits bacterial vitamin K synthesis in the gastrointestinal tract.",
+        "It increases red blood cell flexibility and reduces whole-blood viscosity in arteries.",
+        "It directly inhibits circulating thrombin to prevent fibrinogen conversion to fibrin.",
+        "It blocks ADP-mediated activation of the glycoprotein IIb/IIIa complex on platelets."
       ],
       "answer": 3,
       "rationale": "Clopidogrel is an ADP (P2Y12) receptor inhibitor that alters the platelet membrane so it cannot receive the ADP signal needed to activate the GP IIb/IIIa receptor complex that binds fibrinogen and aggregates platelets."
@@ -399,10 +399,10 @@
       "topic": "Antiplatelet Drugs: P2Y12 Inhibitors",
       "prompt": "A patient with acute coronary syndrome is prescribed ticagrelor (Brilinta) along with daily aspirin. Which prescription parameter or adverse effect is specifically associated with ticagrelor in the textbook?",
       "options": [
-        "It must be avoided in patients taking more than 100 mg of aspirin daily, and it can cause dyspnea upon initiation and elevated uric acid levels.",
-        "It must only be administered by continuous intravenous infusion in the cardiac catheterization laboratory.",
-        "It commonly causes blue-grey skin discolouration and pulmonary fibrosis after 6 months of therapy.",
-        "It requires daily INR monitoring to maintain a target ratio between 2.5 and 3.5."
+        "It is avoided with aspirin doses above 100 mg/day and can cause dyspnea and elevated uric acid.",
+        "It is administered by continuous IV infusion and requires aPTT monitoring every 6 hours.",
+        "It requires hepatic activation via CYP2C19 and must be taken on an empty stomach with water.",
+        "It is contraindicated in patients with gout and requires weekly prothrombin time monitoring."
       ],
       "answer": 0,
       "rationale": "Ticagrelor (Brilinta) is an oral P2Y12 antiplatelet drug indicated for acute coronary syndrome; it must be avoided in patients taking maintenance aspirin doses greater than 100 mg daily, and its notable adverse effects include dyspnea on initiation and elevated uric acid levels."
@@ -413,13 +413,13 @@
       "topic": "Antiplatelet Drugs",
       "prompt": "The nurse is reviewing baseline complete blood counts for a patient scheduled to start oral antiplatelet therapy with clopidogrel (Plavix). At or below which platelet count should the nurse notify the health care provider because antiplatelet therapy will likely be withheld or discontinued?",
       "options": [
-        "150 × 10⁹/L",
-        "80 × 10⁹/L",
-        "200 × 10⁹/L",
-        "250 × 10⁹/L"
+        "150 \u00d7 10\u2079/L",
+        "80 \u00d7 10\u2079/L",
+        "120 \u00d7 10\u2079/L",
+        "200 \u00d7 10\u2079/L"
       ],
       "answer": 1,
-      "rationale": "According to the Nursing Process assessment guidelines for oral antiplatelet drugs, if platelet counts are at or fall below 80 × 10⁹/L, the nurse must notify the health care provider, as antiplatelet therapy will most likely not be initiated or will be discontinued."
+      "rationale": "According to the Nursing Process assessment guidelines for oral antiplatelet drugs, if platelet counts are at or fall below 80 \u00d7 10\u2079/L, the nurse must notify the health care provider, as antiplatelet therapy will most likely not be initiated or will be discontinued."
     },
     {
       "id": "coag-mc-031",
@@ -427,13 +427,13 @@
       "topic": "Glycoprotein IIb/IIIa Inhibitors",
       "prompt": "A patient with non-ST-segment elevation myocardial infarction is receiving an intravenous infusion of eptifibatide (Integrilin) prior to percutaneous coronary intervention. Before or during GP IIb/IIIa inhibitor therapy, a drop in the platelet count below which threshold requires contacting the health care provider for further orders?",
       "options": [
-        "180 × 10⁹/L",
-        "140 × 10⁹/L",
-        "90 × 10⁹/L",
-        "220 × 10⁹/L"
+        "180 \u00d7 10\u2079/L",
+        "140 \u00d7 10\u2079/L",
+        "90 \u00d7 10\u2079/L",
+        "220 \u00d7 10\u2079/L"
       ],
       "answer": 2,
-      "rationale": "For patients receiving GP IIb/IIIa inhibitors (eptifibatide, tirofiban, abciximab), if the platelet count falls below 90 × 10⁹/L before or during therapy, the nurse must contact the health care provider."
+      "rationale": "For patients receiving GP IIb/IIIa inhibitors (eptifibatide, tirofiban, abciximab), if the platelet count falls below 90 \u00d7 10\u2079/L before or during therapy, the nurse must contact the health care provider."
     },
     {
       "id": "coag-mc-032",
@@ -441,10 +441,10 @@
       "topic": "Glycoprotein IIb/IIIa Inhibitors",
       "prompt": "A patient is receiving an intravenous infusion of tirofiban hydrochloride (Aggrastat) in the coronary care unit. Which nursing intervention is required when administering tirofiban?",
       "options": [
-        "Administer concomitant intramuscular injections of ketorolac to prevent catheter-site pain.",
-        "Shake the vial vigorously for 5 minutes prior to administration and infuse exclusively with packed red blood cells.",
-        "Take blood pressure measurements in the lower extremities every 15 minutes to spare the brachial arteries.",
-        "Protect the IV solution from light, discard unused solution 24 hours after starting the infusion, and do not infuse any other drug in the same line except heparin."
+        "Administer prescribed analgesics via intramuscular injection to prevent venous oozing.",
+        "Agitate the vial vigorously before dilution and infuse in the same line as packed cells.",
+        "Obtain blood pressure readings in the lower extremities to spare the brachial arteries.",
+        "Protect the IV solution from light, discard after 24 hours, and co-infuse with heparin."
       ],
       "answer": 3,
       "rationale": "IV tirofiban must be protected from light, any unused solution must be discarded 24 hours after the infusion starts, and no other medications may be given through the same IV line except for heparin. Blood pressures should NOT be taken in the lower extremities after femoral catheterization/angioplasty, and IM injections are avoided."
@@ -455,10 +455,10 @@
       "topic": "Glycoprotein IIb/IIIa Inhibitors",
       "prompt": "A patient has just returned to the cardiac care unit following percutaneous transluminal coronary angioplasty (PTCA) with a femoral arterial vascular sheath in place and an infusion of abciximab (ReoPro) running through a 0.22-micron filter. Which nursing care measures are essential?",
       "options": [
-        "Maintain complete bedrest with the head of the bed at 30 degrees and the affected leg straight, and apply femoral artery pressure for at least 30 minutes once the sheath is removed.",
-        "Assist the patient to ambulate to the bathroom every 2 hours to prevent venous stasis while the femoral sheath is in place.",
-        "Flex the affected hip and knee to 90 degrees and apply warm compresses over the femoral insertion site.",
-        "Remove the femoral sheath immediately without applying manual pressure so that abciximab can perfuse the distal extremity."
+        "Maintain bedrest with the leg straight, and apply femoral pressure for 30 minutes after sheath removal.",
+        "Assist the patient to ambulate every 2 hours, and apply a warm compress after sheath removal.",
+        "Elevate the head of the bed to 60 degrees, and flex the affected hip and knee to prevent spasms.",
+        "Measure blood pressure in the affected leg every 15 minutes, and apply pressure for 5 minutes."
       ],
       "answer": 0,
       "rationale": "During abciximab infusion after PTCA, the solution is filtered with a low protein-binding 0.2- or 0.22-micron filter. While the vascular sheath is in place, the patient must remain on complete bedrest with the head of the bed elevated no more than 30 degrees and the affected leg kept straight. When the sheath is removed, manual or mechanical pressure is applied to the femoral artery for at least 30 minutes, followed by a pressure dressing."
@@ -469,10 +469,10 @@
       "topic": "Antiplatelet and Hemorheological Drugs",
       "prompt": "A patient with peripheral vascular disease and intermittent claudication is prescribed pentoxifylline (Trental). How does pentoxifylline improve tissue perfusion?",
       "options": [
-        "It directly activates antithrombin III to inhibit factors IXa, Xa, and XIa in the lower extremities.",
-        "It is a methylxanthine derivative (hemorheological drug) that reduces blood viscosity by increasing red blood cell flexibility and reducing platelet aggregation.",
-        "It chelates excess fibrinogen in the arterial circulation to dissolve atherosclerotic plaques.",
-        "It blocks alpha-1 adrenergic receptors on peripheral veins to increase venous capacitance."
+        "It activates antithrombin III to inhibit factors IXa and Xa in the peripheral vasculature.",
+        "It increases red blood cell flexibility and reduces platelet aggregation to lower viscosity.",
+        "It stimulates vascular plasminogen activators to lyse microvascular fibrin deposits in legs.",
+        "It blocks alpha-1 adrenergic receptors on femoral arteries to produce direct vasodilation."
       ],
       "answer": 1,
       "rationale": "Pentoxifylline (Trental) is a methylxanthine derivative and hemorheological drug that reduces blood viscosity by increasing red blood cell flexibility, inhibiting ADP/serotonin/platelet factor IV-mediated platelet aggregation, and stimulating prostacyclin synthesis."
@@ -483,10 +483,10 @@
       "topic": "Antiplatelet Drugs: Dipyridamole",
       "prompt": "A patient with a prosthetic heart valve is prescribed oral dipyridamole (Persantine) as an adjunct to warfarin. Which instruction should the nurse include when teaching the patient about dipyridamole?",
       "options": [
-        "'Stop taking your warfarin immediately because dipyridamole replaces the need for an anticoagulant.'",
-        "'Expect the medication to reach its full therapeutic effect within 15 minutes of your very first tablet.'",
-        "'Take the medication on an empty stomach, or with food if GI upset occurs, rise slowly from sitting or lying positions, and understand it may take 2 to 3 months to reach full therapeutic levels.'",
-        "'Lie flat for 60 minutes immediately after taking each dose to prevent severe hypertension.'"
+        "'Discontinue your oral warfarin once you start taking dipyridamole tablets three times daily.'",
+        "'Take each dose with a high-fat meal and expect full therapeutic protection within 48 hours.'",
+        "'Take with food if GI upset occurs, rise slowly, and note full effects take 2 to 3 months.'",
+        "'Lie flat for 60 minutes after each dose to prevent reflex tachycardia and hypertension.'"
       ],
       "answer": 2,
       "rationale": "Oral dipyridamole is recommended on an empty stomach (though it can be taken with food/crackers if GI upset or nausea occurs), can cause dizziness and orthostatic hypotension (requiring slow position changes), and may take up to 2 to 3 months of continuous therapy to reach therapeutic levels."
@@ -497,13 +497,13 @@
       "topic": "Thrombolytic Drugs",
       "prompt": "A patient arrives at the emergency department 90 minutes after the sudden onset of right-sided hemiplegia and aphasia. A head CT rules out hemorrhage, confirming an acute ischemic stroke. The patient weighs 80 kg, and the prescriber orders intravenous alteplase (Activase). According to the textbook dosage table, how should this dose be calculated and administered?",
       "options": [
-        "Intramuscular bolus of 50 mg into the deltoid muscle followed by oral aspirin immediately.",
-        "Total dose of 120 mg (1.5 mg/kg, no maximum) infused rapidly over 10 minutes, initiated within 12 hours of symptom onset.",
-        "Single subcutaneous injection of 80 mg into the anterior abdominal wall every 12 hours for 5 days.",
-        "Total dose of 72 mg (0.9 mg/kg, maximum 90 mg) over 60 minutes, with 10% (7.2 mg) given as an IV bolus over 1 minute, initiated within 3 hours of symptom onset."
+        "Administer 90 mg IV over 30 minutes, with 25% given as an initial bolus within 6 hours of onset.",
+        "Administer 120 mg IV over 90 minutes, with 50% given as an initial bolus within 12 hours of onset.",
+        "Administer 80 mg subcutaneously in two divided doses, initiated within 4.5 hours of symptom onset.",
+        "Administer 72 mg IV over 60 minutes, with 7.2 mg given as a 1-minute bolus within 3 hours of onset."
       ],
       "answer": 3,
-      "rationale": "For acute ischemic stroke, the adult IV dosage of alteplase is 0.9 mg/kg (not to exceed a maximum total dose of 90 mg) infused over 60 minutes, with 10% of the total dose administered as an initial IV bolus over 1 minute, and it must be given within 3 hours of symptom onset. For an 80-kg patient, 0.9 mg/kg × 80 kg = 72 mg total (7.2 mg bolus over 1 min)."
+      "rationale": "For acute ischemic stroke, the adult IV dosage of alteplase is 0.9 mg/kg (not to exceed a maximum total dose of 90 mg) infused over 60 minutes, with 10% of the total dose administered as an initial IV bolus over 1 minute, and it must be given within 3 hours of symptom onset. For an 80-kg patient, 0.9 mg/kg \u00d7 80 kg = 72 mg total (7.2 mg bolus over 1 min)."
     },
     {
       "id": "coag-mc-037",
@@ -511,13 +511,13 @@
       "topic": "Thrombolytic Drugs",
       "prompt": "Why do recombinant tissue plasminogen activators such as alteplase (Activase) and tenecteplase (TNKase) carry a lower risk of systemic bleeding and allergic reactions compared with older thrombolytic enzymes like streptokinase?",
       "options": [
-        "They are fibrin-specific (activating plasminogen primarily at the site of the fibrin clot) and are recombinant human proteins that do not trigger antigen-antibody reactions.",
-        "They inhibit factor Xa exclusively without converting plasminogen into plasmin.",
-        "They remain confined to the gastrointestinal tract and are never absorbed into systemic blood vessels.",
-        "They have an elimination half-life of 7 days, preventing sudden changes in fibrinogen levels."
+        "They are fibrin-specific recombinant human proteins that do not trigger antigen-antibody reactions.",
+        "They selectively inhibit factor Xa without converting circulating plasminogen into active plasmin.",
+        "They undergo rapid renal tubular secretion before systemic fibrinogen depletion can take place.",
+        "They have a prolonged 48-hour plasma half-life that prevents abrupt drops in fibrinogen levels."
       ],
       "answer": 0,
-      "rationale": "Alteplase and tenecteplase are recombinant human t-PA (rt-PA) products that exhibit fibrin-specificity—meaning the presence of fibrin in a clot stimulates conversion of plasminogen to plasmin locally rather than inducing a widespread systemic lytic state—and because t-PA occurs naturally in humans, it does not induce an antigen-antibody reaction like bacterial streptokinase."
+      "rationale": "Alteplase and tenecteplase are recombinant human t-PA (rt-PA) products that exhibit fibrin-specificity\u2014meaning the presence of fibrin in a clot stimulates conversion of plasminogen to plasmin locally rather than inducing a widespread systemic lytic state\u2014and because t-PA occurs naturally in humans, it does not induce an antigen-antibody reaction like bacterial streptokinase."
     },
     {
       "id": "coag-mc-038",
@@ -525,13 +525,13 @@
       "topic": "Thrombolytic Drugs",
       "prompt": "The nurse is preparing to reconstitute a vial of alteplase (Activase) for intravenous administration and planning post-infusion care. Which nursing action is appropriate?",
       "options": [
-        "Shake the vial vigorously for 2 minutes to dissolve the powder and administer a prophylactic intramuscular tetanus booster at the same time.",
-        "Gently roll (do not shake) the vial to mix the solution, avoid all intramuscular injections and unnecessary invasive procedures, and monitor fibrinogen, INR, and aPTT levels.",
-        "Mix the alteplase in the same syringe with warfarin sodium and infuse over 2 minutes.",
-        "Perform arterial blood gas punctures every 30 minutes to monitor the patient's oxygenation during the infusion."
+        "Shake the vial vigorously to dissolve the powder, and administer prophylactic IM analgesics.",
+        "Gently roll the vial to mix, avoid IM injections, and monitor fibrinogen, INR, and aPTT.",
+        "Reconstitute the powder with bacteriostatic saline, and infuse in the same line as heparin.",
+        "Draw arterial blood gases every 30 minutes, and apply cold packs to all venipuncture sites."
       ],
       "answer": 1,
-      "rationale": "When reconstituting thrombolytics with sodium chloride or D5W, the nurse must gently roll—never shake—the vial to maintain solution stability. IM injections and unnecessary invasive or arterial punctures are strictly avoided due to severe bleeding risk, and fibrinogen, INR, aPTT, and platelet counts are monitored."
+      "rationale": "When reconstituting thrombolytics with sodium chloride or D5W, the nurse must gently roll\u2014not shake\u2014the vial to maintain solution stability. IM injections and unnecessary invasive or arterial punctures are strictly avoided due to severe bleeding risk, and fibrinogen, INR, aPTT, and platelet counts are monitored."
     },
     {
       "id": "coag-mc-039",
@@ -540,7 +540,7 @@
       "prompt": "A patient with a central venous catheter has an occluded lumen that cannot be aspirated or flushed. Which specialized low-dose formulation of recombinant tissue plasminogen activator is used to restore patency to occluded intravenous or arterial lines?",
       "options": [
         "Trasylol (aprotinin)",
-        "Heparin Leo",
+        "Heparin Leo (heparin sodium)",
         "Cathflo Activase (alteplase)",
         "Thrombate III (antithrombin III)"
       ],
@@ -556,7 +556,7 @@
         "Desmopressin acetate",
         "Tranexamic acid",
         "Protamine sulphate",
-        "Heparin"
+        "Heparin sodium"
       ],
       "answer": 3,
       "rationale": "Alteplase has a short half-life of 5 minutes; once it lyses the thrombus and opens the occluded vessel, heparin is administered to prevent reocclusion of the affected blood vessel. Tranexamic acid, protamine sulphate, and desmopressin promote clotting or reverse anticoagulation."
@@ -567,10 +567,10 @@
       "topic": "Antifibrinolytic Drugs",
       "prompt": "A patient undergoing cardiothoracic surgery experiences excessive postoperative oozing from chest tube sites due to systemic hyperfibrinolysis. The surgeon orders intravenous tranexamic acid (Cyklokapron). How does tranexamic acid promote hemostasis?",
       "options": [
-        "It binds to the lysine binding site of plasminogen, displacing plasminogen from the fibrin surface and preventing plasmin from lysing the fibrin clot.",
+        "It binds the lysine site of plasminogen to prevent plasmin from lysing fibrin clots.",
         "It inhibits antithrombin III to accelerate the conversion of prothrombin to thrombin.",
-        "It blocks cyclooxygenase-1 in vascular endothelial cells to prevent prostacyclin synthesis.",
-        "It chelates circulating heparin molecules into an inactive salt complex."
+        "It blocks endothelial cyclooxygenase to inhibit local prostacyclin synthesis at wounds.",
+        "It stimulates hepatic synthesis of vitamin K-dependent clotting factors II, VII, and X."
       ],
       "answer": 0,
       "rationale": "Tranexamic acid (Cyklokapron) is a synthetic antifibrinolytic drug that forms a reversible complex with plasminogen and plasmin by binding to the lysine binding site of plasminogen, displacing it from the surface of fibrin so plasmin cannot lyse formed fibrin clots."
@@ -581,10 +581,10 @@
       "topic": "Antifibrinolytic Drugs",
       "prompt": "Which medical condition is an absolute contraindication to the administration of antifibrinolytic drugs such as tranexamic acid (Cyklokapron) or aprotinin (Trasylol)?",
       "options": [
-        "Hemophilia A requiring a dental extraction",
+        "Hemophilia A requiring a tooth extraction",
         "Disseminated intravascular coagulation (DIC)",
-        "Excessive oozing from surgical chest tubes",
-        "Bleeding secondary to thrombolytic drug overdose"
+        "Postoperative oozing after cardiac bypass surgery",
+        "Systemic hemorrhage following alteplase overdose"
       ],
       "answer": 1,
       "rationale": "Antifibrinolytic drugs are contraindicated in patients with disseminated intravascular coagulation (DIC) because preventing fibrin breakdown can worsen widespread microvascular thrombosis in DIC. They are indicated for surgical oozing, thrombolytic overdose bleeding, and dental extractions in hemophilia."
@@ -595,10 +595,10 @@
       "topic": "Antifibrinolytic Drugs",
       "prompt": "A female patient taking oral contraceptives is prescribed tranexamic acid (Cyklokapron) for severe bleeding. For which potential drug interaction should the nurse monitor this patient?",
       "options": [
-        "Acute adrenal insufficiency and severe hypoglycemia",
-        "Complete inactivation of the tranexamic acid, leading to uncontrolled hemorrhage",
+        "Accelerated hepatic clearance of estrogen leading to breakthrough uterine bleeding",
+        "Competitive antagonism of tranexamic acid resulting in persistent surgical oozing",
         "Additive procoagulant effects resulting in an increased risk of thrombus formation",
-        "Severe Loop diuresis and hypovolemic shock"
+        "Impaired renal tubular excretion of potassium leading to symptomatic hyperkalemia"
       ],
       "answer": 2,
       "rationale": "Concurrent use of estrogens or oral contraceptives with antifibrinolytic drugs such as tranexamic acid or aprotinin produces additive effects that increase coagulation and the risk of thrombotic events."
@@ -609,10 +609,10 @@
       "topic": "Desmopressin",
       "prompt": "A patient with mild hemophilia A and type I von Willebrand disease is scheduled for minor surgery. The prescriber orders intravenous desmopressin acetate (DDAVP) 0.3 mcg/kg infused over 20 to 30 minutes, administered 30 minutes preoperatively. How does desmopressin act to reduce surgical bleeding?",
       "options": [
-        "It blocks P2Y12 receptors on platelets to prevent premature platelet degranulation.",
-        "It inhibits proteolytic enzymes trypsin and kallikrein in the extrinsic pathway.",
-        "It supplies exogenous vitamin K directly to hepatocytes to synthesize factor II.",
-        "It causes a dose-dependent increase in plasma factor VIII (von Willebrand factor), anchoring platelets to damaged vessels and promoting clot formation."
+        "It blocks platelet P2Y12 receptors to prevent premature platelet degranulation.",
+        "It inhibits plasma kallikrein and plasmin to prevent fibrin clot breakdown.",
+        "It activates hepatic vitamin K epoxide reductase to increase prothrombin levels.",
+        "It increases plasma factor VIII (von Willebrand factor) to promote platelet adhesion."
       ],
       "answer": 3,
       "rationale": "Desmopressin acetate (DDAVP) acts as a general endothelial stimulant that causes a dose-dependent increase in plasma factor VIII (von Willebrand factor), anchoring platelets to damaged vessel walls via GP IIb receptors and increasing platelet aggregation and clot formation."
@@ -624,9 +624,9 @@
       "prompt": "A patient receiving desmopressin acetate (DDAVP) for hemostasis is also taking fludrocortisone-21-acetate (or chlorpropamide). Which adverse effect should the nurse monitor for due to this drug interaction?",
       "options": [
         "Potentiation of the antidiuretic response, leading to water retention and edema",
-        "Nephrogenic diabetes insipidus with severe polyuria and hypernatremia",
-        "Rapid lysis of surgical blood clots and postoperative hemorrhage",
-        "Acute bronchospasm and status asthmaticus"
+        "Antagonism of renal vasopressin receptors, leading to polyuria and hypernatremia",
+        "Displacement of factor VIII from endothelial stores, leading to rebound bleeding",
+        "Reflex splanchnic vasodilation, leading to orthostatic hypotension and syncope"
       ],
       "answer": 0,
       "rationale": "Desmopressin is a synthetic analogue of vasopressin (antidiuretic hormone) that increases water resorption in the renal collecting ducts. Drugs such as chlorpropamide and fludrocortisone-21-acetate potentiate its antidiuretic response, which may lead to fluid retention and edema."
@@ -637,13 +637,13 @@
       "topic": "Medication Safety: High-Alert Anticoagulants",
       "prompt": "During medication reconciliation, the nurse notes that a patient transferred from the emergency department has active orders for both a continuous intravenous unfractionated heparin infusion and subcutaneous enoxaparin (Lovenox) every 12 hours. What is the nurse's priority action?",
       "options": [
-        "Administer both medications as ordered because enoxaparin acts as a bridge until intravenous heparin reaches steady state.",
-        "Withhold the medications and contact the prescriber immediately, as giving unfractionated heparin concurrently with an LMWH is a potentially fatal medication error.",
-        "Administer the enoxaparin through the intravenous heparin line to avoid a subcutaneous needle stick.",
-        "Reduce the heparin infusion rate by 10% and give the full subcutaneous enoxaparin dose."
+        "Administer both medications as ordered to provide bridge anticoagulation until steady state.",
+        "Hold the medications and contact the prescriber about the duplicate heparin and LMWH orders.",
+        "Infuse the enoxaparin dose through the intravenous heparin line to avoid subcutaneous bruising.",
+        "Decrease the intravenous heparin infusion rate by 50% before giving the subcutaneous enoxaparin."
       ],
       "answer": 1,
-      "rationale": "Giving unfractionated heparin in combination with enoxaparin (or any LMWH, dabigatran, or rivaroxaban) is a potentially deadly medication error causing life-threatening hemorrhage. Nurses must always double-check that heparin and an LMWH are never administered concurrently to the same patient."
+      "rationale": "Giving unfractionated heparin in combination with enoxaparin (or any LMWH, dabigatran, or rivaroxaban) is a potentially deadly medication error causing life-threatening hemorrhage. Nurses must double-check that heparin and an LMWH are not administered concurrently to the same patient."
     },
     {
       "id": "coag-sa-001",
@@ -798,17 +798,17 @@
       "type": "case-study",
       "title": "Deep Vein Thrombosis, HIT, and Argatroban Therapy",
       "topic": "Heparins and Direct Thrombin Inhibitors",
-      "scenario": "A 62-year-old man, Mr. Desjardins, presents to the emergency department with a 2-day history of unilateral right calf swelling, warmth, and aching pain after a 14-hour international flight. Venous duplex ultrasonography confirms an acute proximal deep vein thrombosis (DVT) in the right femoral vein. Vital signs are BP 134/82 mm Hg, HR 88 beats/min, RR 18 breaths/min, and SpO2 97% on room air. Baseline labs show hemoglobin 148 g/L, platelets 240 × 10⁹/L, creatinine 78 µmol/L, control aPTT 30 seconds, and INR 1.0. He weighs 85 kg. The prescriber orders a weight-based intravenous unfractionated heparin infusion.",
+      "scenario": "A 62-year-old man, Mr. Desjardins, presents to the emergency department with a 2-day history of unilateral right calf swelling, warmth, and aching pain after a 14-hour international flight. Venous duplex ultrasonography confirms an acute proximal deep vein thrombosis (DVT) in the right femoral vein. Vital signs are BP 134/82 mm Hg, HR 88 beats/min, RR 18 breaths/min, and SpO2 97% on room air. Baseline labs show hemoglobin 148 g/L, platelets 240 \u00d7 10\u2079/L, creatinine 78 \u00b5mol/L, control aPTT 30 seconds, and INR 1.0. He weighs 85 kg. The prescriber orders a weight-based intravenous unfractionated heparin infusion.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Before initiating the intravenous unfractionated heparin infusion for Mr. Desjardins, which nursing actions are essential for safe administration?",
             "options": [
-              "Ask the patient to forcefully dorsiflex his right foot (Homans sign) every hour to verify that the clot is dissolving.",
-              "Administer the initial loading dose deep into the right gluteal muscle and draw an INR level 30 minutes later.",
-              "Verify that the patient's weight is recorded in kilograms, double-check the heparin vial concentration and pump rate, and use an intravenous infusion pump.",
-              "Flush all peripheral intravenous saline locks with 10 000 units/mL concentrated heparin prior to starting the infusion."
+              "Assess for Homans sign every hour by dorsiflexing the right foot to verify clot resolution.",
+              "Administer the initial heparin loading dose into the gluteal muscle and check the INR level.",
+              "Verify weight in kilograms, double-check the vial concentration, and use an IV infusion pump.",
+              "Flush peripheral intravenous locks with 1 000 units/mL heparin before starting the infusion."
             ],
             "answer": 2,
             "rationale": "Unfractionated heparin is a high-alert drug with weight-based dosing in kilograms (mixing up pounds and kilograms can cause a double-dose error) and look-alike vials of varying concentrations (10 to 10 000 units/mL). Continuous IV heparin requires an infusion pump for precise dosing. IM injections and Homans sign (which can dislodge a clot) are avoided."
@@ -820,20 +820,20 @@
             "type": "multiple-choice",
             "prompt": "How should the nurse manage Mr. Desjardins's anticoagulant therapy at this stage?",
             "options": [
-              "Withhold the warfarin and administer intravenous protamine sulphate because the aPTT exceeds 40 seconds.",
-              "Stop the heparin infusion immediately before giving the first tablet of warfarin to prevent an additive drug interaction.",
-              "Decrease the heparin infusion by 75% because an aPTT of 62 seconds indicates imminent life-threatening hemorrhage.",
-              "Continue the heparin infusion at the current therapeutic rate while administering the daily oral warfarin at the same time each day until the INR is therapeutic."
+              "Hold the warfarin dose and administer intravenous protamine sulphate to lower the aPTT.",
+              "Discontinue the heparin infusion before administering the first oral dose of warfarin.",
+              "Decrease the heparin infusion rate by 50% because an aPTT of 62 seconds is supratherapeutic.",
+              "Continue the heparin infusion while giving daily oral warfarin until the INR is therapeutic."
             ],
             "answer": 3,
             "rationale": "An aPTT of 62 seconds is within the therapeutic target of 1.5 to 2.5 times the control value (45 to 70 seconds). When transitioning to warfarin, heparin and warfarin are overlapped (bridge therapy) for about 4 to 5 days until the INR reaches the therapeutic range for at least 24 hours."
           }
         },
         {
-          "update": "On hospital day 5, Mr. Desjardins's morning complete blood count reveals that his platelet count has plummeted from 240 × 10⁹/L to 82 × 10⁹/L. He also reports new coolness and tingling in his left foot. The health care provider diagnoses type II heparin-induced thrombocytopenia (HIT) and immediately discontinues the heparin.",
+          "update": "On hospital day 5, Mr. Desjardins's morning complete blood count reveals that his platelet count has plummeted from 240 \u00d7 10\u2079/L to 82 \u00d7 10\u2079/L. He also reports new coolness and tingling in his left foot. The health care provider diagnoses type II heparin-induced thrombocytopenia (HIT) and immediately discontinues the heparin.",
           "question": {
             "type": "short-answer",
-            "prompt": "To treat Mr. Desjardins's active HIT, the prescriber orders an intravenous infusion of a synthetic direct thrombin inhibitor derived from L-arginine (dosed at 2–10 mcg/kg/min and titrated to an aPTT of 1.5 to 3 times baseline). What is the generic name of this medication?",
+            "prompt": "To treat Mr. Desjardins's active HIT, the prescriber orders an intravenous infusion of a synthetic direct thrombin inhibitor derived from L-arginine (dosed at 2\u201310 mcg/kg/min and titrated to an aPTT of 1.5 to 3 times baseline). What is the generic name of this medication?",
             "answers": [
               {
                 "text": "argatroban",
@@ -842,7 +842,7 @@
                 ]
               }
             ],
-            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2–10 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT)."
+            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2\u201310 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT)."
           }
         },
         {
@@ -851,10 +851,10 @@
             "type": "multiple-choice",
             "prompt": "Impairment of which organ system requires a lower dosage of argatroban?",
             "options": [
-              "Severe liver dysfunction",
-              "Mild osteoarthritis",
-              "Hypothyroidism",
-              "Sensorineural hearing loss"
+              "Severe hepatic dysfunction",
+              "Moderate renal insufficiency",
+              "Primary hypothyroidism",
+              "Chronic obstructive lung disease"
             ],
             "answer": 0,
             "rationale": "Argatroban is metabolized in the liver, so a lower dosage must be used in patients with severe hepatic dysfunction."
@@ -874,10 +874,10 @@
             "type": "multiple-choice",
             "prompt": "Mrs. Kaczmarek calls the clinic reporting that her gums bled heavily after brushing her teeth this morning and that she has noticed dark, tarry stools and several large bruises on her arms. What mechanism explains what has happened?",
             "options": [
-              "Amiodarone increases vitamin K synthesis by intestinal bacteria, causing her mechanical valve to form microthrombi.",
-              "Amiodarone inhibits warfarin metabolism and displaces it from protein-binding sites, increasing the INR by roughly 50% and causing warfarin toxicity.",
-              "Warfarin has directly lysed the fibrin in her gastrointestinal mucosa through plasminogen activation.",
-              "Older adults metabolize warfarin much faster than younger adults, causing rebound platelet aggregation."
+              "Amiodarone increases intestinal vitamin K synthesis, causing paradoxical platelet depletion.",
+              "Amiodarone inhibits warfarin metabolism and displaces protein binding, raising the INR by 50%.",
+              "Amiodarone directly activates circulating plasminogen, lysing fibrin plugs in the GI mucosa.",
+              "Amiodarone induces hepatic CYP2C9 enzymes, converting warfarin into a toxic metabolite."
             ],
             "answer": 1,
             "rationale": "Amiodarone inhibits hepatic metabolizing enzymes and displaces warfarin from inactive protein-binding sites, increasing the INR by about 50%. When amiodarone is added to warfarin therapy, the warfarin dose should be cut in half; failure to reduce her dose resulted in supratherapeutic anticoagulation and bleeding (melena, gum bleeding, ecchymoses)."
@@ -889,10 +889,10 @@
             "type": "multiple-choice",
             "prompt": "Which nursing intervention is critical when administering intravenous vitamin K1 to Mrs. Kaczmarek?",
             "options": [
-              "Mix the vitamin K in the same syringe with protamine sulphate to reverse both the intrinsic and extrinsic pathways.",
-              "Administer the vitamin K by rapid undiluted IV push over 5 seconds to prevent hepatic sequestration.",
-              "Dilute the vitamin K and infuse it slowly over 30 minutes while monitoring closely for signs of anaphylaxis such as dyspnea, hypotension, and weak pulse.",
-              "Withhold the vitamin K until 36 to 42 hours have passed so the liver can clear existing warfarin first."
+              "Combine the vitamin K with protamine sulphate to reverse both clotting pathways simultaneously.",
+              "Administer the vitamin K by rapid undiluted IV push over 15 seconds for prompt reversal.",
+              "Dilute the vitamin K and infuse it over 30 minutes while monitoring closely for anaphylaxis.",
+              "Withhold the vitamin K for 36 hours to allow hepatic clearance of unbound circulating warfarin."
             ],
             "answer": 2,
             "rationale": "Intravenous administration of vitamin K carries a risk of severe anaphylaxis (dyspnea, chest pain, hypotension, shock, cardiac arrest). Diluting the drug and infusing it over 30 minutes diminishes this risk."
@@ -904,10 +904,10 @@
             "type": "multiple-choice",
             "prompt": "Why might Mrs. Kaczmarek require temporary bridge therapy with unfractionated heparin or an LMWH when restarting warfarin after receiving vitamin K?",
             "options": [
-              "Heparin is needed to stimulate the liver to excrete excess vitamin K into the bile.",
-              "Vitamin K permanently destroys the gastrointestinal absorption sites for oral warfarin.",
-              "Warfarin cannot be given orally to any patient over 65 years of age following a bleeding episode.",
-              "Once vitamin K is given, warfarin resistance can occur for up to 7 days, and oral warfarin also takes 5 to 7 days to reach full antithrombotic effect."
+              "Heparin stimulates biliary excretion of excess vitamin K stored in hepatocytes after an overdose.",
+              "Vitamin K blocks intestinal absorption of oral warfarin for 72 hours after intravenous dosing.",
+              "Warfarin must be initiated at 1 mg weekly in older adults who have experienced a major bleed.",
+              "Vitamin K causes warfarin resistance for up to 7 days, and warfarin takes 5 to 7 days to work."
             ],
             "answer": 3,
             "rationale": "Administration of vitamin K can cause warfarin resistance for up to 7 days, and oral warfarin requires 5 to 7 days to reach its full antithrombotic effect. Therefore, parenteral heparin or LMWH may be needed to provide adequate anticoagulation during this window."
@@ -919,13 +919,13 @@
             "type": "multiple-choice",
             "prompt": "Which statement by Mrs. Kaczmarek indicates that discharge teaching has been effective?",
             "options": [
-              "'I will use a soft-bristled toothbrush and an electric razor, wear a MedicAlert bracelet, and inform my dentist that I take warfarin before any dental work.'",
-              "'If I miss a dose of warfarin one evening, I will take two tablets the next morning to keep my blood level steady.'",
-              "'I will take over-the-counter ibuprofen whenever I get a headache or joint pain.'",
-              "'I will start drinking green tea and cranberry juice daily to help flush excess warfarin from my kidneys.'"
+              "'I will use a soft toothbrush and electric razor, wear a MedicAlert bracelet, and tell my dentist.'",
+              "'If I miss an evening dose of warfarin, I will take two tablets the next morning to catch up.'",
+              "'I will take over-the-counter ibuprofen rather than acetaminophen when I have joint stiffness.'",
+              "'I will drink green tea and cranberry juice each morning to keep my kidneys flushing smoothly.'"
             ],
             "answer": 0,
-            "rationale": "Patients on anticoagulants should use a soft toothbrush and electric shaver, wear a MedicAlert bracelet/carry an ID card, and notify all health care providers including dentists before procedures. They must never double up on missed doses, should avoid NSAIDs like ibuprofen, and should avoid green tea and cranberry juice."
+            "rationale": "Patients on anticoagulants should use a soft toothbrush and electric shaver, wear a MedicAlert bracelet/carry an ID card, and notify all health care providers including dentists before procedures. They must not double up on missed doses, should avoid NSAIDs like ibuprofen, and should avoid green tea and cranberry juice."
           }
         }
       ]
@@ -942,10 +942,10 @@
             "type": "multiple-choice",
             "prompt": "When reviewing Mrs. Grewal's postoperative orders while the epidural catheter is still in place, what is the nurse's priority action regarding the enoxaparin?",
             "options": [
-              "Administer the enoxaparin into the deltoid muscle so that it stays far away from the lumbar epidural catheter.",
-              "Hold the enoxaparin and contact the prescriber, because LMWHs are contraindicated in patients with an indwelling epidural catheter due to the risk of epidural hematoma.",
-              "Administer half the dose (15 mg) subcutaneously and flush the epidural catheter with normal saline.",
-              "Give the enoxaparin now and monitor the patient's aPTT every 2 hours."
+              "Administer the enoxaparin into the deltoid muscle to avoid the lumbar epidural site.",
+              "Hold the enoxaparin and contact the prescriber due to the risk of epidural hematoma.",
+              "Administer half the prescribed dose subcutaneously and assess leg strength in 1 hour.",
+              "Administer the enoxaparin as scheduled and draw a stat blood specimen for aPTT testing."
             ],
             "answer": 1,
             "rationale": "LMWHs are contraindicated in patients with an indwelling epidural catheter because concurrent use has been associated with spinal/epidural hematomas. Enoxaparin can be safely administered at least 2 hours after the epidural catheter is removed."
@@ -957,10 +957,10 @@
             "type": "multiple-choice",
             "prompt": "Which injection technique should the nurse use when administering Mrs. Grewal's subcutaneous enoxaparin?",
             "options": [
-              "Inject into the left thigh within 2 cm of the hip surgical incision so the drug acts locally near the operated joint.",
-              "Aspirate for 10 seconds before injecting into the abdomen, then rub the site vigorously to disperse the medication.",
-              "Inject deep into the subcutaneous fatty tissue of the lower abdomen at least 5 cm from the umbilicus and away from incisions, without aspirating or massaging the site afterward.",
-              "Expel the drug into a cup of orange juice and have the patient drink it with breakfast."
+              "Inject into the left thigh within 2 cm of the surgical dressing so the drug acts locally.",
+              "Aspirate the syringe for 5 seconds before injecting, then massage the abdomen for 1 minute.",
+              "Inject into abdominal fatty tissue at least 5 cm from the umbilicus without aspirating or rubbing.",
+              "Expel the air bubble before injecting into the gluteal muscle, then apply a warm compress."
             ],
             "answer": 2,
             "rationale": "LMWHs are given by deep subcutaneous injection into the abdomen (preferred site, between the iliac crests and at least 5 cm away from the umbilicus, scars, bruises, or incisions). The nurse must not aspirate prior to injection and must not rub or massage the site afterward to avoid hematoma formation and bruising."
@@ -990,10 +990,10 @@
             "type": "multiple-choice",
             "prompt": "Which advantage of LMWHs allows Mrs. Grewal to be discharged home safely on self-administered subcutaneous injections?",
             "options": [
-              "LMWHs dissolve any existing clots in the lungs within 5 minutes of subcutaneous injection.",
-              "LMWHs cannot cause bleeding or thrombocytopenia once the patient leaves the hospital setting.",
-              "LMWHs are interchangeable unit-for-unit with any leftover unfractionated heparin vials the patient may have at home.",
-              "LMWHs have a predictable anticoagulant response with greater affinity for factor Xa and a longer half-life, so they do not require routine coagulation laboratory monitoring."
+              "LMWHs directly lyse small venous thrombi within 15 minutes of each subcutaneous injection.",
+              "LMWHs do not carry a risk of thrombocytopenia or bleeding once steady state is achieved.",
+              "LMWHs are absorbed orally if the patient prefers not to self-inject the prefilled syringes.",
+              "LMWHs have a predictable factor Xa response and do not require routine aPTT monitoring."
             ],
             "answer": 3,
             "rationale": "Because LMWHs have higher bioavailability, a longer half-life, and greater specificity for factor Xa, they produce a predictable anticoagulant response that does not require frequent aPTT laboratory monitoring, allowing outpatient/home administration."
@@ -1015,11 +1015,11 @@
             "options": [
               "16.2 mg",
               "1.62 mg",
-              "18 mg",
+              "18.0 mg",
               "162 mg"
             ],
             "answer": 0,
-            "rationale": "Multiply the bolus dose by the patient's weight in kilograms: 180 mcg/kg × 90 kg = 16 200 mcg. Convert micrograms to milligrams by dividing by 1 000: 16 200 mcg ÷ 1 000 mcg/mg = 16.2 mg."
+            "rationale": "Multiply the bolus dose by the patient's weight in kilograms: 180 mcg/kg \u00d7 90 kg = 16 200 mcg. Convert micrograms to milligrams by dividing by 1 000: 16 200 mcg \u00f7 1 000 mcg/mg = 16.2 mg."
           }
         },
         {
@@ -1028,10 +1028,10 @@
             "type": "multiple-choice",
             "prompt": "How is the concurrent administration of intravenous heparin and a GP IIb/IIIa inhibitor managed in the cardiac catheterization and critical care setting?",
             "options": [
-              "The heparin dose must be tripled because eptifibatide neutralizes antithrombin III.",
-              "Both drugs are commonly used together, but the therapeutic goal and dose of heparin are lowered to reduce the risk of serious bleeding.",
-              "Both drugs must be administered via intramuscular injection into opposite thighs.",
-              "Vitamin K must be infused continuously to prevent eptifibatide from lowering the platelet count."
+              "The heparin infusion rate is doubled because eptifibatide competes for antithrombin III.",
+              "Both drugs are given together, but the target goal and dose of heparin are lowered.",
+              "The heparin infusion is paused during angioplasty and resumed 12 hours after stenting.",
+              "Protamine sulphate is co-infused with heparin to prevent femoral access site oozing."
             ],
             "answer": 1,
             "rationale": "Although GP IIb/IIIa inhibitors and heparin have additive effects that increase bleeding risk, they are commonly administered together for acute coronary syndrome and angioplasty; however, the therapeutic goal of heparin treatment, and thus the heparin dose, is lowered when used with a GP IIb/IIIa inhibitor."
@@ -1043,13 +1043,13 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's priority action in response to Mr. Lafleur's new assessment findings?",
             "options": [
-              "Apply a blood pressure cuff to his right calf to verify the low brachial blood pressure reading.",
-              "Administer oral acetaminophen for routine post-procedure back stiffness and reposition the patient onto his stomach.",
-              "Discontinue the eptifibatide and heparin infusions immediately, monitor the patient closely, and notify the health care provider for emergency treatment of suspected retroperitoneal/internal hemorrhage.",
-              "Increase the eptifibatide infusion rate to prevent stent thrombosis caused by hypotension."
+              "Apply a blood pressure cuff to the right thigh to confirm the brachial hypotensive reading.",
+              "Administer prescribed oral analgesics for back spasms and elevate the foot of the bed.",
+              "Stop the eptifibatide and heparin infusions and notify the prescriber of suspected bleeding.",
+              "Increase the intravenous heparin rate to prevent acute stent thrombosis during hypotension."
             ],
             "answer": 2,
-            "rationale": "Abdominal or back pain accompanied by hypotension and tachycardia after femoral catheterization and GP IIb/IIIa + heparin therapy is a classic sign of severe internal/retroperitoneal hemorrhage. The nurse must immediately stop the GP IIb/IIIa inhibitor and heparin infusions, monitor closely, and notify the health care provider for emergency stabilization."
+            "rationale": "Abdominal or back pain accompanied by hypotension and tachycardia after femoral catheterization and GP IIb/IIIa + heparin therapy is a classic sign of severe internal/retroperitoneal hemorrhage. The nurse must stop the GP IIb/IIIa inhibitor and heparin infusions, monitor closely, and notify the health care provider for emergency stabilization."
           }
         },
         {
@@ -1058,10 +1058,10 @@
             "type": "multiple-choice",
             "prompt": "During discharge teaching, Mr. Lafleur mentions that he takes ginkgo biloba and garlic supplements every day for general cardiovascular health. What advice should the nurse provide?",
             "options": [
-              "Instruct him to switch from garlic to daily ibuprofen to prevent epistaxis and bruising.",
-              "Encourage him to double his garlic and ginkgo doses so he can stop taking his prescription clopidogrel early.",
-              "Explain that natural health products are completely inert and have no interactions with aspirin or clopidogrel.",
-              "Advise him to avoid garlic, ginkgo, and kava supplements while taking antiplatelet drugs because they increase antiplatelet effects and the risk of bleeding."
+              "Recommend substituting daily naproxen for the garlic capsules to reduce bruising risk.",
+              "Support continuing both supplements because they protect gastric mucosa from aspirin.",
+              "Advise spacing the herbal supplements at least 2 hours apart from clopidogrel and aspirin.",
+              "Advise avoiding garlic, ginkgo, and kava because they increase antiplatelet bleeding risk."
             ],
             "answer": 3,
             "rationale": "Natural health products such as garlic, ginkgo, and kava increase the effects of antiplatelet medications and significantly increase the risk of bleeding; patients must be educated to avoid these interactions."
@@ -1074,20 +1074,20 @@
       "type": "case-study",
       "title": "Acute Ischemic Stroke, Alteplase Thrombolysis, and Bleeding Management",
       "topic": "Thrombolytics and Antifibrinolytics",
-      "scenario": "Mr. Chen, a 66-year-old man weighing 105 kg, is brought to the emergency department by paramedics 75 minutes after the witnessed onset of left facial droop, left arm weakness, and slurred speech. An emergent noncontrast head CT scan shows no intracranial hemorrhage, confirming an acute ischemic stroke. His blood pressure is 146/84 mm Hg, HR 78 beats/min, and platelets 215 × 10⁹/L. He has no history of recent surgery, trauma, or bleeding. The stroke team orders intravenous alteplase (Activase).",
+      "scenario": "Mr. Chen, a 66-year-old man weighing 105 kg, is brought to the emergency department by paramedics 75 minutes after the witnessed onset of left facial droop, left arm weakness, and slurred speech. An emergent noncontrast head CT scan shows no intracranial hemorrhage, confirming an acute ischemic stroke. His blood pressure is 146/84 mm Hg, HR 78 beats/min, and platelets 215 \u00d7 10\u2079/L. He has no history of recent surgery, trauma, or bleeding. The stroke team orders intravenous alteplase (Activase).",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Mr. Chen weighs 105 kg. Using the textbook dosage guidelines for alteplase in acute ischemic stroke (0.9 mg/kg, not to exceed a maximum total dose of 90 mg, with 10% given as a 1-minute IV bolus), what total dose and initial bolus should the nurse prepare?",
             "options": [
-              "90 mg total dose (with a 9 mg IV bolus over 1 minute, followed by 81 mg infused over 60 minutes)",
-              "94.5 mg total dose (with a 9.45 mg IV bolus over 1 minute, followed by 85.05 mg infused over 60 minutes)",
-              "105 mg total dose given as a single 5-minute IV push",
-              "50 mg total dose given subcutaneously in two divided doses"
+              "90 mg total dose (9 mg IV bolus over 1 minute, then 81 mg infused over 60 minutes)",
+              "94.5 mg total dose (9.45 mg IV bolus over 1 minute, then 85.05 mg over 60 minutes)",
+              "105 mg total dose (10.5 mg IV bolus over 5 minutes, then 94.5 mg over 90 minutes)",
+              "75 mg total dose (15 mg IV bolus over 2 minutes, then 60 mg infused over 120 minutes)"
             ],
             "answer": 0,
-            "rationale": "Although 0.9 mg/kg × 105 kg equals 94.5 mg, the textbook explicitly states that the total dose of alteplase for acute ischemic stroke must not exceed 90 mg. Therefore, the capped total dose is 90 mg over 60 minutes, with 10% (9 mg) administered as an initial IV bolus over 1 minute."
+            "rationale": "Although 0.9 mg/kg \u00d7 105 kg equals 94.5 mg, the textbook explicitly states that the total dose of alteplase for acute ischemic stroke must not exceed 90 mg. Therefore, the capped total dose is 90 mg over 60 minutes, with 10% (9 mg) administered as an initial IV bolus over 1 minute."
           }
         },
         {
@@ -1096,13 +1096,13 @@
             "type": "multiple-choice",
             "prompt": "Which nursing intervention is essential during the preparation and infusion of alteplase for Mr. Chen?",
             "options": [
-              "Shake the vial vigorously to create a foamy suspension and insert a nasogastric tube and arterial line during the bolus.",
-              "Gently roll (do not shake) the vial to reconstitute, avoid concurrent anticoagulants/antiplatelets and any intramuscular injections or invasive punctures, and closely monitor vital signs and neurological status.",
-              "Administer heparin 10 000 units IV push simultaneously in the same syringe as the alteplase bolus.",
-              "Perform deep intramuscular injections of vitamin K into both thighs to prevent oozing at the IV site."
+              "Shake the vial vigorously to mix, and insert a nasogastric tube and radial arterial line.",
+              "Gently roll the vial, avoid invasive punctures and IM injections, and monitor neuro status.",
+              "Co-infuse intravenous unfractionated heparin in the same line to prevent early reocclusion.",
+              "Administer prophylactic intramuscular vitamin K to prevent oozing at venipuncture sites."
             ],
             "answer": 1,
-            "rationale": "Thrombolytic vials must be gently rolled, never shaken, during reconstitution. Invasive procedures, arterial punctures, and IM injections are contraindicated during thrombolytic therapy due to severe hemorrhage risk, and concurrent anticoagulants/antiplatelets are avoided during the infusion while vital signs and neurological status are monitored."
+            "rationale": "Thrombolytic vials must be gently rolled, not shaken, during reconstitution. Invasive procedures, arterial punctures, and IM injections are contraindicated during thrombolytic therapy due to severe hemorrhage risk, and concurrent anticoagulants/antiplatelets are avoided during the infusion while vital signs and neurological status are monitored."
           }
         },
         {
@@ -1129,10 +1129,10 @@
             "type": "multiple-choice",
             "prompt": "Which blood products and antifibrinolytic medications noted in the textbook are used to replace fibrinogen and control bleeding caused by thrombolytic therapy?",
             "options": [
-              "Intravenous eptifibatide and oral clopidogrel loading doses",
-              "Subcutaneous fondaparinux and oral dabigatran capsules",
-              "Whole blood plasma or cryoprecipitate to replace fibrinogen, along with aminocaproic acid or tranexamic acid",
-              "Topical oxidized cellulose given orally and intravenous tenecteplase"
+              "Packed red blood cells and intravenous protamine sulphate",
+              "Platelet concentrates and intravenous vitamin K1 (phytonadione)",
+              "Whole blood plasma or cryoprecipitate, along with tranexamic acid",
+              "Human antithrombin III concentrate and subcutaneous desmopressin"
             ],
             "answer": 2,
             "rationale": "If serious bleeding occurs with thrombolytic therapy, the drug is discontinued, fibrinogen is replaced through infusions of whole blood plasma or cryoprecipitate, and antifibrinolytics such as aminocaproic acid or tranexamic acid may be given."
@@ -1154,8 +1154,8 @@
             "options": [
               "Thyroid-stimulating hormone (TSH)",
               "Serum amylase and lipase levels",
-              "Fasting lipid profile and triglycerides",
-              "Kidney function studies (creatinine clearance)"
+              "Fasting serum lipid profile and glucose",
+              "Renal function (creatinine clearance)"
             ],
             "answer": 3,
             "rationale": "Dabigatran etexilate mesylate is excreted extensively by the kidneys, and its dosage depends on renal function (reduced to 75 mg twice daily if creatinine clearance is less than 30 mL/min)."
@@ -1167,10 +1167,10 @@
             "type": "multiple-choice",
             "prompt": "Which medication on a patient's profile interacts with dabigatran etexilate mesylate by decreasing its therapeutic anticoagulant effect?",
             "options": [
-              "Phenytoin",
-              "Amiodarone hydrochloride",
-              "0.9% sodium chloride nasal spray",
-              "Artificial tears"
+              "Phenytoin (Dilantin)",
+              "Amiodarone (Cordarone)",
+              "Famotidine (Pepcid)",
+              "Amlodipine (Norvasc)"
             ],
             "answer": 0,
             "rationale": "According to the drug profile for dabigatran etexilate mesylate, phenytoin causes a decreased effect of dabigatran, whereas amiodarone hydrochloride causes an increased effect."
@@ -1182,13 +1182,13 @@
             "type": "multiple-choice",
             "prompt": "How should the nurse respond to Mr. Pelletier?",
             "options": [
-              "'Opening the capsules into hot water is a great way to reduce stomach upset and speed up absorption.'",
-              "'You may take the intact capsule with a full glass of water and food to relieve dyspepsia, but you must keep dabigatran in its original bottle with the desiccant cap tightly closed—any capsules left in a pillbox will lose potency from moisture.'",
-              "'Storing the capsules in a humid bathroom pillbox helps keep the gelatin shell soft and effective for up to 2 years.'",
-              "'Take 650 mg of aspirin every 4 hours to coat your stomach before taking your dabigatran capsule.'"
+              "'Dissolve the capsule contents in warm water before meals to reduce stomach irritation.'",
+              "'Take intact capsules with food and water, and store them tightly closed in the original bottle.'",
+              "'Keep a 7-day supply in a bedside pill organizer and take an antacid 30 minutes before dosing.'",
+              "'Crush the pellets into applesauce if indigestion occurs, and store the bottle in the fridge.'"
             ],
             "answer": 1,
-            "rationale": "Patients experiencing dyspepsia with dabigatran are encouraged to take the capsule with food and a full glass (240 mL) of water. Capsules must never be opened, punctured, or placed in pillboxes/organizers because moisture breaks down the drug and destroys its potency; they must remain in the original container with the desiccant cap tightly closed and be used within 4 months of opening."
+            "rationale": "Patients experiencing dyspepsia with dabigatran are encouraged to take the capsule with food and a full glass (240 mL) of water. Capsules must not be opened, punctured, or placed in pillboxes/organizers because moisture breaks down the drug and destroys its potency; they must remain in the original container with the desiccant cap tightly closed and be used within 4 months of opening."
           }
         },
         {
@@ -1197,13 +1197,13 @@
             "type": "multiple-choice",
             "prompt": "According to the textbook, how is a severe overdose or bleeding episode from direct thrombin inhibitors like dabigatran managed?",
             "options": [
-              "Administer oral vitamin K1 10 mg every hour until the INR returns to 1.0.",
-              "Administer intravenous protamine sulphate at a dose of 10 mg per milligram of dabigatran.",
-              "Discontinue the drug, provide blood transfusions as indicated, and use hemodialysis to remove the drug, as the textbook notes it lacks a specific antidote.",
-              "Administer intravenous alteplase to clear dabigatran from the hepatic portal vein."
+              "Administer intravenous vitamin K1 10 mg diluted over 30 minutes to restore prothrombin.",
+              "Administer intravenous protamine sulphate at a 1:1 milligram ratio to bind dabigatran.",
+              "Discontinue dabigatran, give blood transfusions as indicated, and perform hemodialysis.",
+              "Administer intravenous desmopressin acetate to accelerate renal excretion of dabigatran."
             ],
             "answer": 2,
-            "rationale": "According to the textbook (pp. 450–452), direct thrombin inhibitors (such as dabigatran) lack a specific antidote; management of overdose or severe bleeding includes discontinuing the drug, administering transfusions as indicated, and removing the drug via hemodialysis."
+            "rationale": "According to the textbook (pp. 450\u2013452), direct thrombin inhibitors (such as dabigatran) lack a specific antidote; management of overdose or severe bleeding includes discontinuing the drug, administering transfusions as indicated, and removing the drug via hemodialysis."
           }
         }
       ]

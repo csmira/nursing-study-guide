@@ -7,13 +7,13 @@
       "topic": "Salicylates",
       "prompt": "A 64-year-old patient with a history of transient ischemic attacks and a healed duodenal ulcer is prescribed daily acetylsalicylic acid (ASA) for thromboprevention. Which daily dosage is most appropriate to achieve platelet inhibition while minimizing gastrointestinal bleeding risk?",
       "options": [
-        "3.6 g orally in divided doses",
-        "650 mg orally twice daily",
-        "325 mg orally every 4 hours",
-        "81 mg orally once daily"
+        "3.6 g orally in divided daily doses",
+        "650 mg orally twice daily with food",
+        "325 mg orally every 4 to 6 hours",
+        "81 mg orally once daily with meals"
       ],
       "answer": 3,
-      "rationale": "An 81-mg daily dose of ASA effectively and irreversibly inhibits platelet thromboxane A2 synthesis and is preferred over 325 mg for patients with an elevated risk of bleeding, such as a history of peptic ulcer disease or stroke. Higher doses (325–650 mg q4h or 3.6–5.4 g/day) are used for pain, fever, or rheumatic inflammation and carry a much higher risk of GI ulceration."
+      "rationale": "An 81-mg daily dose of ASA effectively and irreversibly inhibits platelet thromboxane A2 synthesis and is preferred over 325 mg for patients with an elevated risk of bleeding, such as a history of peptic ulcer disease or stroke. Higher doses (325\u2013650 mg q4h or 3.6\u20135.4 g/day) are used for pain, fever, or rheumatic inflammation and carry a much higher risk of GI ulceration."
     },
     {
       "id": "nsaid-mc-002",
@@ -21,24 +21,24 @@
       "topic": "Salicylates",
       "prompt": "A patient arrives at the emergency department with suspected acute coronary syndrome. The prescriber orders acetylsalicylic acid (ASA) 325 mg PO stat. Which administration instruction should the nurse give the patient to achieve a peak plasma concentration in approximately 20 minutes?",
       "options": [
-        "Chew an enteric-coated tablet and swallow with an antacid",
-        "Dissolve a sustained-release capsule in warm water and drink",
-        "Chew a non–enteric-coated tablet thoroughly before swallowing",
-        "Swallow an enteric-coated tablet whole with a full glass of milk"
+        "Swallow a non\u2013enteric-coated tablet whole with water",
+        "Dissolve an enteric-coated tablet in warm fruit juice",
+        "Chew a non\u2013enteric-coated tablet before swallowing",
+        "Chew an enteric-coated tablet with a glass of milk"
       ],
       "answer": 2,
-      "rationale": "In the setting of an acute coronary syndrome, chewing a non–enteric-coated ASA tablet produces a peak plasma concentration in about 20 minutes. Chewing enteric-coated tablets still results in a delayed peak of approximately 2 hours, and enteric-coated or sustained-release preparations are normally not meant to be chewed."
+      "rationale": "In the setting of an acute coronary syndrome, chewing a non\u2013enteric-coated ASA tablet produces a peak plasma concentration in about 20 minutes. Chewing enteric-coated tablets still results in a delayed peak of approximately 2 hours, and enteric-coated or sustained-release preparations are normally not meant to be chewed."
     },
     {
       "id": "nsaid-mc-003",
       "type": "multiple-choice",
       "topic": "Salicylates",
-      "prompt": "Why does a single antiplatelet dose of acetylsalicylic acid (ASA) prolong bleeding tendencies for approximately 10 days, even though its plasma elimination half-life is only 3 to 6 hours?",
+      "prompt": "Why does a single antiplatelet dose of acetylsalicylic acid (ASA) prolong bleeding tendencies for approximately 10 days, even though its plasma elimination half-life is 3 to 6 hours?",
       "options": [
-        "ASA selectively stimulates prostacyclin synthetase in vascular endothelium for two weeks",
-        "ASA is sequestered in bone marrow megakaryocytes and released slowly over 10 days",
-        "ASA permanently blocks hepatic synthesis of vitamin K–dependent clotting factors",
-        "ASA irreversibly inhibits cyclooxygenase-1 (COX-1) receptors within platelets for their lifespan"
+        "ASA stimulates prostacyclin synthetase in vascular endothelium for two weeks",
+        "ASA accumulates in bone marrow megakaryocytes and releases over 10 days",
+        "ASA suppresses hepatic synthesis of vitamin K\u2013dependent clotting factors",
+        "ASA irreversibly inhibits cyclooxygenase-1 (COX-1) within circulating platelets"
       ],
       "answer": 3,
       "rationale": "Unlike other NSAIDs, ASA is an irreversible inhibitor of COX-1 receptors within platelets, preventing the formation of thromboxane A2. Because platelets lack a nucleus and cannot synthesize new COX-1 enzyme, the antiplatelet effect persists for the lifespan of the platelet (approximately 10 days)."
@@ -50,9 +50,9 @@
       "prompt": "A nurse is conducting a pre-administration assessment for a patient who has been prescribed acetylsalicylic acid (ASA) for osteoarthritis. Which cluster of conditions in the patient's history represents the 'aspirin triad' that places the patient at high risk for a severe hypersensitivity reaction?",
       "options": [
         "Hypertension, heart failure, and chronic kidney disease",
-        "Asthma, nasal polyps, and rhinitis",
-        "Eczema, allergic conjunctivitis, and urticaria",
-        "Peptic ulcer disease, tinnitus, and gout"
+        "Bronchial asthma, nasal polyps, and chronic rhinitis",
+        "Atopic eczema, allergic conjunctivitis, and urticaria",
+        "Peptic ulcer disease, chronic tinnitus, and gouty arthritis"
       ],
       "answer": 1,
       "rationale": "The 'aspirin triad' consists of asthma, nasal polyps, and rhinitis. Patients with this triad or a history of asthma and wheezing have a significantly increased incidence of severe allergic bronchospasm and hypersensitivity reactions to aspirin."
@@ -61,12 +61,12 @@
       "id": "nsaid-mc-005",
       "type": "multiple-choice",
       "topic": "Salicylates",
-      "prompt": "A parent calls the telehealth line stating that their 8-year-old child has influenza B with a temperature of 39.1°C and asks about giving the child an over-the-counter cold preparation containing salicylate. Which response by the nurse is priority?",
+      "prompt": "A parent calls the telehealth line stating that their 8-year-old child has influenza B with a temperature of 39.1\u00b0C and asks about giving the child an over-the-counter cold preparation containing salicylate. Which response by the nurse is priority?",
       "options": [
-        "Instruct the parent not to give any salicylate product because of the risk of Reye's syndrome",
-        "Explain that salicylates are safe as long as the child does not have chicken pox",
-        "Recommend switching to enteric-coated aspirin to protect the child's liver",
-        "Advise giving half the adult dose with milk to prevent stomach irritation"
+        "Avoid giving any salicylate product due to the risk of Reye's syndrome",
+        "Give half the adult salicylate dose with milk to reduce gastric distress",
+        "Switch to an enteric-coated salicylate tablet to protect hepatic function",
+        "Administer the salicylate product unless vesicular chicken pox lesions appear"
       ],
       "answer": 0,
       "rationale": "Aspirin and any OTC preparations containing salicylates are contraindicated in children and adolescents with viral illnesses (such as influenza or chicken pox) due to the risk of Reye's syndrome, an acute, potentially fatal illness characterized by encephalopathy and fatty liver degeneration. Acetaminophen or ibuprofen should be used instead."
@@ -77,10 +77,10 @@
       "topic": "Salicylates",
       "prompt": "A 72-year-old patient who has been taking high doses of acetylsalicylic acid (ASA) for rheumatoid arthritis reports a constant ringing in both ears and muffled hearing. How should the nurse interpret this finding?",
       "options": [
-        "It reflects an idiosyncratic allergic reaction requiring immediate epinephrine administration",
-        "It is a classic manifestation of chronic salicylate intoxication (salicylism) in adults",
-        "It is an expected, harmless side effect of prostaglandin inhibition that resolves with continued dosing",
-        "It indicates an acute thromboembolic stroke caused by COX-2 inhibition"
+        "An idiosyncratic hypersensitivity reaction requiring subcutaneous epinephrine",
+        "A classic manifestation of chronic salicylate intoxication (salicylism)",
+        "An expected transient effect of prostaglandin inhibition that resolves",
+        "An early indicator of cerebrovascular ischemia from COX-2 inhibition"
       ],
       "answer": 1,
       "rationale": "Tinnitus and hearing loss are the most common manifestations of chronic salicylate intoxication (salicylism) in adults. The prescriber should be notified so that the medication can be discontinued or the dosage reduced."
@@ -93,8 +93,8 @@
       "options": [
         "Transient elevation of serum alanine aminotransferase (ALT) levels",
         "Unresponsive metabolic acidosis with an arterial blood pH of 7.05",
-        "An estimated ingested salicylate dose of 100 mg/kg of body weight",
-        "Mild tinnitus accompanied by occasional nausea and heartburn"
+        "An estimated ingested salicylate dose of 150 mg/kg of body weight",
+        "Moderate tinnitus accompanied by epigastric discomfort and nausea"
       ],
       "answer": 1,
       "rationale": "In severe acute salicylate intoxication, hemodialysis is indicated for high serum salicylate levels, unresponsive acidosis (pH less than 7.1), impaired kidney function or kidney failure, noncardiogenic pulmonary edema, persistent CNS symptoms (seizures, coma), or progressive clinical deterioration."
@@ -105,10 +105,10 @@
       "topic": "Salicylates",
       "prompt": "While inspecting a patient's home medications during a community health visit, the nurse notices a strong vinegar-like odour coming from the patient's bottle of acetylsalicylic acid (ASA). What instruction should the nurse provide?",
       "options": [
-        "Crush the tablets and mix them in fruit juice before swallowing",
-        "Take the remaining tablets with an antacid to buffer the excess vinegar",
-        "Keep the bottle in the humid bathroom cabinet to neutralize the acetic acid vapours",
-        "Discard the tablets and purchase a fresh supply because the odour indicates chemical breakdown"
+        "Take the remaining tablets with an antacid to neutralize excess acid",
+        "Leave the bottle open in a dry room to allow acetic acid vapours to clear",
+        "Dissolve the tablets in a full glass of water prior to administration",
+        "Discard the tablets and purchase a fresh bottle due to drug breakdown"
       ],
       "answer": 3,
       "rationale": "A vinegary odour coming from aspirin tablets is a sign of chemical breakdown (hydrolysis into salicylic and acetic acids). The medication should be discarded and replaced."
@@ -119,10 +119,10 @@
       "topic": "NSAIDs Overview & Mechanism",
       "prompt": "When comparing nonselective NSAIDs with selective cyclooxygenase-2 (COX-2) inhibitors, which statement accurately describes the physiological role of the COX-1 enzyme isoform?",
       "options": [
-        "COX-1 promotes the synthesis of prostaglandins that maintain an intact gastric mucosa and support platelet aggregation",
-        "COX-1 inhibits renal blood flow by constricting the afferent renal arteriole during dehydration",
-        "COX-1 is induced exclusively at sites of tissue injury to generate pain and fever in the hypothalamus",
-        "COX-1 converts arachidonic acid into leukotrienes that cause bronchospasm and vasoconstriction"
+        "COX-1 synthesizes prostaglandins that protect gastric mucosa and aid platelet aggregation",
+        "COX-1 constricts the afferent renal arteriole to reduce renal blood flow in dehydration",
+        "COX-1 is induced at sites of tissue injury to generate inflammatory pain and fever",
+        "COX-1 converts arachidonic acid into leukotrienes that mediate airway bronchospasm"
       ],
       "answer": 0,
       "rationale": "COX-1 is the constitutive isoform that synthesizes prostaglandins with beneficial housekeeping functions, such as maintaining an intact gastrointestinal mucosa and producing thromboxane A2 in platelets. Blocking COX-1 with nonselective NSAIDs accounts for their ulcerogenic and bleeding adverse effects."
@@ -133,10 +133,10 @@
       "topic": "NSAIDs Overview & Mechanism",
       "prompt": "A patient with bone cancer pain is prescribed an NSAID in addition to a scheduled opioid analgesic. The patient asks why an over-the-counter class of pain reliever is being added to a strong opioid. What is the nurse's best explanation?",
       "options": [
-        "The NSAID eliminates the ceiling effect of the opioid so the opioid dose can be doubled safely",
-        "Combining an NSAID with an opioid attacks pain via two different mechanisms, providing an opioid-sparing effect",
-        "NSAIDs prevent opioid-induced respiratory depression by stimulating the preoptic hypothalamus",
-        "Adding an NSAID reverses physical dependence on opioid medications within 7 days"
+        "The NSAID removes the analgesic ceiling of the opioid so lower frequencies are needed",
+        "Combining both drugs targets pain via two mechanisms and provides an opioid-sparing effect",
+        "NSAIDs prevent opioid-induced respiratory depression by acting on the preoptic hypothalamus",
+        "Adding an NSAID slows hepatic opioid conjugation and prolongs central receptor binding"
       ],
       "answer": 1,
       "rationale": "NSAIDs inhibit peripheral prostaglandin synthesis while opioids act centrally on opioid receptors. Combining them attacks pain by two different mechanisms and produces an opioid-sparing effect, allowing lower doses of the opioid to be used with fewer opioid adverse effects."
@@ -145,12 +145,12 @@
       "id": "nsaid-mc-011",
       "type": "multiple-choice",
       "topic": "NSAIDs Overview & Mechanism",
-      "prompt": "A patient taking maximum recommended doses of ibuprofen for lumbar strain tells the nurse, 'If 400 mg helps a little, taking 1 200 mg at once should knock the pain out completely.' Which pharmacological principle should guide the nurse's teaching?",
+      "prompt": "A patient taking maximum recommended doses of ibuprofen for lumbar strain tells the nurse, 'If 400 mg helps a little, taking 1 200 mg at once should knock the pain out.' Which pharmacological principle should guide the nurse's teaching?",
       "options": [
-        "NSAIDs undergo rapid first-pass hepatic inactivation when single doses exceed 600 mg",
-        "NSAIDs exhibit a ceiling effect, where exceeding the maximum dosage increases adverse effects without providing additional analgesia",
-        "High single doses of ibuprofen selectively activate lipoxygenase, paradoxical worsening inflammation",
-        "Ibuprofen requires conversion by xanthine oxidase, which becomes saturated at 400 mg"
+        "NSAIDs undergo saturable first-pass hepatic inactivation when single doses exceed 600 mg",
+        "NSAIDs exhibit a ceiling effect where higher doses increase toxicity without added analgesia",
+        "High single doses of ibuprofen activate lipoxygenase pathways and worsen joint inflammation",
+        "Ibuprofen requires metabolic activation by xanthine oxidase, which saturates above 400 mg"
       ],
       "answer": 1,
       "rationale": "Unlike opioids, NSAIDs demonstrate a ceiling effect: increasing the dosage beyond recommended maximums does not produce greater analgesic effect but significantly increases the risk of serious gastrointestinal, renal, and cardiovascular adverse effects."
@@ -159,12 +159,12 @@
       "id": "nsaid-mc-012",
       "type": "multiple-choice",
       "topic": "NSAIDs Contraindications & Warnings",
-      "prompt": "A 68-year-old patient is scheduled for coronary artery bypass graft (CABG) surgery tomorrow. Which medication order on the postoperative pain management protocol must the nurse question immediately?",
+      "prompt": "A 68-year-old patient is scheduled for coronary artery bypass graft (CABG) surgery tomorrow. Which medication order on the postoperative pain management protocol must the nurse question?",
       "options": [
-        "Docusate sodium 100 mg PO twice daily while taking opioid analgesics",
-        "Morphine 2 mg IV every 2 hours PRN for breakthrough chest pain",
-        "Acetaminophen 650 mg PO every 6 hours PRN for mild pain or fever",
-        "Ketorolac 15 mg IV every 6 hours PRN for moderate-to-severe incisional pain"
+        "Docusate sodium 100 mg PO twice daily while receiving opioid analgesics",
+        "Morphine sulphate 2 mg IV every 2 hours PRN for breakthrough chest pain",
+        "Acetaminophen 650 mg PO every 6 hours PRN for mild pain or low-grade fever",
+        "Ketorolac tromethamine 15 mg IV every 6 hours PRN for postoperative pain"
       ],
       "answer": 3,
       "rationale": "Per Health Canada warnings required on all NSAID packaging, NSAIDs (such as ketorolac) are strictly contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery due to the heightened risk of serious cardiovascular thrombotic events, MI, and stroke."
@@ -175,10 +175,10 @@
       "topic": "NSAIDs Special Populations",
       "prompt": "A pregnant patient at 34 weeks' gestation asks the nurse if she can take naproxen for her lower back ache. What is the nurse's most appropriate response?",
       "options": [
-        "Take naproxen only at bedtime to prevent morning sickness and gestational hypertension",
-        "Naproxen is safe throughout the third trimester as long as it is taken with food or milk",
-        "Avoid taking NSAIDs after 32 weeks' gestation because of the risks of prolonged bleeding and premature closure of the fetal ductus arteriosus",
-        "Switch to high-dose aspirin after 32 weeks' gestation because it does not cross the placenta"
+        "Take naproxen at bedtime with food to minimize morning nausea and blood pressure spikes",
+        "Use naproxen intermittently during the third trimester with a full glass of milk or water",
+        "Avoid NSAIDs after 32 weeks' gestation due to bleeding and fetal ductal closure risks",
+        "Switch to regular-strength aspirin after 32 weeks' gestation to avoid placental transfer"
       ],
       "answer": 2,
       "rationale": "Pregnant women should avoid using NSAIDs after 32 weeks' gestation due to the risk of antiplatelet/prolonged bleeding effects, prenatal constriction or closure of the fetal ductus arteriosus, and neonatal NSAID toxicity."
@@ -203,10 +203,10 @@
       "topic": "NSAIDs Adverse Effects & Interactions",
       "prompt": "A 76-year-old patient taking ramipril (an ACE inhibitor) and furosemide for hypertension and heart failure begins taking over-the-counter ibuprofen daily for knee osteoarthritis. Why does this combination place the patient at high risk for acute kidney injury?",
       "options": [
-        "NSAIDs block renal prostaglandins causing afferent arteriole vasoconstriction, while ACE inhibitors dilate the efferent arteriole, drastically dropping glomerular filtration rate",
-        "Ibuprofen chelates ramipril in the proximal renal tubule, forming insoluble crystals that obstruct urine flow",
-        "NSAIDs stimulate excessive aldosterone secretion, causing severe hypokalemic nephropathy",
-        "ACE inhibitors prevent the hepatic conjugation of ibuprofen, leading to direct proximal tubular necrosis"
+        "Afferent arteriole constriction from the NSAID and efferent dilation from the ACE inhibitor lower GFR",
+        "Ibuprofen forms insoluble chelate crystals with ramipril in the renal tubules and obstructs urine flow",
+        "NSAIDs stimulate adrenal aldosterone release and precipitate acute hypokalemic nephropathy with diuretics",
+        "ACE inhibitors block hepatic glucuronidation of ibuprofen and cause direct proximal tubular cell necrosis"
       ],
       "answer": 0,
       "rationale": "NSAIDs inhibit renal prostaglandins, resulting in vasoconstriction of the afferent renal arteriole, while ACE inhibitors and ARBs cause vasodilation of the efferent arteriole. Together (especially with diuretics or dehydration), they cause a drastic reduction in glomerular filtration rate (GFR) and can precipitate acute kidney injury. In addition, NSAIDs reduce the hypotensive and diuretic effects of ACE inhibitors and diuretics."
@@ -217,10 +217,10 @@
       "topic": "Acetic Acid Derivatives",
       "prompt": "A 58-year-old patient with uncontrolled hypertension and a history of angina asks the nurse about renewing a prescription for diclofenac sodium (Voltaren) 75 mg twice daily for hip osteoarthritis. Which Health Canada safety update is most relevant to this patient's care?",
       "options": [
-        "Diclofenac, particularly at doses of 150 mg/day or more, is associated with an increased risk of serious cardiovascular events in patients with heart disease or uncontrolled hypertension",
-        "Diclofenac is contraindicated in all patients over 50 years of age due to fulminant hepatic necrosis",
-        "Diclofenac causes irreversible optic neuritis when taken concurrently with antihypertensive medications",
-        "Diclofenac must be discontinued after 48 hours because it induces severe bone marrow aplasia"
+        "Diclofenac at doses of 150 mg/day or higher increases cardiovascular risk in patients with heart disease",
+        "Diclofenac is contraindicated in adults over 55 years of age due to the risk of acute hepatic necrosis",
+        "Diclofenac precipitates optic neuritis and retinopathy when combined with antihypertensive medications",
+        "Diclofenac therapy must be limited to 7 days because prolonged administration induces bone marrow aplasia"
       ],
       "answer": 0,
       "rationale": "In 2014, Health Canada updated its warning on diclofenac to highlight an increased risk of cardiovascular events (MI, stroke), particularly at higher doses (150 mg/day or more) and with longer duration of use. Patients with a history of or risk factors for heart disease, stroke, or uncontrolled hypertension are at greater risk."
@@ -231,10 +231,10 @@
       "topic": "Acetic Acid Derivatives",
       "prompt": "A 42-year-old patient is receiving ketorolac tromethamine (Toradol) 30 mg IM every 6 hours following open reduction and internal fixation of an ankle fracture. What is the maximum permitted duration of ketorolac therapy for a postsurgical patient?",
       "options": [
-        "10 days",
-        "21 days",
-        "14 days",
-        "5 days"
+        "Up to 10 days",
+        "Up to 14 days",
+        "Up to 7 days",
+        "Up to 5 days"
       ],
       "answer": 3,
       "rationale": "Because of the high potential for severe renal and gastrointestinal adverse effects, ketorolac use must not exceed 5 days in postsurgical patients (and up to 7 days for patients with acute musculoskeletal pain)."
@@ -245,10 +245,10 @@
       "topic": "Acetic Acid Derivatives",
       "prompt": "A 70-year-old patient is prescribed intramuscular ketorolac tromethamine for acute severe flank pain. According to standard dosage guidelines, what is the maximum total daily intramuscular dose of ketorolac for an adult older than 65 years?",
       "options": [
-        "120 mg/day",
-        "40 mg/day",
-        "200 mg/day",
-        "60 mg/day"
+        "Maximum of 120 mg/day",
+        "Maximum of 40 mg/day",
+        "Maximum of 90 mg/day",
+        "Maximum of 60 mg/day"
       ],
       "answer": 3,
       "rationale": "For intramuscular ketorolac tromethamine, the maximum daily dosage is 120 mg/day for adults under 65 years of age, but it is reduced to a maximum of 60 mg/day for adults older than 65 years (and maximum 40 mg/day for the oral route)."
@@ -259,10 +259,10 @@
       "topic": "Acetic Acid Derivatives",
       "prompt": "A nurse is preparing to administer ketorolac tromethamine (Toradol) 15 mg IM to an adult patient with acute orthopedic pain. Which administration technique is correct?",
       "options": [
-        "Inject rapidly into the deltoid or subcutaneous tissue of the abdomen",
-        "Administer only on an empty stomach at least 2 hours before meals",
+        "Inject rapidly into the anterior deltoid or abdominal subcutaneous tissue",
+        "Administer on an empty stomach at least 2 hours before scheduled meals",
         "Administer the injection slowly and deeply into a large muscle mass",
-        "Mix the ketorolac in the same syringe with morphine sulphate to reduce injection pain"
+        "Mix the ketorolac in one syringe with morphine to reduce site discomfort"
       ],
       "answer": 2,
       "rationale": "Intramuscular ketorolac should be administered slowly and deeply into a large muscle mass to minimize local tissue irritation and pain."
@@ -273,9 +273,9 @@
       "topic": "Acetic Acid Derivatives",
       "prompt": "A 13-year-old patient is admitted with a painful tibial fracture. The resident physician mentions ordering ketorolac (Toradol) for pain relief. What should the nurse communicate to the prescriber?",
       "options": [
-        "Ketorolac is safe in children over 12 years of age if the dose is calculated at 0.5 mg/kg",
-        "Ketorolac is not recommended for use in children under 16 years of age because safety and efficacy have not been established",
-        "Ketorolac can only be given via the rectal route in pediatric patients",
+        "Ketorolac is approved for children over 12 years when dosed at 0.5 mg/kg",
+        "Ketorolac is not recommended in children under 16 due to unestablished safety",
+        "Ketorolac must be administered via rectal suppository in pediatric patients",
         "Ketorolac is contraindicated in adolescents because it triggers Reye's syndrome"
       ],
       "answer": 1,
@@ -287,10 +287,10 @@
       "topic": "Propionic Acid Derivatives",
       "prompt": "A patient newly started on ibuprofen 400 mg PO every 6 hours for rheumatoid arthritis calls the clinic after 2 days stating, 'The pills take the edge off my pain for a few hours, but my knuckles are still just as swollen in the morning.' What is the nurse's best response?",
       "options": [
-        "Advise stopping the ibuprofen immediately because lack of swelling reduction after 48 hours indicates treatment failure",
-        "Explain that while analgesic effects occur within 30 to 60 minutes, full anti-inflammatory effects of ibuprofen can take up to 7 days or longer",
-        "Instruct the patient to double the dose to 800 mg every 4 hours until the joint swelling subsides",
-        "Suggest adding over-the-counter aspirin 650 mg to create a synergistic anti-inflammatory effect"
+        "Advise stopping ibuprofen since persistent swelling at 48 hours indicates treatment failure",
+        "Explain that analgesia begins in 30 to 60 minutes, but anti-inflammatory effects take 7 days",
+        "Instruct the patient to increase the dose to 800 mg every 4 hours until joint swelling subsides",
+        "Suggest adding enteric-coated aspirin 325 mg twice daily for synergistic anti-inflammatory action"
       ],
       "answer": 1,
       "rationale": "Oral ibuprofen has an analgesic onset of 30 to 60 minutes, but its full therapeutic anti-inflammatory action takes approximately 7 days (1 week or longer). Combining aspirin with another NSAID is contraindicated because it reduces NSAID absorption and increases GI toxicity with no therapeutic advantage."
@@ -301,10 +301,10 @@
       "topic": "Propionic Acid Derivatives",
       "prompt": "According to Health Canada safety warnings, at what daily dosage threshold does prescription-strength ibuprofen pose a significantly increased risk of serious cardiovascular events such as myocardial infarction and stroke?",
       "options": [
-        "800 mg/day or more",
-        "400 mg/day or more",
+        "800 mg/day or higher",
+        "1 200 mg/day or higher",
         "2 400 mg/day or more",
-        "1 200 mg/day or more"
+        "1 600 mg/day or higher"
       ],
       "answer": 2,
       "rationale": "Health Canada issued a safety warning regarding the increased risk of serious cardiovascular events (stroke, MI) associated with high doses of ibuprofen of at least 2 400 mg/day. The risk increases with dose size and duration of use."
@@ -315,10 +315,10 @@
       "topic": "Propionic Acid Derivatives",
       "prompt": "A patient with hypertension controlled with lisinopril (an ACE inhibitor) requires a propionic acid derivative for osteoarthritis. Why might the prescriber select naproxen rather than ibuprofen for this patient?",
       "options": [
-        "Naproxen has fewer drug interactions with ACE inhibitors and is less likely than ibuprofen to hinder their hypotensive effects",
-        "Naproxen selectively inhibits COX-3 in the central nervous system without affecting renal prostaglandins",
-        "Naproxen acts as a direct vasodilator that potentiates the blood pressure–lowering effect of ACE inhibitors",
-        "Naproxen is excreted unchanged in the bile and has no renal elimination"
+        "Naproxen is less likely than ibuprofen to blunt the hypotensive effects of ACE inhibitors",
+        "Naproxen selectively inhibits central COX-2 enzymes while sparing renal prostaglandins",
+        "Naproxen acts as a direct arterial vasodilator that enhances ACE inhibitor efficacy",
+        "Naproxen undergoes biliary elimination and avoids glomerular filtration competition"
       ],
       "answer": 0,
       "rationale": "Naproxen is the second most commonly used NSAID and is reported to have a somewhat better adverse effect profile and fewer drug interactions with ACE inhibitors than ibuprofen, which is more likely to hinder the desired hypotensive effects of ACE inhibitors."
@@ -329,10 +329,10 @@
       "topic": "Propionic Acid Derivatives",
       "prompt": "An 18-month-old child weighing 12 kg is prescribed oral ibuprofen suspension 10 mg/kg/dose every 6 hours PRN for fever. How many milligrams should the nurse administer per dose, and is this within the safe pediatric dosage range?",
       "options": [
-        "120 mg per dose; yes, it is within the 5 to 10 mg/kg/dose safe range (maximum 40 mg/kg/day)",
-        "60 mg per dose; yes, because the maximum daily dose is 10 mg/kg/day",
-        "480 mg per dose; yes, because children metabolize ibuprofen faster than adults",
-        "120 mg per dose; no, it exceeds the maximum pediatric single dose of 100 mg"
+        "120 mg per dose; yes, it is within the 5 to 10 mg/kg/dose safe range",
+        "60 mg per dose; yes, because the maximum pediatric dose is 5 mg/kg/dose",
+        "240 mg per dose; yes, because young children clear ibuprofen rapidly",
+        "120 mg per dose; no, it exceeds the maximum pediatric single dose of 80 mg"
       ],
       "answer": 0,
       "rationale": "For infants and children, the recommended ibuprofen dosage is 5 to 10 mg/kg/dose every 6 to 8 hours (up to a maximum of 40 mg/kg/day or 400 mg/dose). For a 12-kg child, 10 mg/kg equals 120 mg per dose (and up to 480 mg/day if given 4 times, corresponding to 40 mg/kg/day)."
@@ -344,9 +344,9 @@
       "prompt": "A nurse is reviewing the allergy history of a patient newly prescribed celecoxib (Celebrex) 200 mg PO daily for ankylosing spondylitis. An allergy to which medication class is a specific contraindication to administering celecoxib?",
       "options": [
         "Macrolide antibiotics",
-        "Thiazide-like calcium channel blockers",
-        "Sulfonamides (sulfa drugs)",
-        "Fluoroquinolones"
+        "Calcium channel blockers",
+        "Sulfonamide antimicrobials",
+        "Fluoroquinolone antibiotics"
       ],
       "answer": 2,
       "rationale": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with a known sulfa (sulfonamide) allergy, in addition to patients with an allergy to aspirin or other NSAIDs."
@@ -355,12 +355,12 @@
       "id": "nsaid-mc-026",
       "type": "multiple-choice",
       "topic": "COX-2 Inhibitors",
-      "prompt": "A patient prescribed celecoxib (Celebrex) asks the nurse why two other drugs in the same family—rofecoxib (Vioxx) and valdecoxib (Bextra)—were taken off the Canadian market. Which explanation is accurate?",
+      "prompt": "A patient prescribed celecoxib (Celebrex) asks the nurse why two other drugs in the same family\u2014rofecoxib (Vioxx) and valdecoxib (Bextra)\u2014were taken off the Canadian market. Which explanation is accurate?",
       "options": [
-        "They were removed because clinical data showed an increased risk of serious adverse cardiovascular events, including myocardial infarction, stroke, and death",
-        "They were found to cause higher rates of gastric perforation than nonselective aspirin",
-        "They caused a high incidence of irreversible aplastic anemia and agranulocytosis",
-        "They induced severe hypoglycemia and metabolic acidosis in older adult patients"
+        "Clinical data linked them to an increased risk of myocardial infarction, stroke, and death",
+        "Postmarketing studies showed higher rates of gastric perforation than nonselective aspirin",
+        "Surveillance data revealed a high incidence of aplastic anemia and severe agranulocytosis",
+        "Clinical trials demonstrated severe hypoglycemia and lactic acidosis in older adult patients"
       ],
       "answer": 0,
       "rationale": "Rofecoxib (Vioxx) and valdecoxib (Bextra) were withdrawn from the Canadian market after their use was linked to an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, stroke, and death. Celecoxib is the only COX-2 inhibitor remaining on the market and also carries cardiovascular risk warnings."
@@ -385,10 +385,10 @@
       "topic": "Enolic Acid Derivatives",
       "prompt": "A patient with rheumatoid arthritis who experienced epigastric distress with piroxicam is switched to nabumetone, another enolic acid derivative. Why is nabumetone generally better tolerated by the gastrointestinal tract than other enolic acid derivatives?",
       "options": [
-        "It is a selective leukotriene receptor antagonist with no effect on cyclooxygenase",
-        "It coats the gastric mucosa with an insoluble aluminum salt layer",
-        "It is relatively nonacidic compared with most other NSAIDs",
-        "It is administered exclusively by rectal suppository, bypassing the stomach"
+        "It acts as a selective leukotriene antagonist without inhibiting cyclooxygenase",
+        "It forms a protective sucralfate-like aluminum complex over gastric erosions",
+        "It has a relatively nonacidic chemical structure compared with other NSAIDs",
+        "It is absorbed in the distal ileum before conversion to its active metabolite"
       ],
       "answer": 2,
       "rationale": "Nabumetone is an enolic acid derivative (along with piroxicam and meloxicam) that is relatively nonacidic compared with most other NSAIDs, which accounts for its better gastrointestinal tolerance."
@@ -399,10 +399,10 @@
       "topic": "NSAIDs Overdose Management",
       "prompt": "A 22-year-old patient is admitted to the emergency department 1 hour after ingesting an acute overdose of ibuprofen (40 tablets of 200 mg). The patient is lethargic and nauseated. Which intervention should the nurse anticipate as part of standard management for a nonsalicylate NSAID overdose?",
       "options": [
-        "Immediate emergency hemodialysis to rapidly clear the protein-bound ibuprofen",
-        "Administration of activated charcoal along with supportive and symptomatic care",
+        "Urgent hemodialysis to accelerate clearance of protein-bound ibuprofen",
+        "Administration of oral activated charcoal with supportive clinical care",
         "Plotting a 6-hour serum ibuprofen concentration on the Done nomogram",
-        "Intravenous infusion of N-acetylcysteine using a 21-hour weight-based protocol"
+        "Intravenous infusion of N-acetylcysteine using a weight-based protocol"
       ],
       "answer": 1,
       "rationale": "Management of an acute overdose of a nonsalicylate NSAID (e.g., ibuprofen) consists of administering activated charcoal and providing supportive and symptomatic treatment. Unlike with salicylates, hemodialysis is of no value in enhancing the elimination of nonsalicylate NSAIDs, and the Done nomogram applies only to acute salicylate ingestion."
@@ -414,9 +414,9 @@
       "prompt": "A patient with bipolar disorder maintained on lithium carbonate begins taking indomethacin for acute bursitis. Which laboratory abnormality and clinical risk should the nurse monitor for closely?",
       "options": [
         "Elevated serum lithium concentrations and signs of lithium toxicity",
-        "Severe hypokalemia and torsades de pointes",
-        "Falsely elevated international normalized ratio (INR)",
-        "Subtherapeutic serum lithium levels and manic relapse"
+        "Severe hypokalemia and polymorphic ventricular tachycardia on ECG",
+        "Prolonged prothrombin time and elevated international normalized ratio",
+        "Subtherapeutic serum lithium levels and acute manic symptom relapse"
       ],
       "answer": 0,
       "rationale": "NSAIDs increase renal lithium reabsorption and reduce lithium clearance, resulting in increased serum lithium concentrations and a significant risk of lithium toxicity."
@@ -427,10 +427,10 @@
       "topic": "NSAIDs Interactions",
       "prompt": "A kidney transplant recipient taking ciclosporin for immunosuppression asks the nurse if they can take naproxen for a sprained ankle. What is the primary hazard of combining an NSAID with ciclosporin?",
       "options": [
-        "Naproxen induces hepatic cytochrome P450 enzymes, causing acute transplant rejection",
-        "Ciclosporin blocks the analgesic effect of naproxen at peripheral nociceptors",
-        "The combination causes severe hypoglycemia by stimulating pancreatic beta cells",
-        "Inhibition of renal prostaglandin synthesis increases the nephrotoxic effects of ciclosporin and can precipitate kidney failure"
+        "Naproxen induces hepatic cytochrome P450 enzymes and triggers acute graft rejection",
+        "Ciclosporin competitively blocks naproxen binding at peripheral nociceptor sites",
+        "Combined therapy stimulates pancreatic beta cells and causes severe hypoglycemia",
+        "Renal prostaglandin inhibition potentiates ciclosporin nephrotoxicity and renal failure"
       ],
       "answer": 3,
       "rationale": "When NSAIDs are taken with ciclosporin, inhibition of kidney prostaglandin synthesis potentiates the nephrotoxic effects of ciclosporin and can lead to acute kidney failure."
@@ -442,9 +442,9 @@
       "prompt": "During a medication reconciliation, a patient taking meloxicam (Mobicox) daily for osteoarthritis reports taking several natural health products. Which group of herbal supplements interacts with NSAIDs to increase the risk of bleeding?",
       "options": [
         "Feverfew, garlic, ginger, and ginkgo",
-        "Black cohosh, cranberry, ginseng, and melatonin",
-        "Milk thistle, saw palmetto, peppermint, and aloe",
-        "St. John's wort, valerian, kava, and echinacea"
+        "Black cohosh, cranberry, and melatonin",
+        "Milk thistle, saw palmetto, and aloe",
+        "St. John's wort, valerian, and echinacea"
       ],
       "answer": 0,
       "rationale": "Natural health products including feverfew, garlic, ginger, and ginkgo interfere with platelet function and interact with salicylates and other NSAIDs to increase bleeding risk."
@@ -456,9 +456,9 @@
       "prompt": "A 66-year-old patient with type 2 diabetes mellitus and atrial fibrillation (treated with warfarin and metformin) starts taking over-the-counter glucosamine and chondroitin for knee osteoarthritis. Which monitoring parameters must be increased for this patient?",
       "options": [
         "Serum potassium and thyroid-stimulating hormone (TSH) levels",
-        "Serum uric acid and serum creatinine kinase (CK) levels",
+        "Serum uric acid and serum creatine kinase (CK) concentrations",
         "International normalized ratio (INR) and blood glucose levels",
-        "White blood cell differential and reticulocyte counts"
+        "Complete white blood cell differential and reticulocyte counts"
       ],
       "answer": 2,
       "rationale": "Glucosamine and chondroitin can both enhance the anticoagulant effects of warfarin, requiring more frequent INR monitoring and possible warfarin dose adjustment. Additionally, glucosamine may increase insulin resistance, necessitating closer blood glucose monitoring and potentially higher dosages of oral hypoglycemics or insulin."
@@ -469,9 +469,9 @@
       "topic": "NSAIDs Special Populations",
       "prompt": "When educating a 78-year-old patient about starting a low-dose NSAID for osteoarthritis, which age-related physiological change in older adults explains why they may have higher serum drug levels and greater risk of gastrointestinal toxicity?",
       "options": [
-        "Increased cardiac output, accelerated hepatic enzyme induction, and alkaline gastric secretions",
-        "More acidic gastric juices, decreased gastric motility, reduced hepatic blood flow, and decreased glomerular filtration rate",
-        "Hypertrophy of liver parenchyma and increased renal tubular secretion of organic acids",
+        "Increased cardiac output, accelerated hepatic metabolism, and alkaline gastric secretions",
+        "More acidic gastric juices, slower gastric motility, and reduced hepatic and renal blood flow",
+        "Hypertrophy of hepatic parenchyma and enhanced renal tubular secretion of organic acids",
         "Increased total body water, elevated serum albumin binding, and rapid gastric emptying"
       ],
       "answer": 1,
@@ -483,10 +483,10 @@
       "topic": "NSAIDs Patient Teaching",
       "prompt": "A patient taking naproxen (Naprosyn) 500 mg twice daily for ankylosing spondylitis is scheduled for an elective laparoscopic cholecystectomy in 3 weeks. What instruction should the nurse provide regarding the naproxen?",
       "options": [
-        "Continue taking naproxen up until the morning of surgery to minimize postoperative inflammation",
-        "Consult the surgeon to discontinue the naproxen at least 1 week prior to the scheduled surgery",
-        "Switch from naproxen to acetylsalicylic acid 325 mg 48 hours before surgery",
-        "Stop the naproxen 12 hours before surgery because its elimination half-life is short"
+        "Continue taking naproxen until the morning of surgery to control postoperative pain",
+        "Consult the surgeon to discontinue naproxen at least 1 week before scheduled surgery",
+        "Switch from naproxen to regular-strength aspirin 48 hours before the surgical procedure",
+        "Withhold the naproxen starting 12 hours before surgery based on its elimination half-life"
       ],
       "answer": 1,
       "rationale": "Because NSAIDs alter platelet function and increase the risk of perioperative bleeding, patients undergoing any elective surgery (including dental or minor surgery) should discontinue NSAIDs and aspirin at least 1 week prior to surgery per the prescriber's or surgeon's orders."
@@ -497,10 +497,10 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient with newly diagnosed hyperuricemia and gout asks the nurse how allopurinol (Zyloprim) works to prevent gout attacks. Which explanation by the nurse is accurate?",
       "options": [
-        "It binds to transporter proteins in the proximal renal tubule to increase uric acid excretion in the urine",
-        "It inhibits the enzyme xanthine oxidase, blocking the conversion of hypoxanthine and xanthine into uric acid",
-        "It inhibits the mobility and chemotaxis of polymorphonuclear leukocytes at inflamed joints",
-        "It directly dissolves existing sodium urate crystals deposited in synovial fluid"
+        "It binds proximal renal tubular transporters to increase urinary uric acid excretion",
+        "It inhibits xanthine oxidase to block conversion of hypoxanthine and xanthine to uric acid",
+        "It suppresses the mobility and chemotaxis of polymorphonuclear leukocytes in synovium",
+        "It hydrolyzes monosodium urate crystals already deposited within articular cartilage"
       ],
       "answer": 1,
       "rationale": "Allopurinol (and its active metabolite oxypurinol) inhibits the enzyme xanthine oxidase, preventing the metabolic conversion of hypoxanthine to xanthine and xanthine to uric acid. It is indicated for patients who overproduce uric acid."
@@ -511,13 +511,13 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient who started taking allopurinol 3 weeks ago calls the clinic to report a new onset of fever, sore throat, malaise, and a painful, blistering skin rash that is peeling on the trunk. What is the nurse's priority action?",
       "options": [
-        "Reassure the patient that a mild photosensitive rash is common and recommend applying hydrocortisone cream",
-        "Instruct the patient to stop taking allopurinol immediately and seek urgent medical evaluation for possible Stevens–Johnson syndrome or toxic epidermal necrolysis",
-        "Advise the patient to take the allopurinol with a full meal and an antihistamine until the rash subsides",
-        "Tell the patient to reduce the allopurinol dose by half and schedule a routine appointment in 2 weeks"
+        "Reassure the patient that a mild photosensitive rash is expected and suggest hydrocortisone cream",
+        "Instruct the patient to stop allopurinol and seek urgent care for a severe cutaneous reaction",
+        "Advise taking allopurinol with meals and an oral antihistamine until the skin rash resolves",
+        "Recommend reducing the allopurinol dose by half and scheduling a clinic follow-up in 1 week"
       ],
       "answer": 1,
-      "rationale": "Allopurinol can cause serious and potentially fatal cutaneous hypersensitivity reactions, including exfoliative dermatitis, Stevens–Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), as well as agranulocytosis and aplastic anemia. Any skin rash or flu-like symptoms require immediate discontinuation and urgent medical assessment."
+      "rationale": "Allopurinol can cause serious and potentially fatal cutaneous hypersensitivity reactions, including exfoliative dermatitis, Stevens\u2013Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), as well as agranulocytosis and aplastic anemia. Any skin rash or flu-like symptoms require immediate discontinuation and urgent medical assessment."
     },
     {
       "id": "nsaid-mc-038",
@@ -525,13 +525,13 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient with chronic kidney disease has a creatinine clearance (CrCl) of 15 mL/min and requires allopurinol for severe tophaceous gout. How should the allopurinol dosage be adjusted for this patient?",
       "options": [
-        "Administer the standard maximum dosage of 800 mg/day because allopurinol is eliminated entirely in the feces",
-        "Initiate therapy at 50 mg daily, titrate slowly, and observe a reduced maximum dosage of 200 mg/day",
-        "Administer 500 mg twice daily alongside probenecid to enhance renal clearance of oxypurinol",
-        "Withhold allopurinol completely because it is strictly contraindicated when CrCl is below 30 mL/min"
+        "Administer the standard maximum dosage of 800 mg/day since elimination is biliary",
+        "Initiate therapy at 50 mg daily, titrate slowly, and do not exceed 200 mg/day",
+        "Administer 400 mg twice daily with probenecid to enhance renal oxypurinol clearance",
+        "Withhold allopurinol because it is contraindicated when CrCl falls below 30 mL/min"
       ],
       "answer": 1,
-      "rationale": "In renal impairment, allopurinol is not contraindicated, but doses should be initiated at 50 mg daily and titrated slowly with lower maximum doses: for CrCl 10–20 mL/min, the maximum dose is 200 mg/day, and for CrCl 3–10 mL/min, the maximum dose is 100 mg/day (compared with 800 mg/day in normal renal function)."
+      "rationale": "In renal impairment, allopurinol is not contraindicated, but doses should be initiated at 50 mg daily and titrated slowly with lower maximum doses: for CrCl 10\u201320 mL/min, the maximum dose is 200 mg/day, and for CrCl 3\u201310 mL/min, the maximum dose is 100 mg/day (compared with 800 mg/day in normal renal function)."
     },
     {
       "id": "nsaid-mc-039",
@@ -539,13 +539,13 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient with lymphoma is scheduled to begin cytotoxic chemotherapy and is prescribed allopurinol. When should the allopurinol be initiated, and what is the rationale for its use?",
       "options": [
-        "Begin a few days before chemotherapy to prevent acute tumour lysis syndrome and hyperuricemia from rapid malignant cell death",
-        "Begin 48 hours after chemotherapy is completed to stimulate bone marrow recovery of leukocytes",
-        "Give concurrently with mercaptopurine to double the antineoplastic potency of the chemotherapy",
-        "Administer only if the patient develops acute articular gout pain in the first metatarsophalangeal joint"
+        "Start a few days before chemotherapy to prevent hyperuricemia from tumour cell lysis",
+        "Start 48 hours after chemotherapy completion to accelerate bone marrow leukocyte recovery",
+        "Administer concurrently with mercaptopurine to potentiate antineoplastic cytotoxicity",
+        "Administer on an as-needed basis if acute podagra develops in the first metatarsophalangeal joint"
       ],
       "answer": 0,
-      "rationale": "Allopurinol is given a few days before starting chemotherapy to prevent acute tumour lysis syndrome—hyperuricemia and uric acid nephropathy resulting from massive purine release during rapid malignant cell lysis."
+      "rationale": "Allopurinol is given a few days before starting chemotherapy to prevent acute tumour lysis syndrome\u2014hyperuricemia and uric acid nephropathy resulting from massive purine release during rapid malignant cell lysis."
     },
     {
       "id": "nsaid-mc-040",
@@ -567,10 +567,10 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient is prescribed oral colchicine for an acute gout flare with the following regimen: 1.2 mg initially, followed by 0.6 mg 1 hour later, and then 0.6 mg every 2 hours. When should the patient stop taking the acute doses of colchicine?",
       "options": [
-        "Only after completing a full 10-day course to prevent resistant urate crystal formation",
-        "When serum uric acid levels drop below 200 µmol/L on home testing",
-        "Once a mild skin rash or tinnitus appears, indicating therapeutic saturation",
-        "As soon as the gout pain disappears or when nausea, vomiting, or diarrhea develops"
+        "After completing a full 7-day regimen to prevent recurrent urate crystal deposition",
+        "When serum uric acid concentrations fall below 200 \u00b5mol/L on repeat laboratory testing",
+        "Once mild tinnitus or visual blurring develops as an indicator of therapeutic saturation",
+        "When the acute joint pain subsides or when nausea, vomiting, or diarrhea first develops"
       ],
       "answer": 3,
       "rationale": "For an acute gout flare, colchicine is given at 1 to 1.2 mg initially, followed by 0.6 mg 1 hour later and every 2 hours until the gout pain disappears or until GI toxicity (nausea, vomiting, or diarrhea) develops. Furthermore, 3 days must pass before a second acute course is initiated."
@@ -581,10 +581,10 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient prescribed colchicine asks the nurse whether to take the tablets with meals or on an empty stomach. Which explanation by the nurse is most accurate?",
       "options": [
-        "Colchicine must be chewed with an antacid tablet to prevent esophageal ulceration",
-        "Colchicine must always be taken with a high-fat meal to dissolve the lipid-soluble tablet matrix",
-        "Colchicine needs to be taken on an empty stomach for optimally complete absorption, though it may be given with food if gastrointestinal upset occurs",
-        "Colchicine should be taken with grapefruit juice or an alcohol-based elixir to enhance bioavailability"
+        "Chew the tablets with an antacid to prevent mucosal irritation in the esophagus",
+        "Take with a high-fat meal to dissolve the lipid-soluble coating of the tablet",
+        "Take on an empty stomach for optimal absorption, or with food if GI upset occurs",
+        "Take with grapefruit juice or an elixir to inhibit intestinal first-pass metabolism"
       ],
       "answer": 2,
       "rationale": "According to the textbook, colchicine needs to be taken on an empty stomach for optimally complete absorption, although it is best tolerated if given with food when GI irritation is an issue. Patients must also avoid alcohol and OTC cold-relief products containing alcohol while taking colchicine."
@@ -595,10 +595,10 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient with chronic gout who underexcretes uric acid is prescribed probenecid (Benuryl) 250 mg PO twice daily for 1 week, then 500 mg twice daily. Which comorbidity in a patient's medical record would make probenecid ineffective or contraindicated?",
       "options": [
-        "Concomitant penicillin therapy for a severe bacterial infection",
-        "Peptic ulcer disease, blood dyscrasias, or kidney impairment",
-        "Mild seasonal allergic rhinitis or osteoarthritis",
-        "Second-trimester pregnancy requiring uricosuric therapy"
+        "Concomitant oral penicillin therapy for a soft-tissue bacterial infection",
+        "Peptic ulcer disease, hematological blood dyscrasias, or kidney impairment",
+        "Perennial allergic rhinitis or mild degenerative joint disease of the knees",
+        "Second-trimester pregnancy requiring maintenance uricosuric drug therapy"
       ],
       "answer": 1,
       "rationale": "Contraindications to probenecid include peptic ulcer disease and blood dyscrasias. Furthermore, probenecid is ineffective in patients with kidney impairment and should not be used in these patients. (Conversely, probenecid is sometimes used therapeutically with penicillin to delay its renal excretion and prolong serum penicillin levels.)"
@@ -609,10 +609,10 @@
       "topic": "Antigout Drugs",
       "prompt": "A patient taking probenecid (Benuryl) for chronic gout reports taking over-the-counter acetylsalicylic acid (ASA) 650 mg twice daily for tension headaches. How should the nurse counsel the patient?",
       "options": [
-        "Stop taking ASA because salicylates antagonize the uricosuric action of probenecid and decrease uric acid excretion",
-        "Continue taking ASA because it works synergistically with probenecid to alkalinize the urine",
-        "Take the ASA at the exact same time as probenecid to prevent probenecid-induced tinnitus",
-        "Switch from ASA to diflunisal because salicylates prevent uric acid kidney stones"
+        "Discontinue ASA because salicylates antagonize probenecid and reduce uric acid excretion",
+        "Continue ASA because it acts synergistically with probenecid to alkalinize renal tubular urine",
+        "Administer ASA concurrently with probenecid to prevent uricosuric-induced auditory tinnitus",
+        "Switch from ASA to diflunisal because prescription salicylates prevent uric acid nephrolithiasis"
       ],
       "answer": 0,
       "rationale": "Salicylates (such as ASA) antagonize the uricosuric mechanism of probenecid and sulfinpyrazone, resulting in decreased uric acid excretion and potential acute gout flares."
@@ -623,10 +623,10 @@
       "topic": "Antigout Drugs",
       "prompt": "Which dietary and lifestyle teaching points should the nurse include for a patient prescribed allopurinol for chronic gout?",
       "options": [
-        "Consume a high-purine diet rich in liver, sardines, and yeast extracts to keep xanthine oxidase active",
-        "Take allopurinol on an empty stomach at bedtime with strong black coffee to prevent drowsiness",
-        "Restrict fluid intake to 1 L/day to concentrate allopurinol in the renal tubules and drink 2 glasses of red wine daily",
-        "Increase fluid intake up to 3 L/day, avoid alcohol and caffeine, and limit high-purine foods such as organ meats, seafood, lentils, and beer"
+        "Follow a high-purine diet of organ meats and sardines to maintain xanthine oxidase activity",
+        "Take allopurinol on an empty stomach at bedtime with black coffee to prevent daytime sedation",
+        "Restrict fluid intake to 1 L/day to concentrate the drug in renal tubules and drink red wine",
+        "Take with meals, drink 3 L of fluid daily, avoid alcohol and caffeine, and limit high-purine foods"
       ],
       "answer": 3,
       "rationale": "Patients taking allopurinol should take it with meals to minimize GI upset, increase fluid intake to 3 L/day (to maintain urine output of at least 2 L/day and prevent uric acid kidney stones), avoid alcohol and caffeine (which increase uric acid levels and decrease allopurinol levels), and limit high-purine foods (organ meats, seafood, meat extracts, yeast, beer, beans, peas, lentils, oatmeal, spinach, asparagus, cauliflower, mushrooms)."
@@ -676,7 +676,7 @@
           ]
         }
       ],
-      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid–base disturbances."
+      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid\u2013base disturbances."
     },
     {
       "id": "nsaid-sa-004",
@@ -698,7 +698,7 @@
       "id": "nsaid-sa-005",
       "type": "short-answer",
       "topic": "COX-2 Inhibitors",
-      "prompt": "Name the only selective cyclooxygenase-2 (COX-2) inhibitor currently remaining on the Canadian market.",
+      "prompt": "Name the selective cyclooxygenase-2 (COX-2) inhibitor currently remaining on the Canadian market.",
       "answers": [
         {
           "text": "celecoxib",
@@ -784,10 +784,10 @@
             "type": "multiple-choice",
             "prompt": "Which administration instruction is most important for the nurse to include when teaching Elena about her new prescription for extended-release diclofenac (Voltaren-XR)?",
             "options": [
-              "Take the medication on an empty stomach with black coffee to enhance anti-inflammatory action",
-              "Take an extra 75-mg tablet every 2 hours whenever wrist pain flares up while typing",
-              "Crush the tablets and mix them in applesauce to speed up absorption for acute wrist pain",
-              "Swallow the extended-release tablets whole with food or milk and never crush or chew them"
+              "Take on an empty stomach with black coffee to accelerate anti-inflammatory onset",
+              "Take an additional 75-mg tablet every 3 hours whenever wrist pain flares at work",
+              "Crush the tablets and mix them in applesauce to speed gastrointestinal absorption",
+              "Swallow the extended-release tablets whole with food or milk without crushing them"
             ],
             "answer": 3,
             "rationale": "Sustained-release or enteric-coated NSAID formulations must never be crushed, broken, or chewed, and taking oral NSAIDs with food, milk, or antacids helps minimize gastrointestinal irritation."
@@ -799,10 +799,10 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's best therapeutic response to Elena's concern?",
             "options": [
-              "Tell her to remove the wrist splint and perform vigorous wrist exercises to pump the drug into the tendon",
-              "Reassure her that while analgesic relief begins quickly, the full anti-inflammatory effect of an NSAID often takes 1 week or longer to become apparent",
-              "Advise her to add over-the-counter ibuprofen 400 mg every 4 hours until the diclofenac reaches therapeutic levels",
-              "Instruct her to stop taking the diclofenac immediately because tendinitis should resolve completely within 48 hours"
+              "Remove the wrist splint and perform vigorous wrist exercises to enhance local drug delivery",
+              "Explain that analgesia begins early, but full anti-inflammatory effects take 1 week or longer",
+              "Add over-the-counter ibuprofen 400 mg every 6 hours until diclofenac reaches steady state",
+              "Discontinue diclofenac and request a corticosteroid injection since tendinitis resolves in 48 hours"
             ],
             "answer": 1,
             "rationale": "When NSAIDs are used to decrease joint or tendon inflammation, full therapeutic anti-inflammatory effects may not be experienced for 1 week (7 days) or longer, even though mild analgesia occurs sooner. Combining two NSAIDs increases GI toxicity without added benefit."
@@ -814,25 +814,25 @@
             "type": "multiple-choice",
             "prompt": "How should the nurse interpret Elena's new clinical findings and laboratory values?",
             "options": [
-              "Dark stools are a benign discolouration from diclofenac metabolites and require only reassurance",
-              "She is experiencing NSAID-induced upper gastrointestinal ulceration and bleeding, resulting in anemia",
-              "The findings indicate salicylism and require plotting on the Done nomogram",
-              "She has developed acute reversible hepatotoxicity causing biliary obstruction"
+              "Benign stool discolouration from oxidized diclofenac metabolites in the gut",
+              "NSAID-induced upper gastrointestinal ulceration and bleeding causing anemia",
+              "Subacute salicylate intoxication requiring evaluation on the Done nomogram",
+              "Acute reversible hepatotoxicity with cholestasis and impaired iron transport"
             ],
             "answer": 1,
             "rationale": "Fatigue, epigastric discomfort, dark tarry stools (melena), tachycardia, and a drop in hemoglobin and hematocrit are classic indicators of NSAID-induced gastrointestinal ulceration and bleeding resulting from COX-1 inhibition in the gastric mucosa."
           }
         },
         {
-          "update": "The nurse practitioner immediately discontinues the diclofenac-XR and arranges endoscopic evaluation and iron supplementation. Elena asks how gastric ulcers from NSAIDs are prevented in patients who require anti-inflammatory therapy in the future.",
+          "update": "The nurse practitioner discontinues the diclofenac-XR and arranges endoscopic evaluation and iron supplementation. Elena asks how gastric ulcers from NSAIDs are prevented in patients who require anti-inflammatory therapy in the future.",
           "question": {
             "type": "multiple-choice",
-            "prompt": "Which medication Strategy could the prescriber consider if anti-inflammatory therapy is required in a patient at high risk for NSAID-induced gastrointestinal toxicity?",
+            "prompt": "Which medication strategy could the prescriber consider if anti-inflammatory therapy is required in a patient at high risk for NSAID-induced gastrointestinal toxicity?",
             "options": [
-              "Switching to parenteral ketorolac tromethamine for long-term maintenance therapy",
-              "Co-administering ginkgo biloba and garlic capsules with meals",
-              "Co-prescribing the prostaglandin analogue misoprostol or switching to a selective COX-2 inhibitor such as celecoxib",
-              "Adding oral prednisone 20 mg daily to protect the gastric mucosal barrier"
+              "Transitioning to parenteral ketorolac tromethamine for long-term maintenance therapy",
+              "Co-administering standardized ginkgo biloba and garlic extracts with each daily meal",
+              "Co-prescribing the prostaglandin analogue misoprostol or switching to oral celecoxib",
+              "Adding oral prednisone 20 mg daily to strengthen the protective gastric mucus barrier"
             ],
             "answer": 2,
             "rationale": "Misoprostol (a prostaglandin analogue) may be given to prevent NSAID-induced GI intolerance and ulcers, or a selective COX-2 inhibitor (celecoxib) may be selected because it spares gastric COX-1 more than traditional nonselective NSAIDs. Corticosteroids and ketorolac increase ulcer risk."
@@ -845,17 +845,17 @@
       "type": "case-study",
       "title": "Acute Gout Flare Transitioning to Chronic Urate-Lowering Therapy",
       "topic": "Antigout Drugs (Colchicine & Allopurinol)",
-      "scenario": "Marcus, a 54-year-old chef with a BMI of 32 kg/m², presents to the urgent care clinic with excruciating pain, redness, heat, and swelling in his right first metatarsophalangeal (great toe) joint that woke him from sleep. He reports eating organ meats and shellfish and drinking several beers over the weekend. His serum uric acid level is elevated at 560 µmol/L, serum creatinine is 88 µmol/L, and eGFR is 82 mL/min. He is diagnosed with acute gouty arthritis (articular gout) and prescribed oral colchicine for the acute flare.",
+      "scenario": "Marcus, a 54-year-old chef with a BMI of 32 kg/m\u00b2, presents to the urgent care clinic with excruciating pain, redness, heat, and swelling in his right first metatarsophalangeal (great toe) joint that woke him from sleep. He reports eating organ meats and shellfish and drinking several beers over the weekend. His serum uric acid level is elevated at 560 \u00b5mol/L, serum creatinine is 88 \u00b5mol/L, and eGFR is 82 mL/min. He is diagnosed with acute gouty arthritis (articular gout) and prescribed oral colchicine for the acute flare.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "The nurse is educating Marcus on the acute colchicine dosing regimen (1.2 mg initially, followed by 0.6 mg 1 hour later, and 0.6 mg every 2 hours). Which instruction is essential for safe administration during this acute attack?",
             "options": [
-              "Continue taking 0.6 mg every 2 hours for a full 7 days even if severe watery diarrhea occurs",
-              "Repeat a second full acute course of colchicine the very next morning if mild toe stiffness remains",
-              "Stop taking the medication as soon as the joint pain resolves or at the first sign of nausea, vomiting, or diarrhea",
-              "Take the tablets with a glass of beer or an over-the-counter alcohol-based cough elixir to aid sleep"
+              "Continue taking 0.6 mg every 2 hours for 5 full days even if watery diarrhea develops",
+              "Initiate a second acute colchicine course the next morning if mild toe pain persists",
+              "Stop taking the doses once joint pain resolves or if nausea, vomiting, or diarrhea occurs",
+              "Take the tablets with an alcohol-based elixir or beer to promote sleep during the flare"
             ],
             "answer": 2,
             "rationale": "During an acute gout flare, colchicine is administered until the gout pain disappears or until GI symptoms (nausea, vomiting, or diarrhea) develop. At least 3 days must elapse before a second acute course of therapy is initiated, and alcohol must be avoided."
@@ -867,10 +867,10 @@
             "type": "multiple-choice",
             "prompt": "What action should the nurse take in response to Marcus's new symptoms?",
             "options": [
-              "Advise him to resume prophylactic colchicine 0.6 mg twice daily and drink cranberry juice",
-              "Recommend taking acetylsalicylic acid 650 mg every 4 hours for the fever",
-              "Reassure him that pink-tinged urine is a harmless excretion of uric acid crystals",
-              "Instruct him to withhold any further colchicine and contact the prescriber immediately because hematuria, fever, and lethargy indicate serious colchicine toxicity"
+              "Resume prophylactic colchicine 0.6 mg twice daily and increase fluid intake with juice",
+              "Take acetylsalicylic acid 650 mg every 4 hours to control the fever and joint aching",
+              "Continue monitoring at home since pink-tinged urine reflects normal urate clearance",
+              "Withhold colchicine and contact the prescriber urgently due to signs of drug toxicity"
             ],
             "answer": 3,
             "rationale": "Severe adverse effects of colchicine include bleeding into the urinary or GI tracts (hematuria) and bone marrow suppression (leukopenia causing fever/chills, excessive fatigue, and lethargy). The drug must be discontinued and the health care provider contacted immediately."
@@ -882,10 +882,10 @@
             "type": "multiple-choice",
             "prompt": "Which nursing instruction should be emphasized to prevent uric acid kidney stones and gastrointestinal upset while taking allopurinol?",
             "options": [
-              "Take allopurinol on an empty stomach with 250 mL of water and restrict total daily fluids to 1.2 L",
-              "Drink 3 to 4 cups of caffeinated coffee daily to stimulate renal clearance of oxypurinol",
-              "Acidify the urine by taking high-dose vitamin C and eating organ meats daily",
-              "Take allopurinol with meals and increase fluid intake to 3 L/day to maintain a urinary output of at least 2 L/day"
+              "Take allopurinol on an empty stomach and restrict total daily fluid intake to 1.2 L/day",
+              "Drink 3 to 4 cups of caffeinated coffee daily to enhance renal clearance of oxypurinol",
+              "Acidify the urine with high-dose ascorbic acid and consume purine-rich protein sources",
+              "Take allopurinol with meals and drink 3 L of fluid daily to maintain 2 L/day urine output"
             ],
             "answer": 3,
             "rationale": "Allopurinol should be given with meals to minimize GI symptoms (nausea, vomiting, anorexia), and patients must increase fluid intake to 3 L/day to maintain a urine output of 2 L/day, which prevents the precipitation of uric acid kidney stones. Caffeine and alcohol should be avoided."
@@ -897,10 +897,10 @@
             "type": "multiple-choice",
             "prompt": "Which statement by Marcus indicates that he understands the dietary teaching for gout?",
             "options": [
-              "\"As long as I take allopurinol every morning, I can drink two beers a day and eat shellfish without affecting my uric acid.\"",
-              "\"I only need to avoid dairy products, eggs, and citrus fruits because they contain high levels of purines.\"",
-              "\"I will avoid beer and limit purine-rich foods like liver, seafood, meat extracts, lentils, beans, spinach, asparagus, and mushrooms.\"",
-              "\"I will replace all my meals with yeast-fortified protein shakes and rich beef bone broths.\""
+              "\"While taking daily allopurinol, I can drink beer and eat shellfish without raising uric acid.\"",
+              "\"I should avoid low-fat dairy products, eggs, and citrus fruits because they are high in purines.\"",
+              "\"I will avoid beer and limit organ meats, seafood, meat extracts, lentils, beans, and spinach.\"",
+              "\"I will replace my regular evening meals with yeast shakes and concentrated beef bone broths.\""
             ],
             "answer": 2,
             "rationale": "Foods high in purines that should be limited in gout include seafood, red meats (especially organ meats), meat extracts, yeast, beer, beans, peas, oatmeal, lentils, spinach, asparagus, cauliflower, and mushrooms. Even 1 to 2 alcoholic drinks per day increases uric acid levels and decreases allopurinol effectiveness."
@@ -913,20 +913,20 @@
       "type": "case-study",
       "title": "Acute Salicylate Overdose in an Adolescent",
       "topic": "Salicylates (Acetylsalicylic Acid Toxicity)",
-      "scenario": "Liam, a 16-year-old boy weighing 60 kg, is brought to the emergency department by his parents 6.5 hours after ingesting approximately 65 tablets of regular-strength acetylsalicylic acid (325 mg per tablet) following an argument at school. On arrival, he is diaphoretic, restless, and complaining of loud ringing in his ears, muffled hearing, nausea, and dizziness. Vital signs: Temp 38.4°C, HR 118 beats/min, RR 32 breaths/min (deep and rapid), BP 116/70 mmHg.",
+      "scenario": "Liam, a 16-year-old boy weighing 60 kg, is brought to the emergency department by his parents 6.5 hours after ingesting approximately 65 tablets of regular-strength acetylsalicylic acid (325 mg per tablet) following an argument at school. On arrival, he is diaphoretic, restless, and complaining of loud ringing in his ears, muffled hearing, nausea, and dizziness. Vital signs: Temp 38.4\u00b0C, HR 118 beats/min, RR 32 breaths/min (deep and rapid), BP 116/70 mmHg.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
-            "prompt": "Based on Liam's weight of 60 kg and an estimated ingestion of 21 125 mg (65 × 325 mg) of acetylsalicylic acid, what is his estimated mg/kg ingested dose and corresponding toxicity severity category?",
+            "prompt": "Based on Liam's weight of 60 kg and an estimated ingestion of 21 125 mg (65 \u00d7 325 mg) of acetylsalicylic acid, what is his estimated mg/kg ingested dose and corresponding toxicity severity category?",
             "options": [
-              "Approximately 620 mg/kg, which falls into the life-threatening toxicity category (>500 mg/kg)",
-              "Approximately 110 mg/kg, which falls into the little or no toxicity category (<150 mg/kg)",
-              "Approximately 352 mg/kg, which falls into the severe toxicity category (300 to 500 mg/kg)",
-              "Approximately 210 mg/kg, which falls into the mild-to-moderate toxicity category (150 to 300 mg/kg)"
+              "Approximately 620 mg/kg, placing him in the life-threatening toxicity category (>500 mg/kg)",
+              "Approximately 110 mg/kg, placing him in the little or no toxicity category (<150 mg/kg)",
+              "Approximately 352 mg/kg, placing him in the severe toxicity category (300 to 500 mg/kg)",
+              "Approximately 210 mg/kg, placing him in the mild-to-moderate toxicity category (150 to 300 mg/kg)"
             ],
             "answer": 2,
-            "rationale": "65 tablets × 325 mg = 21 125 mg total. Divided by 60 kg, this equals 352.1 mg/kg. According to textbook guidelines for acute salicylate overdose: <150 mg/kg is little or no toxicity; 150–300 mg/kg is mild-to-moderate toxicity; 300–500 mg/kg is severe toxicity; and >500 mg/kg is life-threatening toxicity."
+            "rationale": "65 tablets \u00d7 325 mg = 21 125 mg total. Divided by 60 kg, this equals 352.1 mg/kg. According to textbook guidelines for acute salicylate overdose: <150 mg/kg is little or no toxicity; 150\u2013300 mg/kg is mild-to-moderate toxicity; 300\u2013500 mg/kg is severe toxicity; and >500 mg/kg is life-threatening toxicity."
           }
         },
         {
@@ -952,10 +952,10 @@
             "type": "multiple-choice",
             "prompt": "Given Liam's deteriorating status and arterial blood pH of 7.08, which definitive intervention is indicated in addition to intravenous dextrose and supportive care?",
             "options": [
-              "Prepare the patient for emergency hemodialysis to enhance salicylate elimination and correct unresponsive acidosis",
-              "Administer oral probenecid 500 mg stat to block renal tubular reabsorption of salicylate",
-              "Initiate a continuous intravenous infusion of naloxone hydrochloride",
-              "Wait another 12 hours to repeat the serum salicylate level before escalating care"
+              "Prepare for emergency hemodialysis to accelerate salicylate removal and correct severe acidosis",
+              "Administer oral probenecid 500 mg stat to inhibit proximal tubular reabsorption of salicylate",
+              "Initiate a continuous weight-based intravenous infusion of N-acetylcysteine over 21 hours",
+              "Repeat the serum salicylate concentration in 12 hours before escalating medical interventions"
             ],
             "answer": 0,
             "rationale": "In severe acute salicylate intoxication, dialysis is indicated for high salicylate levels, unresponsive acidosis (pH less than 7.1), impaired kidney function, noncardiogenic pulmonary edema, persistent CNS symptoms (confusion, seizures, coma), or progressive clinical deterioration."
@@ -968,32 +968,32 @@
       "type": "case-study",
       "title": "Osteoarthritis Management in an Older Adult With Cardiovascular and Renal Risk",
       "topic": "COX-2 Inhibitors & NSAID Interactions",
-      "scenario": "Arthur, a 74-year-old retired carpenter, visits the primary care clinic for worsening bilateral knee osteoarthritis. His medical history includes hypertension (treated with perindopril, an ACE inhibitor, and hydrochlorothiazide), paroxysmal atrial fibrillation (treated with warfarin), and a documented severe anaphylactic rash to trimethoprim–sulfamethoxazole (a sulfonamide antibiotic) 5 years ago. His baseline labs show serum creatinine 118 µmol/L, eGFR 52 mL/min, and INR 2.4.",
+      "scenario": "Arthur, a 74-year-old retired carpenter, visits the primary care clinic for worsening bilateral knee osteoarthritis. His medical history includes hypertension (treated with perindopril, an ACE inhibitor, and hydrochlorothiazide), paroxysmal atrial fibrillation (treated with warfarin), and a documented severe anaphylactic rash to trimethoprim\u2013sulfamethoxazole (a sulfonamide antibiotic) 5 years ago. His baseline labs show serum creatinine 118 \u00b5mol/L, eGFR 52 mL/min, and INR 2.4.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Arthur tells the nurse he saw an advertisement for celecoxib (Celebrex) and wants a prescription for it because it is 'easier on the stomach.' Why must the nurse alert the prescriber that celecoxib is contraindicated for Arthur?",
             "options": [
-              "Celecoxib cannot be given to patients over 65 years of age under any circumstances",
-              "Arthur has a documented severe allergy to sulfonamides (sulfa drugs)",
-              "Celecoxib is only approved in Canada for acute gout and not for osteoarthritis",
-              "Celecoxib causes irreversible thrombocytopenia within 24 hours when combined with thiazides"
+              "Celecoxib is contraindicated in adults over 70 years of age due to slowed hepatic clearance",
+              "Celecoxib is contraindicated because he has a documented severe allergy to sulfonamides",
+              "Celecoxib is approved in Canada for ankylosing spondylitis rather than knee osteoarthritis",
+              "Celecoxib precipitates immune thrombocytopenia when co-administered with thiazide diuretics"
             ],
             "answer": 1,
             "rationale": "Celecoxib is contraindicated in patients with a known sulfa (sulfonamide) allergy. In addition, Arthur has cardiovascular risk factors and takes warfarin and an ACE inhibitor/diuretic."
           }
         },
         {
-          "update": "The prescriber explains why celecoxib is unsafe for him and advises against systemic NSAIDs. However, two weeks later, Arthur returns to the clinic with ankle edema, a blood pressure of 162/94 mmHg (up from 128/76 mmHg), and a serum creatinine of 186 µmol/L (eGFR dropped to 31 mL/min). Upon questioning, Arthur admits he has been taking his wife's over-the-counter ibuprofen (Advil) 400 mg four times daily for the past 10 days.",
+          "update": "The prescriber explains why celecoxib is unsafe for him and advises against systemic NSAIDs. However, two weeks later, Arthur returns to the clinic with ankle edema, a blood pressure of 162/94 mmHg (up from 128/76 mmHg), and a serum creatinine of 186 \u00b5mol/L (eGFR dropped to 31 mL/min). Upon questioning, Arthur admits he has been taking his wife's over-the-counter ibuprofen (Advil) 400 mg four times daily for the past 10 days.",
           "question": {
             "type": "multiple-choice",
             "prompt": "What is the physiological mechanism behind Arthur's acute decline in kidney function and loss of blood pressure control?",
             "options": [
-              "Ibuprofen directly destroys glomeruli through an autoimmune sulfonamide cross-reaction",
-              "Ibuprofen inhibits renal prostaglandins, causing afferent arteriole vasoconstriction that opposes his ACE inhibitor and diuretic, sharply reducing GFR and blunting antihypertensive effects",
-              "Ibuprofen blocks hepatic conversion of perindopril into its active metabolite",
-              "Ibuprofen increases renal excretion of sodium and water, causing severe hypovolemic shock"
+              "Ibuprofen triggers immune complex glomerulonephritis via sulfonamide cross-reactivity",
+              "Ibuprofen blocks renal prostaglandins, constricting afferent arterioles and lowering GFR",
+              "Ibuprofen inhibits hepatic esterase conversion of perindopril into its active drug metabolite",
+              "Ibuprofen enhances renal sodium and water excretion, precipitating prerenal hypovolemia"
             ],
             "answer": 1,
             "rationale": "NSAIDs inhibit renal vasodilatory prostaglandins, causing afferent arteriole vasoconstriction. Combined with an ACE inhibitor (which dilates the efferent arteriole) and a diuretic in an older adult, this causes a drastic drop in GFR (acute kidney injury) and reduces the hypotensive and diuretic effects of the antihypertensives."
@@ -1005,25 +1005,25 @@
             "type": "multiple-choice",
             "prompt": "Because Arthur takes warfarin for atrial fibrillation, what essential teaching must the nurse provide regarding glucosamine and chondroitin?",
             "options": [
-              "Both supplements can enhance the anticoagulant effect of warfarin, so he must notify his provider for more frequent INR monitoring and potential warfarin dose adjustment",
-              "He should double his warfarin dose while taking chondroitin because bovine cartilage contains vitamin K",
-              "Natural health products have no interactions with prescription drugs and require no lab monitoring",
-              "Glucosamine and chondroitin completely block the action of warfarin and will cause a stroke within 48 hours"
+              "Both supplements potentiate warfarin, requiring closer INR monitoring and possible dose changes",
+              "Chondroitin contains bovine vitamin K, requiring a higher maintenance dose of oral warfarin",
+              "Over-the-counter cartilage supplements do not interact with oral anticoagulants or alter INR values",
+              "Glucosamine accelerates hepatic warfarin metabolism and increases thromboembolic stroke risk"
             ],
             "answer": 0,
             "rationale": "Glucosamine and chondroitin can enhance the anticoagulant effects of warfarin, increasing bleeding risk. The patient's INR must be measured more frequently during glucosamine/chondroitin therapy and the warfarin dosage adjusted if indicated."
           }
         },
         {
-          "update": "Arthur's 6-year-old grandson is visiting him and develops chicken pox with a fever of 38.8°C. Arthur asks the nurse if he can give his grandson 'children's aspirin' (81 mg acetylsalicylic acid) that he has in his medicine cabinet.",
+          "update": "Arthur's 6-year-old grandson is visiting him and develops chicken pox with a fever of 38.8\u00b0C. Arthur asks the nurse if he can give his grandson 'children's aspirin' (81 mg acetylsalicylic acid) that he has in his medicine cabinet.",
           "question": {
             "type": "multiple-choice",
             "prompt": "What is the nurse's priority instruction to Arthur regarding his grandson?",
             "options": [
-              "Wait until the chicken pox blisters crust over, then give 325 mg of aspirin twice daily",
-              "Use Alka-Seltzer dissolved in water instead of chewable aspirin tablets for a child with chicken pox",
-              "Never give aspirin or any salicylate-containing product to a child or adolescent with chicken pox or flu-like symptoms due to the life-threatening risk of Reye's syndrome; use children's acetaminophen or ibuprofen instead",
-              "Give one 81-mg children's aspirin tablet every 6 hours with milk to prevent stomach upset"
+              "Wait until the chicken pox vesicles crust over before giving 325 mg of aspirin twice daily",
+              "Dissolve an effervescent sodium salicylate antacid tablet in water instead of chewable aspirin",
+              "Avoid giving salicylates due to Reye's syndrome risk; use pediatric acetaminophen or ibuprofen",
+              "Administer one 81-mg children's aspirin tablet every 6 hours with milk to prevent stomach upset"
             ],
             "answer": 2,
             "rationale": "Aspirin and any OTC products containing salicylates (including Alka-Seltzer and Anacin) must never be given to children or adolescents with viral illnesses such as chicken pox or influenza because of the risk of Reye's syndrome (encephalopathy and liver damage). Acetaminophen or ibuprofen in pediatric dosages should be used instead."
@@ -1036,17 +1036,17 @@
       "type": "case-study",
       "title": "Short-Term Postoperative Pain Management With Ketorolac",
       "topic": "Acetic Acid Derivatives (Ketorolac Tromethamine)",
-      "scenario": "adia, a 29-year-old construction worker with a history of opioid use disorder (currently in stable remission and wishing to avoid opioid analgesics), undergoes open surgical repair of a fractured clavicle. Postoperatively, she reports acute incisional and orthopedic pain rated 8/10. Her vital signs are stable, and baseline serum creatinine is 68 µmol/L. The surgeon prescribes ketorolac tromethamine (Toradol) 30 mg IM every 6 hours.",
+      "scenario": "Nadia, a 29-year-old construction worker with a history of opioid use disorder (currently in stable remission and wishing to avoid opioid analgesics), undergoes open surgical repair of a fractured clavicle. Postoperatively, she reports acute incisional and orthopedic pain rated 8/10. Her vital signs are stable, and baseline serum creatinine is 68 \u00b5mol/L. The surgeon prescribes ketorolac tromethamine (Toradol) 30 mg IM every 6 hours.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Why is ketorolac tromethamine a particularly suitable analgesic choice for Nadia in the immediate postoperative period?",
             "options": [
-              "It has zero risk of gastrointestinal or renal adverse effects in adults under 65 years of age",
-              "It can be continued indefinitely for chronic pain after she is discharged home",
-              "It promotes platelet aggregation at the surgical site to prevent postoperative hematoma",
-              "It provides potent analgesic efficacy comparable to opioids like morphine sulphate without having addictive properties"
+              "It carries negligible risk of gastrointestinal or renal toxicity in adults under 65 years",
+              "It can be continued long-term as an oral maintenance analgesic after hospital discharge",
+              "It enhances platelet aggregation at the operative site to prevent wound hematoma formation",
+              "It provides potent opioid-level analgesia for acute pain without having addictive properties"
             ],
             "answer": 3,
             "rationale": "Ketorolac tromethamine is unique among NSAIDs because its powerful analgesic effects are comparable to narcotic drugs such as morphine sulphate, making it desirable for patients with acute moderate-to-severe pain who have a history of opioid addiction, as it lacks addictive properties."
@@ -1058,10 +1058,10 @@
             "type": "multiple-choice",
             "prompt": "What is the maximum recommended daily oral dosage of ketorolac for an adult, and what administration measure helps reduce gastrointestinal upset?",
             "options": [
-              "Maximum 800 mg/day PO; co-administer with 325 mg of acetylsalicylic acid",
-              "Maximum 120 mg/day PO; administer only on an empty stomach with 500 mL of water",
-              "Maximum 200 mg/day PO; crush the tablets and mix with orange juice",
-              "Maximum 40 mg/day PO; administer doses with food or antacids to decrease GI irritation"
+              "Maximum 120 mg/day PO; co-administer with 81 mg of enteric-coated aspirin daily",
+              "Maximum 80 mg/day PO; administer on an empty stomach with 250 mL of water",
+              "Maximum 60 mg/day PO; crush the tablets and mix with citrus fruit juice",
+              "Maximum 40 mg/day PO; administer doses with food or antacids for GI upset"
             ],
             "answer": 3,
             "rationale": "For oral ketorolac tromethamine in adults, the dosage is 10 mg every 4 to 6 hours up to a maximum of 40 mg/day (whereas IM dosing has a maximum of 120 mg/day in adults under 65). Oral doses may be taken with food or antacids to decrease GI upset."
@@ -1073,10 +1073,10 @@
             "type": "multiple-choice",
             "prompt": "What action must the nurse take upon reviewing this discharge prescription?",
             "options": [
-              "Instruct Nadia to reduce the dose to 10 mg twice daily after day 7",
-              "Ask the pharmacist to dispense enteric-coated ketorolac so she can safely take it for 2 weeks",
-              "Contact the prescriber to discontinue the ketorolac order because total combined ketorolac therapy (IM and PO) must not exceed 5 days in postsurgical patients",
-              "Give Nadia the prescription and instruct her to take it for the full 10 days to prevent chronic shoulder stiffness"
+              "Instruct Nadia to reduce the oral ketorolac dosage to 10 mg twice daily after day 7",
+              "Request enteric-coated ketorolac tablets from the pharmacy for the 10-day regimen",
+              "Contact the prescriber to stop the order since total ketorolac use cannot exceed 5 days",
+              "Dispense the prescription and advise taking each dose with food or milk to prevent ulcers"
             ],
             "answer": 2,
             "rationale": "Ketorolac can be used for a maximum of 5 days for postsurgical patients (and up to 7 days for musculoskeletal pain) across all routes combined because of the high risk of potentially severe kidney impairment and GI bleeding/ulceration."
@@ -1089,17 +1089,17 @@
       "type": "case-study",
       "title": "Chronic Gout With Renal Impairment and Drug Interactions",
       "topic": "Antigout Drugs (Probenecid, Allopurinol, & Febuxostat)",
-      "scenario": "Walter, a 67-year-old patient with a history of chronic gouty arthritis, stage 4 chronic kidney disease (creatinine clearance 16 mL/min, serum creatinine 290 µmol/L), and a kidney transplant maintained on azathioprine, is admitted to the medical unit. A locum physician orders probenecid (Benuryl) 250 mg PO twice daily to lower Walter's serum uric acid level of 590 µmol/L.",
+      "scenario": "Walter, a 67-year-old patient with a history of chronic gouty arthritis, stage 4 chronic kidney disease (creatinine clearance 16 mL/min, serum creatinine 290 \u00b5mol/L), and a kidney transplant maintained on azathioprine, is admitted to the medical unit. A locum physician orders probenecid (Benuryl) 250 mg PO twice daily to lower Walter's serum uric acid level of 590 \u00b5mol/L.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "Why should the nurse hold the newly prescribed probenecid and contact the physician?",
             "options": [
-              "Probenecid is ineffective in patients with kidney impairment and should not be used in this population",
-              "Probenecid causes acute tumour lysis syndrome in patients with stage 4 chronic kidney disease",
-              "Probenecid is only indicated for acute gout flares during the first 24 hours of pain",
-              "Probenecid must be administered intravenously when creatinine clearance is below 30 mL/min"
+              "Probenecid is ineffective in patients with kidney impairment and should not be used",
+              "Probenecid precipitates acute tumour lysis syndrome in stage 4 chronic kidney disease",
+              "Probenecid is indicated for acute gouty arthritis flares rather than chronic hyperuricemia",
+              "Probenecid requires intravenous administration when creatinine clearance is below 30 mL/min"
             ],
             "answer": 0,
             "rationale": "Probenecid acts on the proximal convoluted kidney tubule to inhibit uric acid reabsorption; however, it is ineffective in patients with kidney impairment and is not to be used in these patients."
@@ -1111,10 +1111,10 @@
             "type": "multiple-choice",
             "prompt": "What critical drug interaction must the nurse communicate to the physician regarding xanthine oxidase inhibitors and azathioprine?",
             "options": [
-              "Xanthine oxidase inhibitors accelerate renal excretion of azathioprine, causing immediate organ rejection",
-              "Azathioprine inactivates both allopurinol and febuxostat in the stomach, requiring parenteral administration",
-              "Combining azathioprine with allopurinol causes Reye's syndrome in older adults",
-              "Febuxostat must not be given with azathioprine, and allopurinol significantly interacts with azathioprine requiring dosage adjustment to prevent severe bone marrow toxicity"
+              "Xanthine oxidase inhibitors accelerate renal azathioprine clearance and risk graft rejection",
+              "Azathioprine chelates allopurinol and febuxostat in the gut and prevents oral drug absorption",
+              "Concomitant azathioprine and xanthine oxidase inhibition triggers fulminant hepatic steatosis",
+              "Xanthine oxidase inhibition impairs azathioprine metabolism and risks severe marrow toxicity"
             ],
             "answer": 3,
             "rationale": "Both azathioprine and mercaptopurine are metabolized by xanthine oxidase. Febuxostat is not to be given along with theophylline, azathioprine, or mercaptopurine, and allopurinol significantly interacts with azathioprine and mercaptopurine, requiring careful dosage adjustment."
@@ -1126,10 +1126,10 @@
             "type": "multiple-choice",
             "prompt": "What are the correct initial and maximum daily dosages of allopurinol for a patient with a creatinine clearance between 10 and 20 mL/min?",
             "options": [
-              "Initiate at 200 mg daily and titrate rapidly up to a maximum dosage of 800 mg/day",
-              "Initiate at 10 mg weekly and do not exceed 50 mg/week",
-              "Initiate at 400 mg twice daily for 7 days, then maintain at 300 mg/day",
-              "Initiate at 50 mg daily, titrate slowly, and do not exceed a maximum dosage of 200 mg/day"
+              "Initiate at 200 mg daily and titrate gradually to a maximum dosage of 800 mg/day",
+              "Initiate at 100 mg every other day and do not exceed a maximum dosage of 400 mg/day",
+              "Initiate at 300 mg twice daily for 1 week and maintain at a dosage of 300 mg/day",
+              "Initiate at 50 mg daily, titrate slowly, and do not exceed a maximum of 200 mg/day"
             ],
             "answer": 3,
             "rationale": "In renal impairment, allopurinol should be initiated at 50 mg daily and titrated more slowly. For patients with a CrCl of 10 to 20 mL/min, the maximum dosage is 200 mg/day (and for CrCl 3 to 10 mL/min, the maximum dosage is 100 mg/day)."

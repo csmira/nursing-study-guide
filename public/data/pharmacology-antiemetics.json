@@ -9,8 +9,8 @@
       "options": [
         "Chemoreceptor trigger zone (CTZ)",
         "Vestibular labyrinth of the inner ear",
-        "Reticular activating system",
-        "Substantia nigra pars compacta"
+        "Reticular activating system of the pons",
+        "Substantia nigra of the basal ganglia"
       ],
       "answer": 0,
       "rationale": "The chemoreceptor trigger zone (CTZ) detects noxious or nauseating stimuli and transmits neurotransmitter signals to the vomiting centre (VC) in the medulla to initiate the vomiting reflex. The labyrinth is in the inner ear (not the brain), and the substantia nigra is involved in motor control rather than emesis."
@@ -23,7 +23,7 @@
       "options": [
         "Dopamine (D2) and serotonin (5-HT3)",
         "Acetylcholine (ACh) and histamine (H1)",
-        "Prostaglandins (PGs) and substance P",
+        "Prostaglandins (PGs) and substance P (NK1)",
         "Norepinephrine and gamma-aminobutyric acid (GABA)"
       ],
       "answer": 1,
@@ -35,13 +35,13 @@
       "topic": "Principles of Antiemetic Therapy",
       "prompt": "A hospitalized patient receiving a single antiemetic medication at its maximum titrated dose continues to experience persistent nausea and vomiting. According to best practice guidelines for antiemetic therapy, which collaborative intervention should the nurse anticipate?",
       "options": [
-        "Discontinuing the current antiemetic and substituting another drug from the same pharmacological class",
-        "Adding a second antiemetic from a different pharmacological class that blocks a different receptor pathway",
-        "Withholding all antiemetic medications for 12 hours to allow central receptor resensitization",
-        "Switching the patient from a scheduled dosing regimen to as-needed (PRN) dosing only"
+        "Discontinuing the current medication and substituting another drug from the same antiemetic class",
+        "Adding a second antiemetic from a different pharmacological class that blocks another receptor pathway",
+        "Pausing scheduled antiemetic doses for 6 hours to allow central chemoreceptor resensitization",
+        "Transitioning the patient from a scheduled dosing regimen to breakthrough PRN administration"
       ],
       "answer": 1,
-      "rationale": "When a single antiemetic titrated to full dose is inadequate, best practice is to add—rather than substitute—a drug from another category that targets a different receptor pathway to achieve additive blockade. Persistent nausea and vomiting should be managed with scheduled dosing plus a breakthrough dose rather than PRN-only dosing."
+      "rationale": "When a single antiemetic titrated to full dose is inadequate, best practice is to add\u2014rather than substitute\u2014a drug from another category that targets a different receptor pathway to achieve additive blockade. Persistent nausea and vomiting should be managed with scheduled dosing plus a breakthrough dose rather than PRN-only dosing."
     },
     {
       "id": "emet-mc-004",
@@ -50,7 +50,7 @@
       "prompt": "A patient is prescribed a scopolamine hydrobromide transdermal patch (Transderm V) before embarking on a deep-sea fishing trip. How does scopolamine prevent motion sickness?",
       "options": [
         "It blocks dopamine D2 receptors in the chemoreceptor trigger zone and accelerates gastric emptying.",
-        "It blocks 5-HT3 receptors on vagal afferent nerve terminals in the upper gastrointestinal tract.",
+        "It blocks serotonin 5-HT3 receptors on vagal afferent nerve terminals in the gastrointestinal tract.",
         "It binds to and blocks acetylcholine receptors in the vestibular nuclei and reticular formation.",
         "It inhibits cannabinoid CB1 receptors in the cerebral cortex and thalamus to alter motion perception."
       ],
@@ -63,13 +63,13 @@
       "topic": "Anticholinergics",
       "prompt": "The nurse is providing discharge teaching to a patient who purchased over-the-counter scopolamine transdermal patches (Transderm V) for motion sickness. Which statement by the patient indicates a correct understanding of how to use this medication?",
       "options": [
-        "\"I will apply one patch to my skin at least 4 hours before my trip and replace it every 72 hours if needed.\"",
-        "\"I should apply the patch at the first sign of nausea because it reaches peak effect within 15 minutes.\"",
-        "\"I need to apply a fresh patch every 12 hours to maintain steady medication levels during travel.\"",
-        "\"I should cut the patch in half if I start to experience a dry mouth or slight drowsiness.\""
+        "\"I will apply one patch to my skin at least 4 hours before my trip and replace it every 72 hours.\"",
+        "\"I will apply one patch 30 minutes before boarding the boat and replace it every 24 hours as needed.\"",
+        "\"I will apply a fresh patch every 12 hours during the trip to maintain steady medication absorption.\"",
+        "\"I will cut the transdermal patch in half if I start to experience dry mouth or mild drowsiness.\""
       ],
       "answer": 0,
-      "rationale": "Transderm V (scopolamine) has an onset of action of 4 hours and a duration of up to 72 hours per patch, so it must be applied at least 4 hours prior to travel and replaced every 72 hours. Transdermal patches should not be applied only after nausea starts, nor should they be replaced every 12 hours or cut."
+      "rationale": "Transderm V (scopolamine) has an onset of action of 4 hours and a duration of up to 72 hours per patch, so it must be applied at least 4 hours prior to travel and replaced every 72 hours. Transdermal patches should not be applied 30 minutes before travel, nor should they be replaced every 12 to 24 hours or cut."
     },
     {
       "id": "emet-mc-006",
@@ -77,9 +77,9 @@
       "topic": "Anticholinergics",
       "prompt": "Before administering parenteral scopolamine hydrobromide to a preoperative patient to reduce secretions and prevent postoperative nausea, the nurse reviews the patient's medical history. Which condition is a contraindication to scopolamine use?",
       "options": [
-        "Hypothyroidism",
+        "Primary hypothyroidism",
         "Narrow-angle glaucoma",
-        "Osteoarthritis",
+        "Degenerative osteoarthritis",
         "Seasonal allergic rhinitis"
       ],
       "answer": 1,
@@ -97,7 +97,7 @@
         "0.6 mL"
       ],
       "answer": 2,
-      "rationale": "First, calculate the child's dose in milligrams: 20 kg × 0.006 mg/kg = 0.12 mg. Next, divide by the available concentration: 0.12 mg ÷ 0.4 mg/mL = 0.3 mL."
+      "rationale": "First, calculate the child's dose in milligrams: 20 kg \u00d7 0.006 mg/kg = 0.12 mg. Next, divide by the available concentration: 0.12 mg \u00f7 0.4 mg/mL = 0.3 mL."
     },
     {
       "id": "emet-mc-008",
@@ -105,10 +105,10 @@
       "topic": "Antihistamines",
       "prompt": "A patient asks the nurse how dimenhydrinate (Gravol) relieves nausea and motion sickness. Which explanation by the nurse is accurate?",
       "options": [
-        "\"It blocks histamine-2 receptors in the stomach lining to stop excess gastric acid from irritating your stomach.\"",
-        "\"It blocks histamine-1 receptors and exerts anticholinergic effects in the vestibular and reticular systems.\"",
-        "\"It stimulates acetylcholine release in the stomach to push food quickly into your small intestine.\"",
-        "\"It blocks substance P neurokinin-1 receptors in the brainstem to stop the vomiting reflex.\""
+        "\"It blocks histamine-2 receptors in the gastric mucosa to reduce hydrochloric acid irritation.\"",
+        "\"It blocks histamine-1 receptors and exerts anticholinergic effects in the vestibular system.\"",
+        "\"It stimulates acetylcholine receptors in the upper stomach to accelerate duodenal emptying.\"",
+        "\"It antagonizes substance P at neurokinin-1 receptors in the brainstem to stop the emetic reflex.\""
       ],
       "answer": 1,
       "rationale": "Antihistamine antiemetics such as dimenhydrinate (Gravol) and diphenhydramine (Benadryl) block H1 receptors and also possess potent anticholinergic (antisecretory and antispasmodic) activity, preventing cholinergic stimulation in the vestibular and reticular systems. They must not be confused with H2 blockers used for gastric acid control."
@@ -122,10 +122,10 @@
         "Dilute the hydroxyzine in 50 mL of 0.9% sodium chloride and infuse over 15 minutes.",
         "Administer the undiluted medication slowly at a rate not exceeding 25 mg per minute.",
         "Withhold the dose and contact the prescriber to change the route to oral or intramuscular.",
-        "Administer the medication subcutaneously into the abdomen instead of intravenously."
+        "Inject the medication subcutaneously into the anterior abdomen using a 25-gauge needle."
       ],
       "answer": 2,
-      "rationale": "Hydroxyzine hydrochloride is only to be given by the oral or intramuscular route; it must NEVER be given intravenously, intra-arterially, or subcutaneously because parenteral non-IM administration can cause significant tissue damage, thrombosis, and gangrene."
+      "rationale": "Hydroxyzine hydrochloride is only to be given by the oral or intramuscular route; it must never be given intravenously, intra-arterially, or subcutaneously because parenteral non-IM administration can cause significant tissue damage, thrombosis, and gangrene."
     },
     {
       "id": "emet-mc-010",
@@ -133,10 +133,10 @@
       "topic": "Antihistamines",
       "prompt": "The nurse is preparing to administer undiluted diphenhydramine hydrochloride (Benadryl) 50 mg intravenously to an adult patient experiencing acute nausea. To ensure safe administration, over how many minutes should the nurse administer this dose?",
       "options": [
-        "At least 2 minutes",
-        "Rapid IV push over 15 seconds",
-        "Over 30 seconds",
-        "Continuous infusion over 4 hours"
+        "Over at least 2 minutes at a rate not exceeding 25 mg/min",
+        "Over 30 to 60 seconds through a peripheral venous catheter",
+        "Over 15 minutes diluted in 100 mL of 5% dextrose in water",
+        "Over 10 minutes at a rate not exceeding 5 mg/min via pump"
       ],
       "answer": 0,
       "rationale": "Undiluted intravenous forms of diphenhydramine hydrochloride must be cautiously administered at the recommended rate of 25 mg/min. Therefore, a 50-mg dose requires at least 2 minutes for safe IV administration."
@@ -147,10 +147,10 @@
       "topic": "Antihistamines",
       "prompt": "An 84-year-old hospitalized patient is administered an antihistamine antiemetic for postoperative nausea. Which adverse reaction is this older adult patient at particular risk for developing?",
       "options": [
-        "Severe bradycardia and heart block",
+        "Sinus bradycardia, atrioventricular heart block, and rebound hypertension",
         "Agitation, mental confusion, hypotension, and psychotic-type reactions",
-        "Irreversible tardive dyskinesia and parkinsonian tremor",
-        "Acute bronchospasm and profuse watery diarrhea"
+        "Acute parkinsonian tremor, torticollis, and choreiform facial movements",
+        "Cholinergic bronchospasm, excessive salivation, and watery diarrhea"
       ],
       "answer": 1,
       "rationale": "Older adults receiving antihistamines or anticholinergics are at heightened risk for developing agitation, mental confusion, hypotension, and even psychotic-type reactions; alternative antiemetics should be considered if these occur."
@@ -162,7 +162,7 @@
       "prompt": "In addition to treating nausea and vomiting by blocking dopamine receptors in the chemoreceptor trigger zone (CTZ), antidopaminergic drugs such as prochlorperazine and promethazine are indicated for which unusual clinical condition?",
       "options": [
         "Delayed gastric emptying",
-        "Nutritional wasting in AIDS",
+        "Cancer-related anorexia",
         "Intractable hiccups",
         "Narrow-angle glaucoma"
       ],
@@ -175,10 +175,10 @@
       "topic": "Antidopaminergics",
       "prompt": "A hospital pharmacy and therapeutics committee has restricted the use of droperidol for postoperative nausea and vomiting. Based on Health Canada warnings, what mandatory monitoring is required when droperidol is administered?",
       "options": [
-        "Hourly blood glucose monitoring for severe hypoglycemia",
-        "Continuous electrocardiographic (ECG) monitoring for QT widening and ventricular dysrhythmias",
-        "Daily international normalized ratio (INR) testing for coagulopathy",
-        "Continuous capnography for malignant hyperthermia"
+        "Hourly capillary blood glucose testing for severe rebound hypoglycemia",
+        "Continuous electrocardiographic monitoring for QT interval prolongation",
+        "Daily international normalized ratio testing for hepatic coagulopathy",
+        "Continuous end-tidal capnography monitoring for respiratory depression"
       ],
       "answer": 1,
       "rationale": "Health Canada issued a label warning for droperidol requiring continuous electrocardiographic (ECG) monitoring due to the risk of QT interval widening and potentially fatal ventricular dysrhythmias."
@@ -190,9 +190,9 @@
       "prompt": "The nurse is reviewing the medical record of a patient who has a new order for prochlorperazine (Prochlorazine) 10 mg IM. Which condition in the patient's chart is a contraindication to administering prochlorperazine?",
       "options": [
         "Bone marrow depression or seizure disorder",
-        "Type 2 diabetes mellitus controlled with diet",
-        "History of resolved motion sickness",
-        "Mild gastroesophageal reflux disease"
+        "Type 2 diabetes mellitus managed with insulin",
+        "History of recurrent vestibular motion sickness",
+        "Chronic gastroesophageal reflux with esophagitis"
       ],
       "answer": 0,
       "rationale": "Prochlorperazine is contraindicated in patients with known hypersensitivity to phenothiazines, coma, seizure disorders, encephalopathy, or bone marrow depression."
@@ -203,10 +203,10 @@
       "topic": "Antidopaminergics",
       "prompt": "Promethazine hydrochloride (Histantil) is classified as a high-alert medication when given parenterally. Which administration technique is essential when the nurse administers promethazine intravenously?",
       "options": [
-        "Inject undiluted at 50 mg/mL into a small dorsal hand vein to monitor the site easily.",
-        "Give at a concentration no greater than 25 mg/mL and a rate not exceeding 25 mg/min through a running IV line at the port furthest from the patient's vein.",
-        "Administer subcutaneously into the deltoid area if the patient's peripheral veins are fragile.",
-        "Continue the infusion at half speed and apply a warm compress if the patient reports burning at the IV site."
+        "Inject undiluted at 50 mg/mL into a dorsal hand vein over 1 minute to visualize the insertion site.",
+        "Dilute to 25 mg/mL or less and infuse at no more than 25 mg/min through a running large-bore IV line.",
+        "Administer subcutaneously into the upper deltoid tissue if the patient's peripheral veins are fragile.",
+        "Reduce the infusion rate by half and apply a warm compress if the patient reports burning at the site."
       ],
       "answer": 1,
       "rationale": "Deep IM injection is the preferred parenteral route for promethazine. If given IV, it must be diluted to no greater than 25 mg/mL, infused at no more than 25 mg/min into a large-bore vein (never a hand or wrist vein) at the port furthest from the patient's vein in a running IV line, and stopped immediately if pain or burning occurs. It must never be given subcutaneously or intra-arterially."
@@ -232,9 +232,9 @@
       "prompt": "Prior to administering prochlorperazine to a patient who has been vomiting for 24 hours, the nurse inspects the patient's oral cavity. Which physical examination finding of the tongue specifically indicates dehydration and electrolyte imbalance?",
       "options": [
         "Bright red strawberry appearance of the dorsal tongue",
-        "Thick white curd-like plaques adherent to the buccal mucosa",
+        "White curd-like plaques adherent to the oral mucosa",
         "Presence of longitudinal furrows on the tongue",
-        "Smooth, glossy, beefy-red atrophy of the lingual papillae"
+        "Smooth, glossy, beefy-red lingual papillae atrophy"
       ],
       "answer": 2,
       "rationale": "As highlighted in the chapter's nursing assessment guidelines for prochlorperazine and ondansetron, evaluating skin turgor and examining the tongue for the presence of longitudinal furrows are key clinical assessments for dehydration and electrolyte imbalance."
@@ -245,10 +245,10 @@
       "topic": "Prokinetics",
       "prompt": "How does metoclopramide hydrochloride (Metonia) act to relieve nausea and vomiting in patients with gastroesophageal reflux or delayed gastric emptying?",
       "options": [
-        "It blocks H1 receptors in the inner ear and dries gastrointestinal secretions.",
+        "It blocks H1 receptors in the inner ear labyrinth and reduces gastric secretions.",
         "It blocks dopamine receptors in the CTZ and stimulates peristalsis in the upper GI tract.",
-        "It selectively antagonizes substance P at neurokinin-1 receptors in the cerebral cortex.",
-        "It inhibits acetylcholine release in the stomach to relax pyloric sphincter spasms."
+        "It antagonizes substance P at neurokinin-1 receptors within the brainstem medulla.",
+        "It inhibits muscarinic acetylcholine receptors to relax pyloric sphincter spasms."
       ],
       "answer": 1,
       "rationale": "Metoclopramide is a prokinetic drug that acts centrally by blocking dopamine receptors in the chemoreceptor trigger zone (desensitizing the CTZ to GI impulses) and peripherally by stimulating acetylcholine receptors and peristalsis in the GI tract to enhance gastric emptying into the duodenum."
@@ -261,7 +261,7 @@
       "options": [
         "Pheochromocytoma or epilepsy",
         "Primary open-angle glaucoma",
-        "Chronic constipation",
+        "Chronic functional constipation",
         "Stage 1 essential hypertension"
       ],
       "answer": 0,
@@ -275,8 +275,8 @@
       "options": [
         "Ondansetron",
         "Metoclopramide",
-        "Aprepitant",
-        "Scopolamine"
+        "Prochlorperazine",
+        "Dimenhydrinate"
       ],
       "answer": 1,
       "rationale": "Metoclopramide is structurally related to procainamide, and use of metoclopramide is contraindicated in patients with a hypersensitivity to procaine or procainamide hydrochloride."
@@ -287,10 +287,10 @@
       "topic": "Prokinetics",
       "prompt": "In 2011, Health Canada issued updated labelling for metoclopramide warning health care providers and consumers about the risk of tardive dyskinesia. Under which circumstance is a patient at greatest risk for this adverse effect?",
       "options": [
-        "Single-dose IV administration prior to minor outpatient surgery",
+        "Single-dose parenteral administration prior to an outpatient surgical procedure",
         "Long-term therapy lasting longer than 12 weeks, particularly in older adult women",
-        "Short-term oral therapy of 5 mg three times daily for 3 days",
-        "Concurrent administration with intravenous 0.9% sodium chloride"
+        "Short-term oral administration of 10 mg three times daily before meals for 5 days",
+        "Concurrent intravenous administration diluted in 50 mL of 0.9% sodium chloride"
       ],
       "answer": 1,
       "rationale": "Health Canada warned that long-term use of metoclopramide (longer than 12 weeks) is associated with the development of tardive dyskinesia (an often irreversible involuntary movement disorder), with extrapyramidal effects occurring most frequently in older adults, especially older women."
@@ -301,10 +301,10 @@
       "topic": "Prokinetics",
       "prompt": "An adult patient weighing 60 kg is receiving chemotherapy with cisplatin and is prescribed metoclopramide 25 mg IV to be given 30 minutes prior to chemotherapy. How should the nurse prepare and administer this dose?",
       "options": [
-        "Administer undiluted by rapid IV push over 1 to 2 minutes.",
-        "Dilute in 50 mL of 5% dextrose or 0.9% sodium chloride, protect from light, and infuse slowly over 15 minutes.",
-        "Mix with prochlorperazine in the same syringe to enhance dopamine blockade.",
-        "Dilute in 500 mL of lactated Ringer's solution and infuse over 6 hours."
+        "Administer the undiluted solution by slow intravenous push over 2 to 5 minutes into a central line.",
+        "Dilute in 50 mL of 5% dextrose or 0.9% saline, protect from light, and infuse over 15 minutes.",
+        "Combine with prochlorperazine in 50 mL of normal saline to provide additive central dopamine blockade.",
+        "Dilute in 250 mL of lactated Ringer's solution and infuse continuously over 4 hours via infusion pump."
       ],
       "answer": 1,
       "rationale": "For intravenous doses of metoclopramide in excess of 10 mg, the medication must be diluted in 50 mL of either 5% dextrose or 0.9% sodium chloride and infused slowly over 15 minutes. Parenteral solutions are kept for only 24 hours and must be protected from light."
@@ -315,10 +315,10 @@
       "topic": "Prokinetics",
       "prompt": "A patient is prescribed oral metoclopramide 10 mg three times daily for gastroesophageal reflux and delayed gastric emptying. When should the nurse instruct the patient to take each daytime dose?",
       "options": [
-        "30 minutes before meals",
-        "Immediately after finishing a full meal",
-        "2 hours after meals with an antacid",
-        "Only when active vomiting occurs"
+        "30 minutes before each meal",
+        "During the middle of each meal",
+        "1 hour after finishing each meal",
+        "2 hours after meals with an antacid"
       ],
       "answer": 0,
       "rationale": "Oral metoclopramide should be administered 30 minutes before meals and at bedtime so that its prokinetic effect on gastric peristalsis and emptying is active when food enters the stomach."
@@ -330,9 +330,9 @@
       "prompt": "A patient taking metoclopramide for gastroparesis is still experiencing severe nausea and gastric stasis despite maximum titration. If the health care provider decides to add or switch to another dopamine antagonist, which drug mentioned in the chapter may be used?",
       "options": [
         "Haloperidol",
-        "Doxylamine",
+        "Dimenhydrinate",
         "Scopolamine",
-        "Pyridoxine"
+        "Granisetron"
       ],
       "answer": 0,
       "rationale": "When metoclopramide is titrated to maximum benefit and tolerance and remains ineffective, the provider may add or switch to another dopamine2-receptor antagonist such as haloperidol."
@@ -343,10 +343,10 @@
       "topic": "Serotonin Blockers",
       "prompt": "Why are serotonin blockers such as ondansetron (Zofran), granisetron, and palonosetron (Aloxi) particularly effective in preventing chemotherapy-induced nausea and vomiting?",
       "options": [
-        "They block 5-HT3 receptors both peripherally in the GI tract and centrally in the CTZ and vomiting centre.",
-        "They selectively block dopamine D2 and histamine H1 receptors in the inner ear labyrinth.",
-        "They inhibit cytochrome P450 enzymes in the liver to speed up chemotherapy clearance.",
-        "They coat the gastric mucosa and neutralize hydrochloric acid secretion."
+        "They block 5-HT3 receptors in the GI tract and centrally in the CTZ and vomiting centre.",
+        "They antagonize dopamine D2 and histamine H1 receptors in the inner ear vestibular labyrinth pathways.",
+        "They induce hepatic cytochrome P450 enzymes to accelerate systemic clearance of antineoplastic agents.",
+        "They stimulate muscarinic acetylcholine receptors in the stomach to accelerate upper GI peristalsis."
       ],
       "answer": 0,
       "rationale": "Serotonin blockers (5-HT3 receptor antagonists) work at multiple sites in the vomiting pathway by blocking 5-hydroxytryptamine 3 (5-HT3) receptors located in the gastrointestinal tract as well as centrally in the chemoreceptor trigger zone (CTZ) and vomiting centre (VC)."
@@ -357,10 +357,10 @@
       "topic": "Serotonin Blockers",
       "prompt": "A 78-year-old patient with colon cancer is scheduled to receive ondansetron (Zofran) prior to chemotherapy. The patient's family asks if the dose needs to be reduced because of the patient's advanced age. What is the nurse's best response?",
       "options": [
-        "\"Yes, older adults require half the standard adult dose due to severe anticholinergic confusion.\"",
-        "\"No, the efficacy and tolerance of ondansetron are similar in older and younger adults, so no dosage adjustment is needed.\"",
-        "\"Ondansetron is contraindicated in adults over 75 years old, so we will use scopolamine instead.\"",
-        "\"We must reduce the dose by 50% because ondansetron causes severe tardive dyskinesia in older adults.\""
+        "\"Older adults require half the standard adult dose to prevent anticholinergic confusion.\"",
+        "\"Efficacy and tolerance are similar in older and younger adults, so no dose change is needed.\"",
+        "\"Ondansetron is avoided in adults over 75 years old due to high risk of tardive dyskinesia.\"",
+        "\"The dosage is reduced by 25% to 50% in older adults because of decreased renal clearance.\""
       ],
       "answer": 1,
       "rationale": "Unlike anticholinergics, antihistamines, and prokinetics, serotonin blockers have similar efficacy and tolerance in both older and younger adults; therefore, there is no need to alter dosage schedules for older adult patients."
@@ -371,10 +371,10 @@
       "topic": "Serotonin Blockers",
       "prompt": "In 2014, Health Canada issued a safety warning regarding ondansetron (Zofran). Which potential adverse effect is the focus of this warning, especially with rapid intravenous administration of large doses?",
       "options": [
-        "Acute hepatic necrosis",
+        "Fulminant hepatic necrosis and jaundice",
         "Prolonged QT interval and cardiac dysrhythmias",
-        "Severe extrapyramidal dystonia",
-        "Agranulocytosis and bone marrow suppression"
+        "Extrapyramidal dystonia and tardive dyskinesia",
+        "Agranulocytosis and severe bone marrow depression"
       ],
       "answer": 1,
       "rationale": "Serotonin blockers can cause QT interval prolongation, and Health Canada issued a 2014 warning regarding ondansetron and its associated risk of cardiac dysrhythmias, which is greater when given intravenously at faster infusion rates and larger doses."
@@ -385,10 +385,10 @@
       "topic": "Serotonin Blockers",
       "prompt": "A patient receiving granisetron hydrochloride along with antineoplastic chemotherapy tells the nurse, \"Everything tastes metallic and strange since I started this anti-nausea medicine.\" What should the nurse tell the patient?",
       "options": [
-        "\"This is a transient taste disorder that can occur with granisetron and chemotherapy, and it will diminish with continued therapy.\"",
-        "\"A metallic taste means you are having an anaphylactic reaction, so we must stop the drug immediately.\"",
-        "\"This indicates permanent damage to your cranial nerves from the granisetron infusion.\"",
-        "\"You should stop eating solid foods and drink only whole milk while taking granisetron.\""
+        "\"A transient taste disorder can occur with granisetron, and it will diminish with continued therapy.\"",
+        "\"A metallic taste indicates an early hypersensitivity reaction that requires switching to ondansetron.\"",
+        "\"This symptom reflects glossopharyngeal nerve irritation that requires reducing your granisetron dose.\"",
+        "\"You should avoid solid foods and take an antacid before each dose to neutralize the metallic taste.\""
       ],
       "answer": 0,
       "rationale": "A transient taste disorder may occur in patients receiving granisetron, especially when taken concurrently with antineoplastic medications, but it will diminish with continued therapy."
@@ -397,7 +397,7 @@
       "id": "emet-mc-029",
       "type": "multiple-choice",
       "topic": "Serotonin Blockers",
-      "prompt": "A child with a body surface area (BSA) of 1.2 m² is scheduled for chemotherapy and is ordered ondansetron 5 mg/m² IV over 15 minutes immediately before chemotherapy. The pharmacy supplies ondansetron in a concentration of 2 mg/mL. How many millilitres (mL) of ondansetron will the nurse draw up to dilute for the infusion?",
+      "prompt": "A child with a body surface area (BSA) of 1.2 m\u00b2 is scheduled for chemotherapy and is ordered ondansetron 5 mg/m\u00b2 IV over 15 minutes immediately before chemotherapy. The pharmacy supplies ondansetron in a concentration of 2 mg/mL. How many millilitres (mL) of ondansetron will the nurse draw up to dilute for the infusion?",
       "options": [
         "1.5 mL",
         "2.4 mL",
@@ -405,7 +405,7 @@
         "6 mL"
       ],
       "answer": 2,
-      "rationale": "First, calculate the total dose in milligrams: 1.2 m² × 5 mg/m² = 6 mg. Next, divide by the concentration on hand: 6 mg ÷ 2 mg/mL = 3 mL."
+      "rationale": "First, calculate the total dose in milligrams: 1.2 m\u00b2 \u00d7 5 mg/m\u00b2 = 6 mg. Next, divide by the concentration on hand: 6 mg \u00f7 2 mg/mL = 3 mL."
     },
     {
       "id": "emet-mc-030",
@@ -413,10 +413,10 @@
       "topic": "Serotonin Blockers",
       "prompt": "When ondansetron is administered intravenously to prevent postoperative nausea and vomiting, when is the single dose typically given?",
       "options": [
-        "12 hours prior to the scheduled surgical incision",
+        "At least 4 hours prior to the scheduled surgical incision",
         "Approximately 30 minutes before the end of the surgical procedure",
-        "6 hours after the patient is transferred to the surgical ward",
-        "Only after the patient has vomited twice in the recovery room"
+        "Within 2 hours after the patient arrives on the inpatient surgical unit",
+        "Upon arrival in the preoperative holding area before anesthesia induction"
       ],
       "answer": 1,
       "rationale": "When serotonin blockers are used to prevent postoperative nausea and vomiting, a dose is usually administered approximately 30 minutes before the end of the surgical procedure."
@@ -427,10 +427,10 @@
       "topic": "Tetrahydrocannabinol (Cannabinoids)",
       "prompt": "Which statement accurately describes the mechanism of action of delta-9-tetrahydrocannabinol (THC), available pharmaceutically in Canada as dronabinol and nabilone?",
       "options": [
-        "It binds to CB1 and CB2 cannabinoid receptors and exerts inhibitory effects on the reticular formation, thalamus, and cerebral cortex.",
-        "It selectively antagonizes dopamine D2 receptors in the gastrointestinal tract to accelerate peristalsis.",
-        "It blocks histamine H1 and acetylcholine receptors in the inner ear labyrinth.",
-        "It inhibits serotonin 5-HT3 receptors on peripheral vagal nerve terminals in the stomach."
+        "It binds to CB1 and CB2 receptors and exerts inhibitory effects on the reticular formation, thalamus, and cortex.",
+        "It selectively antagonizes dopamine D2 receptors in the chemoreceptor trigger zone and accelerates GI peristalsis.",
+        "It blocks histamine H1 and muscarinic acetylcholine receptors within the vestibular nuclei and inner ear labyrinth.",
+        "It inhibits serotonin 5-HT3 and neurokinin-1 receptors on vagal afferent terminals in the upper gastrointestinal tract."
       ],
       "answer": 0,
       "rationale": "THC attaches to cannabinoid receptors (CB1 and CB2) in the brain and exerts inhibitory effects on the reticular formation, thalamus, and cerebral cortex, altering mood and perception of surroundings to relieve nausea and vomiting."
@@ -441,10 +441,10 @@
       "topic": "Tetrahydrocannabinol (Cannabinoids)",
       "prompt": "In addition to treating refractory chemotherapy-induced nausea and vomiting and stimulating appetite in patients with AIDS or cancer, tetrahydrocannabinol (THC) demonstrates therapeutic benefit in controlling symptoms of which ocular condition?",
       "options": [
-        "Age-related macular degeneration",
+        "Astigmatism",
         "Cataracts",
         "Glaucoma",
-        "Bacterial conjunctivitis"
+        "Presbyopia"
       ],
       "answer": 2,
       "rationale": "Unlike anticholinergics and antihistamines (which are contraindicated in narrow-angle glaucoma), THC demonstrates benefit in controlling the symptoms of glaucoma by reducing intraocular pressure."
@@ -455,10 +455,10 @@
       "topic": "Tetrahydrocannabinol (Cannabinoids)",
       "prompt": "A patient with cancer-related anorexia and nausea asks the nurse about the difference between inhaling (smoking) marihuana versus ingesting it orally. Which information should the nurse provide?",
       "options": [
-        "\"Inhaled marihuana peaks within minutes and lasts up to 2 hours, whereas oral ingestion has lingering effects for hours but unpredictable absorption.\"",
-        "\"Oral ingestion reaches peak plasma levels in 2 minutes, whereas inhaled marihuana takes 4 to 6 hours to work.\"",
-        "\"Inhaled marihuana has no central nervous system adverse effects, whereas oral ingestion causes extrapyramidal tremors.\"",
-        "\"Both routes have identical onset times of 30 minutes and identical durations of 24 hours.\""
+        "\"Inhaled marihuana peaks in minutes and lasts up to 2 hours, while oral use lingers longer with variable absorption.\"",
+        "\"Oral ingestion reaches peak plasma levels within 10 minutes, while inhaled marihuana takes 2 to 4 hours to act.\"",
+        "\"Inhaled marihuana avoids central nervous system drowsiness, while oral ingestion frequently causes acute dystonia.\"",
+        "\"Both administration routes have a 30-minute onset of action and provide predictable symptom relief for 12 hours.\""
       ],
       "answer": 0,
       "rationale": "Peak effects after smoking/inhaling marihuana occur in minutes and last for up to 2 hours; when ingested orally, its effects may linger for hours, but gastrointestinal absorption can be unpredictable."
@@ -466,27 +466,27 @@
     {
       "id": "emet-mc-034",
       "type": "multiple-choice",
-      "topic": "Substance P–Neurokinin-1 Antagonists",
+      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
       "prompt": "Aprepitant (Emend) is prescribed as part of a multidrug antiemetic regimen for a patient receiving high-dose cisplatin chemotherapy. What is the mechanism of action of aprepitant?",
       "options": [
-        "It is an antagonist of substance P–neurokinin-1 (NK1) receptors in the brain.",
-        "It is a selective 5-HT3 receptor antagonist in the small intestine.",
-        "It is a phenothiazine derivative that blocks dopamine receptors in the CTZ.",
-        "It is a belladonna alkaloid that blocks muscarinic receptors in the vestibular nuclei."
+        "It is an antagonist of substance P\u2013neurokinin-1 (NK1) receptors in the brain.",
+        "It is a selective serotonin 5-HT3 receptor antagonist in the small intestine.",
+        "It is a phenothiazine derivative that blocks dopamine D2 receptors in the CTZ.",
+        "It is a belladonna alkaloid that blocks muscarinic receptors in the inner ear."
       ],
       "answer": 0,
-      "rationale": "Aprepitant is the first drug in the class of substance P–neurokinin-1 (NK1) receptor antagonists in the brain. It has little affinity for serotonin (5-HT3) or dopamine receptors and augments the antiemetic activity of ondansetron and dexamethasone."
+      "rationale": "Aprepitant is the first drug in the class of substance P\u2013neurokinin-1 (NK1) receptor antagonists in the brain. It has little affinity for serotonin (5-HT3) or dopamine receptors and augments the antiemetic activity of ondansetron and dexamethasone."
     },
     {
       "id": "emet-mc-035",
       "type": "multiple-choice",
-      "topic": "Substance P–Neurokinin-1 Antagonists",
+      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
       "prompt": "A 29-year-old female patient receiving chemotherapy is prescribed aprepitant (Emend). She takes combined oral contraceptive pills daily. Which patient teaching point is essential for the nurse to include?",
       "options": [
-        "\"Aprepitant can reduce the effectiveness of oral contraceptives, so you should use an alternative or backup barrier method of contraception.\"",
-        "\"Aprepitant doubles the estrogen levels of oral contraceptives, so you should take half a birth control pill daily.\"",
-        "\"There are no known interactions between aprepitant and hormonal contraceptives.\"",
-        "\"You should take your oral contraceptive pill with grapefruit juice to prevent aprepitant from interacting with it.\""
+        "\"Aprepitant can reduce oral contraceptive effectiveness, so use an alternative or backup method.\"",
+        "\"Aprepitant increases estrogen bioavailability, so reduce your oral contraceptive dose by half.\"",
+        "\"Take your oral contraceptive at least 2 hours before aprepitant to prevent stomach irritation.\"",
+        "\"Switch from combined oral contraceptive pills to a transdermal hormonal patch during treatment.\""
       ],
       "answer": 0,
       "rationale": "Aprepitant may reduce the effectiveness of oral contraceptives; therefore, patients of childbearing potential must be advised to use an alternative or backup nonhormonal contraceptive method."
@@ -494,13 +494,13 @@
     {
       "id": "emet-mc-036",
       "type": "multiple-choice",
-      "topic": "Substance P–Neurokinin-1 Antagonists",
+      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
       "prompt": "Because aprepitant (Emend) is a major inhibitor of the cytochrome P450 3A4 (CYP3A4) enzyme system, caution is required when administering it concurrently with which of the following medications?",
       "options": [
         "Diltiazem, verapamil, clarithromycin, or azole antifungals",
-        "Pyridoxine hydrochloride or oral sodium chloride",
-        "Topical bacitracin or artificial tears",
-        "Subcutaneous heparin or oral ferrous sulphate"
+        "Pyridoxine hydrochloride, cyanocobalamin, or ferrous sulphate",
+        "Subcutaneous enoxaparin sodium or unfractionated heparin",
+        "Oral aluminum hydroxide, magnesium trisilicate, or sucralfate"
       ],
       "answer": 0,
       "rationale": "Aprepitant is a major inhibitor of CYP3A4, so caution must be exercised when co-administering it with drugs primarily metabolized by CYP3A4, including azole antifungals, clarithromycin, diltiazem, nicardipine, protease inhibitors, and verapamil."
@@ -512,9 +512,9 @@
       "prompt": "A pregnant patient is prescribed doxylamine succinate and pyridoxine hydrochloride (Diclectin) for morning sickness. Which two active ingredients are combined in this delayed-release formulation?",
       "options": [
         "An ethanolamine derivative antihistamine and vitamin B6",
-        "A serotonin 5-HT3 blocker and vitamin B12",
-        "A phenothiazine antidopaminergic and folic acid",
-        "An anticholinergic belladonna alkaloid and vitamin C"
+        "A selective serotonin 5-HT3 receptor blocker and vitamin B12",
+        "A phenothiazine dopamine D2 antagonist and folinic acid",
+        "An anticholinergic belladonna alkaloid and ascorbic acid"
       ],
       "answer": 0,
       "rationale": "Diclectin combines doxylamine succinate (an ethanolamine derivative antihistamine) and pyridoxine hydrochloride (vitamin B6) in delayed-release tablets to provide both antinausea and antiemetic effects during pregnancy."
@@ -525,10 +525,10 @@
       "topic": "Antinausea Drugs in Pregnancy",
       "prompt": "The nurse is reviewing the health history of a pregnant patient before she starts doxylamine succinate and pyridoxine hydrochloride (Diclectin). Which concurrent medication or condition is a contraindication to Diclectin therapy?",
       "options": [
-        "Concurrent use of a monoamine oxidase inhibitor (MAOI) or presence of pyloroduodenal obstruction",
-        "Daily prenatal multivitamin containing iron and calcium",
-        "History of mild heartburn during the first trimester",
-        "Blood pressure of 114/70 mmHg"
+        "Concurrent monoamine oxidase inhibitor therapy or pyloroduodenal obstruction",
+        "Daily prenatal multivitamin supplementation containing elemental iron and folic acid",
+        "History of mild gastroesophageal reflux symptoms during the first trimester",
+        "Concurrent use of oral acetaminophen for mild tension headaches in pregnancy"
       ],
       "answer": 0,
       "rationale": "Because of the anticholinergic/antihistamine properties of doxylamine, Diclectin is not recommended for patients taking monoamine oxidase inhibitors (MAOIs) or those with narrow-angle glaucoma, risk of asthmatic attack, stenosing peptic ulcer, pyloroduodenal obstruction, or bladder-neck obstruction."
@@ -539,10 +539,10 @@
       "topic": "Natural Health Products",
       "prompt": "A patient taking warfarin sodium (Coumadin) for a mechanical heart valve tells the nurse that he plans to start taking high-dose ginger (Zingiber officinale) capsules daily for chronic queasiness. What should the nurse advise the patient?",
       "options": [
-        "\"Ginger can increase the absorption of oral medications and may increase your risk of bleeding when taken with warfarin.\"",
-        "\"Ginger completely blocks the action of warfarin and will cause an immediate blood clot.\"",
-        "\"Ginger has no drug interactions because it is a natural plant root rather than a synthetic chemical.\"",
-        "\"Ginger is safe with warfarin as long as you also take clopidogrel (Plavix) at the same time.\""
+        "\"Ginger can increase oral medication absorption and may increase your bleeding risk with warfarin.\"",
+        "\"Ginger induces hepatic metabolism of warfarin and may increase your risk of valve thrombosis.\"",
+        "\"Ginger chelates warfarin in the small intestine, so space the two products 4 hours apart.\"",
+        "\"Ginger is safe with warfarin provided you decrease your dietary intake of leafy green vegetables.\""
       ],
       "answer": 0,
       "rationale": "Ginger can increase the absorption of all oral medications and may theoretically increase the risk of bleeding when taken concurrently with anticoagulants (such as warfarin sodium) or antiplatelet drugs (such as clopidogrel)."
@@ -554,12 +554,12 @@
       "prompt": "Before administering an antiemetic medication to a patient who has been vomiting repeatedly, the nurse assesses the patient's baseline hydration status by checking nail bed capillary refill. Which capillary refill time is considered normal?",
       "options": [
         "Less than 5 seconds",
-        "6 to 8 seconds",
-        "8 to 10 seconds",
-        "10 to 15 seconds"
+        "Between 5 and 7 seconds",
+        "Between 8 and 10 seconds",
+        "Between 10 and 12 seconds"
       ],
       "answer": 0,
-      "rationale": "According to the chapter's nursing assessment guidelines, the nurse should examine skin and mucous membrane turgor and colour and assess capillary refill—where normal is less than 5 seconds—to establish baseline hydration status."
+      "rationale": "According to the chapter's nursing assessment guidelines, the nurse should examine skin and mucous membrane turgor and colour and assess capillary refill\u2014where normal is less than 5 seconds\u2014to establish baseline hydration status."
     },
     {
       "id": "emet-mc-041",
@@ -567,10 +567,10 @@
       "topic": "Nonpharmacological Interventions",
       "prompt": "The nurse is teaching a patient with chemotherapy-related nausea about nonpharmacological dietary measures to supplement antiemetic therapy. Which instruction is appropriate?",
       "options": [
-        "\"Eat a small portion of bland food, then wait 20 to 30 minutes before drinking liquids so you do not mix solids and liquids.\"",
-        "\"Drink 500 mL of warm water during your main meal to help wash down solid food.\"",
-        "\"Lie completely flat in bed for 1 hour immediately after eating to rest your stomach.\"",
-        "\"Choose hot, spicy, aromatic meals three times a day to stimulate your digestive enzymes.\""
+        "\"Eat a small portion of bland food, then wait 20 to 30 minutes before drinking any liquids.\"",
+        "\"Drink 500 mL of warm water during each main meal to assist with gastric chyme dilution.\"",
+        "\"Lie flat in a supine position for 60 minutes after eating to slow down gastric peristalsis.\"",
+        "\"Choose warm, aromatic, seasoned meals three times daily to stimulate salivary amylase flow.\""
       ],
       "answer": 0,
       "rationale": "To reduce nausea, patients should eat small, frequent, bland meals every 1 to 2 hours, avoid mixing liquids and solid foods (eat a small portion of food, wait 20 to 30 minutes, then take liquid), try cool carbonated drinks or chilled gelatin, avoid spicy/fatty/strong-odour foods, and avoid lying flat after eating."
@@ -582,9 +582,9 @@
       "prompt": "A patient is receiving a phenothiazine antidopaminergic (prochlorperazine) for nausea. Which medication, if ordered concurrently, would significantly increase the patient's risk of severe extrapyramidal reactions?",
       "options": [
         "Metoclopramide",
-        "Ondansetron",
-        "Acetaminophen",
-        "Pyridoxine"
+        "Dimenhydrinate",
+        "Diphenhydramine",
+        "Palonosetron"
       ],
       "answer": 0,
       "rationale": "Both metoclopramide and phenothiazines (such as prochlorperazine or promethazine) block central dopamine receptors; combining metoclopramide with phenothiazines leads to an exacerbation of extrapyramidal reactions and should be avoided."
@@ -596,9 +596,9 @@
       "prompt": "An adult patient without cancer is prescribed parenteral metoclopramide for short-term management of non-chemotherapy nausea and vomiting. According to the chapter's implementation guidelines, except for chemotherapy prophylaxis, the total daily dosage of metoclopramide must not exceed which limit?",
       "options": [
         "0.5 mg/kg of body weight per day",
-        "5 mg/kg of body weight per day",
-        "10 mg/kg of body weight per day",
-        "25 mg/kg of body weight per day"
+        "1.5 mg/kg of body weight per day",
+        "2.0 mg/kg of body weight per day",
+        "5.0 mg/kg of body weight per day"
       ],
       "answer": 0,
       "rationale": "Except when used at higher doses for the prophylaxis of vomiting induced by anticancer drugs, the total daily dosage of metoclopramide must not exceed 0.5 mg/kg of body weight to minimize the risk of extrapyramidal adverse effects."
@@ -609,10 +609,10 @@
       "topic": "Antidopaminergics",
       "prompt": "When preparing to administer an antidopaminergic antiemetic, why must the nurse carefully double-check both the generic name and the specific dosage instructions?",
       "options": [
-        "Prochlorperazine and promethazine hydrochloride have look-alike and sound-alike names that can easily be confused.",
-        "Antidopaminergics are identical in chemical structure to serotonin 5-HT3 blockers.",
-        "Prochlorperazine is only available as a transdermal patch whereas promethazine is only an inhalant.",
-        "Antidopaminergic drugs must always be mixed with heparin prior to intramuscular injection."
+        "Prochlorperazine and promethazine hydrochloride have look-alike and sound-alike names that can be confused.",
+        "Antidopaminergic agents share similar generic drug stems with selective serotonin 5-HT3 receptor blockers.",
+        "Prochlorperazine is formulated for intrathecal use whereas promethazine is formulated for epidural infusion.",
+        "Antidopaminergic medications require weight-based reconstitution with sodium bicarbonate before injection."
       ],
       "answer": 0,
       "rationale": "The chapter specifically cautions nurses to double-check the drug name and mechanism of action when administering antidopaminergics because prochlorperazine may easily be confused with promethazine hydrochloride."
@@ -623,10 +623,10 @@
       "topic": "Patient Teaching",
       "prompt": "A patient taking oral promethazine hydrochloride (Histantil) at home for nausea asks about beverage choices once fluids are tolerated. In addition to strictly avoiding alcohol and other CNS depressants, what dietary substance should the nurse instruct the patient to limit?",
       "options": [
-        "Caffeine",
-        "Clear broth",
-        "Chilled gelatin",
-        "Electrolyte solution"
+        "Caffeinated beverages",
+        "Clear sodium broths",
+        "Chilled fruit gelatin",
+        "Oral electrolyte solutions"
       ],
       "answer": 0,
       "rationale": "Patients taking promethazine hydrochloride should be instructed to avoid alcohol and other CNS depressants, avoid driving or activities requiring mental alertness, and limit caffeine intake during therapy."
@@ -638,9 +638,9 @@
       "prompt": "A patient asks the nurse why meclizine hydrochloride is no longer prescribed for motion sickness at their local Canadian pharmacy. Which response by the nurse is accurate?",
       "options": [
         "\"Meclizine hydrochloride is an antihistamine that is no longer being manufactured in Canada.\"",
-        "\"Meclizine was reclassified as a restricted intravenous chemotherapy drug used only in hospitals.\"",
-        "\"Meclizine is an opioid analgesic that is only used for severe postoperative pain.\"",
-        "\"Meclizine was replaced by intravenous hydroxyzine for home use.\""
+        "\"Meclizine hydrochloride was reclassified as a restricted inpatient oncology antiemetic in Canada.\"",
+        "\"Meclizine hydrochloride requires special cardiac telemetry monitoring before dispensing in Canada.\"",
+        "\"Meclizine hydrochloride was reformulated into a prescription-strength parenteral infusion.\""
       ],
       "answer": 0,
       "rationale": "While meclizine hydrochloride is listed as an H1-receptor blocker antihistamine used for motion sickness, the chapter notes that it is no longer being manufactured in Canada."
@@ -699,8 +699,8 @@
     {
       "id": "emet-sa-004",
       "type": "short-answer",
-      "topic": "Substance P–Neurokinin-1 Antagonists",
-      "prompt": "Name the antiemetic drug (generic or brand name) that acts as an antagonist of substance P–neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
+      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
+      "prompt": "Name the antiemetic drug (generic or brand name) that acts as an antagonist of substance P\u2013neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
       "answers": [
         {
           "text": "aprepitant",
@@ -709,12 +709,12 @@
           ]
         }
       ],
-      "rationale": "Aprepitant (Emend) blocks substance P–neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy."
+      "rationale": "Aprepitant (Emend) blocks substance P\u2013neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy."
     },
     {
       "id": "emet-sa-005",
       "type": "short-answer",
-      "topic": "Substance P–Neurokinin-1 Antagonists",
+      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
       "prompt": "A patient taking warfarin sodium is prescribed aprepitant (Emend) for chemotherapy-induced nausea. Because aprepitant induces warfarin metabolism, which coagulation laboratory test (abbreviation or full name) must be checked before each cycle of aprepitant?",
       "answers": [
         {
@@ -780,7 +780,7 @@
       "id": "emet-cs-001",
       "type": "case-study",
       "title": "Multidrug Antiemetic Prophylaxis in High-Dose Cisplatin Chemotherapy",
-      "topic": "Serotonin Blockers and Substance P–Neurokinin-1 Antagonists",
+      "topic": "Serotonin Blockers and Substance P\u2013Neurokinin-1 Antagonists",
       "scenario": "Arthur Pendelton, a 62-year-old man recently diagnosed with non-small cell lung cancer, arrives at the outpatient oncology unit for his first cycle of highly emetogenic chemotherapy containing high-dose cisplatin. His medical history includes chronic atrial fibrillation managed with warfarin sodium (baseline INR 2.4). His pre-chemotherapy antiemetic orders include intravenous ondansetron (Zofran), oral aprepitant (Emend), and oral dexamethasone.",
       "stages": [
         {
@@ -788,10 +788,10 @@
             "type": "multiple-choice",
             "prompt": "Arthur notices that his dexamethasone dose was reduced by the oncologist when aprepitant (Emend) was added to his regimen. How should the nurse explain the reason for this dosage adjustment?",
             "options": [
-              "Aprepitant inhibits CYP3A4 and increases the bioavailability of corticosteroids like dexamethasone, requiring a 25% to 50% dose reduction.",
-              "Aprepitant induces rapid renal excretion of dexamethasone, making corticosteroids ineffective during chemotherapy.",
-              "Combining full-dose dexamethasone with aprepitant causes acute narrow-angle glaucoma and pupil dilation.",
-              "Dexamethasone blocks the binding of aprepitant to serotonin 5-HT3 receptors in the gastrointestinal tract."
+              "Aprepitant inhibits CYP3A4 and increases dexamethasone bioavailability, requiring a 25% to 50% dose reduction.",
+              "Aprepitant induces renal clearance of dexamethasone, requiring a transition to intravenous hydrocortisone.",
+              "Concurrent full-dose dexamethasone and aprepitant therapy elevates intraocular pressure in older adults.",
+              "Dexamethasone competes with aprepitant for serotonin 5-HT3 binding sites in the upper gastrointestinal tract."
             ],
             "answer": 0,
             "rationale": "Aprepitant is a major inhibitor of the cytochrome P450 (CYP3A4) enzyme system and increases the bioavailability of corticosteroids such as dexamethasone and methylprednisolone; therefore, corticosteroid dosages typically need to be reduced by 25% to 50%."
@@ -803,10 +803,10 @@
             "type": "multiple-choice",
             "prompt": "Which drug interaction between aprepitant and warfarin sodium requires close INR monitoring before each cycle?",
             "options": [
-              "Aprepitant induces the metabolism of warfarin sodium, which can lower the INR and reduce anticoagulant effectiveness.",
-              "Aprepitant directly chelates vitamin K in the gut, causing immediate spontaneous hemorrhage within 1 hour.",
-              "Aprepitant destroys circulating platelets in the bone marrow when combined with warfarin.",
-              "Warfarin completely prevents aprepitant from crossing the blood-brain barrier to reach neurokinin-1 receptors."
+              "Aprepitant induces the hepatic metabolism of warfarin sodium, which can lower the INR and reduce anticoagulation.",
+              "Aprepitant inhibits vitamin K epoxide reductase in the liver, which can double the INR and cause acute bleeding.",
+              "Aprepitant displaces warfarin from plasma albumin binding sites, increasing free drug levels in circulation.",
+              "Warfarin inhibits the intestinal absorption of aprepitant, reducing neurokinin-1 receptor blockade in the brain."
             ],
             "answer": 0,
             "rationale": "Aprepitant may induce the hepatic metabolism of warfarin sodium, leading to decreased warfarin levels and a subtherapeutic INR; thus, the INR must be checked before each cycle of aprepitant."
@@ -818,13 +818,13 @@
             "type": "multiple-choice",
             "prompt": "Which nursing intervention and teaching point are most appropriate regarding Arthur's ondansetron therapy?",
             "options": [
-              "Reassure him that headache is a common adverse effect of ondansetron that can be relieved with acetaminophen, and infuse IV doses over the recommended time to minimize QT prolongation risk.",
-              "Administer the IV ondansetron as a rapid 10-second bolus to prevent headache and bradycardia.",
-              "Withhold the ondansetron and administer benztropine because headache is an early sign of tardive dyskinesia.",
-              "Instruct him to take aspirin or ibuprofen on an empty stomach while on warfarin to treat the headache."
+              "Note that headache is a common effect treated with acetaminophen, and infuse IV doses at the recommended rate.",
+              "Administer the scheduled IV ondansetron over 30 seconds to minimize vascular irritation and relieve the headache.",
+              "Hold the ondansetron and request benztropine because headache is an early clinical sign of extrapyramidal dystonia.",
+              "Advise him to take oral ibuprofen with food for the headache and double his evening dose of oral dexamethasone."
             ],
             "answer": 0,
-            "rationale": "Headache is a common adverse effect of ondansetron and may be relieved with a simple analgesic such as acetaminophen (avoiding NSAIDs in a patient on warfarin). In addition, per the 2014 Health Canada warning, IV ondansetron must be infused over the recommended time (e.g., 2–5 min for up to 8 mg push, or 15 min for infusions) to reduce the risk of QT prolongation and dysrhythmias."
+            "rationale": "Headache is a common adverse effect of ondansetron and may be relieved with a simple analgesic such as acetaminophen (avoiding NSAIDs in a patient on warfarin). In addition, per the 2014 Health Canada warning, IV ondansetron must be infused over the recommended time (e.g., 2\u20135 min for up to 8 mg push, or 15 min for infusions) to reduce the risk of QT prolongation and dysrhythmias."
           }
         },
         {
@@ -850,20 +850,20 @@
       "type": "case-study",
       "title": "High-Alert Parenteral Antiemetics in Acute Gastroenteritis",
       "topic": "Antidopaminergics and Antihistamines",
-      "scenario": "Clara Vance, a 34-year-old woman, presents to the emergency department after 14 hours of severe nausea and intractable vomiting following a foodborne illness. Her vital signs are BP 96/60 mmHg (standing BP 80/50 mmHg), HR 114 beats/min, RR 18 breaths/min, and T 37.3°C. Serum labs show Na+ 133 mmol/L, K+ 3.2 mmol/L, and creatinine 108 µmol/L.",
+      "scenario": "Clara Vance, a 34-year-old woman, presents to the emergency department after 14 hours of severe nausea and intractable vomiting following a foodborne illness. Her vital signs are BP 96/60 mmHg (standing BP 80/50 mmHg), HR 114 beats/min, RR 18 breaths/min, and T 37.3\u00b0C. Serum labs show Na+ 133 mmol/L, K+ 3.2 mmol/L, and creatinine 108 \u00b5mol/L.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "The nurse performs a focused physical assessment before administering any antiemetic medication. Which cluster of clinical findings confirms dehydration and requires cautious blood pressure monitoring if an antidopaminergic drug is given?",
             "options": [
-              "Poor skin turgor, capillary refill of 6 seconds, longitudinal furrows on the tongue, and orthostatic hypotension",
-              "Brisk capillary refill of 2 seconds, moist pink oral mucosa, and bounding radial pulses",
-              "Pinpoint pupils, hyperactive bowel sounds, and elevated standing blood pressure",
-              "Peripheral pitting edema, jugular venous distension, and bradycardia"
+              "Poor skin turgor, capillary refill of 6 seconds, longitudinal tongue furrows, and orthostatic hypotension",
+              "Capillary refill of 3 seconds, dry oral mucous membranes, bounding radial pulses, and widened pulse pressure",
+              "Pupillary dilation, hyperactive bowel sounds in four quadrants, warm flushed skin, and resting tachycardia",
+              "Dependent ankle edema, jugular venous distension at 45 degrees, moist tongue, and postural dizziness"
             ],
             "answer": 0,
-            "rationale": "Before administering antiemetics—especially antidopaminergics that cause orthostatic hypotension and tachycardia—the nurse assesses hydration status via skin turgor, capillary refill (normal is <5 seconds), and presence of longitudinal furrows on the tongue, while closely monitoring blood pressure and pulse."
+            "rationale": "Before administering antiemetics\u2014especially antidopaminergics that cause orthostatic hypotension and tachycardia\u2014the nurse assesses hydration status via skin turgor, capillary refill (normal is <5 seconds), and presence of longitudinal furrows on the tongue, while closely monitoring blood pressure and pulse."
           }
         },
         {
@@ -872,10 +872,10 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's priority action regarding the order for intravenous hydroxyzine hydrochloride?",
             "options": [
-              "Do not administer the drug intravenously; contact the resident to change the route to intramuscular or switch to an approved IV antiemetic.",
-              "Dilute the hydroxyzine in 10 mL of sterile water and inject it into a dorsal hand vein over 1 minute.",
-              "Administer the hydroxyzine subcutaneously into the upper arm to slow its systemic absorption.",
-              "Give the hydroxyzine via an intra-arterial line to bypass peripheral venous irritation."
+              "Hold the IV dose and contact the prescriber to change the route to intramuscular or select an IV antiemetic.",
+              "Dilute the hydroxyzine in 50 mL of 0.9% sodium chloride and infuse it over 15 minutes through a large-bore vein.",
+              "Administer the hydroxyzine subcutaneously into the upper deltoid region to slow systemic vascular absorption.",
+              "Inject the hydroxyzine slowly at a rate of 12.5 mg/min through the port furthest from the peripheral IV site."
             ],
             "answer": 0,
             "rationale": "Hydroxyzine hydrochloride must only be given by the oral or intramuscular route. Intravenous, intra-arterial, or subcutaneous administration can result in significant tissue damage, thrombosis, and gangrene."
@@ -897,7 +897,7 @@
                 ]
               }
             ],
-            "rationale": "Using the dosage formula (Desired ÷ Have × Volume): 12.5 mg ÷ 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine."
+            "rationale": "Using the dosage formula (Desired \u00f7 Have \u00d7 Volume): 12.5 mg \u00f7 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine."
           }
         },
         {
@@ -906,10 +906,10 @@
             "type": "multiple-choice",
             "prompt": "What is the nurse's immediate priority action?",
             "options": [
-              "Discontinue the promethazine infusion immediately and assess the site and vascular patency.",
-              "Reassure the patient that burning is expected with phenothiazines and flush the line rapidly with 20 mL of saline.",
-              "Slow the infusion rate to 10 mg/min and apply an ice pack over the wrist vein while finishing the dose.",
-              "Switch the remaining promethazine dose to a subcutaneous injection in the abdomen."
+              "Stop the promethazine infusion and assess the IV site and vascular patency.",
+              "Reassure the patient that mild burning is expected and flush with normal saline.",
+              "Reduce the infusion rate to 10 mg/min and apply a cool compress over the vein.",
+              "Pause the infusion for 5 minutes and restart it through a distal hand catheter."
             ],
             "answer": 0,
             "rationale": "Intravenous promethazine therapy must be discontinued immediately if burning or pain occurs during administration because extravasation or inadvertent intra-arterial injection can cause severe tissue necrosis and gangrene, potentially requiring amputation."
@@ -929,10 +929,10 @@
             "type": "multiple-choice",
             "prompt": "The nurse is providing medication teaching to Evelyn regarding her new prescription for oral metoclopramide. Which instruction is correct?",
             "options": [
-              "\"Take this medication 30 minutes before each meal and at bedtime, and avoid alcohol while taking it.\"",
-              "\"Take this tablet 1 hour after meals only when you feel food sitting heavily in your stomach.\"",
-              "\"Crush the tablet and mix it with an anticholinergic antispasmodic to prevent stomach cramps.\"",
-              "\"Take a double dose in the evening if you experience mild restlessness during the afternoon.\""
+              "\"Take this medication 30 minutes before each meal and at bedtime, and avoid drinking alcohol.\"",
+              "\"Take this tablet 60 minutes after meals when you feel fullness or bloating in your stomach.\"",
+              "\"Take this medication with an over-the-counter anticholinergic to prevent abdominal cramping.\"",
+              "\"Take an extra tablet in the evening if you experience mild restlessness during the afternoon.\""
             ],
             "answer": 0,
             "rationale": "Oral metoclopramide should be taken 30 minutes before meals and at bedtime to enhance gastric peristalsis and emptying during meals, and patients must avoid alcohol due to additive CNS depression."
@@ -944,10 +944,10 @@
             "type": "multiple-choice",
             "prompt": "How will concurrent use of opioid analgesics or anticholinergic medications affect Evelyn's metoclopramide therapy?",
             "options": [
-              "Anticholinergics and opioid analgesics block the gastrointestinal motility effects of metoclopramide.",
-              "Opioids and anticholinergics accelerate gastric emptying and cause severe secretory diarrhea with metoclopramide.",
-              "Anticholinergics prevent metoclopramide from being absorbed through the oral mucosa.",
-              "Opioids convert metoclopramide into a serotonin 5-HT3 receptor antagonist."
+              "Anticholinergics and opioid analgesics antagonize and block the gastrointestinal motility effects of metoclopramide.",
+              "Opioid analgesics and anticholinergics accelerate gastric emptying and cause osmotic diarrhea with metoclopramide.",
+              "Anticholinergics inhibit hepatic metabolism of metoclopramide and prevent it from crossing the blood-brain barrier.",
+              "Opioid analgesics displace metoclopramide from serotonin 5-HT3 receptors in the chemoreceptor trigger zone."
             ],
             "answer": 0,
             "rationale": "Because metoclopramide stimulates cholinergic receptors to promote upper GI peristalsis, anticholinergics and opioid analgesics directly antagonize and block the motility effects of metoclopramide."
@@ -959,10 +959,10 @@
             "type": "multiple-choice",
             "prompt": "Based on the 2011 Health Canada advisory for metoclopramide, how should the nurse interpret and respond to these assessment findings?",
             "options": [
-              "Recognize these movements as tardive dyskinesia associated with long-term use (>12 weeks) and report them immediately to the health care provider.",
-              "Document the movements as normal age-related dentures adjustment and instruct her to continue metoclopramide.",
-              "Add oral prochlorperazine to suppress the involuntary facial movements while continuing metoclopramide.",
-              "Reassure the patient that these symptoms indicate dehydration and will resolve after drinking 500 mL of water."
+              "Recognize these movements as tardive dyskinesia from long-term use (>12 weeks) and report them to the provider.",
+              "Document the movements as benign age-related oral automatisms and continue the current metoclopramide dosage.",
+              "Request an order for oral prochlorperazine to suppress the facial movements while continuing metoclopramide.",
+              "Increase her oral fluid intake to 2 L daily because these movements indicate mild hypernatremic dehydration."
             ],
             "answer": 0,
             "rationale": "Health Canada warned that long-term use of metoclopramide (longer than 12 weeks) is associated with tardive dyskinesia, an involuntary neurological movement disorder (lip smacking, grimacing, tongue protrusion), with older women at particularly high risk for extrapyramidal adverse effects."
@@ -974,10 +974,10 @@
             "type": "multiple-choice",
             "prompt": "A medical resident suggests ordering IV metoclopramide to stop Evelyn's vomiting. Why must the nurse question this order?",
             "options": [
-              "Metoclopramide is strictly contraindicated in patients with gastrointestinal obstruction, as well as in those with a history of extrapyramidal reactions.",
-              "Intravenous metoclopramide can only be administered to pediatric patients between 5 and 14 years of age.",
-              "Metoclopramide causes severe paralytic ileus by completely stopping intestinal peristalsis.",
-              "Metoclopramide is only effective for motion sickness and has no effect on the chemoreceptor trigger zone."
+              "Metoclopramide is contraindicated in patients with mechanical gastrointestinal obstruction and extrapyramidal history.",
+              "Intravenous metoclopramide is indicated for pediatric patients and is avoided in adults over 65 years of age.",
+              "Metoclopramide inhibits lower intestinal peristalsis and worsens paralytic ileus in postoperative surgical patients.",
+              "Metoclopramide acts in the inner ear vestibular nuclei and has no antiemetic effect on bilious gastrointestinal vomiting."
             ],
             "answer": 0,
             "rationale": "Metoclopramide stimulates GI peristalsis and is strictly contraindicated in patients with mechanical gastrointestinal obstruction (due to the risk of bowel perforation), as well as in patients who have developed tardive dyskinesia or extrapyramidal reactions."
@@ -997,10 +997,10 @@
             "type": "multiple-choice",
             "prompt": "Nadia asks the nurse if she should start taking concentrated ginger (Zingiber officinale) capsules that she saw at a health food store. Which nursing consideration from the chapter is most important when counselling Nadia about ginger?",
             "options": [
-              "Ginger may worsen cholelithiasis (gallstones), and some clinicians recommend avoiding it during pregnancy due to anecdotal evidence of abortifacient properties.",
-              "Ginger causes severe fetal neural tube defects by depleting maternal vitamin B6 stores.",
-              "Ginger is a potent dopamine antagonist that causes acute dystonia and lockjaw in pregnant women.",
-              "Ginger is safe in gallstone disease and can be taken at 10 capsules per day without consulting a provider."
+              "Ginger may worsen cholelithiasis and is often avoided in pregnancy due to possible abortifacient properties.",
+              "Ginger depletes maternal pyridoxine stores during the first trimester and increases the risk of neural tube defects.",
+              "Ginger blocks central dopamine D2 receptors and commonly induces acute dystonic reactions in pregnant patients.",
+              "Ginger is safe in patients with gallstones provided the daily dose does not exceed 6 capsules taken with meals."
             ],
             "answer": 0,
             "rationale": "According to the chapter's Natural Health Products box on ginger, ginger is contraindicated/cautioned in patients with cholelithiasis because it may worsen gallstones, and some clinicians recommend avoiding its use during pregnancy due to anecdotal evidence of abortifacient properties."
@@ -1012,10 +1012,10 @@
             "type": "multiple-choice",
             "prompt": "Which dosing schedule and rationale should the nurse teach Nadia to achieve optimal relief of her morning nausea?",
             "options": [
-              "Take two tablets at bedtime, one tablet in the morning, and one tablet midafternoon; the delayed-release action takes 4 to 6 hours, allowing the bedtime dose to control morning nausea.",
-              "Chew two tablets immediately upon waking in the morning so the medication works within 5 minutes.",
-              "Take all four tablets together at noon with a glass of wine to maximize daytime absorption.",
-              "Take one tablet every 2 hours only after an episode of vomiting has occurred."
+              "Take two tablets at bedtime, one in the morning, and one midafternoon; the bedtime dose acts in 4 to 6 hours.",
+              "Chew two tablets upon waking each morning and take two tablets with dinner for rapid gastrointestinal absorption.",
+              "Take three tablets together at noon with a full meal to maintain steady plasma pyridoxine concentrations.",
+              "Take one tablet every 4 hours as needed after an episode of morning retching or vomiting has occurred."
             ],
             "answer": 0,
             "rationale": "Optimal effects of Diclectin occur 4 to 6 hours prior to the anticipated onset of symptoms; the delayed-release formulation permits the nighttime dose (two tablets at bedtime) to be effective in the morning hours when nausea occurs most frequently, supplemented by one tablet in the morning and one midafternoon."
@@ -1027,10 +1027,10 @@
             "type": "multiple-choice",
             "prompt": "What instruction should the nurse provide regarding the discontinuation of Diclectin?",
             "options": [
-              "\"The medication should be slowly tapered when discontinued to prevent the sudden return of nausea and vomiting symptoms.\"",
-              "\"You must stop all tablets abruptly tonight because taking vitamin B6 past 16 weeks causes gestational diabetes.\"",
-              "\"You are required to stay on the maximum dose of Diclectin until 6 weeks postpartum.\"",
-              "\"Switch immediately to over-the-counter scopolamine patches for the remainder of your pregnancy.\""
+              "\"Taper the medication slowly when discontinuing it to prevent a return of nausea and vomiting symptoms.\"",
+              "\"Discontinue all tablets tonight because taking pyridoxine past 16 weeks increases gestational glucose.\"",
+              "\"Continue taking the full four-tablet daily regimen until at least 36 weeks of gestation to prevent relapse.\"",
+              "\"Transition directly to over-the-counter dimenhydrinate tablets twice daily for the next 2 weeks.\""
             ],
             "answer": 0,
             "rationale": "When discontinuing doxylamine succinate and pyridoxine hydrochloride (Diclectin), the drug should be slowly tapered rather than stopped abruptly to prevent a rebound return of nausea and vomiting symptoms."
@@ -1042,10 +1042,10 @@
             "type": "multiple-choice",
             "prompt": "Which statement reflects accurate nursing knowledge regarding the use of ondansetron for hyperemesis gravidarum?",
             "options": [
-              "Ondansetron is used to treat hyperemesis gravidarum, and the nurse should assess for signs of dehydration and electrolyte disturbances while being aware of Health Canada's safety review on fetal risk and QT prolongation.",
-              "Ondansetron is strictly contraindicated in all trimesters of pregnancy because it is a synthetic cannabinoid.",
-              "Ondansetron cures dehydration directly, so intravenous fluids and electrolyte monitoring are unnecessary.",
-              "Ondansetron must only be given subcutaneously at a dose of 32 mg every hour in pregnant patients."
+              "Ondansetron is used for hyperemesis gravidarum, requiring hydration assessment and awareness of fetal risk and QT warnings.",
+              "Ondansetron is a cannabinoid derivative that is avoided during pregnancy due to maternal central nervous system sedation.",
+              "Ondansetron corrects hypokalemia and ketonuria directly by inhibiting renal tubular potassium excretion in pregnancy.",
+              "Ondansetron must be administered by continuous subcutaneous infusion at 16 mg/hr when treating hyperemesis gravidarum."
             ],
             "answer": 0,
             "rationale": "The chapter notes that ondansetron is used for hyperemesis gravidarum (referencing the 2016 Government of Canada safety review assessing potential fetal harm) and requires nursing assessment for dehydration (skin turgor, oral mucosa, longitudinal tongue furrows) and electrolyte disturbances."
@@ -1065,10 +1065,10 @@
             "type": "multiple-choice",
             "prompt": "Based on Walter's health history, what is the nurse's best recommendation regarding scopolamine and dimenhydrinate?",
             "options": [
-              "Advise him that both scopolamine and antihistamines are contraindicated in narrow-angle glaucoma because their mydriatic (pupil-dilating) effects can increase intraocular pressure, and they can also cause urinary retention.",
-              "Recommend applying two scopolamine patches simultaneously because anticholinergics lower intraocular pressure in narrow-angle glaucoma.",
-              "Instruct him to take high-dose dimenhydrinate every 2 hours because antihistamines have no anticholinergic or ocular effects.",
-              "Tell him to crush a scopolamine patch and dissolve it in water to avoid eye and bladder side effects."
+              "Explain that both drugs are contraindicated in narrow-angle glaucoma due to pupil dilation and can worsen urinary retention.",
+              "Recommend transdermal scopolamine because it selectively targets the inner ear and lowers intraocular pressure in glaucoma.",
+              "Recommend oral dimenhydrinate because histamine-1 blockers lack anticholinergic effects on the iris or bladder neck.",
+              "Advise him to apply a scopolamine patch for 12 hours at a time to prevent mydriasis and prostatic smooth muscle spasm."
             ],
             "answer": 0,
             "rationale": "Both the anticholinergic scopolamine and antihistamines (which have potent anticholinergic activity) are contraindicated in patients with narrow-angle glaucoma due to pupil dilation (mydriasis) increasing intraocular pressure, and both can cause urinary retention in patients with BPH."
@@ -1080,10 +1080,10 @@
             "type": "multiple-choice",
             "prompt": "What drug interaction should the nurse warn Walter's daughter about if she combines scopolamine with an antihistamine or antidepressant?",
             "options": [
-              "Additive anticholinergic drying effects (such as severe dry mouth, blurred vision, and urinary retention) and increased drowsiness",
-              "Severe cholinergic crisis characterized by profuse salivation, lacrimation, and diarrhea",
-              "Acute hypertension and hyperglycemic ketoacidosis",
-              "Complete inactivation of the scopolamine patch within 30 minutes"
+              "Additive anticholinergic drying effects (dry mouth, blurred vision) and increased drowsiness",
+              "Acute cholinergic stimulation characterized by excess salivation, lacrimation, and abdominal cramping",
+              "Paradoxical hypertension, reflex bradycardia, and accelerated gastrointestinal transit time",
+              "Accelerated hepatic clearance of scopolamine resulting in breakthrough motion sickness"
             ],
             "answer": 0,
             "rationale": "Anticholinergics such as scopolamine have additive drying and sedative effects when administered concurrently with antihistamines or antidepressants."
@@ -1095,10 +1095,10 @@
             "type": "multiple-choice",
             "prompt": "How should the nurse explain this reaction to the child's mother?",
             "options": [
-              "Children can experience severe paradoxical excitation and agitation in response to antihistamines, so the drug should be discontinued.",
-              "The child is experiencing irreversible tardive dyskinesia caused by histamine-1 receptor blockade.",
-              "This reaction indicates the dose was too low, so another dose of the antihistamine should be given immediately.",
-              "Antihistamines cause hyperthyroidism in children under 10 years of age."
+              "Children can have paradoxical excitation reactions to antihistamines, so the drug should be stopped.",
+              "The child is exhibiting acute extrapyramidal akathisia caused by central histamine-1 receptor blockade.",
+              "This restlessness indicates subtherapeutic dosing, so a repeat dose of dimenhydrinate should be given.",
+              "Antihistamines stimulate thyroid hormone release in young children, causing transient hyperactivity."
             ],
             "answer": 0,
             "rationale": "Antihistamines must be used cautiously in children because pediatric patients may develop severe paradoxical reactions (excitation, agitation, insomnia, nervousness) rather than sedation."
@@ -1110,13 +1110,13 @@
             "type": "multiple-choice",
             "prompt": "Which set of nonpharmacological measures should the nurse teach Walter?",
             "options": [
-              "Eat small, frequent, bland meals; wait 20 to 30 minutes after eating solid food before drinking liquids; sip cool carbonated drinks; and avoid lying flat after eating.",
-              "Eat one large, high-fat meal before boarding, drink 1 L of milk with the meal, and lie flat in the lower cabin.",
-              "Avoid all fluids and food for 72 hours until the ferry trip is completely over.",
-              "Eat spicy, salty foods with strong aromas to distract the olfactory pathways from motion stimuli."
+              "Eat small, bland meals every 1 to 2 hours, wait 20 to 30 minutes before drinking liquids, and avoid lying flat.",
+              "Eat three high-protein meals daily, drink 500 mL of water with each meal, and rest supine for 1 hour afterward.",
+              "Withhold solid foods and oral fluids during the voyage and use warm aromatic herbal teas when queasiness starts.",
+              "Choose seasoned, savoury snacks every 4 hours and drink warm milk during meals to coat the stomach lining."
             ],
             "answer": 0,
-            "rationale": "Effective nonpharmacological interventions include avoiding spicy, salty, fatty, or strong-odour foods; eating small, frequent, bland meals every 1–2 hours; separating solids and liquids by 20–30 minutes; sipping cool carbonated beverages or chilled gelatin; and avoiding lying flat after eating."
+            "rationale": "Effective nonpharmacological interventions include avoiding spicy, salty, fatty, or strong-odour foods; eating small, frequent, bland meals every 1\u20132 hours; separating solids and liquids by 20\u201330 minutes; sipping cool carbonated beverages or chilled gelatin; and avoiding lying flat after eating."
           }
         }
       ]
@@ -1148,10 +1148,10 @@
             "type": "multiple-choice",
             "prompt": "Which adverse effects and safety instructions should the nurse include in Marcus's teaching plan?",
             "options": [
-              "Expect possible drowsiness, dizziness, euphoria, anxiety, confusion, visual disturbances, and dry mouth; avoid driving or operating machinery and rise slowly to prevent falls.",
-              "Monitor for severe extrapyramidal muscle rigidity and take the medication with alcohol to reduce anxiety.",
-              "Expect profuse watery diarrhea and pinpoint pupils; perform vigorous exercise immediately after each dose.",
-              "Check your INR daily because THC has severe cytochrome P450 drug interactions with all oral medications."
+              "Monitor for drowsiness, dizziness, euphoria, confusion, visual changes, and dry mouth; avoid driving and rise slowly.",
+              "Watch for acute extrapyramidal muscle rigidity and torticollis; take doses with a small glass of wine to reduce anxiety.",
+              "Expect watery diarrhea, bradycardia, and pupillary constriction; perform brisk aerobic exercise after taking each dose.",
+              "Obtain weekly coagulation blood tests because cannabinoids strongly inhibit cytochrome P450 3A4 hepatic metabolism."
             ],
             "answer": 0,
             "rationale": "Adverse effects of tetrahydrocannabinol include drowsiness, dizziness, anxiety, confusion, euphoria, visual disturbances, and dry mouth. Patients taking antiemetics must be cautioned to avoid driving or hazardous tasks and change positions slowly to prevent injury/falls. Unlike aprepitant, THC has no significant drug interactions listed in the chapter."
@@ -1163,10 +1163,10 @@
             "type": "multiple-choice",
             "prompt": "Why must the nurse avoid administering promethazine hydrochloride or granisetron hydrochloride to this 16-month-old patient?",
             "options": [
-              "Promethazine is strictly contraindicated in children younger than 2 years of age, and the safety of granisetron in children younger than 2 years has not been established.",
-              "Both drugs are available only as sublingual tablets that pose a choking hazard in toddlers.",
-              "Promethazine and granisetron cause immediate closure of the epiphyseal growth plates in infants.",
-              "Both medications require the patient to swallow 500 mL of water prior to administration."
+              "Promethazine is contraindicated under 2 years of age, and granisetron safety under age 2 is not established.",
+              "Both medications require hepatic cytochrome P450 enzymes that do not mature until 4 years of age in pediatric patients.",
+              "Promethazine and granisetron induce premature closure of epiphyseal growth plates in toddlers under 24 months of age.",
+              "Both drugs cause paradoxical hypertension and severe bronchospasm when administered to children under 3 years of age."
             ],
             "answer": 0,
             "rationale": "In pediatric patients under 2 years of age, promethazine is strictly contraindicated, and the chapter specifically notes under Nursing Assessment that granisetron should only be given after determining age because its safety in children younger than 2 years has not been established."
@@ -1178,13 +1178,13 @@
             "type": "multiple-choice",
             "prompt": "Based on the chapter's dosage table and best practice guidelines for postoperative nausea and vomiting, which intervention is most appropriate for this adult patient?",
             "options": [
-              "Administer an antiemetic from a different pharmacological class targeting another receptor pathway, because a second dose of IV ondansetron has not been shown to be effective in patients who fail to respond to the first dose.",
-              "Administer a repeat 4-mg IV push dose of ondansetron every 15 minutes until vomiting stops.",
-              "Administer a 32-mg rapid IV bolus of ondansetron over 30 seconds.",
-              "Give hydroxyzine hydrochloride 50 mg by rapid IV push through her peripheral line."
+              "Give an antiemetic from another drug class because a second IV dose of ondansetron is ineffective after first-dose failure.",
+              "Administer a repeat 4-mg IV push dose of ondansetron over 2 to 5 minutes because the initial dose has a 30-minute half-life.",
+              "Infuse a high-dose 16-mg IV piggyback of ondansetron over 15 minutes to overcome postoperative serotonin receptor resistance.",
+              "Administer hydroxyzine hydrochloride 25 mg by slow IV push through the peripheral line to block histamine-1 receptors."
             ],
             "answer": 0,
-            "rationale": "According to the chapter's dosage table for postoperative nausea and vomiting, after giving ondansetron 4 mg IV over 2–5 minutes × 1 dose, a second dose has not been shown to be effective in patients who fail to respond to the first dose; best practice is to add an antiemetic from another class that blocks a different receptor pathway."
+            "rationale": "According to the chapter's dosage table for postoperative nausea and vomiting, after giving ondansetron 4 mg IV over 2\u20135 minutes \u00d7 1 dose, a second dose has not been shown to be effective in patients who fail to respond to the first dose; best practice is to add an antiemetic from another class that blocks a different receptor pathway."
           }
         }
       ]

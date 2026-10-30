@@ -7,10 +7,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A postoperative patient is prescribed morphine sulphate 5 mg IV every 4 hours as needed for pain. Prior to administering the dose, which assessment finding requires the nurse to withhold the medication and notify the prescriber?",
       "options": [
-        "Respiratory rate of 8 breaths/min and shallow depth",
-        "Blood pressure of 138/84 mm Hg and heart rate of 96 beats/min",
-        "Patient report of mild nausea and dry mouth",
-        "Bowel sounds hypoactive in all four quadrants"
+        "Respiratory rate of 8 breaths/min with shallow inspirations",
+        "Blood pressure of 138/84 mm Hg with a heart rate of 96 beats/min",
+        "Patient report of mild post-anesthesia nausea and dry mouth",
+        "Hypoactive bowel sounds auscultated in all four abdominal quadrants"
       ],
       "answer": 0,
       "rationale": "Opioid analgesics should be withheld if the patient's respiratory rate is less than 10 breaths/min (or per facility protocol) because CNS and respiratory depression are the most life-threatening adverse effects of opioids. Mildly elevated blood pressure and heart rate are expected sympathetic responses to acute pain, and dry mouth or hypoactive bowel sounds do not warrant withholding acute pain relief."
@@ -21,10 +21,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A patient with stage 4 chronic kidney disease (eGFR 22 mL/min) requires around-the-clock parenteral opioid therapy for severe pain. Why should the nurse question an order for scheduled morphine sulphate in this patient?",
       "options": [
-        "Morphine is metabolized into morphine-6-glucuronide, which accumulates in renal impairment and causes toxicity",
-        "Morphine undergoes rapid renal tubular secretion, making it ineffective in kidney disease",
-        "Morphine directly causes acute tubular necrosis when administered intravenously",
-        "Morphine cannot cross the blood–brain barrier when blood urea nitrogen levels are elevated"
+        "Active morphine-6-glucuronide metabolites accumulate in renal failure",
+        "Rapid renal tubular secretion makes morphine subtherapeutic in uremia",
+        "Unchanged morphine precipitates in the renal tubules and causes necrosis",
+        "Elevated blood urea nitrogen prevents morphine from binding mu receptors"
       ],
       "answer": 0,
       "rationale": "Morphine has an active, potentially toxic metabolite called morphine-6-glucuronide that is excreted by the kidneys. In patients with kidney impairment, this metabolite accumulates and leads to severe CNS and respiratory toxicity; safer alternatives include hydromorphone, fentanyl, or methadone."
@@ -35,10 +35,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A nurse is converting a patient's analgesic regimen from intravenous morphine sulphate to intravenous hydromorphone hydrochloride. Which statement accurately reflects the equianalgesic potency of hydromorphone compared with morphine?",
       "options": [
-        "Hydromorphone is 5 to 8 times more potent than morphine, with 1 mg IV hydromorphone equivalent to 7 mg IV morphine",
-        "Hydromorphone and morphine have a 1:1 equianalgesic ratio when administered intravenously",
-        "Morphine is 5 to 8 times more potent than hydromorphone, requiring a higher milligram dose of hydromorphone",
-        "Hydromorphone is 100 times more potent than morphine, with 0.1 mg IV equivalent to 10 mg IV morphine"
+        "Hydromorphone is 5 to 8 times more potent, with 1 mg IV equal to 7 mg IV morphine",
+        "Hydromorphone is 2 to 3 times more potent, with 3 mg IV equal to 7 mg IV morphine",
+        "Morphine is 5 to 8 times more potent, with 1 mg IV equal to 7 mg IV hydromorphone",
+        "Hydromorphone is 100 times more potent, with 0.1 mg IV equal to 10 mg IV morphine"
       ],
       "answer": 0,
       "rationale": "Hydromorphone is approximately 5 to 8 times more potent than morphine; specifically, 1 mg of IV, IM, or subcut hydromorphone is equivalent to 7 mg of IV, IM, or subcut morphine. Failing to account for this potency difference has resulted in fatal overdoses. Fentanyl (0.1 mg IV = 10 mg IV morphine) is 100 times more potent than morphine."
@@ -49,10 +49,10 @@
       "topic": "Opioid Agonists",
       "prompt": "Twenty minutes after receiving an intravenous dose of morphine sulphate, a patient reports generalized itching and flushing at the IV site, but has clear lungs, normal blood pressure, and no tongue or airway swelling. How should the nurse interpret this finding?",
       "options": [
-        "It is a pharmacological effect caused by opioid-induced histamine release rather than a true anaphylactic allergy",
-        "It represents an early IgE-mediated anaphylactic reaction requiring immediate epinephrine administration",
-        "It is a sign of acute morphine-6-glucuronide neurotoxicity requiring naloxone",
-        "It indicates an incompatibility between morphine sulphate and normal saline flush solution"
+        "A pharmacological effect caused by opioid-induced mast cell histamine release",
+        "An early IgE-mediated anaphylactic reaction requiring parenteral epinephrine",
+        "An acute manifestation of morphine-6-glucuronide central nervous system toxicity",
+        "A chemical incompatibility between morphine sulphate and the saline flush solution"
       ],
       "answer": 0,
       "rationale": "Naturally occurring opiates like morphine commonly trigger histamine release from mast cells, causing pruritus, flushing, warmth, and orthostatic hypotension. In the absence of bronchospasm, angioedema, or hemodynamic collapse, this is a histamine-mediated pharmacological effect (often managed with diphenhydramine) rather than true anaphylaxis."
@@ -63,10 +63,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A 10-year-old child is recovering from a tonsillectomy, and the parent asks if the child can receive codeine elixir for throat pain. Based on Health Canada safety recommendations, which response by the nurse is accurate?",
       "options": [
-        "Codeine is not recommended for children under 18 years of age because ultra-rapid CYP2D6 metabolizers can develop fatal morphine toxicity",
-        "Codeine is the preferred pediatric opioid because its analgesic ceiling effect prevents respiratory depression",
-        "Codeine is safe for children over 6 years of age as long as it is combined with caffeine",
-        "Codeine is contraindicated in children because it triggers Reye's syndrome following viral infections"
+        "Codeine is avoided under age 18 because ultra-rapid CYP2D6 metabolism causes morphine toxicity",
+        "Codeine is preferred in pediatrics because its ceiling effect prevents respiratory depression",
+        "Codeine is safe for children over age 6 when formulated in a low-dose oral suspension",
+        "Codeine is contraindicated in children because it precipitates acute Reye's encephalopathy"
       ],
       "answer": 0,
       "rationale": "Codeine is converted to morphine in the liver via the CYP2D6 enzyme. Patients with a genetic polymorphism who are 'ultra-rapid metabolizers' convert codeine into high levels of morphine rapidly, which has caused life-threatening respiratory depression and death in children; therefore, Health Canada recommends against codeine use in patients under 18 years of age."
@@ -77,10 +77,10 @@
       "topic": "Opioid Agonists",
       "prompt": "Which characteristic makes codeine unique among the pure opioid agonist medications?",
       "options": [
-        "It is the only opioid agonist that exhibits an analgesic ceiling effect",
-        "It has 100% oral bioavailability with no hepatic first-pass metabolism",
-        "It acts selectively on delta receptors without affecting the medullary cough centre",
-        "It stimulates gastrointestinal motility rather than causing constipation"
+        "It is the sole pure opioid agonist that exhibits an analgesic ceiling effect",
+        "It undergoes minimal hepatic first-pass metabolism after oral administration",
+        "It acts selectively on kappa receptors without suppressing the cough reflex",
+        "It increases gastrointestinal smooth muscle tone and accelerates peristalsis"
       ],
       "answer": 0,
       "rationale": "Codeine is less effective as an analgesic than strong agonists and is the only pure opioid agonist to possess an analgesic ceiling effect, meaning that increasing the dose beyond a certain point does not provide additional pain relief. Like other opioids, it suppresses the cough centre and decreases GI motility."
@@ -91,10 +91,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A patient with persistent cancer pain is prescribed a transdermal fentanyl patch (Duragesic Mat) 25 mcg/hr every 72 hours. Which criterion must be verified in the patient's medication history before applying the first patch?",
       "options": [
-        "The patient is opioid tolerant, having taken at least 60 mg of oral morphine daily (or an equianalgesic opioid dose) for a week or longer",
-        "The patient is opioid naive so that receptor downregulation does not interfere with transdermal absorption",
-        "The patient has acute postoperative pain that has lasted less than 24 hours",
-        "The patient has a body temperature above 38.5°C to facilitate transdermal drug diffusion"
+        "Prior opioid tolerance equivalent to at least 60 mg of oral morphine daily for 1 week",
+        "Absence of prior opioid exposure so mu-receptor downregulation does not limit absorption",
+        "Acute postoperative pain lasting less than 48 hours that has not responded to acetaminophen",
+        "Baseline core body temperature above 38.5\u00b0C to facilitate transdermal drug diffusion"
       ],
       "answer": 0,
       "rationale": "Transdermal fentanyl patches are strictly indicated only for opioid-tolerant patients (taking at least 60 mg/day oral morphine, 30 mg/day oral oxycodone, or 8 mg/day oral hydromorphone for at least 1 week) for persistent pain. Applying fentanyl patches to opioid-naive patients or for acute/postoperative pain can cause fatal respiratory depression."
@@ -106,9 +106,9 @@
       "prompt": "The nurse is providing discharge teaching to a patient prescribed transdermal fentanyl patches for metastatic bone pain. Which statement by the patient indicates a need for further teaching?",
       "options": [
         "\"I will place a warm heating pad over the patch site if my back pain flares up at night.\"",
-        "\"I will wash the skin with plain water only and avoid soaps or alcohol before applying a new patch.\"",
-        "\"I will never cut the patch in half, even if I feel a bit drowsy.\"",
-        "\"I will fold the used patch in half so the sticky sides adhere together before disposing of it safely.\""
+        "\"I will cleanse the application site with plain water and avoid using soaps or lotions.\"",
+        "\"I will leave the patch intact and avoid cutting it even if I feel drowsy during the day.\"",
+        "\"I will fold the used patch in half with the sticky sides together before disposing of it.\""
       ],
       "answer": 0,
       "rationale": "Applying external heat (such as a heating pad, hot pack, hot tub, or sauna) over a fentanyl patch increases cutaneous blood flow and accelerates drug absorption, which can result in a fatal opioid overdose. Cleansing with water only, never cutting patches, and folding the adhesive sides inward for safe disposal are correct practices."
@@ -119,10 +119,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A patient has a first transdermal fentanyl patch applied at 08:00 for persistent pain. When the nurse removes the patch 72 hours later due to mild hypoventilation, how long does it take for serum fentanyl concentrations to decrease by 50%?",
       "options": [
-        "Approximately 20 hours, because a depot of fentanyl remains in the skin layers",
-        "Within 15 to 30 minutes after the patch is removed from the skin",
-        "Approximately 2 hours, matching the elimination half-life of intravenous fentanyl",
-        "More than 7 days, requiring continuous mechanical ventilation in all cases"
+        "Approximately 20 hours due to continued absorption from the cutaneous depot",
+        "Approximately 30 minutes once the adhesive membrane is lifted from the skin",
+        "Approximately 2 hours, matching the elimination half-life of IV fentanyl",
+        "Approximately 72 hours until the superficial epidermal layers desquamate"
       ],
       "answer": 0,
       "rationale": "Once a transdermal fentanyl patch is removed, absorption continues from the cutaneous depot, and it takes approximately 20 hours for serum fentanyl concentrations to fall by 50%. Additionally, when the first patch is applied, it takes 6 to 12 hours to reach steady-state pain control."
@@ -133,10 +133,10 @@
       "topic": "Opioid Agonists",
       "prompt": "Why have most Canadian hospitals restricted or removed meperidine hydrochloride (Demerol) from routine pain management protocols, particularly for older adults and long-term use?",
       "options": [
-        "Its active metabolite, normeperidine, accumulates and causes neurotoxicity and seizures that are not reversed by naloxone",
-        "It has an extremely long elimination half-life of 72 hours that causes delayed respiratory arrest",
-        "It permanently blocks mu receptors, preventing any other opioid from providing analgesia",
-        "It causes severe fulminant hepatic necrosis within 24 hours of administration"
+        "Its active metabolite, normeperidine, accumulates and causes naloxone-resistant seizures",
+        "Its prolonged 72-hour parent half-life causes delayed respiratory arrest in older adults",
+        "Its irreversible binding at mu receptors blocks subsequent analgesia from other opioids",
+        "Its hepatic metabolism depletes glutathione stores and causes fulminant liver necrosis"
       ],
       "answer": 0,
       "rationale": "Meperidine is metabolized to normeperidine, an active neurotoxic metabolite that accumulates with repeated dosing (more than 2 days), in older adults, and in patients with renal dysfunction. Normeperidine causes CNS excitation, delirium, tremors, and seizures that do not respond to naloxone."
@@ -148,9 +148,9 @@
       "prompt": "A patient taking selegiline (a monoamine oxidase inhibitor) for Parkinson's disease is admitted to the emergency department with a kidney stone. Which analgesic is strictly contraindicated due to a life-threatening drug interaction?",
       "options": [
         "Meperidine hydrochloride",
-        "Acetaminophen",
-        "Ibuprofen",
-        "Transdermal lidocaine"
+        "Ketorolac tromethamine",
+        "Lidocaine hydrochloride",
+        "Diclofenac potassium"
       ],
       "answer": 0,
       "rationale": "Concurrent administration of meperidine (or tramadol) with monoamine oxidase inhibitors (MAOIs) such as selegiline can precipitate severe respiratory depression, seizures, hypotension, and life-threatening serotonin syndrome."
@@ -161,13 +161,13 @@
       "topic": "Opioid Agonists",
       "prompt": "A patient with severe neuropathic cancer pain is switched to oral methadone hydrochloride (Metadol). What pharmacokinetic property of methadone requires the nurse to monitor closely for delayed unintentional overdose during the first week of therapy?",
       "options": [
-        "Its elimination half-life (24 to 59 hours) is much longer than its duration of analgesia, causing tissue accumulation with repeated dosing",
-        "It is poorly absorbed from the gastrointestinal tract until intestinal enzymes are induced after 5 days",
-        "It is excreted exclusively unchanged in the urine, causing acute renal failure after 3 days",
-        "It rapidly converts into fentanyl in the bloodstream when taken with food"
+        "Its 24- to 59-hour elimination half-life exceeds its duration of analgesia, causing tissue accumulation",
+        "Its delayed intestinal absorption requires 5 days of mucosal enzyme induction before reaching peak levels",
+        "Its active glucuronide metabolite undergoes enterohepatic recirculation and saturates renal clearance",
+        "Its high plasma protein binding displaces endogenous endorphins from central mu receptors after 72 hours"
       ],
       "answer": 0,
-      "rationale": "Methadone binds extensively to tissues in the liver, kidneys, and brain, giving it a prolonged half-life (24–36 hours initially, and up to 59 hours with continuous dosing) that exceeds its shorter duration of analgesic effect. Consequently, repeated dosing for pain can lead to cumulative CNS and respiratory depression and cardiac dysrhythmias over 3 to 5 days."
+      "rationale": "Methadone binds extensively to tissues in the liver, kidneys, and brain, giving it a prolonged half-life (24\u201336 hours initially, and up to 59 hours with continuous dosing) that exceeds its shorter duration of analgesic effect. Consequently, repeated dosing for pain can lead to cumulative CNS and respiratory depression and cardiac dysrhythmias over 3 to 5 days."
     },
     {
       "id": "anlg-mc-013",
@@ -175,10 +175,10 @@
       "topic": "Opioid Agonists",
       "prompt": "A patient with chronic cancer pain is prescribed controlled-release oxycodone/naloxone (Targin) tablets orally every 12 hours. The patient asks why an opioid reversal drug (naloxone) is included in a pain pill. What is the nurse's best explanation?",
       "options": [
-        "Oral naloxone acts locally on opioid receptors in the gut to reduce constipation, but is not absorbed systemically to block pain relief in the brain",
-        "The naloxone is absorbed into the bloodstream to prevent you from becoming psychologically addicted to the oxycodone",
-        "The naloxone only activates if you accidentally take an extra tablet, reversing respiratory depression immediately",
-        "Oral naloxone enhances the absorption of oxycodone across the stomach lining to make it work faster"
+        "Oral naloxone blocks gut opioid receptors to reduce constipation without blocking central analgesia",
+        "Oral naloxone crosses the blood\u2013brain barrier slowly to prevent psychological dependence on oxycodone",
+        "Oral naloxone remains inactive in the bloodstream unless an accidental overdose triggers mu blockade",
+        "Oral naloxone inhibits gastric acid degradation of oxycodone to prolong its systemic duration of action"
       ],
       "answer": 0,
       "rationale": "In the oral combination product Targin (oxycodone/naloxone), naloxone competitively blocks opioid receptors in the gastrointestinal tract to prevent opioid-induced constipation, but undergoes extensive first-pass metabolism and is not absorbed systemically to antagonize CNS analgesia."
@@ -189,10 +189,10 @@
       "topic": "Opioid Agonists",
       "prompt": "Why was the original sustained-release oxycodone formulation (OxyContin) replaced on the Canadian market with OxyNeo?",
       "options": [
-        "OxyNeo is formulated to turn into a thick gel when crushed and mixed with water, deterring misuse via snorting or injection",
-        "OxyNeo contains acetaminophen to limit the maximum daily dose a patient can ingest",
-        "OxyContin caused a high incidence of agranulocytosis and had to be reformulated",
-        "OxyNeo is an immediate-release tablet that eliminates the risk of breakthrough pain"
+        "OxyNeo forms a viscous gel when crushed and mixed with water to deter snorting or injection",
+        "OxyNeo incorporates a ceiling dose of acetaminophen to prevent unintentional overdosing",
+        "OxyContin was associated with idiosyncratic agranulocytosis during long-term pain therapy",
+        "OxyNeo utilizes a biphasic immediate-release matrix that prevents breakthrough cancer pain"
       ],
       "answer": 0,
       "rationale": "When original OxyContin tablets were crushed or chewed, the entire 12-hour dose of oxycodone was released at once for snorting or IV injection. OxyNeo was introduced in Canada as a tamper-deterrent sustained-release formulation that becomes gel-like when combined with water, making injection difficult."
@@ -200,30 +200,30 @@
     {
       "id": "anlg-mc-015",
       "type": "multiple-choice",
-      "topic": "Opioid Agonist–Antagonists",
+      "topic": "Opioid Agonist\u2013Antagonists",
       "prompt": "A patient who has been enrolled in a methadone maintenance program for 6 months is admitted with a fractured ankle. The resident orders pentazocine (Talwin) for pain. What is the nurse's priority action?",
       "options": [
-        "Question the order because pentazocine is an opioid agonist–antagonist that will precipitate acute opioid withdrawal in this patient",
-        "Administer the pentazocine with food to minimize gastrointestinal upset",
-        "Give half the ordered dose of pentazocine alongside the patient's daily methadone dose",
-        "Administer prophylactic naloxone prior to giving the pentazocine"
+        "Question the order because pentazocine is an agonist\u2013antagonist that precipitates opioid withdrawal",
+        "Administer the pentazocine with a snack to reduce the incidence of drug-induced gastric irritation",
+        "Administer half the prescribed pentazocine dose concurrently with the scheduled daily methadone dose",
+        "Withhold the patient's daily methadone dose for 24 hours before initiating pentazocine therapy"
       ],
       "answer": 0,
-      "rationale": "Pentazocine (as well as nalbuphine, butorphanol, and buprenorphine) is an opioid agonist–antagonist (partial agonist). When administered to an opioid-dependent or opioid-tolerant patient (such as one on methadone maintenance), it competes with full agonists at the mu receptor, reversing analgesia and precipitating acute opioid withdrawal syndrome."
+      "rationale": "Pentazocine (as well as nalbuphine, butorphanol, and buprenorphine) is an opioid agonist\u2013antagonist (partial agonist). When administered to an opioid-dependent or opioid-tolerant patient (such as one on methadone maintenance), it competes with full agonists at the mu receptor, reversing analgesia and precipitating acute opioid withdrawal syndrome."
     },
     {
       "id": "anlg-mc-016",
       "type": "multiple-choice",
-      "topic": "Opioid Agonist–Antagonists",
-      "prompt": "In which clinical situation is an opioid agonist–antagonist such as nalbuphine or butorphanol tartrate most appropriately used?",
+      "topic": "Opioid Agonist\u2013Antagonists",
+      "prompt": "In which clinical situation is an opioid agonist\u2013antagonist such as nalbuphine or butorphanol tartrate most appropriately used?",
       "options": [
-        "Short-term pain management during obstetrical labour to reduce the risk of severe maternal and fetal respiratory depression",
-        "Long-term management of escalating bone pain in a patient with metastatic prostate cancer",
-        "Breakthrough pain relief in a patient wearing a 100 mcg/hr transdermal fentanyl patch",
-        "Postoperative pain relief in a 10-year-old child following appendectomy"
+        "Short-term analgesia during obstetrical labour to limit maternal and fetal respiratory depression",
+        "Long-term around-the-clock analgesia for escalating bone pain in metastatic prostate carcinoma",
+        "Breakthrough pain management in an oncology patient wearing a transdermal fentanyl patch",
+        "Postoperative analgesia in a school-aged child recovering from a laparoscopic appendectomy"
       ],
       "answer": 0,
-      "rationale": "Opioid agonist–antagonists have a lower risk of severe respiratory depression and an analgesic ceiling effect, making them useful for short-term obstetrical analgesia (avoiding oversedation of mother and fetus). They are not recommended for escalating cancer pain, patients already on full opioid agonists, or patients 18 years of age and younger."
+      "rationale": "Opioid agonist\u2013antagonists have a lower risk of severe respiratory depression and an analgesic ceiling effect, making them useful for short-term obstetrical analgesia (avoiding oversedation of mother and fetus). They are not recommended for escalating cancer pain, patients already on full opioid agonists, or patients 18 years of age and younger."
     },
     {
       "id": "anlg-mc-017",
@@ -231,10 +231,10 @@
       "topic": "Opioid Antagonists",
       "prompt": "A patient who overdosed on extended-release morphine (MS Contin) receives 0.4 mg of intravenous naloxone hydrochloride and becomes alert with a respiratory rate of 16 breaths/min. One hour later, the patient becomes unresponsive again with a respiratory rate of 6 breaths/min. What explains this clinical change?",
       "options": [
-        "The duration of action of naloxone (about 1 hour) is shorter than the duration of the extended-release opioid, allowing respiratory depression to return",
-        "The patient has developed an acute anaphylactic reaction to the naloxone preservative",
-        "Naloxone converts into morphine in the liver after 60 minutes, causing a secondary overdose",
-        "The initial dose of naloxone triggered opioid-induced hyperalgesia and CNS exhaustion"
+        "Naloxone has a 1-hour duration of action that is shorter than that of the extended-release opioid",
+        "Naloxone undergoes hepatic biotransformation into active morphine metabolites after 60 minutes",
+        "Initial mu-receptor blockade triggered rebound opioid-induced hyperalgesia and brainstem fatigue",
+        "Rapid intravenous naloxone administration induced delayed hypersensitivity and bronchoconstriction"
       ],
       "answer": 0,
       "rationale": "Naloxone has a short elimination half-life (~64 minutes) and its antagonistic effects usually last about 1 hour. When reversing long-acting or extended-release opioids, the depressant effects of the opioid outlast the naloxone, so respiratory depression can recur and repeated doses of naloxone are often required."
@@ -245,13 +245,13 @@
       "topic": "Opioid Antagonists",
       "prompt": "A terminally ill cancer patient taking high-dose scheduled hydromorphone develops a respiratory rate of 7 breaths/min and somnolence. When administering intravenous naloxone hydrochloride, why should the nurse titrate small doses carefully rather than giving a large rapid bolus?",
       "options": [
-        "Careful titration reverses respiratory depression while avoiding abrupt reversal of analgesia and severe acute withdrawal",
-        "Rapid bolus administration of naloxone causes irreversible hepatotoxicity",
-        "Small doses of naloxone selectively block delta receptors while sparing mu receptors",
-        "Titration prevents naloxone from crossing the blood–brain barrier"
+        "Titration improves respiratory drive while avoiding abrupt loss of analgesia and acute withdrawal",
+        "Rapid bolus administration of naloxone precipitates acute hepatocellular necrosis and coagulopathy",
+        "Low-dose naloxone selectively antagonizes delta receptors while preserving mu-mediated analgesia",
+        "Slow titration keeps naloxone in the peripheral circulation and prevents blood\u2013brain barrier entry"
       ],
       "answer": 0,
-      "rationale": "In opioid-tolerant patients with severe pain, over-reversal with a large dose of naloxone completely strips opioids from CNS receptors, precipitating excruciating pain, acute withdrawal syndrome, severe hypertension, tachycardia, dysrhythmias, and pulmonary edema. Titrating small amounts improves respiratory drive without complete loss of analgesia."
+      "rationale": "In opioid-tolerant patients with severe pain, over-reversal with a large dose of naloxone strips opioids from CNS receptors, precipitating excruciating pain, acute withdrawal syndrome, severe hypertension, tachycardia, dysrhythmias, and pulmonary edema. Titrating small amounts improves respiratory drive without abrupt loss of analgesia."
     },
     {
       "id": "anlg-mc-019",
@@ -259,10 +259,10 @@
       "topic": "Opioid Antagonists",
       "prompt": "A community health nurse is teaching a family member how to use a take-home intranasal naloxone kit (4 mg nasal spray) for a suspected opioid overdose. Which instruction is accurate?",
       "options": [
-        "Administer the entire contents of one nasal spray into one nostril, place the person in the recovery position, and repeat with a new spray every 5 minutes if respiratory depression persists",
-        "Spray half of the device into each nostril while the person is sitting upright, and wait 30 minutes before calling 911",
-        "Prime the nasal spray by pumping it three times into the air before inserting it into the nares",
-        "Administer the spray only after confirming the person has dilated pupils and a heart rate above 120 beats/min"
+        "Spray the full contents of one device into one nostril and repeat with a new spray every 5 minutes if needed",
+        "Divide the spray equally between both nostrils while keeping the person upright and wait 20 minutes for effect",
+        "Prime the nasal spray pump three times into the air before inserting the nozzle into the person's nostril",
+        "Administer the nasal spray once pupillary dilation and a heart rate above 120 beats/min are confirmed"
       ],
       "answer": 0,
       "rationale": "According to Canadian take-home naloxone guidelines, the responder should call 911, support breathing, insert the 4 mg nasal spray into the right or left nares, push all contents in at once, place the person in the recovery position, and repeat with a new package every 5 minutes if consciousness/breathing does not improve."
@@ -273,10 +273,10 @@
       "topic": "Opioid Antagonists",
       "prompt": "A patient with a history of alcohol and opioid use disorder is being evaluated for oral naltrexone hydrochloride (ReVia) maintenance therapy. Which finding in the patient's chart is a contraindication to starting naltrexone?",
       "options": [
-        "Acute hepatitis with serum ALT and AST levels five times the upper limit of normal",
-        "History of mild seasonal allergic rhinitis",
-        "Abstinence from all opioids for the past 14 days",
-        "Resting heart rate of 68 beats/min and blood pressure of 118/74 mm Hg"
+        "Acute hepatitis with serum transaminase levels five times the upper limit of normal",
+        "Documented abstinence from all prescribed and illicit opioids for the past 14 days",
+        "History of perennial allergic rhinitis treated with intranasal corticosteroids",
+        "Baseline sinus bradycardia of 58 beats/min and blood pressure of 116/72 mm Hg"
       ],
       "answer": 0,
       "rationale": "Naltrexone hydrochloride is contraindicated in patients with acute hepatitis or liver dysfunction/failure, as well as in patients currently taking opioids (because it precipitates acute withdrawal)."
@@ -287,10 +287,10 @@
       "topic": "Nonopioid Analgesics",
       "prompt": "How do the pharmacological effects of acetaminophen differ from those of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or aspirin?",
       "options": [
-        "Acetaminophen provides analgesic and antipyretic effects but lacks significant anti-inflammatory and antiplatelet effects",
-        "Acetaminophen strongly inhibits peripheral cyclo-oxygenase in joints to reduce rheumatoid synovitis",
-        "Acetaminophen causes significant gastric mucosal ulceration and gastrointestinal bleeding at therapeutic doses",
-        "Acetaminophen lowers fever by inducing peripheral vasoconstriction and shivering via the brainstem"
+        "It provides analgesia and antipyresis without notable anti-inflammatory or antiplatelet effects",
+        "It strongly inhibits peripheral cyclo-oxygenase in synovial tissues to reduce joint inflammation",
+        "It suppresses gastric prostaglandin synthesis and predisposes patients to peptic ulcer disease",
+        "It lowers body temperature by inducing peripheral vasoconstriction via the anterior hypothalamus"
       ],
       "answer": 0,
       "rationale": "Acetaminophen blocks pain impulses via prostaglandin inhibition and reduces fever by acting on the hypothalamus (causing vasodilation to dissipate heat). Unlike NSAIDs and aspirin, it lacks significant anti-inflammatory activity and does not cause platelet inhibition (bleeding) or GI tract ulceration."
@@ -301,10 +301,10 @@
       "topic": "Nonopioid Analgesics",
       "prompt": "A healthy 32-year-old adult takes extra-strength acetaminophen (500 mg tablets) for tension headaches, and a 68-year-old patient with a history of heavy daily alcohol consumption also uses acetaminophen for osteoarthritis. What are the recommended maximum daily dosages for these two patients, respectively?",
       "options": [
-        "4 000 mg/day for the healthy adult and 2 000 mg/day for the patient with chronic alcohol use or liver risk factors",
+        "4 000 mg/day for the healthy adult and 2 000 mg/day for the patient with chronic alcohol use",
         "6 000 mg/day for the healthy adult and 4 000 mg/day for the patient with chronic alcohol use",
         "2 000 mg/day for the healthy adult and 1 000 mg/day for the patient with chronic alcohol use",
-        "4 000 mg/day for both patients, as alcohol only interacts with opioid analgesics"
+        "3 000 mg/day for the healthy adult and 3 000 mg/day for the patient with chronic alcohol use"
       ],
       "answer": 0,
       "rationale": "The standard maximum daily dose of acetaminophen for healthy adults is 4 000 mg (4 g/day). For patients with risk factors such as chronic heavy alcohol use, liver dysfunction, or advanced age, the maximum daily dose should be limited to 2 000 mg (2 g/day) or less to prevent hepatotoxicity."
@@ -316,9 +316,9 @@
       "prompt": "Which two medical conditions are specific contraindications to the administration of acetaminophen?",
       "options": [
         "Severe liver disease and glucose-6-phosphate dehydrogenase (G6PD) deficiency",
-        "Peptic ulcer disease and thrombocytopenia",
-        "Bronchial asthma and nasal polyps",
-        "Gouty arthritis and stage 2 hypertension"
+        "Chronic peptic ulcer disease and idiopathic thrombocytopenic purpura (ITP)",
+        "Aspirin-exacerbated respiratory disease and chronic rhinosinusitis with polyps",
+        "Hyperuricemic gouty arthritis and poorly controlled stage 2 hypertension"
       ],
       "answer": 0,
       "rationale": "Contraindications to acetaminophen include known drug allergy, severe liver disease (due to risk of hepatic necrosis), and the genetic disorder glucose-6-phosphate dehydrogenase (G6PD) enzyme deficiency (due to risk of hemolysis/anemia)."
@@ -329,10 +329,10 @@
       "topic": "Nonopioid Analgesics",
       "prompt": "A 19-year-old patient arrives at the emergency department after an intentional overdose of acetaminophen tablets. Which nursing action is correct regarding the management of acute acetaminophen toxicity?",
       "options": [
-        "Administer acetylcysteine (ideally within 10 hours of ingestion) and repeat an oral dose if the patient vomits within 1 hour of dosing",
-        "Draw a serum acetaminophen level 30 minutes after ingestion to guide the dose of naloxone",
-        "Withhold the antidote until the patient's serum ALT and AST exceed 500 units/L",
-        "Mix oral acetylcysteine with milk of magnesia to neutralize the drug in the stomach"
+        "Give acetylcysteine within 10 hours of ingestion and repeat an oral dose if emesis occurs within 1 hour",
+        "Obtain a serum acetaminophen level 30 minutes after ingestion to calculate the required naloxone dose",
+        "Withhold antidote administration until serum transaminases rise above 500 units/L on serial blood work",
+        "Dilute oral acetylcysteine in milk of magnesia to alkalinize gastric contents and bind free metabolites"
       ],
       "answer": 0,
       "rationale": "Acetylcysteine prevents the formation of hepatotoxic acetaminophen metabolites and is most effective when started within 10 hours of overdose. Serum acetaminophen levels should be drawn no sooner than 4 hours post-ingestion. Oral acetylcysteine smells like rotten eggs, may be mixed with cola or flavoured water and sipped through a straw, and must be repeated if vomiting occurs within 1 hour of administration."
@@ -343,10 +343,10 @@
       "topic": "Nonopioid Analgesics",
       "prompt": "Why is acetaminophen preferred over aspirin (acetylsalicylic acid) for treating fever in a 7-year-old child with influenza?",
       "options": [
-        "Aspirin use in children and adolescents with viral illnesses is associated with Reye's syndrome, which causes acute brain and liver swelling",
-        "Aspirin is metabolized via CYP2D6 into toxic salicylate metabolites in children under 18 years",
-        "Acetaminophen provides strong anti-inflammatory action in the pediatric respiratory tract",
-        "Aspirin causes immediate closure of the epiphyseal growth plates in school-aged children"
+        "Aspirin use during pediatric viral illnesses is linked to Reye's syndrome with brain and liver swelling",
+        "Aspirin is converted via hepatic CYP2D6 into cardiotoxic salicylate metabolites in children under age 18",
+        "Acetaminophen provides potent bronchodilation and anti-inflammatory activity in viral respiratory illness",
+        "Aspirin chelates calcium in growing bone matrix and causes premature closure of epiphyseal growth plates"
       ],
       "answer": 0,
       "rationale": "Acetaminophen is the antipyretic of choice in children and adolescents with viral or flu syndromes because aspirin use in this population is linked to Reye's syndrome, a rare but potentially fatal encephalopathy and fatty liver degeneration."
@@ -358,9 +358,9 @@
       "prompt": "A 45-year-old patient taking paroxetine (an SSRI) for depression is prescribed tramadol hydrochloride (Ultram) for moderate back pain. For which two serious adverse effects is this patient at heightened risk?",
       "options": [
         "Seizures and serotonin syndrome",
-        "Acute hepatic necrosis and Reye's syndrome",
-        "Agranulocytosis and Stevens-Johnson syndrome",
-        "Ototoxicity and nephrotoxicity"
+        "Hepatic necrosis and Reye's syndrome",
+        "Agranulocytosis and metabolic acidosis",
+        "Ototoxicity and acute tubular necrosis"
       ],
       "answer": 0,
       "rationale": "Tramadol has a dual mechanism of action: weak mu-opioid receptor binding and inhibition of norepinephrine and serotonin reuptake. It lowers the seizure threshold and, when combined with SSRIs, TCAs, or MAOIs, significantly increases the risk of seizures and serotonin syndrome."
@@ -371,10 +371,10 @@
       "topic": "Miscellaneous Analgesics",
       "prompt": "The nurse is reviewing new analgesic orders for an 80-year-old hospitalized patient. Based on age-related safety guidelines in the textbook, which prescribed medication should the nurse question?",
       "options": [
-        "Tramadol hydrochloride 100 mg PO every 6 hours, as tramadol is not recommended for individuals 75 years of age or older",
-        "Acetaminophen 325 mg PO every 6 hours as needed for mild joint pain",
-        "Morphine sulphate 2 mg IV every 4 hours as needed with close respiratory monitoring",
-        "Topical capsaicin cream applied to the knees three times daily"
+        "Tramadol hydrochloride 100 mg PO every 6 hours, as tramadol is not recommended for patients age 75 or older",
+        "Acetaminophen 325 mg PO every 6 hours as needed, as nonopioids are contraindicated in patients over age 75",
+        "Morphine sulphate 2 mg IV every 4 hours PRN, as parenteral opioids are unabsorbed in patients over age 75",
+        "Topical capsaicin cream three times daily, as substance P depletion causes neuropathy in patients over age 75"
       ],
       "answer": 0,
       "rationale": "Assessment of age is essential with tramadol because it is not recommended for use in individuals 75 years of age or older due to heightened risk of CNS adverse effects, falls, and reduced clearance. Furthermore, the maximum daily dose for adults is 400 mg/day (or 300 mg/day for extended-release)."
@@ -385,10 +385,10 @@
       "topic": "Miscellaneous Analgesics",
       "prompt": "A patient with postherpetic neuralgia following an outbreak of shingles is prescribed transdermal lidocaine patches. Which instruction should the nurse include in the patient teaching plan?",
       "options": [
-        "Apply up to three patches only to intact skin without blisters, and wear them for no more than 12 hours per day",
-        "Leave the patches in place continuously for 72 hours before rotating to a new site",
-        "Apply the patches directly over open, weeping herpes zoster vesicles for maximum nerve penetration",
-        "Cut the patches into small strips and apply a warm compress over them to speed absorption"
+        "Apply up to three patches to intact skin without blisters for a maximum of 12 hours per day",
+        "Leave the patches in place continuously for 72 hours before rotating to an adjacent site",
+        "Place the patches over weeping herpes zoster vesicles to maximize dermal nerve penetration",
+        "Apply a warm compress over the patches for 30 minutes twice daily to accelerate absorption"
       ],
       "answer": 0,
       "rationale": "Transdermal lidocaine patches are applied only to intact skin with no blisters for postherpetic neuralgia. Up to three patches may be applied to a painful area, but they must not be worn for longer than 12 hours in a 24-hour period to prevent systemic lidocaine absorption and toxicity (such as cardiac dysrhythmias)."
@@ -399,10 +399,10 @@
       "topic": "Miscellaneous Analgesics",
       "prompt": "A nurse is preparing a 5-year-old child for a scheduled intravenous cannulation and plans to apply EMLA (lidocaine/prilocaine) topical anaesthetic cream to ensure atraumatic care. When should the cream be applied prior to the procedure?",
       "options": [
-        "1 to 2.5 hours before the injection or cannulation",
-        "Immediately (1 to 2 minutes) before inserting the needle",
-        "12 hours before the procedure, then removed 6 hours prior",
-        "Immediately after the needle is removed to prevent post-procedural soreness"
+        "1 to 2.5 hours before the scheduled venipuncture or cannulation",
+        "5 to 10 minutes before cleansing the skin and inserting the needle",
+        "8 to 12 hours before the procedure and removed 4 hours prior to entry",
+        "15 to 30 minutes after needle removal to prevent local phlebitis"
       ],
       "answer": 0,
       "rationale": "To ensure nontraumatic care in pediatrics, EMLA (lidocaine/prilocaine) topical anaesthetic cream should be applied to the injection site 1 to 2.5 hours prior to the injection so adequate dermal anaesthesia is achieved."
@@ -413,10 +413,10 @@
       "topic": "Miscellaneous Analgesics",
       "prompt": "A patient with osteoarthritis asks the nurse how over-the-counter topical capsaicin cream works to relieve joint and nerve pain. Which explanation by the nurse is correct?",
       "options": [
-        "It depletes and interferes with substance P, a neurotransmitter that transmits pain signals to the brain",
-        "It binds to mu-opioid receptors in the dorsal horn of the spinal cord",
-        "It inhibits hepatic cyclo-oxygenase enzymes to lower systemic prostaglandin levels",
-        "It blocks voltage-gated sodium channels in cardiac and skeletal muscle tissue"
+        "It depletes and interferes with substance P to reduce pain signal transmission to the brain",
+        "It binds selectively to peripheral mu-opioid receptors to hyperpolarize sensory nerve endings",
+        "It inhibits cutaneous cyclo-oxygenase-2 enzymes to block local prostaglandin synthesis",
+        "It blocks voltage-gated sodium channels in dermal nociceptors to produce local anaesthesia"
       ],
       "answer": 0,
       "rationale": "Capsaicin is a topical analgesic derived from peppers that works by decreasing or interfering with substance P, a pain-mediating neurotransmitter. Patients should be taught that it can cause local burning or blistering and to wash hands carefully after application."
@@ -427,13 +427,13 @@
       "topic": "Adjuvant Analgesics & Pain Pathophysiology",
       "prompt": "A patient with diabetic peripheral neuropathy reports a burning sensation and severe pain whenever the bedsheets lightly touch their feet. How should the nurse document this clinical finding, and which adjuvant medication class is typically indicated?",
       "options": [
-        "Allodynia; treated with an anticonvulsant (such as gabapentin or pregabalin) or a tricyclic antidepressant (such as amitriptyline)",
-        "Referred pain; treated with an opioid agonist–antagonist such as pentazocine",
-        "Somatic pain; treated with scheduled oral meperidine hydrochloride",
-        "Vascular pain; treated with a pure opioid antagonist such as naltrexone"
+        "Allodynia; managed with an anticonvulsant (gabapentin) or tricyclic antidepressant (amitriptyline)",
+        "Referred pain; managed with an opioid agonist\u2013antagonist (pentazocine) or salicylate (aspirin)",
+        "Visceral pain; managed with a pure opioid antagonist (naltrexone) or cholinergic (bethanechol)",
+        "Central pain; managed with a short-acting barbiturate or systemic corticosteroid regimen"
       ],
       "answer": 0,
-      "rationale": "Hypersensitivity or pain triggered by normally non-noxious mild stimuli (such as light touch or bedsheets on the feet) is called allodynia, a common feature of neuropathic pain. Because opioids alone are not completely effective for neuropathic pain, adjuvants like amitriptyline, gabapentin, or pregabalin are commonly added."
+      "rationale": "Hypersensitivity or pain triggered by normally non-noxious mild stimuli (such as light touch or bedsheets on the feet) is called allodynia, a common feature of neuropathic pain. Because opioids alone are less effective for neuropathic pain, adjuvants like amitriptyline, gabapentin, or pregabalin are commonly added."
     },
     {
       "id": "anlg-mc-032",
@@ -441,10 +441,10 @@
       "topic": "Pain Pathophysiology",
       "prompt": "According to the gate control theory of pain transmission, why does massaging a bruised muscle or applying a liniment help reduce the perception of pain?",
       "options": [
-        "Stimulation of large-diameter myelinated A fibres closes the spinal cord dorsal horn gate, inhibiting pain impulses from small unmyelinated C fibres",
-        "Rubbing the skin destroys peripheral C fibres so they can no longer release glutamate",
-        "Massage prevents tissue injury from releasing prostaglandins and bradykinin during transduction",
-        "Cutaneous pressure blocks the descending pain modulation pathway from releasing enkephalins"
+        "Activating large myelinated A fibres closes the dorsal horn gate and inhibits small C-fibre impulses",
+        "Stimulating cutaneous thermoreceptors depletes glutamate stores in small unmyelinated C-fibre axons",
+        "Applying mechanical pressure blocks injured cells from releasing prostaglandins during transduction",
+        "Massaging skeletal muscle inhibits descending brainstem pathways from releasing substance P"
       ],
       "answer": 0,
       "rationale": "In the gate control theory, large-diameter, fast-conducting, myelinated A fibres carry sensory impulses that close the 'gate' in the dorsal horn of the spinal cord, thereby inhibiting the transmission of dull, aching pain impulses carried by small, unmyelinated, slow-conducting C fibres."
@@ -469,13 +469,13 @@
       "topic": "Pain Assessment & Special Situations",
       "prompt": "A patient with metastatic breast cancer is taking extended-release morphine (MS Contin) 60 mg PO every 12 hours, but consistently experiences severe pain 8 hours after each dose and during physical therapy. How should this pain be managed?",
       "options": [
-        "Provide an immediate-release opioid (such as immediate-release morphine) as needed for breakthrough pain, and evaluate whether the scheduled extended-release dose needs adjustment",
-        "Instruct the patient to crush or chew the MS Contin tablet so it absorbs faster when pain flares up",
-        "Add pentazocine (Talwin) between doses of MS Contin to block kappa receptors",
-        "Switch the regimen from around-the-clock dosing to PRN-only dosing so the patient does not develop tolerance"
+        "Provide PRN immediate-release opioid rescue doses and evaluate adjusting the scheduled MS Contin dose",
+        "Instruct the patient to crush or halve the MS Contin tablet when acute breakthrough pain occurs",
+        "Administer pentazocine (Talwin) between scheduled MS Contin doses to supplement kappa analgesia",
+        "Convert the scheduled MS Contin regimen to PRN-only dosing to delay the onset of opioid tolerance"
       ],
       "answer": 0,
-      "rationale": "Pain occurring between scheduled doses of a long-acting opioid is breakthrough pain. It is managed by administering PRN rescue doses of a short-acting/immediate-release opioid, and if breakthrough doses are frequently needed, increasing the scheduled extended-release dose. Extended-release tablets must never be crushed or chewed."
+      "rationale": "Pain occurring between scheduled doses of a long-acting opioid is breakthrough pain. It is managed by administering PRN rescue doses of a short-acting/immediate-release opioid, and if breakthrough doses are frequently needed, increasing the scheduled extended-release dose. Extended-release tablets must not be crushed or chewed."
     },
     {
       "id": "anlg-mc-035",
@@ -483,13 +483,13 @@
       "topic": "WHO Analgesic Ladder",
       "prompt": "According to the World Health Organization (WHO) three-step analgesic ladder for cancer pain management, which regimen represents Step 1 therapy when pain is first identified as mild?",
       "options": [
-        "A nonopioid analgesic (such as acetaminophen or an NSAID) with or without an adjuvant medication",
-        "A weak opioid (such as codeine) alone without any nonopioid medication",
-        "A strong opioid (such as morphine or fentanyl) titrated rapidly to sedation",
-        "Nonpharmacological distraction and placebo tablets before introducing pharmacotherapy"
+        "A nonopioid analgesic (such as acetaminophen or an NSAID) with or without an adjuvant drug",
+        "A weak opioid agonist (such as codeine or tramadol) administered without a nonopioid agent",
+        "A low-dose strong opioid (such as oral morphine) titrated upward until mild sedation occurs",
+        "An opioid agonist\u2013antagonist (such as nalbuphine) combined with a topical local anaesthetic"
       ],
       "answer": 0,
-      "rationale": "The WHO three-step analgesic ladder begins at Step 1 with nonopioid analgesics (e.g., acetaminophen, NSAIDs) with or without adjuvants. If pain persists or increases, Step 2 uses opioids for mild-to-moderate pain (± nonopioids ± adjuvants), and Step 3 uses opioids for moderate-to-severe pain (± nonopioids ± adjuvants)."
+      "rationale": "The WHO three-step analgesic ladder begins at Step 1 with nonopioid analgesics (e.g., acetaminophen, NSAIDs) with or without adjuvants. If pain persists or increases, Step 2 uses opioids for mild-to-moderate pain (\u00b1 nonopioids \u00b1 adjuvants), and Step 3 uses opioids for moderate-to-severe pain (\u00b1 nonopioids \u00b1 adjuvants)."
     },
     {
       "id": "anlg-mc-036",
@@ -497,10 +497,10 @@
       "topic": "Opioid Adverse Effects & Management",
       "prompt": "A patient receiving daily oral oxycodone for chronic back pain is starting a bowel regimen to prevent opioid-induced constipation. Why are stimulant laxatives (e.g., senna, bisacodyl) or osmotic laxatives (e.g., lactulose, polyethylene glycol) generally preferred over bulk-forming laxatives (e.g., psyllium)?",
       "options": [
-        "Opioids slow peristalsis and dehydrate stool, so bulk-forming laxatives can cause fecal impaction or bowel obstruction if fluid intake is inadequate",
-        "Psyllium chemically binds to oxycodone in the stomach and precipitates acute opioid withdrawal",
-        "Stimulant laxatives reverse the central nervous system respiratory depression caused by opioids",
-        "Bulk-forming laxatives cause severe spasms of the sphincter of Oddi in patients taking opioids"
+        "Opioids slow peristalsis and dehydrate stool, so bulk-forming agents risk impaction if fluids are low",
+        "Bulk-forming laxatives chelate oral oxycodone in the intestinal lumen and precipitate withdrawal",
+        "Stimulant laxatives antagonize central mu receptors and help prevent opioid respiratory depression",
+        "Bulk-forming laxatives trigger biliary colic and sphincter of Oddi spasm in opioid-tolerant patients"
       ],
       "answer": 0,
       "rationale": "Opioids decrease GI tract peristalsis and increase water absorption from stool. Stimulants (senna, bisacodyl) and osmotics (lactulose, polyethylene glycol) counteract this effectively, whereas bulk-forming agents like psyllium require high fluid intake and can lead to fecal impaction or bowel obstruction when peristalsis is slowed."
@@ -511,10 +511,10 @@
       "topic": "Opioid Adverse Effects & Management",
       "prompt": "A patient receiving high-dose morphine sulphate for prolonged periods develops a paradoxical heightened sensitivity to pain (hyperalgesia) and diffuse allodynia despite no progression of their underlying disease. Which condition should the nurse suspect, and how is it managed?",
       "options": [
-        "Opioid-induced hyperalgesia (OIH); managed by slowly tapering and reducing the opioid dose",
-        "Analgesic ceiling effect; managed by doubling the dose of intravenous morphine",
-        "Acute opioid withdrawal; managed by adding intravenous meperidine every 2 hours",
-        "Subacute overdose; managed by administering a bolus of oral naltrexone"
+        "Opioid-induced hyperalgesia (OIH); managed by slowly tapering and reducing the opioid dosage",
+        "Analgesic ceiling effect; managed by doubling the scheduled intravenous morphine infusion rate",
+        "Acute receptor desensitization; managed by adding parenteral meperidine every 3 hours PRN",
+        "Subacute normeperidine toxicity; managed by administering an oral naltrexone loading dose"
       ],
       "answer": 0,
       "rationale": "Prolonged use of opioids such as morphine can cause a paradoxical effect called opioid-induced hyperalgesia (OIH), in which the patient develops heightened sensitivity to noxious stimuli and allodynia. Once diagnosed, slowly lowering/titrating down the opioid dose reduces hyperalgesia while minimizing withdrawal."
@@ -525,10 +525,10 @@
       "topic": "Opioid Adverse Effects & Management",
       "prompt": "A postoperative patient receiving morphine sulphate has not voided in 8 hours, and a bladder scan reveals 650 mL of urine. By what mechanism do opioids cause urinary retention, and which cholinergic medication is sometimes used to treat it?",
       "options": [
-        "Opioids increase bladder sphincter tone and inhibit parasympathetic sensation of bladder fullness; bethanechol may be used",
-        "Opioids cause acute renal artery vasoconstriction; furosemide is required to restore urine production",
-        "Opioids block antidiuretic hormone release in the pituitary gland; desmopressin is used",
-        "Opioids crystallize in the ureters; acetylcysteine is given to dissolve the crystals"
+        "Increased bladder sphincter tone and inhibited fullness sensation; treated with bethanechol",
+        "Renal efferent arteriolar vasoconstriction and reduced filtration; treated with furosemide",
+        "Posterior pituitary stimulation of antidiuretic hormone release; treated with desmopressin",
+        "Detrusor muscle hyperreflexia and ureteral smooth muscle spasm; treated with oxybutynin"
       ],
       "answer": 0,
       "rationale": "Opioids cause urinary retention by increasing bladder sphincter tone (via sympathetic stimulation, increasing outlet resistance) and partially inhibiting parasympathetic nerves that sense bladder fullness. Low-dose antagonists or a cholinergic agonist such as bethanechol may be used to promote voiding."
@@ -539,10 +539,10 @@
       "topic": "Opioid Contraindications & Cautions",
       "prompt": "Why are opioid analgesics used with extreme caution or avoided in a patient who has sustained severe head trauma with suspected elevated intracranial pressure (ICP)?",
       "options": [
-        "Opioids mask neurological changes (such as level of consciousness and pupillary responses) and hypoventilation can further raise ICP",
-        "Opioids directly stimulate cerebrospinal fluid production in the choroid plexus",
-        "Opioids cause severe hypertension and tachycardia that rupture cerebral aneurysms",
-        "Opioids induce immediate cerebral vasospasm and ischemic stroke"
+        "Opioids mask neurological and pupillary signs while hypoventilation and hypercapnia further raise ICP",
+        "Opioids stimulate choroid plexus secretion of cerebrospinal fluid and cause acute obstructive hydrocephalus",
+        "Opioids induce sympathetic surges of hypertension and tachycardia that worsen intracerebral hemorrhage",
+        "Opioids constrict cerebral arteries directly and precipitate ischemic infarction in injured brain tissue"
       ],
       "answer": 0,
       "rationale": "In patients with head injury or elevated ICP, opioids cause sedation and miosis (pinpoint pupils), which mask critical neurological assessment signs of worsening intracranial pressure, while respiratory depression (CO2 retention) can further increase ICP."
@@ -554,9 +554,9 @@
       "prompt": "A patient who has been taking high doses of short-acting hydromorphone for 4 weeks abruptly stops taking the medication. When should the nurse expect opioid withdrawal symptoms to begin and peak?",
       "options": [
         "Onset within 6 to 12 hours, peaking at 24 to 72 hours after discontinuation",
-        "Onset within 5 minutes, peaking at 1 hour after the missed dose",
-        "Onset after 4 to 5 days, peaking at 14 days after discontinuation",
-        "Withdrawal does not occur with short-acting opioids unless naloxone is injected"
+        "Onset within 15 to 30 minutes, peaking at 2 to 4 hours after the missed dose",
+        "Onset after 48 to 72 hours, peaking at 10 to 14 days after discontinuation",
+        "Onset within 1 to 2 hours, peaking at 6 to 8 hours and resolving by 12 hours"
       ],
       "answer": 0,
       "rationale": "The timing of opioid withdrawal depends on the drug's half-life. With short-acting opioids (morphine, hydromorphone, codeine, hydrocodone), withdrawal symptoms appear within 6 to 12 hours of discontinuation, peak at 24 to 72 hours, and subside within 7 to 10 days. Long half-life drugs (methadone, transdermal fentanyl) may not show withdrawal for 24 hours or more."
@@ -567,13 +567,13 @@
       "topic": "Special Populations: Older Adults",
       "prompt": "When planning analgesic therapy for an 82-year-old hospitalized patient, which age-related pharmacokinetic and clinical principle should guide the nurse's care?",
       "options": [
-        "Opioids produce a higher peak effect and longer duration of action in older adults, so therapy should start with smaller doses and be titrated slowly",
-        "Aging increases the physiological pain threshold, so older adults require lower doses because they feel less pain",
-        "Older adults metabolize opioids more rapidly in the liver, requiring shorter dosing intervals",
-        "Parenteral IM injections are preferred over oral analgesics in older adults due to enhanced peripheral circulation"
+        "Opioids produce a higher peak and longer duration, warranting lower initial doses and slow titration",
+        "Aging raises the physiological pain threshold, allowing smaller analgesic doses to control acute pain",
+        "Age-related hepatic enzyme induction accelerates opioid clearance, requiring shorter dosing intervals",
+        "Intramuscular injections provide more predictable absorption than oral dosing in older adult patients"
       ],
       "answer": 0,
-      "rationale": "It is a myth that aging increases the pain threshold. Because of diminished hepatic and renal function and increased CNS sensitivity, opioids have a higher peak and longer duration of action in older adults—especially those 75 and older—warranting lower starting doses, slow upward titration, and frequent monitoring for sedation, respiratory depression, and falls."
+      "rationale": "It is a myth that aging increases the pain threshold. Because of diminished hepatic and renal function and increased CNS sensitivity, opioids have a higher peak and longer duration of action in older adults\u2014especially those 75 and older\u2014warranting lower starting doses, slow upward titration, and frequent monitoring for sedation, respiratory depression, and falls."
     },
     {
       "id": "anlg-mc-042",
@@ -587,7 +587,7 @@
         "4.5 mL"
       ],
       "answer": 0,
-      "rationale": "First, calculate the child's dose in milligrams: 18 kg × 15 mg/kg = 270 mg per dose. Next, divide by the concentration on hand: 270 mg ÷ 30 mg/mL = 9 mL."
+      "rationale": "First, calculate the child's dose in milligrams: 18 kg \u00d7 15 mg/kg = 270 mg per dose. Next, divide by the concentration on hand: 270 mg \u00f7 30 mg/mL = 9 mL."
     },
     {
       "id": "anlg-mc-043",
@@ -595,13 +595,13 @@
       "topic": "Special Populations: Children",
       "prompt": "A pediatric nurse has an order to administer a 120 mg acetaminophen rectal suppository to a febrile infant, but the unit stock only contains 240 mg suppositories. What should the nurse do?",
       "options": [
-        "Obtain a 120 mg suppository from the pharmacy rather than cutting or halving the 240 mg suppository",
-        "Cut the 240 mg suppository lengthwise with a sterile scalpel to ensure an even 120 mg dose",
-        "Cut the 240 mg suppository crosswise and administer the tapered tip portion",
-        "Administer the full 240 mg suppository and extend the dosing interval to every 12 hours"
+        "Request a 120 mg suppository from the pharmacy because splitting suppositories delivers an uneven dose",
+        "Halve the 240 mg suppository lengthwise with a sterile scalpel blade to ensure uniform drug division",
+        "Divide the 240 mg suppository crosswise at the midpoint and insert the tapered anterior half rectally",
+        "Administer the intact 240 mg suppository and lengthen the scheduled dosing interval to every 12 hours"
       ],
       "answer": 0,
-      "rationale": "In pediatric medication administration, suppositories must never be split, halved, or divided because the active drug may not be distributed uniformly throughout the base, resulting in an unknown dose and potential overdose."
+      "rationale": "In pediatric medication administration, suppositories must not be split, halved, or divided because the active drug may not be distributed uniformly throughout the base, resulting in an unknown dose and potential overdose."
     },
     {
       "id": "anlg-mc-044",
@@ -612,10 +612,10 @@
         "0.6 mL",
         "1.6 mL",
         "0.4 mL",
-        "6 mL"
+        "6.0 mL"
       ],
       "answer": 0,
-      "rationale": "Using the formula Dose ordered ÷ Concentration available × Volume: 6 mg ÷ 10 mg/mL = 0.6 mL."
+      "rationale": "Using the formula Dose ordered \u00f7 Concentration available \u00d7 Volume: 6 mg \u00f7 10 mg/mL = 0.6 mL."
     },
     {
       "id": "anlg-mc-045",
@@ -623,10 +623,10 @@
       "topic": "Combination Analgesics",
       "prompt": "A patient is prescribed Tylenol No. 3 (acetaminophen, codeine, and caffeine) tablets for dental pain and compares them with an old bottle of Tylenol No. 4 tablets at home. According to Table 11.9, how does a Tylenol No. 4 tablet differ from Tylenol No. 1, No. 2, and No. 3 tablets?",
       "options": [
-        "Tylenol No. 4 contains 60 mg of codeine and no caffeine, whereas No. 1, 2, and 3 contain 8 mg, 15 mg, and 30 mg of codeine plus 15 mg of caffeine",
-        "Tylenol No. 4 contains 1 000 mg of acetaminophen and 30 mg of caffeine per tablet",
-        "Tylenol No. 4 contains oxycodone instead of codeine sulphate",
-        "Tylenol No. 4 is available over the counter without a prescription because it contains naloxone"
+        "Tylenol No. 4 contains 60 mg of codeine and no caffeine, whereas No. 1, 2, and 3 contain 15 mg of caffeine",
+        "Tylenol No. 4 contains 500 mg of acetaminophen and 30 mg of caffeine alongside 30 mg of codeine sulphate",
+        "Tylenol No. 4 substitutes 10 mg of oxycodone hydrochloride in place of codeine and removes the caffeine",
+        "Tylenol No. 4 includes 2 mg of oral naloxone to prevent constipation while keeping codeine at 30 mg"
       ],
       "answer": 0,
       "rationale": "Tylenol with codeine No. 1, No. 2, and No. 3 contain 300 mg of acetaminophen, 15 mg of caffeine, and 8 mg, 15 mg, and 30 mg of codeine respectively. Tylenol with codeine No. 4 contains 300 mg of acetaminophen and 60 mg of codeine, with no caffeine."
@@ -637,10 +637,10 @@
       "topic": "Natural Health Products",
       "prompt": "A patient who takes warfarin sodium for atrial fibrillation tells the nurse they have started taking the herbal product feverfew (Chrysanthemum parthenium) to prevent migraine headaches. What is the nurse's priority teaching point?",
       "options": [
-        "Feverfew can interact with warfarin, aspirin, and NSAIDs to increase the risk of bleeding",
-        "Feverfew accelerates the hepatic metabolism of warfarin, causing acute deep vein thrombosis",
-        "Feverfew is a natural opioid alkaloid that causes severe respiratory depression",
-        "Feverfew is safe with anticoagulants as long as the patient is not allergic to peanuts"
+        "Feverfew interacts with warfarin, aspirin, and NSAIDs to increase the risk of clinical bleeding",
+        "Feverfew induces hepatic cytochrome P450 enzymes and increases the risk of thromboembolic stroke",
+        "Feverfew contains natural morphinan alkaloids that potentiate central nervous system depression",
+        "Feverfew chelates vitamin K in the gastrointestinal tract and causes acute cholestatic jaundice"
       ],
       "answer": 0,
       "rationale": "Feverfew (a member of the marigold family used for migraines, menstrual cramps, inflammation, and fever) can increase the risk of bleeding when taken concurrently with warfarin sodium, dipyridamole, aspirin, or other NSAIDs. It is also contraindicated before surgery and in patients allergic to ragweed, chrysanthemums, or marigolds."
@@ -649,12 +649,12 @@
       "id": "anlg-mc-047",
       "type": "multiple-choice",
       "topic": "Cancer Pain & Routes of Administration",
-      "prompt": "A patient with leukemia, severe thrombocytopenia (platelets 18 × 10^9/L), and chemotherapy-induced stomatitis and diarrhea cannot tolerate oral morphine. Which route of analgesic administration is contraindicated in this patient?",
+      "prompt": "A patient with leukemia, severe thrombocytopenia (platelets 18 \u00d7 10^9/L), and chemotherapy-induced stomatitis and diarrhea cannot tolerate oral morphine. Which route of analgesic administration is contraindicated in this patient?",
       "options": [
-        "Rectal suppositories, because rectal administration is unsuitable for patients with diarrhea or low blood cell/platelet counts",
-        "Continuous intravenous infusion via an existing central venous catheter",
-        "Patient-controlled analgesia (PCA) via the intravenous route",
-        "Transdermal patch application on intact chest skin (if opioid tolerant)"
+        "Rectal suppositories, due to diarrhea and the risk of mucosal bleeding and infection in thrombocytopenia",
+        "Continuous intravenous infusion administered via an existing tunneled central venous catheter",
+        "Intravenous patient-controlled analgesia (PCA) with a programmed lockout interval and dose limit",
+        "Transdermal opioid patch applied to intact, non-irritated skin on the upper chest (if opioid tolerant)"
       ],
       "answer": 0,
       "rationale": "While rectal suppositories are safe and helpful for many patients with nausea or altered mental status, the rectal route is not suitable for patients with diarrhea, stomatitis/mucositis, or low blood cell/platelet counts (due to mucosal trauma, bleeding, and infection risk)."
@@ -665,13 +665,13 @@
       "topic": "Opioid Receptors",
       "prompt": "When comparing opioid receptor subtypes (mu, kappa, and delta), activation of which receptor is primarily responsible for supraspinal analgesia, euphoria, and respiratory depression?",
       "options": [
-        "Mu (μ) receptor",
-        "Kappa (κ) receptor",
-        "Delta (δ) receptor",
-        "N-methyl-D-aspartate (NMDA) receptor"
+        "Mu (\u03bc) opioid receptor",
+        "Kappa (\u03ba) opioid receptor",
+        "Delta (\u03b4) opioid receptor",
+        "Sigma (\u03c3) opioid receptor"
       ],
       "answer": 0,
-      "rationale": "The mu (μ) opioid receptor (prototypical agonist: morphine) mediates supraspinal analgesia, respiratory depression, euphoria, and moderate sedation. Kappa (κ) receptors mediate spinal analgesia, miosis, and heavier sedation, while delta (δ) receptors (prototypical agonist: enkephalins) mediate analgesia."
+      "rationale": "The mu (\u03bc) opioid receptor (prototypical agonist: morphine) mediates supraspinal analgesia, respiratory depression, euphoria, and moderate sedation. Kappa (\u03ba) receptors mediate spinal analgesia, miosis, and heavier sedation, while delta (\u03b4) receptors (prototypical agonist: enkephalins) mediate analgesia."
     },
     {
       "id": "anlg-mc-049",
@@ -679,10 +679,10 @@
       "topic": "Opioid Administration Guidelines",
       "prompt": "A patient with cancer who is already receiving and tolerant to around-the-clock opioid therapy is prescribed fentanyl citrate sublingual effervescent tablets (Fentora) for breakthrough pain. Which administration instruction is essential for the nurse to provide?",
       "options": [
-        "Place the tablet under the tongue and allow it to dissolve for at least 5 minutes without swallowing, because oral bioavailability of swallowed fentanyl is negligible",
-        "Chew the tablet thoroughly and swallow it immediately with a full glass of water",
-        "Crush the tablet and mix it into applesauce if your mouth is dry",
-        "Share the tablets with family members if they experience acute postoperative dental pain"
+        "Let the tablet dissolve under the tongue for at least 5 minutes without chewing or swallowing",
+        "Chew the effervescent tablet thoroughly and swallow it with a full glass of water for rapid onset",
+        "Crush the tablet and mix it into a spoonful of applesauce if radiation therapy has caused dry mouth",
+        "Dissolve the tablet in 30 mL of warm orange juice and drink it at the onset of breakthrough pain"
       ],
       "answer": 0,
       "rationale": "Oral bioavailability of swallowed fentanyl is negligible due to extensive first-pass metabolism. Sublingual fentanyl must remain under the tongue for at least 5 minutes to be absorbed across the oral mucosa, and is indicated only for opioid-tolerant adults (18 years and older) with cancer breakthrough pain."
@@ -696,10 +696,10 @@
         "Alanine aminotransferase (ALT) of 22 units/L and aspartate aminotransferase (AST) of 18 units/L",
         "Alanine aminotransferase (ALT) of 145 units/L and alkaline phosphatase (ALP) of 380 units/L",
         "Gamma-glutamyl transferase (GGT) of 210 units/L and lactic dehydrogenase (LDH) of 450 units/L",
-        "Aspartate aminotransferase (AST) of 180 units/L and bilirubin 5 times the upper limit of normal"
+        "Aspartate aminotransferase (AST) of 180 units/L and alkaline phosphatase (ALP) of 290 units/L"
       ],
       "answer": 0,
-      "rationale": "According to the textbook's Lab Values Related to Drug Therapy box, normal ranges are: ALT 4–36 units/L, AST 0–35 units/L, ALP 30–120 units/L, GGT 8–38 units/L (in adults ≥45 years), and LDH 100–190 units/L. Levels 3 to 5 times the upper limit of normal indicate significant liver tissue damage."
+      "rationale": "According to the textbook's Lab Values Related to Drug Therapy box, normal ranges are: ALT 4\u201336 units/L, AST 0\u201335 units/L, ALP 30\u2013120 units/L, GGT 8\u201338 units/L (in adults \u226545 years), and LDH 100\u2013190 units/L. Levels 3 to 5 times the upper limit of normal indicate significant liver tissue damage."
     },
     {
       "id": "anlg-sa-001",
@@ -739,7 +739,7 @@
       "id": "anlg-sa-003",
       "type": "short-answer",
       "topic": "Opioid Agonists",
-      "prompt": "Accumulation of which active neurotoxic metabolite of meperidine (Demerol) predisposes patients—especially older adults and those with renal impairment—to tremors, delirium, and seizures that cannot be reversed with naloxone?",
+      "prompt": "Accumulation of which active neurotoxic metabolite of meperidine (Demerol) predisposes patients\u2014especially older adults and those with renal impairment\u2014to tremors, delirium, and seizures that cannot be reversed with naloxone?",
       "answers": [
         {
           "text": "normeperidine",
@@ -841,10 +841,10 @@
             "type": "multiple-choice",
             "prompt": "Before initiating Mr. Tremblay's PCA morphine infusion, which patient and family teaching point is essential for the nurse to emphasize?",
             "options": [
-              "Only Mr. Tremblay should press the PCA demand button when he feels pain, before the pain becomes severe",
-              "His spouse should press the PCA button every 15 minutes while Mr. Tremblay is sleeping so he wakes up comfortable",
-              "The PCA pump makes respiratory depression impossible because it locks out extra doses",
-              "He should wait until his pain reaches 10/10 before pressing the button to prevent opioid addiction"
+              "Mr. Tremblay himself must press the PCA demand button when pain begins, before it becomes severe",
+              "His spouse should press the PCA button every 30 minutes while he sleeps to maintain steady serum levels",
+              "The programmed lockout interval prevents respiratory depression, eliminating the need for oximetry checks",
+              "He should wait until his surgical pain reaches 9/10 before pressing the button to prevent opioid tolerance"
             ],
             "answer": 0,
             "rationale": "With PCA therapy, only the patient should press the demand button (never family members or staff, known as PCA by proxy, which can cause fatal oversedation), and analgesics should be administered before pain becomes severe. Even with a PCA pump, close respiratory and equipment monitoring is required."
@@ -856,10 +856,10 @@
             "type": "multiple-choice",
             "prompt": "Which collaborative intervention should the nurse anticipate to manage Mr. Tremblay's symptoms while maintaining analgesia?",
             "options": [
-              "Administer prescribed diphenhydramine for histamine-mediated pruritus and a phenothiazine antiemetic for nausea",
-              "Document a severe anaphylactic allergy to morphine and administer intramuscular epinephrine immediately",
-              "Administer pentazocine (Talwin) IV to block the itching while increasing analgesia",
-              "Instruct the patient to stop using the PCA pump for the next 12 hours"
+              "Give prescribed diphenhydramine for histamine-induced pruritus and a phenothiazine antiemetic for nausea",
+              "Document an IgE-mediated morphine allergy in the medical record and administer intramuscular epinephrine",
+              "Administer intravenous pentazocine (Talwin) to antagonize mast cell degranulation while maintaining analgesia",
+              "Discontinue the morphine PCA infusion for 12 hours and transition to scheduled oral ketorolac tromethamine"
             ],
             "answer": 0,
             "rationale": "Morphine causes histamine release (leading to pruritus and flushing) and stimulates the CNS chemoreceptor trigger zone (causing nausea). In the absence of anaphylaxis signs, pruritus can be managed with an antihistamine such as diphenhydramine and nausea with an antiemetic, without discontinuing needed pain control."
@@ -871,13 +871,13 @@
             "type": "multiple-choice",
             "prompt": "After stopping the PCA infusion, stimulating the patient, calling for assistance, and supporting ventilation, how should the nurse administer intravenous naloxone hydrochloride per adult overdose guidelines?",
             "options": [
-              "Administer 0.4 to 2 mg IV (undiluted over 15 seconds or titrated per protocol) and repeat in 2 to 3 minutes if needed",
-              "Infuse 50 mg of naloxone in 500 mL of normal saline over 6 hours",
-              "Administer 100 mg of oral naltrexone (ReVia) via a nasogastric tube",
-              "Wait 30 minutes to see if his respiratory rate improves spontaneously before giving an antagonist"
+              "Give 0.4 to 2 mg IV over 15 seconds (or titrated per protocol) and repeat every 2 to 3 minutes as needed",
+              "Infuse 10 mg of naloxone diluted in 500 mL of 0.9% sodium chloride at a continuous rate over 6 hours",
+              "Administer 50 mg of crushed oral naltrexone hydrochloride (ReVia) via a nasogastric tube with 30 mL water",
+              "Give a single 0.04 mg subcutaneous test dose and observe for 30 minutes before repeating administration"
             ],
             "answer": 0,
-            "rationale": "For severe opioid-induced respiratory depression in adults, naloxone hydrochloride 0.4 to 2 mg IV (or titrated 0.1–0.2 mg increments for postoperative reversal) is given rapidly (undiluted over 15 seconds) and repeated at 2- to 3-minute intervals as needed alongside ventilatory support."
+            "rationale": "For severe opioid-induced respiratory depression in adults, naloxone hydrochloride 0.4 to 2 mg IV (or titrated 0.1\u20130.2 mg increments for postoperative reversal) is given rapidly (undiluted over 15 seconds) and repeated at 2- to 3-minute intervals as needed alongside ventilatory support."
           }
         },
         {
@@ -886,10 +886,10 @@
             "type": "multiple-choice",
             "prompt": "Which nursing intervention is most appropriate to address Mr. Tremblay's opioid-induced gastrointestinal effects?",
             "options": [
-              "Encourage fluid intake (up to 3 L/day if not contraindicated), ambulation as tolerated, and administer a prescribed stimulant or osmotic laxative",
-              "Restrict oral fluid intake to 500 mL/day and administer diphenoxylate/atropine",
-              "Withhold all pain medications even when his pain is 8/10 during physiotherapy",
-              "Administer high-dose psyllium powder dry without water to absorb excess intestinal fluid"
+              "Encourage fluids up to 3 L/day and ambulation as tolerated, and give a prescribed stimulant or osmotic laxative",
+              "Restrict oral fluid intake to 1 000 mL/day and administer diphenoxylate/atropine to reduce abdominal cramping",
+              "Withhold scheduled and PRN oxycodone doses during physiotherapy until active bowel sounds return in all quadrants",
+              "Administer bulk-forming psyllium mucilloid with minimal water to absorb excess intraluminal fluid in the colon"
             ],
             "answer": 0,
             "rationale": "Opioids decrease GI peristalsis and dehydrate stool. Preventive and therapeutic measures include increasing fluids (up to 3 L/day unless contraindicated), dietary fibre, ambulation, and administering a stimulant laxative (senna, bisacodyl) or osmotic laxative (lactulose, polyethylene glycol)."
@@ -909,13 +909,13 @@
             "type": "multiple-choice",
             "prompt": "The oncologist decides to switch Mrs. Kowalski from oral MS Contin to a transdermal fentanyl patch (Duragesic Mat). Why is Mrs. Kowalski an appropriate candidate for transdermal fentanyl?",
             "options": [
-              "She has persistent cancer pain, cannot tolerate oral medications, and is opioid tolerant from taking 60 mg/day of oral morphine for over a week",
-              "Transdermal fentanyl provides immediate pain relief within 5 minutes for patients who cannot swallow",
-              "Transdermal fentanyl is a nonopioid analgesic that does not cause constipation or sedation",
-              "She is considered opioid naive because her pain is still 7/10 on oral morphine"
+              "She has persistent cancer pain, dysphagia, and opioid tolerance from taking 60 mg/day oral morphine for 3 weeks",
+              "Transdermal fentanyl bypasses first-pass metabolism to provide rapid peak analgesia within 15 minutes of application",
+              "Transdermal fentanyl acts selectively on peripheral kappa receptors and avoids opioid-induced bowel dysfunction",
+              "She remains opioid naive on 60 mg/day of oral morphine and requires a patch to prevent mu-receptor saturation"
             ],
             "answer": 0,
-            "rationale": "Transdermal fentanyl patches are indicated for persistent or cancer pain in opioid-tolerant patients (those taking at least 60 mg/day of oral morphine, 30 mg/day oral oxycodone, or 8 mg/day oral hydromorphone for ≥1 week), especially when oral administration is not tolerated."
+            "rationale": "Transdermal fentanyl patches are indicated for persistent or cancer pain in opioid-tolerant patients (those taking at least 60 mg/day of oral morphine, 30 mg/day oral oxycodone, or 8 mg/day oral hydromorphone for \u22651 week), especially when oral administration is not tolerated."
           }
         },
         {
@@ -924,13 +924,13 @@
             "type": "multiple-choice",
             "prompt": "What should the nurse explain regarding the onset of transdermal fentanyl and the management of breakthrough pain?",
             "options": [
-              "The first patch takes 6 to 12 hours to reach steady-state analgesia, so a short-acting rescue opioid (such as sublingual fentanyl or liquid/rectal morphine) is needed for initial and breakthrough pain",
-              "The patch reaches peak plasma concentration within 15 minutes, so no other analgesics may be taken for 72 hours",
-              "She should apply a second fentanyl patch after 2 hours if her pain is still above 4/10",
-              "She should rub alcohol and lotion into the skin under the patch to speed up absorption"
+              "The first patch takes 6 to 12 hours to reach steady-state analgesia, so a short-acting rescue opioid is needed",
+              "The transdermal system reaches therapeutic plasma levels within 30 minutes, so additional opioids are unnecessary",
+              "She should apply a second 25 mcg/hr patch adjacent to the first if her back pain remains above 4/10 at 4 hours",
+              "Warming the chest site with a heating pad for 20 minutes after application safely accelerates initial absorption"
             ],
             "answer": 0,
-            "rationale": "Fentanyl patches take 6 to 12 hours to reach steady-state pain control after the first patch is applied (with peak levels at 48–72 hours). Therefore, supplemental short-acting rescue opioid analgesics are required during the initial transition and for episodes of breakthrough pain."
+            "rationale": "Fentanyl patches take 6 to 12 hours to reach steady-state pain control after the first patch is applied (with peak levels at 48\u201372 hours). Therefore, supplemental short-acting rescue opioid analgesics are required during the initial transition and for episodes of breakthrough pain."
           }
         },
         {
@@ -939,10 +939,10 @@
             "type": "multiple-choice",
             "prompt": "Which response and care plan recommendation by the nurse best addresses both her neuropathic pain component and her husband's concern?",
             "options": [
-              "Explain that physical dependence/tolerance is expected in cancer pain but psychological addiction is rare and comfort is the priority; collaborate to add an adjuvant such as gabapentin or amitriptyline for the nerve pain",
-              "Advise the husband to withhold her patches whenever her pain is below 5/10 so she does not become physically dependent",
-              "Assure the husband that switching from fentanyl to around-the-clock meperidine will eliminate the risk of addiction and cure nerve pain",
-              "Tell the husband that her shooting leg pain is psychological stress and does not require adjuvant medication"
+              "Explain that physical dependence is expected but addiction is rare in cancer pain, and add an adjuvant like gabapentin",
+              "Advise the husband to remove the fentanyl patch whenever her pain score drops below 4/10 to prevent physical dependence",
+              "Recommend transitioning from transdermal fentanyl to scheduled oral meperidine to treat nerve pain without addiction risk",
+              "Reassure the husband that radiating leg paresthesias reflect emotional distress and resolve with relaxation therapy alone"
             ],
             "answer": 0,
             "rationale": "In cancer pain management, patient comfort and quality of life take priority; while physical dependence and tolerance are expected with long-term opioid use, actual psychological addiction is unusual. Furthermore, shooting/electrical neuropathic pain responds best when an adjuvant (such as an anticonvulsant like gabapentin/pregabalin or a TCA like amitriptyline) is added to the opioid regimen."
@@ -954,13 +954,13 @@
             "type": "multiple-choice",
             "prompt": "Which instruction is critical for preventing accidental fatal opioid exposure in Mrs. Kowalski's home?",
             "options": [
-              "Remove the old patch every 72 hours before applying a new one, fold the used patch with the adhesive side inward, and dispose of it immediately out of reach of children and pets (e.g., flushed or in a tamperproof pharmacy return container per local guidelines)",
-              "Place used patches in an open bedroom wastebasket after wiping off the adhesive side with soap and water",
-              "Store unused patches in the warm, humid bathroom medicine cabinet on the lowest shelf",
-              "Cut the 50 mcg/hr patch into quarters if a smaller dose is needed on days when her grandson visits"
+              "Remove the old patch after 72 hours, fold the sticky sides inward, and dispose of it securely away from children and pets",
+              "Wash the adhesive side of the used patch with warm soapy water before placing it in a bedroom wastebasket with a lid",
+              "Store unused fentanyl patches in the bathroom medicine cabinet where warm, humid air preserves the transdermal matrix",
+              "Cut the 50 mcg/hr patch diagonally in half on days when her grandson visits so she remains alert and avoids oversedation"
             ],
             "answer": 0,
-            "rationale": "Used fentanyl patches still contain a large amount of active drug that has caused fatal overdoses in children and pets who retrieved them from household trash. Patches must never be cut, must not be stored in warm/moist bathroom cabinets, and used patches must be folded adhesive-side inward and disposed of securely."
+            "rationale": "Used fentanyl patches still contain a large amount of active drug that has caused fatal overdoses in children and pets who retrieved them from household trash. Patches must not be cut, must not be stored in warm/moist bathroom cabinets, and used patches must be folded adhesive-side inward and disposed of securely."
           }
         }
       ]
@@ -977,10 +977,10 @@
             "type": "multiple-choice",
             "prompt": "How should the nurse interpret Maya's ingestion of 12 grams (200 mg/kg) of acetaminophen despite her mild initial symptoms?",
             "options": [
-              "Acute ingestion of 150 mg/kg (7 to 10 grams) or more is potentially hepatotoxic and can cause severe liver necrosis, requiring immediate blood work and antidote therapy",
-              "Because she only has mild nausea 4.5 hours after ingestion, the tablets were not absorbed and she can be discharged home",
-              "Acetaminophen toxicity primarily causes immediate respiratory arrest and pinpoint pupils within 30 minutes",
-              "A dose of 12 grams is safe as long as she does not consume alcohol over the next 48 hours"
+              "Ingesting 150 mg/kg (7 to 10 g) or more can cause severe hepatic necrosis, requiring prompt blood work and antidote therapy",
+              "Mild symptoms 4.5 hours after ingestion indicate minimal gastrointestinal absorption and low risk for delayed hepatotoxicity",
+              "Acute acetaminophen toxicity primarily manifests within 2 hours with central respiratory depression and pinpoint pupils",
+              "An acute ingestion of 12 grams is well tolerated in healthy young adults who abstain from alcohol over the next 72 hours"
             ],
             "answer": 0,
             "rationale": "Acute ingestion of acetaminophen doses of 150 mg/kg (approximately 7 to 10 g) or more can result in severe, potentially fatal liver necrosis, and ingestion over 15 g can be lethal. Early symptoms are often nonspecific (nausea, diaphoresis), while overt hepatotoxicity develops over the following days if untreated."
@@ -1011,10 +1011,10 @@
             "type": "multiple-choice",
             "prompt": "Which nursing intervention is appropriate when administering oral acetylcysteine?",
             "options": [
-              "Disguise the medication by mixing it with cola or flavoured water, have her drink it through a straw, and repeat the dose if she vomits within 1 hour of dosing",
-              "Allow her to skip the loading dose and wait 12 hours until her nausea subsides",
-              "Mix the liquid into a hot cup of herbal feverfew tea and have her sip it slowly over 4 hours",
-              "Do not repeat the dose if she vomits 20 minutes after drinking it, to avoid acetylcysteine toxicity"
+              "Mix the dose with cola or flavoured water, give it with a straw, and repeat the dose if vomiting occurs within 1 hour",
+              "Withhold the loading dose for 6 hours until oral ondansetron resolves her nausea and diaphoresis before reattempting",
+              "Dilute the solution in hot herbal feverfew tea and instruct her to sip it slowly over a 4-hour administration window",
+              "Avoid repeating the oral dose if emesis occurs 20 minutes after ingestion to prevent systemic acetylcysteine toxicity"
             ],
             "answer": 0,
             "rationale": "Oral acetylcysteine has a foul rotten-egg odour and taste. Mixing it with a palatable drink such as cola or flavoured water and using a straw minimizes contact with oral mucous membranes. If vomiting occurs within 1 hour of dosing, the dose must be repeated (or given via NG tube or IV)."
@@ -1026,10 +1026,10 @@
             "type": "multiple-choice",
             "prompt": "Which teaching point is essential for the nurse to include regarding acetaminophen safety in the community?",
             "options": [
-              "Always read the labels of all over-the-counter cough, cold, and pain remedies carefully, because more than half of acetaminophen doses sold are in combination products that can cause inadvertent overdose",
-              "Switch to taking 6 000 mg of acetaminophen daily if you have a viral flu with high fever",
-              "Combine acetaminophen with 3 to 4 alcoholic drinks at bedtime to help relieve tension headaches",
-              "Monitor for signs of acetaminophen overdose such as constipation and pinpoint pupils"
+              "Check all over-the-counter cold and pain product labels carefully to avoid unintentional overdose from combination drugs",
+              "Increase the maximum daily acetaminophen dosage to 6 000 mg/day for up to 3 days when managing high fevers from influenza",
+              "Take extra-strength acetaminophen with an evening glass of wine to potentiate analgesia for recurring tension headaches",
+              "Watch for early warning signs of acetaminophen hepatotoxicity such as severe constipation, miosis, and bradycardia"
             ],
             "answer": 0,
             "rationale": "Combination products (such as OTC cough and cold remedies and prescription opioid combinations) account for more than half of all acetaminophen doses sold in Canada. Patients must read all product labels carefully to avoid exceeding the maximum recommended daily limit (4 000 mg/day in healthy adults, or 2 000 mg/day with alcohol/liver risk factors)."
@@ -1042,17 +1042,17 @@
       "type": "case-study",
       "title": "Geriatric Postherpetic Neuralgia, Polypharmacy, and Renal Impairment",
       "topic": "Special Populations: Older Adults & Miscellaneous Analgesics",
-      "scenario": "Mr. Arthur Pendelton, a 78-year-old man, presents to the primary care clinic with severe burning, stabbing pain along his left thoracic dermatome 6 weeks after a resolved outbreak of shingles (herpes zoster). His medical history includes depression (treated with sertraline, an SSRI), benign prostatic hyperplasia (BPH), and stage 3 chronic kidney disease (serum creatinine 165 µmol/L). The skin over his left chest is now fully healed and intact without blisters.",
+      "scenario": "Mr. Arthur Pendelton, a 78-year-old man, presents to the primary care clinic with severe burning, stabbing pain along his left thoracic dermatome 6 weeks after a resolved outbreak of shingles (herpes zoster). His medical history includes depression (treated with sertraline, an SSRI), benign prostatic hyperplasia (BPH), and stage 3 chronic kidney disease (serum creatinine 165 \u00b5mol/L). The skin over his left chest is now fully healed and intact without blisters.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
             "prompt": "A medical resident suggests prescribing tramadol hydrochloride (Ultram) 100 mg PO every 6 hours for Mr. Pendelton's postherpetic neuralgia. Why should the nurse advocate against this prescription?",
             "options": [
-              "Tramadol is not recommended for patients 75 years of age or older, and combining it with his SSRI (sertraline) places him at high risk for serotonin syndrome and seizures",
-              "Tramadol is a pure opioid antagonist that will worsen his neuropathic pain",
-              "Tramadol can only be administered intravenously in patients with benign prostatic hyperplasia",
-              "Tramadol causes immediate blistering of healed herpes zoster skin lesions"
+              "Tramadol is avoided at age 75 or older, and combining it with sertraline raises the risk of seizures and serotonin syndrome",
+              "Tramadol acts as a competitive opioid antagonist at dorsal horn mu receptors and exacerbates postherpetic neuropathic pain",
+              "Tramadol requires parenteral administration in patients with benign prostatic hyperplasia due to poor intestinal absorption",
+              "Tramadol reactivates dormant varicella-zoster virus in dorsal root ganglia and triggers recurrent vesicular skin eruptions"
             ],
             "answer": 0,
             "rationale": "Tramadol is not recommended for individuals 75 years of age or older. Furthermore, because tramadol inhibits serotonin and norepinephrine reuptake and lowers the seizure threshold, coadministration with an SSRI like sertraline carries a significant risk of serotonin syndrome and seizures."
@@ -1064,10 +1064,10 @@
             "type": "multiple-choice",
             "prompt": "Which instruction must the nurse give Mr. Pendelton regarding the safe application of his transdermal lidocaine patches?",
             "options": [
-              "Apply the patches to intact skin over the painful area for a maximum of 12 hours per day (12 hours on, 12 hours off) to prevent systemic lidocaine toxicity and cardiac dysrhythmias",
-              "Wear three patches continuously for 7 days before replacing them with fresh patches",
-              "Place a hot water bottle over the lidocaine patches to help the anaesthetic penetrate deeper into the ribs",
-              "Leave used patches on the coffee table so they can be reused the following morning"
+              "Apply patches to intact skin for up to 12 hours per 24-hour period to prevent systemic lidocaine toxicity and dysrhythmias",
+              "Leave up to three lidocaine patches in place continuously for 72 hours before rotating to a fresh thoracic skin site",
+              "Place a warm heating pad over the thoracic patches for 30 minutes twice daily to enhance penetration into intercostal nerves",
+              "Reapply the same patches for up to 5 consecutive mornings as long as the adhesive edges remain intact on the chest wall"
             ],
             "answer": 0,
             "rationale": "Transdermal lidocaine patches are indicated for postherpetic neuralgia on intact skin. Up to three patches may be applied to a large painful area, but they must not be worn for longer than 12 hours in a 24-hour period to prevent systemic absorption and toxicity (such as cardiac dysrhythmias)."
@@ -1077,12 +1077,12 @@
           "update": "Two months later, Mr. Pendelton is admitted to the orthopedic unit with an acute intertrochanteric hip fracture after slipping on ice. He requires parenteral opioid analgesia prior to surgical repair.",
           "question": {
             "type": "multiple-choice",
-            "prompt": "Given Mr. Pendelton's age (78 years) and impaired kidney function (creatinine 165 µmol/L), which opioid selection and dosing strategy is safest?",
+            "prompt": "Given Mr. Pendelton's age (78 years) and impaired kidney function (creatinine 165 \u00b5mol/L), which opioid selection and dosing strategy is safest?",
             "options": [
-              "Start with a reduced dose of intravenous hydromorphone or fentanyl and titrate slowly, while avoiding morphine and meperidine due to toxic metabolite accumulation in renal impairment",
-              "Administer standard high-dose meperidine (Demerol) 150 mg IM every 2 hours around the clock",
-              "Apply a 50 mcg/hr transdermal fentanyl patch immediately for acute preoperative pain",
-              "Administer high-dose morphine sulphate IV because kidney impairment accelerates morphine clearance"
+              "Start a lower IV dose of hydromorphone or fentanyl and titrate slowly, avoiding morphine and meperidine in kidney disease",
+              "Administer scheduled intramuscular meperidine 100 mg every 3 hours because normeperidine is cleared via biliary excretion",
+              "Apply a 50 mcg/hr transdermal fentanyl patch preoperatively to achieve rapid steady-state analgesia before hip surgery",
+              "Administer standard adult doses of intravenous morphine sulphate because reduced glomerular filtration prolongs analgesia safely"
             ],
             "answer": 0,
             "rationale": "In older adults with kidney impairment, morphine (active metabolite morphine-6-glucuronide) and meperidine (active neurotoxic metabolite normeperidine) should be avoided because their metabolites accumulate in renal insufficiency. Hydromorphone or IV fentanyl started at a lower dose and titrated slowly is safer. Transdermal fentanyl is contraindicated for acute pain and in opioid-naive patients."
@@ -1094,13 +1094,13 @@
             "type": "multiple-choice",
             "prompt": "Which nursing assessment parameter and safety measure are priorities for Mr. Pendelton while he receives opioid therapy?",
             "options": [
-              "Monitor for urinary retention (ensuring urine output is at least 720 mL/24 hr) as opioids worsen outflow obstruction in BPH, and keep the call bell in reach with bed alarms activated",
-              "Encourage him to get out of bed unassisted every hour to test his balance after each IV opioid dose",
-              "Expect polyuria of more than 4 000 mL/24 hr because opioids inhibit bladder sphincter tone",
-              "Rely only on Mr. Pendelton volunteering complaints of pain, because older adults exaggerate pain intensity"
+              "Monitor for urinary retention (output at least 720 mL/24 hr) given his BPH, and maintain fall precautions with bed alarms",
+              "Have him ambulate unassisted to the bathroom 30 minutes after each IV hydromorphone dose to evaluate orthostatic tolerance",
+              "Anticipate osmotic diuresis exceeding 3 500 mL/24 hr as hydromorphone relaxes internal urethral sphincter smooth muscle",
+              "Wait for Mr. Pendelton to request analgesia spontaneously because older adults commonly overreport postoperative pain"
             ],
             "answer": 0,
-            "rationale": "In older adult males with BPH, opioid-induced increases in bladder sphincter tone can precipitate acute urinary retention; urine output should be monitored to ensure at least 720 mL/24 hr. Older adults are often stoic or reluctant to bother the nurse about pain, and are at high risk for CNS depression, orthostatic hypotension, and falls—requiring call bells within reach and bed alarms."
+            "rationale": "In older adult males with BPH, opioid-induced increases in bladder sphincter tone can precipitate acute urinary retention; urine output should be monitored to ensure at least 720 mL/24 hr. Older adults are often stoic or reluctant to bother the nurse about pain, and are at high risk for CNS depression, orthostatic hypotension, and falls\u2014requiring call bells within reach and bed alarms."
           }
         }
       ]
@@ -1117,10 +1117,10 @@
             "type": "multiple-choice",
             "prompt": "Which pain assessment approach and nursing action are most appropriate for evaluating Leo's pain?",
             "options": [
-              "Use the Wong-Baker 'OUCH' FACES scale (0 to 5), consider his nonverbal behaviours (crying, guarding, fear of moving) and parent input, and reassure him using atraumatic routes of administration",
-              "Accept his verbal denial of pain at face value and document a pain score of 0/10 without further intervention",
-              "Have him complete the multidimensional adult Brief Pain Inventory written questionnaire independently",
-              "Tell him that if he keeps crying, the nurse will have to give him an intramuscular injection"
+              "Use the Wong-Baker FACES scale (0 to 5), observe nonverbal cues with parent input, and explain needle-free IV dosing",
+              "Accept his verbal denial of pain at face value, document a score of 0/10, and withhold analgesics to avoid oversedation",
+              "Ask him to complete the written adult McGill Pain Questionnaire independently to localize his abdominal discomfort",
+              "Explain that he must receive an intramuscular deltoid injection if he continues crying and guarding his abdomen"
             ],
             "answer": 0,
             "rationale": "Children often deny pain out of fear of injections. Nurses must assess both verbal and nonverbal cues (guarding, crying, rigidity, fear of moving), involve parents, use age-appropriate tools like the Wong-Baker 'OUCH' FACES scale (for children 3 years and older, rated 0 to 5), and use oral or IV routes rather than traumatic IM injections."
@@ -1142,7 +1142,7 @@
                 ]
               }
             ],
-            "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg × 0.1 mg/kg = 2 mg per dose."
+            "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg \u00d7 0.1 mg/kg = 2 mg per dose."
           }
         },
         {
@@ -1151,10 +1151,10 @@
             "type": "multiple-choice",
             "prompt": "Which assessment finding indicates a serious opioid adverse effect in this pediatric patient?",
             "options": [
-              "Sluggish pupillary reaction to light, lethargy/change in level of consciousness, or a respiratory rate below 10 breaths/min",
-              "Heart rate decreasing from 118 beats/min to 94 beats/min as his crying stops",
-              "Leo pointing to face level 1 on the FACES scale and asking to watch cartoons",
-              "Blood pressure decreasing from 112/72 mm Hg to 100/64 mm Hg as he relaxes"
+              "Sluggish pupillary light reflex, new lethargy or altered consciousness, or a respiratory rate below 10 breaths/min",
+              "Heart rate decreasing from 118 beats/min to 94 beats/min as his postoperative crying and abdominal guarding subside",
+              "Pointing to face level 1 on the Wong-Baker FACES scale and asking his mother if he can watch television in bed",
+              "Blood pressure decreasing from 112/72 mm Hg to 100/64 mm Hg while resting quietly with warm, pink extremities"
             ],
             "answer": 0,
             "rationale": "In children receiving opioids, CNS changes such as drowsiness/lethargy, hallucinations, changes in level of consciousness, sluggish pupil reaction, or respiratory depression (respiratory rate <10 breaths/min) must be reported to the physician immediately and further opioid doses withheld."
@@ -1166,13 +1166,13 @@
             "type": "multiple-choice",
             "prompt": "Which discharge teaching by the nurse is accurate regarding pediatric analgesics?",
             "options": [
-              "Neither codeine nor aspirin should be given to a 6-year-old child (due to fatal CYP2D6 morphine toxicity risk with codeine and Reye's syndrome risk with aspirin); use weight-based oral acetaminophen or ibuprofen as prescribed using an accurate dosing device",
-              "Codeine syrup is safe for a 6-year-old as long as it is given with food or a snack",
-              "Aspirin is the drug of choice for postoperative fever in children under 12 years of age",
-              "Cut an adult extended-release oxycodone tablet into quarters and dissolve it in juice for him"
+              "Avoid codeine (CYP2D6 toxicity risk) and aspirin (Reye's syndrome risk); give weight-based acetaminophen with a dosing device",
+              "Administer over-the-counter codeine cough syrup every 4 hours with food to prevent postoperative nausea and stomach upset",
+              "Give chewable aspirin tablets every 6 hours as the antipyretic of choice if he develops a low-grade postoperative fever",
+              "Quarter an adult extended-release oxycodone tablet and dissolve it in apple juice to provide 12 hours of abdominal pain relief"
             ],
             "answer": 0,
-            "rationale": "Health Canada recommends against using codeine in children and youth under 18 years of age due to the risk of fatal toxicity in ultra-rapid CYP2D6 metabolizers. Aspirin is avoided in children and adolescents due to the risk of Reye's syndrome. Weight-based acetaminophen (15 mg/kg/dose PO q4–6h PRN, max 5 doses or 75 mg/kg/day) measured with an accurate dosing device is appropriate."
+            "rationale": "Health Canada recommends against using codeine in children and youth under 18 years of age due to the risk of fatal toxicity in ultra-rapid CYP2D6 metabolizers. Aspirin is avoided in children and adolescents due to the risk of Reye's syndrome. Weight-based acetaminophen (15 mg/kg/dose PO q4\u20136h PRN, max 5 doses or 75 mg/kg/day) measured with an accurate dosing device is appropriate."
           }
         }
       ]

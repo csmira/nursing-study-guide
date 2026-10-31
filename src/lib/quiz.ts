@@ -46,6 +46,8 @@ function toTestQuestion(q: StepQuestion, key: string, extra: Partial<TestQuestio
     rationale: q.rationale,
     answers: q.answers,
     inputType: q.inputType,
+    placeholder: q.placeholder,
+    helperText: q.helperText,
     ...extra,
   } as TestQuestion
 }

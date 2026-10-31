@@ -688,7 +688,9 @@
           ]
         }
       ],
-      "rationale": "Metformin (Glucophage, Glumetza) is the only biguanide and is first-line oral therapy for type 2 diabetes. It must be held on the day of iodinated contrast studies and for at least 48 hours after to prevent contrast-induced nephropathy and lactic acidosis."
+      "rationale": "Metformin (Glucophage, Glumetza) is the only biguanide and is first-line oral therapy for type 2 diabetes. It must be held on the day of iodinated contrast studies and for at least 48 hours after to prevent contrast-induced nephropathy and lactic acidosis.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-002",
@@ -703,7 +705,9 @@
           ]
         }
       ],
-      "rationale": "Glucagon stimulates hepatic glycogenolysis to convert stored glycogen into glucose and is injected subcutaneously or intramuscularly when an unconscious hypoglycemic patient does not have IV access."
+      "rationale": "Glucagon stimulates hepatic glycogenolysis to convert stored glycogen into glucose and is injected subcutaneously or intramuscularly when an unconscious hypoglycemic patient does not have IV access.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-003",
@@ -722,7 +726,9 @@
           ]
         }
       ],
-      "rationale": "Regular insulin (Humulin R, Novolin ge Toronto) is a short-acting, clear unmodified solution and is the only insulin approved for intravenous bolus or infusion administration."
+      "rationale": "Regular insulin (Humulin R, Novolin ge Toronto) is a short-acting, clear unmodified solution and is the only insulin approved for intravenous bolus or infusion administration.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-004",
@@ -737,7 +743,9 @@
           ]
         }
       ],
-      "rationale": "Acarbose (Glucobay) reversibly inhibits intestinal alpha-glucosidase and must be taken with the first bite of each main meal to blunt postprandial glucose elevations."
+      "rationale": "Acarbose (Glucobay) reversibly inhibits intestinal alpha-glucosidase and must be taken with the first bite of each main meal to blunt postprandial glucose elevations.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-005",
@@ -757,7 +765,9 @@
           ]
         }
       ],
-      "rationale": "Hemoglobin A1C (HbA1C or A1C) measures the percentage of hemoglobin A irreversibly bound to glucose over the 90- to 120-day lifespan of red blood cells. The Diabetes Canada target for most adults with diabetes is < 7.0%."
+      "rationale": "Hemoglobin A1C (HbA1C or A1C) measures the percentage of hemoglobin A irreversibly bound to glucose over the 90- to 120-day lifespan of red blood cells. The Diabetes Canada target for most adults with diabetes is < 7.0%.",
+      "placeholder": "Type the test name\u2026",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "dm-sa-006",
@@ -775,7 +785,9 @@
           ]
         }
       ],
-      "rationale": "NPH stands for neutral protamine Hagedorn (insulin isophane suspension), an opaque/cloudy intermediate-acting insulin with an onset of 2 to 4 hours, peak of 4 to 10 hours, and duration of 12 to 18 hours."
+      "rationale": "NPH stands for neutral protamine Hagedorn (insulin isophane suspension), an opaque/cloudy intermediate-acting insulin with an onset of 2 to 4 hours, peak of 4 to 10 hours, and duration of 12 to 18 hours.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-007",
@@ -794,7 +806,9 @@
           ]
         }
       ],
-      "rationale": "Insulin glargine (Lantus, Basaglar, Toujeo) is a peakless long-acting basal insulin with a pH of 4 that precipitates in subcutaneous tissue for slow release over 20 to 24 hours (up to 30 hours for Toujeo)."
+      "rationale": "Insulin glargine (Lantus, Basaglar, Toujeo) is a peakless long-acting basal insulin with a pH of 4 that precipitates in subcutaneous tissue for slow release over 20 to 24 hours (up to 30 hours for Toujeo).",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-008",
@@ -810,7 +824,9 @@
           ]
         }
       ],
-      "rationale": "Pioglitazone (Actos) is a thiazolidinedione (glitazone) that decreases insulin resistance but causes fluid retention, weight gain, and peripheral edema, making it contraindicated in NYHA Class III or IV heart failure."
+      "rationale": "Pioglitazone (Actos) is a thiazolidinedione (glitazone) that decreases insulin resistance but causes fluid retention, weight gain, and peripheral edema, making it contraindicated in NYHA Class III or IV heart failure.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-009",
@@ -825,7 +841,9 @@
           ]
         }
       ],
-      "rationale": "Repaglinide (GlucoNorm) is a glinide (meglitinide) that stimulates rapid, short-duration insulin secretion from pancreatic beta-cells; patients take it 15 minutes before meals and skip the dose if a meal is missed."
+      "rationale": "Repaglinide (GlucoNorm) is a glinide (meglitinide) that stimulates rapid, short-duration insulin secretion from pancreatic beta-cells; patients take it 15 minutes before meals and skip the dose if a meal is missed.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-010",
@@ -842,7 +860,9 @@
           ]
         }
       ],
-      "rationale": "Sitagliptin phosphate monohydrate (Januvia) selectively inhibits dipeptidyl peptidase-4 (DPP-4), increasing endogenous GLP-1 and GIP levels to improve glycemic control in type 2 diabetes."
+      "rationale": "Sitagliptin phosphate monohydrate (Januvia) selectively inhibits dipeptidyl peptidase-4 (DPP-4), increasing endogenous GLP-1 and GIP levels to improve glycemic control in type 2 diabetes.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-cs-001",
@@ -1086,7 +1106,9 @@
                 ]
               }
             ],
-            "rationale": "Acarbose inhibits alpha-glucosidase in the small intestine, preventing the hydrolysis of sucrose (table sugar) and complex carbohydrates. Patients taking acarbose must treat hypoglycemia with pure glucose (dextrose) tablets (or honey/milk if tablets are unavailable)."
+            "rationale": "Acarbose inhibits alpha-glucosidase in the small intestine, preventing the hydrolysis of sucrose (table sugar) and complex carbohydrates. Patients taking acarbose must treat hypoglycemia with pure glucose (dextrose) tablets (or honey/milk if tablets are unavailable).",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {

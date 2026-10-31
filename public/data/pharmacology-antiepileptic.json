@@ -649,7 +649,9 @@
           ]
         }
       ],
-      "rationale": "Parenteral phenytoin is highly alkaline (pH 12) and precipitates if mixed with dextrose or other acidic solutions; therefore, normal saline (0.9% sodium chloride) is the only compatible dilutional fluid used to dilute and flush IV phenytoin lines."
+      "rationale": "Parenteral phenytoin is highly alkaline (pH 12) and precipitates if mixed with dextrose or other acidic solutions; therefore, normal saline (0.9% sodium chloride) is the only compatible dilutional fluid used to dilute and flush IV phenytoin lines.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-002",
@@ -664,13 +666,15 @@
           ]
         }
       ],
-      "rationale": "Autoinduction is a metabolic process in which a drug stimulates hepatic enzymes that accelerate its own metabolism over time (typically within the first 2 months of carbamazepine therapy), reducing therapeutic drug concentrations."
+      "rationale": "Autoinduction is a metabolic process in which a drug stimulates hepatic enzymes that accelerate its own metabolism over time (typically within the first 2 months of carbamazepine therapy), reducing therapeutic drug concentrations.",
+      "placeholder": "Type the pharmacological term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-003",
       "type": "short-answer",
       "topic": "Succinimides",
-      "prompt": "Name the succinimide antiepileptic drug (generic name) that is a first-line medication specifically indicated for the treatment of uncomplicated absence seizures.",
+      "prompt": "Name the succinimide antiepileptic drug that is a first-line medication specifically indicated for the treatment of uncomplicated absence seizures.",
       "answers": [
         {
           "text": "ethosuximide",
@@ -679,7 +683,9 @@
           ]
         }
       ],
-      "rationale": "Ethosuximide (Zarontin) is the prototypical succinimide antiepileptic drug used as a first-line agent for uncomplicated absence seizures."
+      "rationale": "Ethosuximide (Zarontin) is the prototypical succinimide antiepileptic drug used as a first-line agent for uncomplicated absence seizures.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-004",
@@ -694,7 +700,9 @@
           ]
         }
       ],
-      "rationale": "Status epilepticus is a true medical emergency characterized by prolonged seizure activity lasting 5 minutes or longer or repeated seizures without recovery between episodes."
+      "rationale": "Status epilepticus is a true medical emergency characterized by prolonged seizure activity lasting 5 minutes or longer or repeated seizures without recovery between episodes.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-005",
@@ -710,13 +718,15 @@
           ]
         }
       ],
-      "rationale": "Gingival hyperplasia (or gingival hypertrophy) is the overgrowth of gum tissue commonly associated with long-term phenytoin therapy; it is minimized through scrupulous dental hygiene."
+      "rationale": "Gingival hyperplasia (or gingival hypertrophy) is the overgrowth of gum tissue commonly associated with long-term phenytoin therapy; it is minimized through scrupulous dental hygiene.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-006",
       "type": "short-answer",
       "topic": "Hydantoins",
-      "prompt": "Name the water-soluble injectable prodrug of phenytoin (generic name) that is dosed in phenytoin equivalents (PE) and can be administered intramuscularly or intravenously at up to 150 mg PE/min.",
+      "prompt": "Name the water-soluble injectable prodrug of phenytoin that is dosed in phenytoin equivalents (PE) and can be administered intramuscularly or intravenously at up to 150 mg PE/min.",
       "answers": [
         {
           "text": "fosphenytoin",
@@ -726,7 +736,9 @@
           ]
         }
       ],
-      "rationale": "Fosphenytoin (Cerebyx) is a water-soluble prodrug of phenytoin (150 mg fosphenytoin = 100 mg phenytoin, or 100 mg PE) that causes less venous irritation and can be given IM or IV at rates up to 150 mg PE/min."
+      "rationale": "Fosphenytoin (Cerebyx) is a water-soluble prodrug of phenytoin (150 mg fosphenytoin = 100 mg phenytoin, or 100 mg PE) that causes less venous irritation and can be given IM or IV at rates up to 150 mg PE/min.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-007",
@@ -742,26 +754,30 @@
           ]
         }
       ],
-      "rationale": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the brain that regulates neuronal excitability; low GABA levels are associated with seizures, and many AEDs enhance GABA activity."
+      "rationale": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the brain that regulates neuronal excitability; low GABA levels are associated with seizures, and many AEDs enhance GABA activity.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-008",
       "type": "short-answer",
       "topic": "Barbiturates",
-      "prompt": "Name the barbiturate antiepileptic drug (generic name) that is metabolized in the liver to phenobarbital and phenylethylmalonamide (PEMA).",
+      "prompt": "Name the barbiturate antiepileptic drug that is metabolized in the liver to phenobarbital and phenylethylmalonamide (PEMA).",
       "answers": [
         {
           "text": "primidone",
           "aliases": []
         }
       ],
-      "rationale": "Primidone is metabolized in the liver into two active anticonvulsant metabolites: phenobarbital and phenylethylmalonamide (PEMA)."
+      "rationale": "Primidone is metabolized in the liver into two active anticonvulsant metabolites: phenobarbital and phenylethylmalonamide (PEMA).",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-009",
       "type": "short-answer",
       "topic": "Miscellaneous AEDs",
-      "prompt": "Name the antiepileptic drug (generic name) that is chemically similar to fructose, is used for focal and generalized seizures as well as Lennox-Gastaut drop attacks, and carries a risk of acute angle-closure glaucoma and fetal cleft palate.",
+      "prompt": "Name the antiepileptic drug that is chemically similar to fructose, is used for focal and generalized seizures as well as Lennox-Gastaut drop attacks, and carries a risk of acute angle-closure glaucoma and fetal cleft palate.",
       "answers": [
         {
           "text": "topiramate",
@@ -770,7 +786,9 @@
           ]
         }
       ],
-      "rationale": "Topiramate (Topamax) is a fructose-derivative AED indicated for focal and generalized tonic-clonic seizures and drop attacks in Lennox-Gastaut syndrome; notable risks include angle-closure glaucoma and cleft palate in infants exposed in utero."
+      "rationale": "Topiramate (Topamax) is a fructose-derivative AED indicated for focal and generalized tonic-clonic seizures and drop attacks in Lennox-Gastaut syndrome; notable risks include angle-closure glaucoma and cleft palate in infants exposed in utero.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-cs-001",
@@ -834,7 +852,9 @@
                 "text": "20"
               }
             ],
-            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia."
+            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL\u2014compounded by low serum albumin, which increases free unbound phenytoin\u2014is toxic and accounts for his nystagmus and ataxia.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         }
       ]
@@ -924,7 +944,9 @@
                 "text": "225"
               }
             ],
-            "rationale": "Total daily dose = 15 mg/kg/day \u00d7 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose."
+            "rationale": "Total daily dose = 15 mg/kg/day \u00d7 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

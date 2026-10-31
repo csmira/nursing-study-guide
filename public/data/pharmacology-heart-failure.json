@@ -716,7 +716,9 @@
           ]
         }
       ],
-      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen\u2013antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia."
+      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen\u2013antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-002",
@@ -731,7 +733,9 @@
           ]
         }
       ],
-      "rationale": "Milrinone (milrinone lactate) is the only phosphodiesterase inhibitor currently available for acute heart failure after the discontinuation of inamrinone."
+      "rationale": "Milrinone (milrinone lactate) is the only phosphodiesterase inhibitor currently available for acute heart failure after the discontinuation of inamrinone.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-003",
@@ -748,7 +752,9 @@
           ]
         }
       ],
-      "rationale": "Inotropic drugs affect the force or energy of myocardial contractions (positive inotropes increase contractility; negative inotropes decrease contractility). Chronotropic drugs affect heart rate, and dromotropic drugs affect electrical conduction velocity."
+      "rationale": "Inotropic drugs affect the force or energy of myocardial contractions (positive inotropes increase contractility; negative inotropes decrease contractility). Chronotropic drugs affect heart rate, and dromotropic drugs affect electrical conduction velocity.",
+      "placeholder": "Type the pharmacological term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-sa-004",
@@ -763,7 +769,9 @@
           ]
         }
       ],
-      "rationale": "Furosemide precipitates upon contact with milrinone in intravenous lines and must be administered through a separate line."
+      "rationale": "Furosemide precipitates upon contact with milrinone in intravenous lines and must be administered through a separate line.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-005",
@@ -781,7 +789,9 @@
           ]
         }
       ],
-      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium\u2013potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias."
+      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium\u2013potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-sa-006",
@@ -796,7 +806,9 @@
           ]
         }
       ],
-      "rationale": "Dobutamine (dobutamine hydrochloride) stimulates beta-1 receptors on the myocardium to produce a positive inotropic effect and increase stroke volume in hemodynamically unstable acute decompensated heart failure."
+      "rationale": "Dobutamine (dobutamine hydrochloride) stimulates beta-1 receptors on the myocardium to produce a positive inotropic effect and increase stroke volume in hemodynamically unstable acute decompensated heart failure.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-007",
@@ -813,7 +825,9 @@
           ]
         }
       ],
-      "rationale": "ACE inhibitors block the breakdown of bradykinins, which build up in the blood and lodge in the bronchial tubes, triggering a dry cough as the body attempts to expel them."
+      "rationale": "ACE inhibitors block the breakdown of bradykinins, which build up in the blood and lodge in the bronchial tubes, triggering a dry cough as the body attempts to expel them.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-sa-008",
@@ -830,7 +844,9 @@
           ]
         }
       ],
-      "rationale": "The ejection fraction is the proportion of blood ejected from the ventricle with each contraction relative to the left ventricular end-diastolic volume (LVEDV); normal is approximately 65% (0.65)."
+      "rationale": "The ejection fraction is the proportion of blood ejected from the ventricle with each contraction relative to the left ventricular end-diastolic volume (LVEDV); normal is approximately 65% (0.65).",
+      "placeholder": "Type the pharmacological term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-cs-001",
@@ -883,7 +899,9 @@
                 ]
               }
             ],
-            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen\u2013antibody complex."
+            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen\u2013antibody complex.",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -920,7 +938,9 @@
                 "text": "3"
               }
             ],
-            "rationale": "Loading dose = 50 mcg/kg \u00d7 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg \u00f7 1 000 = 3 mg."
+            "rationale": "Loading dose = 50 mcg/kg \u00d7 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg \u00f7 1 000 = 3 mg.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -1040,7 +1060,9 @@
                 ]
               }
             ],
-            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850\u2013882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure."
+            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850\u2013882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure.",
+            "placeholder": "Type the substance name\u2026",
+            "helperText": "Spelling counts."
           }
         }
       ]
@@ -1062,7 +1084,9 @@
                 "text": "80"
               }
             ],
-            "rationale": "Total digitalizing dose = 30 mcg/kg \u00d7 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg \u00f7 3 = 80 mcg (0.08 mg) per dose."
+            "rationale": "Total digitalizing dose = 30 mcg/kg \u00d7 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg \u00f7 3 = 80 mcg (0.08 mg) per dose.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

@@ -32,6 +32,10 @@ export interface ShortAnswerQuestion {
   rationale?: string
   /** 'number' strictly restricts input to numerical values; 'text' for generic words. Defaults to 'text'. */
   inputType?: 'number' | 'text'
+  /** Optional custom placeholder text for the input field. */
+  placeholder?: string
+  /** Optional custom helper text shown below the input field. */
+  helperText?: string
 }
 
 export type StepQuestion = MultipleChoiceQuestion | ShortAnswerQuestion
@@ -111,6 +115,8 @@ export interface TestShortAnswer extends TestQuestionBase {
   type: 'short-answer'
   answers: RankedAnswer[]
   inputType?: 'number' | 'text'
+  placeholder?: string
+  helperText?: string
 }
 
 export type TestQuestion = TestMultipleChoice | TestShortAnswer

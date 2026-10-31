@@ -81,7 +81,7 @@ export function ShortAnswerInput({ question, value, onChange, onSubmit }: ShortA
   return (
     <div className="short-answer">
       <label htmlFor={id} className="short-answer__label">
-        {isNumeric ? 'Your answer (number only)' : 'Your answer'}
+        Your answer
       </label>
       <input
         id={id}
@@ -93,15 +93,16 @@ export function ShortAnswerInput({ question, value, onChange, onSubmit }: ShortA
         autoCorrect="off"
         autoCapitalize="off"
         spellCheck={false}
-        placeholder={isNumeric ? 'Enter a number…' : 'Type a single word or drug name…'}
+        placeholder={question.placeholder ?? (isNumeric ? 'Enter a number…' : 'Type your answer…')}
         value={typeof value === 'string' ? value : typeof value === 'number' ? String(value) : ''}
         onChange={handleChange}
         onKeyDown={handleKeyDown}
       />
       <p className="hint">
-        {isNumeric
-          ? 'Enter numbers only. Do not include units. Press Enter to continue.'
-          : 'Spelling counts. Generic or brand names are accepted. Press Enter to continue.'}
+        {question.helperText ??
+          (isNumeric
+            ? 'Numbers only. Do not include units.'
+            : 'Spelling counts.')}
       </p>
     </div>
   )

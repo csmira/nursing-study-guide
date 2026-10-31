@@ -705,7 +705,7 @@
       "id": "acid-sa-001",
       "type": "short-answer",
       "topic": "Miscellaneous Acid-Controlling Drugs: Sucralfate",
-      "prompt": "Name the mucosal protectant drug (generic name) that dissociates in stomach acid into aluminum hydroxide and sulphated sucrose anions, binding to positively charged proteins at the base of ulcers to form a local protective barrier.",
+      "prompt": "Name the mucosal protectant drug that dissociates in stomach acid into aluminum hydroxide and sulphated sucrose anions, binding to positively charged proteins at the base of ulcers to form a local protective barrier.",
       "answers": [
         {
           "text": "sucralfate",
@@ -714,13 +714,15 @@
           ]
         }
       ],
-      "rationale": "Sucralfate acts locally in the stomach by dissociating into aluminum hydroxide and sulphate anions that bind to positively charged tissue proteins in ulcer craters and erosions, forming a protective 'liquid bandage.'"
+      "rationale": "Sucralfate acts locally in the stomach by dissociating into aluminum hydroxide and sulphate anions that bind to positively charged tissue proteins in ulcer craters and erosions, forming a protective 'liquid bandage.'",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-002",
       "type": "short-answer",
       "topic": "Miscellaneous Acid-Controlling Drugs: Misoprostol",
-      "prompt": "Name the synthetic prostaglandin E analogue (generic name) used to prevent NSAID-induced gastric ulcers that is strictly contraindicated in pregnancy because it induces uterine contractions.",
+      "prompt": "Name the synthetic prostaglandin E analogue used to prevent NSAID-induced gastric ulcers that is strictly contraindicated in pregnancy because it induces uterine contractions.",
       "answers": [
         {
           "text": "misoprostol",
@@ -729,13 +731,15 @@
           ]
         }
       ],
-      "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and provides cytoprotection against NSAID-induced ulcers, but it is an abortifacient and contraindicated during pregnancy."
+      "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and provides cytoprotection against NSAID-induced ulcers, but it is an abortifacient and contraindicated during pregnancy.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-003",
       "type": "short-answer",
       "topic": "Miscellaneous Acid-Controlling Drugs: Simethicone",
-      "prompt": "Name the antiflatulent surfactant medication (generic name) that alters the elasticity of mucus-coated gas bubbles in the gastrointestinal tract so they break into smaller bubbles and are more easily expelled.",
+      "prompt": "Name the antiflatulent surfactant medication that alters the elasticity of mucus-coated gas bubbles in the gastrointestinal tract so they break into smaller bubbles and are more easily expelled.",
       "answers": [
         {
           "text": "simethicone",
@@ -746,13 +750,15 @@
           ]
         }
       ],
-      "rationale": "Simethicone (Ovol, Pediacol, Phazyme) is an antiflatulent drug that alters the surface elasticity of mucus-coated gas bubbles, breaking them into smaller bubbles to relieve flatulence and bloating."
+      "rationale": "Simethicone (Ovol, Pediacol, Phazyme) is an antiflatulent drug that alters the surface elasticity of mucus-coated gas bubbles, breaking them into smaller bubbles to relieve flatulence and bloating.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-004",
       "type": "short-answer",
       "topic": "H2 Receptor Antagonists",
-      "prompt": "Which prototypical H2 receptor antagonist (generic name) inhibits hepatic cytochrome P450 pathways (CYP1A2, CYP2D6, CYP3A4) and can cause gynecomastia and erectile dysfunction?",
+      "prompt": "Which prototypical H2 receptor antagonist inhibits hepatic cytochrome P450 pathways (CYP1A2, CYP2D6, CYP3A4) and can cause gynecomastia and erectile dysfunction?",
       "answers": [
         {
           "text": "cimetidine",
@@ -761,7 +767,9 @@
           ]
         }
       ],
-      "rationale": "Cimetidine was the first H2 receptor antagonist released. Unlike famotidine, it inhibits CYP1A2, CYP2D6, and CYP3A4 enzymes and can cause gynecomastia and impotence due to antiandrogenic and estradiol-inhibiting effects."
+      "rationale": "Cimetidine was the first H2 receptor antagonist released. Unlike famotidine, it inhibits CYP1A2, CYP2D6, and CYP3A4 enzymes and can cause gynecomastia and impotence due to antiandrogenic and estradiol-inhibiting effects.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-005",
@@ -776,7 +784,9 @@
           ]
         }
       ],
-      "rationale": "Chief cells in the gastric glands secrete pepsinogen, a proenzyme that is activated by gastric acid into pepsin, a proteolytic enzyme that digests dietary proteins."
+      "rationale": "Chief cells in the gastric glands secrete pepsinogen, a proenzyme that is activated by gastric acid into pepsin, a proteolytic enzyme that digests dietary proteins.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "acid-sa-006",
@@ -793,7 +803,9 @@
           ]
         }
       ],
-      "rationale": "Helicobacter pylori (formerly called Campylobacter pylori) is the gram-negative spiral bacterium found in the GI tract of roughly 90% of patients with duodenal ulcers and 70% of those with gastric ulcers."
+      "rationale": "Helicobacter pylori (formerly called Campylobacter pylori) is the gram-negative spiral bacterium found in the GI tract of roughly 90% of patients with duodenal ulcers and 70% of those with gastric ulcers.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "acid-sa-007",
@@ -809,13 +821,15 @@
           ]
         }
       ],
-      "rationale": "A Cushing ulcer is a stress ulcer that occurs after severe head trauma, whereas a Curling ulcer occurs in patients with severe burns."
+      "rationale": "A Cushing ulcer is a stress ulcer that occurs after severe head trauma, whereas a Curling ulcer occurs in patients with severe burns.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "acid-sa-008",
       "type": "short-answer",
       "topic": "Proton Pump Inhibitors",
-      "prompt": "Which proton pump inhibitor (generic name) is profiled in the chapter as being used as a high-dose intravenous bolus followed by continuous IV infusion to prevent peptic ulcer rebleeding after endoscopic hemostasis?",
+      "prompt": "Which proton pump inhibitor is profiled in the chapter as being used as a high-dose intravenous bolus followed by continuous IV infusion to prevent peptic ulcer rebleeding after endoscopic hemostasis?",
       "answers": [
         {
           "text": "pantoprazole",
@@ -827,7 +841,9 @@
           ]
         }
       ],
-      "rationale": "Pantoprazole sodium (Pantoloc, Panto IV) is administered intravenously as a bolus followed by continuous infusion for acute peptic ulcer bleeding after endoscopic therapy."
+      "rationale": "Pantoprazole sodium (Pantoloc, Panto IV) is administered intravenously as a bolus followed by continuous infusion for acute peptic ulcer bleeding after endoscopic therapy.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-cs-001",
@@ -937,7 +953,7 @@
           "update": "The prescriber discontinues cimetidine and considers switching Walter to a different H2 receptor antagonist at a reduced renal-adjusted dose once his mental status and drug levels stabilize.",
           "question": {
             "type": "short-answer",
-            "prompt": "Name the H2 receptor antagonist (generic name; brand name Pepcid) profiled in the chapter that has essentially no effect on the hepatic cytochrome P450 enzyme system and minimal drug interaction concerns.",
+            "prompt": "Name the H2 receptor antagonist (brand name Pepcid) profiled in the chapter that has essentially no effect on the hepatic cytochrome P450 enzyme system and minimal drug interaction concerns.",
             "answers": [
               {
                 "text": "famotidine",
@@ -947,7 +963,9 @@
                 ]
               }
             ],
-            "rationale": "Famotidine (Pepcid) and nizatidine have essentially no effect on the hepatic cytochrome P450 enzyme system, making famotidine much safer than cimetidine regarding CYP450 drug interactions."
+            "rationale": "Famotidine (Pepcid) and nizatidine have essentially no effect on the hepatic cytochrome P450 enzyme system, making famotidine much safer than cimetidine regarding CYP450 drug interactions.",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -1150,7 +1168,9 @@
                 "text": "500"
               }
             ],
-            "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day."
+            "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

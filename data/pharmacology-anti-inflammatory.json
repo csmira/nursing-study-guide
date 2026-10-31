@@ -13,7 +13,7 @@
         "81 mg orally once daily with meals"
       ],
       "answer": 3,
-      "rationale": "An 81-mg daily dose of ASA effectively and irreversibly inhibits platelet thromboxane A2 synthesis and is preferred over 325 mg for patients with an elevated risk of bleeding, such as a history of peptic ulcer disease or stroke. Higher doses (325\u2013650 mg q4h or 3.6\u20135.4 g/day) are used for pain, fever, or rheumatic inflammation and carry a much higher risk of GI ulceration."
+      "rationale": "An 81-mg daily dose of ASA effectively and irreversibly inhibits platelet thromboxane A2 synthesis and is preferred over 325 mg for patients with an elevated risk of bleeding, such as a history of peptic ulcer disease or stroke. Higher doses (325–650 mg q4h or 3.6–5.4 g/day) are used for pain, fever, or rheumatic inflammation and carry a much higher risk of GI ulceration."
     },
     {
       "id": "nsaid-mc-002",
@@ -21,13 +21,13 @@
       "topic": "Salicylates",
       "prompt": "A patient arrives at the emergency department with suspected acute coronary syndrome. The prescriber orders acetylsalicylic acid (ASA) 325 mg PO stat. Which administration instruction should the nurse give the patient to achieve a peak plasma concentration in approximately 20 minutes?",
       "options": [
-        "Swallow a non\u2013enteric-coated tablet whole with water",
+        "Swallow a non–enteric-coated tablet whole with water",
         "Dissolve an enteric-coated tablet in warm fruit juice",
-        "Chew a non\u2013enteric-coated tablet before swallowing",
+        "Chew a non–enteric-coated tablet before swallowing",
         "Chew an enteric-coated tablet with a glass of milk"
       ],
       "answer": 2,
-      "rationale": "In the setting of an acute coronary syndrome, chewing a non\u2013enteric-coated ASA tablet produces a peak plasma concentration in about 20 minutes. Chewing enteric-coated tablets still results in a delayed peak of approximately 2 hours, and enteric-coated or sustained-release preparations are normally not meant to be chewed."
+      "rationale": "In the setting of an acute coronary syndrome, chewing a non–enteric-coated ASA tablet produces a peak plasma concentration in about 20 minutes. Chewing enteric-coated tablets still results in a delayed peak of approximately 2 hours, and enteric-coated or sustained-release preparations are normally not meant to be chewed."
     },
     {
       "id": "nsaid-mc-003",
@@ -37,7 +37,7 @@
       "options": [
         "ASA stimulates prostacyclin synthetase in vascular endothelium for two weeks",
         "ASA accumulates in bone marrow megakaryocytes and releases over 10 days",
-        "ASA suppresses hepatic synthesis of vitamin K\u2013dependent clotting factors",
+        "ASA suppresses hepatic synthesis of vitamin K–dependent clotting factors",
         "ASA irreversibly inhibits cyclooxygenase-1 (COX-1) within circulating platelets"
       ],
       "answer": 3,
@@ -61,7 +61,7 @@
       "id": "nsaid-mc-005",
       "type": "multiple-choice",
       "topic": "Salicylates",
-      "prompt": "A parent calls the telehealth line stating that their 8-year-old child has influenza B with a temperature of 39.1\u00b0C and asks about giving the child an over-the-counter cold preparation containing salicylate. Which response by the nurse is priority?",
+      "prompt": "A parent calls the telehealth line stating that their 8-year-old child has influenza B with a temperature of 39.1°C and asks about giving the child an over-the-counter cold preparation containing salicylate. Which response by the nurse is priority?",
       "options": [
         "Avoid giving any salicylate product due to the risk of Reye's syndrome",
         "Give half the adult salicylate dose with milk to reduce gastric distress",
@@ -355,7 +355,7 @@
       "id": "nsaid-mc-026",
       "type": "multiple-choice",
       "topic": "COX-2 Inhibitors",
-      "prompt": "A patient prescribed celecoxib (Celebrex) asks the nurse why two other drugs in the same family\u2014rofecoxib (Vioxx) and valdecoxib (Bextra)\u2014were taken off the Canadian market. Which explanation is accurate?",
+      "prompt": "A patient prescribed celecoxib (Celebrex) asks the nurse why two other drugs in the same family—rofecoxib (Vioxx) and valdecoxib (Bextra)—were taken off the Canadian market. Which explanation is accurate?",
       "options": [
         "Clinical data linked them to an increased risk of myocardial infarction, stroke, and death",
         "Postmarketing studies showed higher rates of gastric perforation than nonselective aspirin",
@@ -517,7 +517,7 @@
         "Recommend reducing the allopurinol dose by half and scheduling a clinic follow-up in 1 week"
       ],
       "answer": 1,
-      "rationale": "Allopurinol can cause serious and potentially fatal cutaneous hypersensitivity reactions, including exfoliative dermatitis, Stevens\u2013Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), as well as agranulocytosis and aplastic anemia. Any skin rash or flu-like symptoms require immediate discontinuation and urgent medical assessment."
+      "rationale": "Allopurinol can cause serious and potentially fatal cutaneous hypersensitivity reactions, including exfoliative dermatitis, Stevens–Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), as well as agranulocytosis and aplastic anemia. Any skin rash or flu-like symptoms require immediate discontinuation and urgent medical assessment."
     },
     {
       "id": "nsaid-mc-038",
@@ -531,7 +531,7 @@
         "Withhold allopurinol because it is contraindicated when CrCl falls below 30 mL/min"
       ],
       "answer": 1,
-      "rationale": "In renal impairment, allopurinol is not contraindicated, but doses should be initiated at 50 mg daily and titrated slowly with lower maximum doses: for CrCl 10\u201320 mL/min, the maximum dose is 200 mg/day, and for CrCl 3\u201310 mL/min, the maximum dose is 100 mg/day (compared with 800 mg/day in normal renal function)."
+      "rationale": "In renal impairment, allopurinol is not contraindicated, but doses should be initiated at 50 mg daily and titrated slowly with lower maximum doses: for CrCl 10–20 mL/min, the maximum dose is 200 mg/day, and for CrCl 3–10 mL/min, the maximum dose is 100 mg/day (compared with 800 mg/day in normal renal function)."
     },
     {
       "id": "nsaid-mc-039",
@@ -545,7 +545,7 @@
         "Administer on an as-needed basis if acute podagra develops in the first metatarsophalangeal joint"
       ],
       "answer": 0,
-      "rationale": "Allopurinol is given a few days before starting chemotherapy to prevent acute tumour lysis syndrome\u2014hyperuricemia and uric acid nephropathy resulting from massive purine release during rapid malignant cell lysis."
+      "rationale": "Allopurinol is given a few days before starting chemotherapy to prevent acute tumour lysis syndrome—hyperuricemia and uric acid nephropathy resulting from massive purine release during rapid malignant cell lysis."
     },
     {
       "id": "nsaid-mc-040",
@@ -568,7 +568,7 @@
       "prompt": "A patient is prescribed oral colchicine for an acute gout flare with the following regimen: 1.2 mg initially, followed by 0.6 mg 1 hour later, and then 0.6 mg every 2 hours. When should the patient stop taking the acute doses of colchicine?",
       "options": [
         "After completing a full 7-day regimen to prevent recurrent urate crystal deposition",
-        "When serum uric acid concentrations fall below 200 \u00b5mol/L on repeat laboratory testing",
+        "When serum uric acid concentrations fall below 200 µmol/L on repeat laboratory testing",
         "Once mild tinnitus or visual blurring develops as an indicator of therapeutic saturation",
         "When the acute joint pain subsides or when nausea, vomiting, or diarrhea first develops"
       ],
@@ -645,7 +645,7 @@
         }
       ],
       "rationale": "Misoprostol (Cytotec) is a synthetic prostaglandin analogue that replaces protective gastric prostaglandins depleted by COX-1 inhibition, preventing NSAID-induced gastric ulceration and mucosal injury.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -663,7 +663,7 @@
         }
       ],
       "rationale": "The Done nomogram plots serum salicylate concentration as a function of time elapsed since an acute single salicylate ingestion (measured 6 hours or more post-ingestion) to gauge toxicity severity and guide treatment.",
-      "placeholder": "Type the test name\u2026",
+      "placeholder": "Enter the tool name…",
       "helperText": "Standard abbreviations or full names are accepted."
     },
     {
@@ -680,8 +680,8 @@
           ]
         }
       ],
-      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid\u2013base disturbances.",
-      "placeholder": "Type the medical term\u2026",
+      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid–base disturbances.",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -699,7 +699,7 @@
         }
       ],
       "rationale": "Reye's syndrome is an acute, life-threatening condition involving progressive neurological deficits (encephalopathy, cerebral edema, coma) and hepatic damage triggered by salicylate use during pediatric viral infections.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -716,7 +716,7 @@
         }
       ],
       "rationale": "Celecoxib (Celebrex) was the first COX-2 inhibitor approved and is the only one remaining on the Canadian market following the withdrawal of rofecoxib (Vioxx) and valdecoxib (Bextra).",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -733,7 +733,7 @@
         }
       ],
       "rationale": "Allopurinol and febuxostat inhibit xanthine oxidase (XO), the enzyme responsible for converting hypoxanthine to xanthine and xanthine to uric acid during purine metabolism.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the enzyme name…",
       "helperText": "Spelling counts."
     },
     {
@@ -752,7 +752,7 @@
         }
       ],
       "rationale": "Drugs that promote uric acid excretion in the urine by inhibiting its reabsorption in the proximal convoluted kidney tubule are known as uricosurics (e.g., probenecid, sulfinpyrazone).",
-      "placeholder": "Type the pharmacological term\u2026",
+      "placeholder": "Enter the pharmacological term…",
       "helperText": "Spelling counts."
     },
     {
@@ -770,7 +770,7 @@
         }
       ],
       "rationale": "Ketorolac tromethamine (Toradol) is an acetic acid derivative NSAID used for short-term management (maximum 5 days postsurgical or 7 days musculoskeletal) of moderate-to-severe acute pain.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -787,7 +787,7 @@
         }
       ],
       "rationale": "For an acute overdose of a nonsalicylate NSAID, treatment consists of administering activated charcoal to prevent further GI absorption, followed by supportive and symptomatic care.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the substance name…",
       "helperText": "Spelling counts."
     },
     {
@@ -863,7 +863,7 @@
       "type": "case-study",
       "title": "Acute Gout Flare Transitioning to Chronic Urate-Lowering Therapy",
       "topic": "Antigout Drugs (Colchicine & Allopurinol)",
-      "scenario": "Marcus, a 54-year-old chef with a BMI of 32 kg/m\u00b2, presents to the urgent care clinic with excruciating pain, redness, heat, and swelling in his right first metatarsophalangeal (great toe) joint that woke him from sleep. He reports eating organ meats and shellfish and drinking several beers over the weekend. His serum uric acid level is elevated at 560 \u00b5mol/L, serum creatinine is 88 \u00b5mol/L, and eGFR is 82 mL/min. He is diagnosed with acute gouty arthritis (articular gout) and prescribed oral colchicine for the acute flare.",
+      "scenario": "Marcus, a 54-year-old chef with a BMI of 32 kg/m², presents to the urgent care clinic with excruciating pain, redness, heat, and swelling in his right first metatarsophalangeal (great toe) joint that woke him from sleep. He reports eating organ meats and shellfish and drinking several beers over the weekend. His serum uric acid level is elevated at 560 µmol/L, serum creatinine is 88 µmol/L, and eGFR is 82 mL/min. He is diagnosed with acute gouty arthritis (articular gout) and prescribed oral colchicine for the acute flare.",
       "stages": [
         {
           "question": {
@@ -931,12 +931,12 @@
       "type": "case-study",
       "title": "Acute Salicylate Overdose in an Adolescent",
       "topic": "Salicylates (Acetylsalicylic Acid Toxicity)",
-      "scenario": "Liam, a 16-year-old boy weighing 60 kg, is brought to the emergency department by his parents 6.5 hours after ingesting approximately 65 tablets of regular-strength acetylsalicylic acid (325 mg per tablet) following an argument at school. On arrival, he is diaphoretic, restless, and complaining of loud ringing in his ears, muffled hearing, nausea, and dizziness. Vital signs: Temp 38.4\u00b0C, HR 118 beats/min, RR 32 breaths/min (deep and rapid), BP 116/70 mmHg.",
+      "scenario": "Liam, a 16-year-old boy weighing 60 kg, is brought to the emergency department by his parents 6.5 hours after ingesting approximately 65 tablets of regular-strength acetylsalicylic acid (325 mg per tablet) following an argument at school. On arrival, he is diaphoretic, restless, and complaining of loud ringing in his ears, muffled hearing, nausea, and dizziness. Vital signs: Temp 38.4°C, HR 118 beats/min, RR 32 breaths/min (deep and rapid), BP 116/70 mmHg.",
       "stages": [
         {
           "question": {
             "type": "multiple-choice",
-            "prompt": "Based on Liam's weight of 60 kg and an estimated ingestion of 21 125 mg (65 \u00d7 325 mg) of acetylsalicylic acid, what is his estimated mg/kg ingested dose and corresponding toxicity severity category?",
+            "prompt": "Based on Liam's weight of 60 kg and an estimated ingestion of 21 125 mg (65 × 325 mg) of acetylsalicylic acid, what is his estimated mg/kg ingested dose and corresponding toxicity severity category?",
             "options": [
               "Approximately 620 mg/kg, placing him in the life-threatening toxicity category (>500 mg/kg)",
               "Approximately 110 mg/kg, placing him in the little or no toxicity category (<150 mg/kg)",
@@ -944,7 +944,7 @@
               "Approximately 210 mg/kg, placing him in the mild-to-moderate toxicity category (150 to 300 mg/kg)"
             ],
             "answer": 2,
-            "rationale": "65 tablets \u00d7 325 mg = 21 125 mg total. Divided by 60 kg, this equals 352.1 mg/kg. According to textbook guidelines for acute salicylate overdose: <150 mg/kg is little or no toxicity; 150\u2013300 mg/kg is mild-to-moderate toxicity; 300\u2013500 mg/kg is severe toxicity; and >500 mg/kg is life-threatening toxicity."
+            "rationale": "65 tablets × 325 mg = 21 125 mg total. Divided by 60 kg, this equals 352.1 mg/kg. According to textbook guidelines for acute salicylate overdose: <150 mg/kg is little or no toxicity; 150–300 mg/kg is mild-to-moderate toxicity; 300–500 mg/kg is severe toxicity; and >500 mg/kg is life-threatening toxicity."
           }
         },
         {
@@ -962,7 +962,7 @@
               }
             ],
             "rationale": "A serum salicylate concentration measured 6 hours or longer after an acute single ingestion is plotted on the Done nomogram to estimate the severity of acute intoxication and help guide treatment.",
-            "placeholder": "Type the test name\u2026",
+            "placeholder": "Enter the tool name…",
             "helperText": "Standard abbreviations or full names are accepted."
           }
         },
@@ -988,7 +988,7 @@
       "type": "case-study",
       "title": "Osteoarthritis Management in an Older Adult With Cardiovascular and Renal Risk",
       "topic": "COX-2 Inhibitors & NSAID Interactions",
-      "scenario": "Arthur, a 74-year-old retired carpenter, visits the primary care clinic for worsening bilateral knee osteoarthritis. His medical history includes hypertension (treated with perindopril, an ACE inhibitor, and hydrochlorothiazide), paroxysmal atrial fibrillation (treated with warfarin), and a documented severe anaphylactic rash to trimethoprim\u2013sulfamethoxazole (a sulfonamide antibiotic) 5 years ago. His baseline labs show serum creatinine 118 \u00b5mol/L, eGFR 52 mL/min, and INR 2.4.",
+      "scenario": "Arthur, a 74-year-old retired carpenter, visits the primary care clinic for worsening bilateral knee osteoarthritis. His medical history includes hypertension (treated with perindopril, an ACE inhibitor, and hydrochlorothiazide), paroxysmal atrial fibrillation (treated with warfarin), and a documented severe anaphylactic rash to trimethoprim–sulfamethoxazole (a sulfonamide antibiotic) 5 years ago. His baseline labs show serum creatinine 118 µmol/L, eGFR 52 mL/min, and INR 2.4.",
       "stages": [
         {
           "question": {
@@ -1005,7 +1005,7 @@
           }
         },
         {
-          "update": "The prescriber explains why celecoxib is unsafe for him and advises against systemic NSAIDs. However, two weeks later, Arthur returns to the clinic with ankle edema, a blood pressure of 162/94 mmHg (up from 128/76 mmHg), and a serum creatinine of 186 \u00b5mol/L (eGFR dropped to 31 mL/min). Upon questioning, Arthur admits he has been taking his wife's over-the-counter ibuprofen (Advil) 400 mg four times daily for the past 10 days.",
+          "update": "The prescriber explains why celecoxib is unsafe for him and advises against systemic NSAIDs. However, two weeks later, Arthur returns to the clinic with ankle edema, a blood pressure of 162/94 mmHg (up from 128/76 mmHg), and a serum creatinine of 186 µmol/L (eGFR dropped to 31 mL/min). Upon questioning, Arthur admits he has been taking his wife's over-the-counter ibuprofen (Advil) 400 mg four times daily for the past 10 days.",
           "question": {
             "type": "multiple-choice",
             "prompt": "What is the physiological mechanism behind Arthur's acute decline in kidney function and loss of blood pressure control?",
@@ -1035,7 +1035,7 @@
           }
         },
         {
-          "update": "Arthur's 6-year-old grandson is visiting him and develops chicken pox with a fever of 38.8\u00b0C. Arthur asks the nurse if he can give his grandson 'children's aspirin' (81 mg acetylsalicylic acid) that he has in his medicine cabinet.",
+          "update": "Arthur's 6-year-old grandson is visiting him and develops chicken pox with a fever of 38.8°C. Arthur asks the nurse if he can give his grandson 'children's aspirin' (81 mg acetylsalicylic acid) that he has in his medicine cabinet.",
           "question": {
             "type": "multiple-choice",
             "prompt": "What is the nurse's priority instruction to Arthur regarding his grandson?",
@@ -1056,7 +1056,7 @@
       "type": "case-study",
       "title": "Short-Term Postoperative Pain Management With Ketorolac",
       "topic": "Acetic Acid Derivatives (Ketorolac Tromethamine)",
-      "scenario": "Nadia, a 29-year-old construction worker with a history of opioid use disorder (currently in stable remission and wishing to avoid opioid analgesics), undergoes open surgical repair of a fractured clavicle. Postoperatively, she reports acute incisional and orthopedic pain rated 8/10. Her vital signs are stable, and baseline serum creatinine is 68 \u00b5mol/L. The surgeon prescribes ketorolac tromethamine (Toradol) 30 mg IM every 6 hours.",
+      "scenario": "Nadia, a 29-year-old construction worker with a history of opioid use disorder (currently in stable remission and wishing to avoid opioid analgesics), undergoes open surgical repair of a fractured clavicle. Postoperatively, she reports acute incisional and orthopedic pain rated 8/10. Her vital signs are stable, and baseline serum creatinine is 68 µmol/L. The surgeon prescribes ketorolac tromethamine (Toradol) 30 mg IM every 6 hours.",
       "stages": [
         {
           "question": {
@@ -1109,7 +1109,7 @@
       "type": "case-study",
       "title": "Chronic Gout With Renal Impairment and Drug Interactions",
       "topic": "Antigout Drugs (Probenecid, Allopurinol, & Febuxostat)",
-      "scenario": "Walter, a 67-year-old patient with a history of chronic gouty arthritis, stage 4 chronic kidney disease (creatinine clearance 16 mL/min, serum creatinine 290 \u00b5mol/L), and a kidney transplant maintained on azathioprine, is admitted to the medical unit. A locum physician orders probenecid (Benuryl) 250 mg PO twice daily to lower Walter's serum uric acid level of 590 \u00b5mol/L.",
+      "scenario": "Walter, a 67-year-old patient with a history of chronic gouty arthritis, stage 4 chronic kidney disease (creatinine clearance 16 mL/min, serum creatinine 290 µmol/L), and a kidney transplant maintained on azathioprine, is admitted to the medical unit. A locum physician orders probenecid (Benuryl) 250 mg PO twice daily to lower Walter's serum uric acid level of 590 µmol/L.",
       "stages": [
         {
           "question": {

@@ -33,7 +33,7 @@
       "id": "acid-mc-003",
       "type": "multiple-choice",
       "topic": "Gastric Physiology & Acid Secretion",
-      "prompt": "When histamine binds to histamine-2 (H2) receptors on the wall of a gastric parietal cell, which intracellular second messenger is produced to provide energy for the hydrogen\u2013potassium\u2013ATPase pump?",
+      "prompt": "When histamine binds to histamine-2 (H2) receptors on the wall of a gastric parietal cell, which intracellular second messenger is produced to provide energy for the hydrogen–potassium–ATPase pump?",
       "options": [
         "Intracellular calcium ions (Ca2+)",
         "Activated proteolytic pepsin enzyme",
@@ -47,7 +47,7 @@
       "id": "acid-mc-004",
       "type": "multiple-choice",
       "topic": "Antacids",
-      "prompt": "A patient with chronic kidney disease (eGFR 22 mL/min/1.73 m\u00b2 and serum creatinine 265 \u00b5mol/L) asks the nurse which over-the-counter antacid is safest to avoid toxic electrolyte accumulation. What should the nurse tell the patient?",
+      "prompt": "A patient with chronic kidney disease (eGFR 22 mL/min/1.73 m² and serum creatinine 265 µmol/L) asks the nurse which over-the-counter antacid is safest to avoid toxic electrolyte accumulation. What should the nurse tell the patient?",
       "options": [
         "Magnesium- and calcium-based antacids accumulate in renal failure and should be avoided.",
         "Magnesium hydroxide is preferred because it is eliminated through the gastrointestinal tract.",
@@ -91,7 +91,7 @@
       "topic": "Antacids",
       "prompt": "A patient is prescribed Gaviscon (an antacid combined with alginate sodium) for reflux symptoms. How does the alginate component exert its therapeutic effect?",
       "options": [
-        "It inhibits the hydrogen\u2013potassium\u2013ATPase enzyme system on gastric parietal cells.",
+        "It inhibits the hydrogen–potassium–ATPase enzyme system on gastric parietal cells.",
         "It forms a floating viscous gel barrier between gastric acid and the esophagus.",
         "It alters the surface elasticity of mucus-coated gas bubbles in the stomach.",
         "It competitively blocks histamine-2 receptors located in the gastric fundus."
@@ -103,11 +103,11 @@
       "id": "acid-mc-008",
       "type": "multiple-choice",
       "topic": "Antacids",
-      "prompt": "A patient with a urinary tract infection is prescribed oral ciprofloxacin 500 mg every 12 hours and also takes an aluminum\u2013magnesium antacid (Maalox) for dyspepsia. Which instruction is most important for the nurse to provide?",
+      "prompt": "A patient with a urinary tract infection is prescribed oral ciprofloxacin 500 mg every 12 hours and also takes an aluminum–magnesium antacid (Maalox) for dyspepsia. Which instruction is most important for the nurse to provide?",
       "options": [
         "Administer the ciprofloxacin and antacid together with milk to minimize gastric irritation.",
         "Take the antacid at least 2 hours before or 2 hours after the oral ciprofloxacin dose.",
-        "Substitute calcium carbonate for the aluminum\u2013magnesium antacid during ciprofloxacin therapy.",
+        "Substitute calcium carbonate for the aluminum–magnesium antacid during ciprofloxacin therapy.",
         "Separate the antacid and ciprofloxacin doses by 30 minutes to prevent delayed gastric emptying."
       ],
       "answer": 1,
@@ -205,7 +205,7 @@
       "options": [
         "They chemically neutralize secreted hydrochloric acid within the gastric lumen via basic salts.",
         "They competitively block parietal H2 receptors, reducing acid secretion from multiple stimuli.",
-        "They irreversibly inhibit the hydrogen\u2013potassium\u2013ATPase pump on the parietal cell membrane.",
+        "They irreversibly inhibit the hydrogen–potassium–ATPase pump on the parietal cell membrane.",
         "They bind positively charged necrotic proteins at the ulcer base to form a protective barrier."
       ],
       "answer": 1,
@@ -234,7 +234,7 @@
         "Cimetidine inhibits estradiol metabolism and displaces dihydrotestosterone from androgen receptors.",
         "Cimetidine suppresses anterior pituitary prolactin release and reduces luteinizing hormone levels.",
         "Cimetidine blocks adrenal 11-beta-hydroxylase and impairs peripheral testosterone conversion.",
-        "Cimetidine induces hepatic sex hormone\u2013binding globulin and accelerates androgen renal clearance."
+        "Cimetidine induces hepatic sex hormone–binding globulin and accelerates androgen renal clearance."
       ],
       "answer": 0,
       "rationale": "Cimetidine can induce erectile dysfunction (impotence) and gynecomastia because it inhibits estradiol metabolism and displaces dihydrotestosterone from peripheral androgen-binding sites, in addition to increasing prolactin secretion."
@@ -313,7 +313,7 @@
       "id": "acid-mc-023",
       "type": "multiple-choice",
       "topic": "H2 Receptor Antagonists",
-      "prompt": "The nurse is reviewing the complete blood count of a patient receiving ranitidine hydrochloride or famotidine and notes a platelet count drop from 240 \u00d7 10\u2079/L to 68 \u00d7 10\u2079/L. Which hematological adverse effect is documented with these medications?",
+      "prompt": "The nurse is reviewing the complete blood count of a patient receiving ranitidine hydrochloride or famotidine and notes a platelet count drop from 240 × 10⁹/L to 68 × 10⁹/L. Which hematological adverse effect is documented with these medications?",
       "options": [
         "Secondary polycythemia",
         "Thrombocytopenia",
@@ -330,12 +330,12 @@
       "prompt": "What is the mechanism of action of proton pump inhibitors (PPIs) such as omeprazole, lansoprazole, and pantoprazole sodium?",
       "options": [
         "They competitively block histamine-2 receptors on the parietal cell basolateral membrane.",
-        "They irreversibly inhibit the hydrogen\u2013potassium\u2013ATPase pump to block hydrogen ion secretion.",
+        "They irreversibly inhibit the hydrogen–potassium–ATPase pump to block hydrogen ion secretion.",
         "They stimulate gastric chief and mucous cells to secrete protective bicarbonate and mucus.",
         "They neutralize secreted hydrochloric acid in the gastric lumen through basic ionic salts."
       ],
       "answer": 1,
-      "rationale": "PPIs bind irreversibly to the hydrogen\u2013potassium\u2013ATPase pump (the proton pump), which is the final step in the acid-secretory pathway of the parietal cell, blocking more than 90% of gastric acid secretion over 24 hours."
+      "rationale": "PPIs bind irreversibly to the hydrogen–potassium–ATPase pump (the proton pump), which is the final step in the acid-secretory pathway of the parietal cell, blocking more than 90% of gastric acid secretion over 24 hours."
     },
     {
       "id": "acid-mc-025",
@@ -349,7 +349,7 @@
         "Active hepatic metabolites of omeprazole undergo enterohepatic recirculation for 72 to 96 hours."
       ],
       "answer": 1,
-      "rationale": "PPIs irreversibly inhibit the hydrogen\u2013potassium\u2013ATPase enzyme. Even though the plasma elimination half-life of omeprazole is short (0.5\u20131 hour), the duration of action is 3\u20135 days because the parietal cell must synthesize new proton pump enzymes before acid secretion can resume."
+      "rationale": "PPIs irreversibly inhibit the hydrogen–potassium–ATPase enzyme. Even though the plasma elimination half-life of omeprazole is short (0.5–1 hour), the duration of action is 3–5 days because the parietal cell must synthesize new proton pump enzymes before acid secretion can resume."
     },
     {
       "id": "acid-mc-026",
@@ -500,7 +500,7 @@
         "\"It dissociates locally in stomach acid and binds positively charged proteins at the ulcer base.\"",
         "\"It is absorbed systemically and blocks acetylcholine and gastrin receptors on parietal cells.\"",
         "\"It neutralizes gastric acid in the stomach lumen and releases protective carbon dioxide gas.\"",
-        "\"It irreversibly inhibits hydrogen\u2013potassium\u2013ATPase pumps along the gastric mucosal lining.\""
+        "\"It irreversibly inhibits hydrogen–potassium–ATPase pumps along the gastric mucosal lining.\""
       ],
       "answer": 0,
       "rationale": "Sucralfate acts locally (not systemically) as a mucosal protectant. In gastric acid, it dissociates into aluminum hydroxide and sulphated sucrose molecules that bind to positively charged tissue proteins in ulcer bases and erosions, forming a 'liquid bandage' that blocks pepsin, concentrates epidermal growth factor, and stimulates prostaglandins, mucus, and bicarbonate."
@@ -573,7 +573,7 @@
         "Two hours after the evening meal"
       ],
       "answer": 0,
-      "rationale": "Misoprostol is given with food\u2014typically with meals and at bedtime\u2014for the duration of NSAID therapy to reduce GI adverse effects such as abdominal cramps and diarrhea."
+      "rationale": "Misoprostol is given with food—typically with meals and at bedtime—for the duration of NSAID therapy to reduce GI adverse effects such as abdominal cramps and diarrhea."
     },
     {
       "id": "acid-mc-042",
@@ -615,7 +615,7 @@
         "4 capsules"
       ],
       "answer": 2,
-      "rationale": "Desired dose = 60 mg; Available = 20 mg per capsule. 60 mg \u00f7 20 mg/capsule = 3 capsules."
+      "rationale": "Desired dose = 60 mg; Available = 20 mg per capsule. 60 mg ÷ 20 mg/capsule = 3 capsules."
     },
     {
       "id": "acid-mc-045",
@@ -629,7 +629,7 @@
         "200 mL/hr"
       ],
       "answer": 3,
-      "rationale": "To infuse 100 mL over 30 minutes (0.5 hours): Rate = 100 mL \u00f7 0.5 hr = 200 mL/hr."
+      "rationale": "To infuse 100 mL over 30 minutes (0.5 hours): Rate = 100 mL ÷ 0.5 hr = 200 mL/hr."
     },
     {
       "id": "acid-mc-046",
@@ -715,7 +715,7 @@
         }
       ],
       "rationale": "Sucralfate acts locally in the stomach by dissociating into aluminum hydroxide and sulphate anions that bind to positively charged tissue proteins in ulcer craters and erosions, forming a protective 'liquid bandage.'",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -732,7 +732,7 @@
         }
       ],
       "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and provides cytoprotection against NSAID-induced ulcers, but it is an abortifacient and contraindicated during pregnancy.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -751,7 +751,7 @@
         }
       ],
       "rationale": "Simethicone (Ovol, Pediacol, Phazyme) is an antiflatulent drug that alters the surface elasticity of mucus-coated gas bubbles, breaking them into smaller bubbles to relieve flatulence and bloating.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -768,7 +768,7 @@
         }
       ],
       "rationale": "Cimetidine was the first H2 receptor antagonist released. Unlike famotidine, it inhibits CYP1A2, CYP2D6, and CYP3A4 enzymes and can cause gynecomastia and impotence due to antiandrogenic and estradiol-inhibiting effects.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -785,7 +785,7 @@
         }
       ],
       "rationale": "Chief cells in the gastric glands secrete pepsinogen, a proenzyme that is activated by gastric acid into pepsin, a proteolytic enzyme that digests dietary proteins.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the enzyme name…",
       "helperText": "Spelling counts."
     },
     {
@@ -804,7 +804,7 @@
         }
       ],
       "rationale": "Helicobacter pylori (formerly called Campylobacter pylori) is the gram-negative spiral bacterium found in the GI tract of roughly 90% of patients with duodenal ulcers and 70% of those with gastric ulcers.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the organism name…",
       "helperText": "Spelling counts."
     },
     {
@@ -822,7 +822,7 @@
         }
       ],
       "rationale": "A Cushing ulcer is a stress ulcer that occurs after severe head trauma, whereas a Curling ulcer occurs in patients with severe burns.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -842,7 +842,7 @@
         }
       ],
       "rationale": "Pantoprazole sodium (Pantoloc, Panto IV) is administered intravenously as a bolus followed by continuous infusion for acute peptic ulcer bleeding after endoscopic therapy.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -850,7 +850,7 @@
       "type": "case-study",
       "title": "Chronic Self-Medication with Antacids in a Patient with Renal Impairment",
       "topic": "Antacids & Renal Compromise",
-      "scenario": "Arthur, a 74-year-old retired machinist with a history of hypertension, heart failure, and stage 4 chronic kidney disease (baseline eGFR 24 mL/min/1.73 m\u00b2, serum creatinine 250 \u00b5mol/L), presents to the medical clinic complaining of 3 weeks of worsening postprandial heartburn. He tells the nurse he has been drinking several doses a day of milk of magnesia and chewing Rolaids (calcium carbonate and magnesium hydroxide) for the past 10 days.",
+      "scenario": "Arthur, a 74-year-old retired machinist with a history of hypertension, heart failure, and stage 4 chronic kidney disease (baseline eGFR 24 mL/min/1.73 m², serum creatinine 250 µmol/L), presents to the medical clinic complaining of 3 weeks of worsening postprandial heartburn. He tells the nurse he has been drinking several doses a day of milk of magnesia and chewing Rolaids (calcium carbonate and magnesium hydroxide) for the past 10 days.",
       "stages": [
         {
           "question": {
@@ -860,7 +860,7 @@
               "Magnesium- and calcium-based antacids accumulate to toxic electrolyte levels in renal failure.",
               "Magnesium hydroxide causes severe constipation and fecal impaction in patients with heart failure.",
               "Calcium carbonate irreversibly inhibits parietal cell proton pumps and causes achlorhydria.",
-              "Combination magnesium\u2013calcium antacids accelerate renal potassium wasting and hypokalemia."
+              "Combination magnesium–calcium antacids accelerate renal potassium wasting and hypokalemia."
             ],
             "answer": 0,
             "rationale": "Both magnesium- and calcium-based antacids are excreted via renal homeostatic mechanisms and can accumulate to toxic levels (hypermagnesemia and hypercalcemia/milk-alkali syndrome) in patients with kidney failure."
@@ -874,7 +874,7 @@
             "options": [
               "Advise against sodium bicarbonate due to its high sodium load and risk of metabolic alkalosis.",
               "Recommend sodium bicarbonate because it is poorly absorbed and does not affect blood pressure.",
-              "Suggest effervescent acetylsalicylic acid\u2013sodium bicarbonate to protect the gastric mucosa.",
+              "Suggest effervescent acetylsalicylic acid–sodium bicarbonate to protect the gastric mucosa.",
               "Instruct him to dissolve sodium bicarbonate in milk four times daily to prevent fluid overload."
             ],
             "answer": 0,
@@ -941,7 +941,7 @@
             "prompt": "In addition to checking Walter's INR and serum phenytoin/theophylline levels, how does the nurse interpret his acute confusion and disorientation?",
             "options": [
               "Older adults are susceptible to H2 blocker CNS adverse effects such as confusion and slurred speech.",
-              "H2 receptor antagonists do not cross the blood\u2013brain barrier, so his symptoms reflect stroke.",
+              "H2 receptor antagonists do not cross the blood–brain barrier, so his symptoms reflect stroke.",
               "Acute confusion and lethargy indicate that gastric pH has fallen below the normal range of 1.0.",
               "Slurred speech and disorientation are classic manifestations of rebound gastric hyperchlorhydria."
             ],
@@ -964,7 +964,7 @@
               }
             ],
             "rationale": "Famotidine (Pepcid) and nizatidine have essentially no effect on the hepatic cytochrome P450 enzyme system, making famotidine much safer than cimetidine regarding CYP450 drug interactions.",
-            "placeholder": "Type a drug name\u2026",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
@@ -997,7 +997,7 @@
             "type": "multiple-choice",
             "prompt": "Following endoscopic hemostasis, the gastroenterologist orders high-dose intravenous proton pump inhibitor therapy (IV bolus followed by continuous infusion) to prevent ulcer rebleeding. Which medication and mechanism of action correspond to this order?",
             "options": [
-              "Pantoprazole sodium IV, which irreversibly inhibits the parietal cell hydrogen\u2013potassium\u2013ATPase pump",
+              "Pantoprazole sodium IV, which irreversibly inhibits the parietal cell hydrogen–potassium–ATPase pump",
               "Cimetidine hydrochloride IV, which chemically neutralizes hydrochloric acid in the duodenal lumen",
               "Sucralfate suspension IV, which binds positively charged necrotic proteins at the bleeding ulcer base",
               "Misoprostol IV, which stimulates chief cell pepsinogen secretion and promotes platelet aggregation"
@@ -1082,7 +1082,7 @@
             "options": [
               "It dissociates locally and binds positively charged ulcer proteins to form a protective barrier.",
               "It is absorbed systemically and blocks acetylcholine and gastrin receptors on parietal cell walls.",
-              "It irreversibly inhibits the hydrogen\u2013potassium\u2013ATPase enzyme system for 24 hours after each dose.",
+              "It irreversibly inhibits the hydrogen–potassium–ATPase enzyme system for 24 hours after each dose.",
               "It reacts with hydrochloric acid to form a floating kelp-derived alginate gel raft in the stomach."
             ],
             "answer": 0,
@@ -1090,14 +1090,14 @@
           }
         },
         {
-          "update": "Nadia also takes levothyroxine (thyroid hormone) every morning and occasional aluminum\u2013magnesium antacids for breakthrough dyspepsia. She asks when she should take her sucralfate in relation to food, other medications, and antacids.",
+          "update": "Nadia also takes levothyroxine (thyroid hormone) every morning and occasional aluminum–magnesium antacids for breakthrough dyspepsia. She asks when she should take her sucralfate in relation to food, other medications, and antacids.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which medication schedule should the nurse teach Nadia?",
             "options": [
               "Take sucralfate 1 hour before meals and at bedtime, and take other drugs 2 hours before sucralfate.",
               "Take sucralfate with meals and swallow it together with morning levothyroxine and liquid antacids.",
-              "Take sucralfate 30 minutes after meals and within 15 minutes of taking an aluminum\u2013magnesium antacid.",
+              "Take sucralfate 30 minutes after meals and within 15 minutes of taking an aluminum–magnesium antacid.",
               "Dissolve sucralfate in milk of magnesia and take once daily with breakfast and thyroid medication."
             ],
             "answer": 0,
@@ -1154,7 +1154,7 @@
               "Infuse at 300 mL/hr and assess for acute bronchospasm and cholinergic crisis during the infusion."
             ],
             "answer": 0,
-            "rationale": "50 mL infused over 20 minutes (1/3 of an hour) = 50 mL \u00d7 3 = 150 mL/hr. IV H2 receptor antagonists must be diluted properly and infused over the recommended time frame with blood pressure monitoring because rapid infusion can cause hypotension."
+            "rationale": "50 mL infused over 20 minutes (1/3 of an hour) = 50 mL × 3 = 150 mL/hr. IV H2 receptor antagonists must be diluted properly and infused over the recommended time frame with blood pressure monitoring because rapid infusion can cause hypotension."
           }
         },
         {
@@ -1169,7 +1169,7 @@
               }
             ],
             "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day.",
-            "placeholder": "Enter a number\u2026",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },

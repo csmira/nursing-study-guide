@@ -41,7 +41,7 @@
         "Transitioning the patient from a scheduled dosing regimen to breakthrough PRN administration"
       ],
       "answer": 1,
-      "rationale": "When a single antiemetic titrated to full dose is inadequate, best practice is to add\u2014rather than substitute\u2014a drug from another category that targets a different receptor pathway to achieve additive blockade. Persistent nausea and vomiting should be managed with scheduled dosing plus a breakthrough dose rather than PRN-only dosing."
+      "rationale": "When a single antiemetic titrated to full dose is inadequate, best practice is to add—rather than substitute—a drug from another category that targets a different receptor pathway to achieve additive blockade. Persistent nausea and vomiting should be managed with scheduled dosing plus a breakthrough dose rather than PRN-only dosing."
     },
     {
       "id": "emet-mc-004",
@@ -97,7 +97,7 @@
         "0.6 mL"
       ],
       "answer": 2,
-      "rationale": "First, calculate the child's dose in milligrams: 20 kg \u00d7 0.006 mg/kg = 0.12 mg. Next, divide by the available concentration: 0.12 mg \u00f7 0.4 mg/mL = 0.3 mL."
+      "rationale": "First, calculate the child's dose in milligrams: 20 kg × 0.006 mg/kg = 0.12 mg. Next, divide by the available concentration: 0.12 mg ÷ 0.4 mg/mL = 0.3 mL."
     },
     {
       "id": "emet-mc-008",
@@ -397,7 +397,7 @@
       "id": "emet-mc-029",
       "type": "multiple-choice",
       "topic": "Serotonin Blockers",
-      "prompt": "A child with a body surface area (BSA) of 1.2 m\u00b2 is scheduled for chemotherapy and is ordered ondansetron 5 mg/m\u00b2 IV over 15 minutes immediately before chemotherapy. The pharmacy supplies ondansetron in a concentration of 2 mg/mL. How many millilitres (mL) of ondansetron will the nurse draw up to dilute for the infusion?",
+      "prompt": "A child with a body surface area (BSA) of 1.2 m² is scheduled for chemotherapy and is ordered ondansetron 5 mg/m² IV over 15 minutes immediately before chemotherapy. The pharmacy supplies ondansetron in a concentration of 2 mg/mL. How many millilitres (mL) of ondansetron will the nurse draw up to dilute for the infusion?",
       "options": [
         "1.5 mL",
         "2.4 mL",
@@ -405,7 +405,7 @@
         "6 mL"
       ],
       "answer": 2,
-      "rationale": "First, calculate the total dose in milligrams: 1.2 m\u00b2 \u00d7 5 mg/m\u00b2 = 6 mg. Next, divide by the concentration on hand: 6 mg \u00f7 2 mg/mL = 3 mL."
+      "rationale": "First, calculate the total dose in milligrams: 1.2 m² × 5 mg/m² = 6 mg. Next, divide by the concentration on hand: 6 mg ÷ 2 mg/mL = 3 mL."
     },
     {
       "id": "emet-mc-030",
@@ -466,21 +466,21 @@
     {
       "id": "emet-mc-034",
       "type": "multiple-choice",
-      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
+      "topic": "Substance P–Neurokinin-1 Antagonists",
       "prompt": "Aprepitant (Emend) is prescribed as part of a multidrug antiemetic regimen for a patient receiving high-dose cisplatin chemotherapy. What is the mechanism of action of aprepitant?",
       "options": [
-        "It is an antagonist of substance P\u2013neurokinin-1 (NK1) receptors in the brain.",
+        "It is an antagonist of substance P–neurokinin-1 (NK1) receptors in the brain.",
         "It is a selective serotonin 5-HT3 receptor antagonist in the small intestine.",
         "It is a phenothiazine derivative that blocks dopamine D2 receptors in the CTZ.",
         "It is a belladonna alkaloid that blocks muscarinic receptors in the inner ear."
       ],
       "answer": 0,
-      "rationale": "Aprepitant is the first drug in the class of substance P\u2013neurokinin-1 (NK1) receptor antagonists in the brain. It has little affinity for serotonin (5-HT3) or dopamine receptors and augments the antiemetic activity of ondansetron and dexamethasone."
+      "rationale": "Aprepitant is the first drug in the class of substance P–neurokinin-1 (NK1) receptor antagonists in the brain. It has little affinity for serotonin (5-HT3) or dopamine receptors and augments the antiemetic activity of ondansetron and dexamethasone."
     },
     {
       "id": "emet-mc-035",
       "type": "multiple-choice",
-      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
+      "topic": "Substance P–Neurokinin-1 Antagonists",
       "prompt": "A 29-year-old female patient receiving chemotherapy is prescribed aprepitant (Emend). She takes combined oral contraceptive pills daily. Which patient teaching point is essential for the nurse to include?",
       "options": [
         "\"Aprepitant can reduce oral contraceptive effectiveness, so use an alternative or backup method.\"",
@@ -494,7 +494,7 @@
     {
       "id": "emet-mc-036",
       "type": "multiple-choice",
-      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
+      "topic": "Substance P–Neurokinin-1 Antagonists",
       "prompt": "Because aprepitant (Emend) is a major inhibitor of the cytochrome P450 3A4 (CYP3A4) enzyme system, caution is required when administering it concurrently with which of the following medications?",
       "options": [
         "Diltiazem, verapamil, clarithromycin, or azole antifungals",
@@ -559,7 +559,7 @@
         "Between 10 and 12 seconds"
       ],
       "answer": 0,
-      "rationale": "According to the chapter's nursing assessment guidelines, the nurse should examine skin and mucous membrane turgor and colour and assess capillary refill\u2014where normal is less than 5 seconds\u2014to establish baseline hydration status."
+      "rationale": "According to the chapter's nursing assessment guidelines, the nurse should examine skin and mucous membrane turgor and colour and assess capillary refill—where normal is less than 5 seconds—to establish baseline hydration status."
     },
     {
       "id": "emet-mc-041",
@@ -661,7 +661,7 @@
         }
       ],
       "rationale": "Ondansetron (Zofran) is the prototypical 5-HT3 receptor antagonist (serotonin blocker) used for chemotherapy-induced nausea and vomiting, postoperative nausea and vomiting, and hyperemesis gravidarum.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -680,7 +680,7 @@
         }
       ],
       "rationale": "Metoclopramide hydrochloride (Metonia, Metoclopramide OMEGA) is the only prokinetic drug profiled in the chapter that is used both to promote GI motility in delayed gastric emptying/GERD and to prevent nausea and vomiting.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -699,14 +699,14 @@
         }
       ],
       "rationale": "Scopolamine (scopolamine hydrobromide; Transderm V) is the primary anticholinergic antiemetic used for motion sickness, preoperative secretion reduction, and postoperative nausea and vomiting.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-004",
       "type": "short-answer",
-      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
-      "prompt": "Name the antiemetic drug that acts as an antagonist of substance P\u2013neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
+      "topic": "Substance P–Neurokinin-1 Antagonists",
+      "prompt": "Name the antiemetic drug that acts as an antagonist of substance P–neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
       "answers": [
         {
           "text": "aprepitant",
@@ -715,14 +715,14 @@
           ]
         }
       ],
-      "rationale": "Aprepitant (Emend) blocks substance P\u2013neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy.",
-      "placeholder": "Type a drug name\u2026",
+      "rationale": "Aprepitant (Emend) blocks substance P–neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy.",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-005",
       "type": "short-answer",
-      "topic": "Substance P\u2013Neurokinin-1 Antagonists",
+      "topic": "Substance P–Neurokinin-1 Antagonists",
       "prompt": "A patient taking warfarin sodium is prescribed aprepitant (Emend) for chemotherapy-induced nausea. Because aprepitant induces warfarin metabolism, which coagulation laboratory test (abbreviation or full name) must be checked before each cycle of aprepitant?",
       "answers": [
         {
@@ -735,7 +735,7 @@
         }
       ],
       "rationale": "Aprepitant induces the metabolism of warfarin sodium, which can decrease its anticoagulant effect; therefore, the international normalized ratio (INR) must be checked before each cycle of aprepitant.",
-      "placeholder": "Type the test name\u2026",
+      "placeholder": "Enter the test name…",
       "helperText": "Standard abbreviations or full names are accepted."
     },
     {
@@ -752,7 +752,7 @@
         }
       ],
       "rationale": "Pyridoxine hydrochloride is vitamin B6, which is combined with the antihistamine doxylamine succinate in Diclectin delayed-release tablets to manage nausea and vomiting during pregnancy.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the vitamin name…",
       "helperText": "Spelling counts."
     },
     {
@@ -771,7 +771,7 @@
         }
       ],
       "rationale": "Promethazine hydrochloride (Histantil) is a high-alert antidopaminergic antiemetic that is contraindicated in children younger than 2 years of age and causes devastating tissue damage and gangrene if given intra-arterially or subcutaneously.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -789,14 +789,14 @@
         }
       ],
       "rationale": "Ginger (Zingiber officinale) contains gingerols and gingerdione and is used for nausea and vomiting, but it may worsen cholelithiasis (gallstones) and increase bleeding risk with anticoagulants or antiplatelet drugs.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the herbal remedy…",
       "helperText": "Spelling counts."
     },
     {
       "id": "emet-cs-001",
       "type": "case-study",
       "title": "Multidrug Antiemetic Prophylaxis in High-Dose Cisplatin Chemotherapy",
-      "topic": "Serotonin Blockers and Substance P\u2013Neurokinin-1 Antagonists",
+      "topic": "Serotonin Blockers and Substance P–Neurokinin-1 Antagonists",
       "scenario": "Arthur Pendelton, a 62-year-old man recently diagnosed with non-small cell lung cancer, arrives at the outpatient oncology unit for his first cycle of highly emetogenic chemotherapy containing high-dose cisplatin. His medical history includes chronic atrial fibrillation managed with warfarin sodium (baseline INR 2.4). His pre-chemotherapy antiemetic orders include intravenous ondansetron (Zofran), oral aprepitant (Emend), and oral dexamethasone.",
       "stages": [
         {
@@ -840,7 +840,7 @@
               "Advise him to take oral ibuprofen with food for the headache and double his evening dose of oral dexamethasone."
             ],
             "answer": 0,
-            "rationale": "Headache is a common adverse effect of ondansetron and may be relieved with a simple analgesic such as acetaminophen (avoiding NSAIDs in a patient on warfarin). In addition, per the 2014 Health Canada warning, IV ondansetron must be infused over the recommended time (e.g., 2\u20135 min for up to 8 mg push, or 15 min for infusions) to reduce the risk of QT prolongation and dysrhythmias."
+            "rationale": "Headache is a common adverse effect of ondansetron and may be relieved with a simple analgesic such as acetaminophen (avoiding NSAIDs in a patient on warfarin). In addition, per the 2014 Health Canada warning, IV ondansetron must be infused over the recommended time (e.g., 2–5 min for up to 8 mg push, or 15 min for infusions) to reduce the risk of QT prolongation and dysrhythmias."
           }
         },
         {
@@ -857,7 +857,7 @@
               }
             ],
             "rationale": "Lorazepam is an anxiolytic benzodiazepine used in combination with serotonin blockers during chemotherapy because, in addition to its antiemetic effect, it helps blunt the memory of the nausea and vomiting experience (anticipatory nausea and vomiting).",
-            "placeholder": "Type a drug name\u2026",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         }
@@ -868,7 +868,7 @@
       "type": "case-study",
       "title": "High-Alert Parenteral Antiemetics in Acute Gastroenteritis",
       "topic": "Antidopaminergics and Antihistamines",
-      "scenario": "Clara Vance, a 34-year-old woman, presents to the emergency department after 14 hours of severe nausea and intractable vomiting following a foodborne illness. Her vital signs are BP 96/60 mmHg (standing BP 80/50 mmHg), HR 114 beats/min, RR 18 breaths/min, and T 37.3\u00b0C. Serum labs show Na+ 133 mmol/L, K+ 3.2 mmol/L, and creatinine 108 \u00b5mol/L.",
+      "scenario": "Clara Vance, a 34-year-old woman, presents to the emergency department after 14 hours of severe nausea and intractable vomiting following a foodborne illness. Her vital signs are BP 96/60 mmHg (standing BP 80/50 mmHg), HR 114 beats/min, RR 18 breaths/min, and T 37.3°C. Serum labs show Na+ 133 mmol/L, K+ 3.2 mmol/L, and creatinine 108 µmol/L.",
       "stages": [
         {
           "question": {
@@ -881,7 +881,7 @@
               "Dependent ankle edema, jugular venous distension at 45 degrees, moist tongue, and postural dizziness"
             ],
             "answer": 0,
-            "rationale": "Before administering antiemetics\u2014especially antidopaminergics that cause orthostatic hypotension and tachycardia\u2014the nurse assesses hydration status via skin turgor, capillary refill (normal is <5 seconds), and presence of longitudinal furrows on the tongue, while closely monitoring blood pressure and pulse."
+            "rationale": "Before administering antiemetics—especially antidopaminergics that cause orthostatic hypotension and tachycardia—the nurse assesses hydration status via skin turgor, capillary refill (normal is <5 seconds), and presence of longitudinal furrows on the tongue, while closely monitoring blood pressure and pulse."
           }
         },
         {
@@ -910,8 +910,8 @@
                 "text": "0.5"
               }
             ],
-            "rationale": "Using the dosage formula (Desired \u00f7 Have \u00d7 Volume): 12.5 mg \u00f7 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine.",
-            "placeholder": "Enter a number\u2026",
+            "rationale": "Using the dosage formula (Desired ÷ Have × Volume): 12.5 mg ÷ 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine.",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },
@@ -1131,7 +1131,7 @@
               "Choose seasoned, savoury snacks every 4 hours and drink warm milk during meals to coat the stomach lining."
             ],
             "answer": 0,
-            "rationale": "Effective nonpharmacological interventions include avoiding spicy, salty, fatty, or strong-odour foods; eating small, frequent, bland meals every 1\u20132 hours; separating solids and liquids by 20\u201330 minutes; sipping cool carbonated beverages or chilled gelatin; and avoiding lying flat after eating."
+            "rationale": "Effective nonpharmacological interventions include avoiding spicy, salty, fatty, or strong-odour foods; eating small, frequent, bland meals every 1–2 hours; separating solids and liquids by 20–30 minutes; sipping cool carbonated beverages or chilled gelatin; and avoiding lying flat after eating."
           }
         }
       ]
@@ -1199,7 +1199,7 @@
               "Administer hydroxyzine hydrochloride 25 mg by slow IV push through the peripheral line to block histamine-1 receptors."
             ],
             "answer": 0,
-            "rationale": "According to the chapter's dosage table for postoperative nausea and vomiting, after giving ondansetron 4 mg IV over 2\u20135 minutes \u00d7 1 dose, a second dose has not been shown to be effective in patients who fail to respond to the first dose; best practice is to add an antiemetic from another class that blocks a different receptor pathway."
+            "rationale": "According to the chapter's dosage table for postoperative nausea and vomiting, after giving ondansetron 4 mg IV over 2–5 minutes × 1 dose, a second dose has not been shown to be effective in patients who fail to respond to the first dose; best practice is to add an antiemetic from another class that blocks a different receptor pathway."
           }
         }
       ]

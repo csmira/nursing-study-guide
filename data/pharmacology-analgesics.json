@@ -717,7 +717,9 @@
           ]
         }
       ],
-      "rationale": "Acetylcysteine (N-acetylcysteine) is the antidote for acetaminophen toxicity. It works by preventing the formation of hepatotoxic metabolites and is most effective when given within 10 hours of the overdose."
+      "rationale": "Acetylcysteine (N-acetylcysteine) is the antidote for acetaminophen toxicity. It works by preventing the formation of hepatotoxic metabolites and is most effective when given within 10 hours of the overdose.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-002",
@@ -733,7 +735,9 @@
           ]
         }
       ],
-      "rationale": "Naloxone hydrochloride is a pure competitive opioid antagonist at mu, kappa, and delta receptors that rapidly reverses opioid-induced CNS and respiratory depression."
+      "rationale": "Naloxone hydrochloride is a pure competitive opioid antagonist at mu, kappa, and delta receptors that rapidly reverses opioid-induced CNS and respiratory depression.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-003",
@@ -748,7 +752,9 @@
           ]
         }
       ],
-      "rationale": "Meperidine is metabolized into normeperidine, an active neurotoxic metabolite that accumulates with repeated dosing or renal dysfunction and causes CNS excitation and seizures unresponsive to naloxone."
+      "rationale": "Meperidine is metabolized into normeperidine, an active neurotoxic metabolite that accumulates with repeated dosing or renal dysfunction and causes CNS excitation and seizures unresponsive to naloxone.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-004",
@@ -765,7 +771,9 @@
           ]
         }
       ],
-      "rationale": "Methadone hydrochloride (Metadol, Methadose) is a long-acting synthetic opioid used in opioid detoxification/maintenance programs and for severe persistent pain; because it is eliminated via the liver, it is also safer in renal impairment."
+      "rationale": "Methadone hydrochloride (Metadol, Methadose) is a long-acting synthetic opioid used in opioid detoxification/maintenance programs and for severe persistent pain; because it is eliminated via the liver, it is also safer in renal impairment.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-005",
@@ -778,7 +786,9 @@
           "aliases": []
         }
       ],
-      "rationale": "Allodynia is a painful response to a normally non-noxious stimulus (such as light touch or bedsheets on the feet) and is characteristic of neuropathic pain syndromes and opioid-induced hyperalgesia."
+      "rationale": "Allodynia is a painful response to a normally non-noxious stimulus (such as light touch or bedsheets on the feet) and is characteristic of neuropathic pain syndromes and opioid-induced hyperalgesia.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "anlg-sa-006",
@@ -794,7 +804,9 @@
           ]
         }
       ],
-      "rationale": "Naltrexone hydrochloride (ReVia) is an oral competitive opioid antagonist with a 24- to 48-hour duration of action used to maintain an opioid-free state and as an adjunct in treating alcoholism."
+      "rationale": "Naltrexone hydrochloride (ReVia) is an oral competitive opioid antagonist with a 24- to 48-hour duration of action used to maintain an opioid-free state and as an adjunct in treating alcoholism.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-007",
@@ -811,7 +823,9 @@
           ]
         }
       ],
-      "rationale": "Transdermal lidocaine patches are applied to intact skin for up to 12 hours a day to provide local pain relief in patients with postherpetic neuralgia following shingles."
+      "rationale": "Transdermal lidocaine patches are applied to intact skin for up to 12 hours a day to provide local pain relief in patients with postherpetic neuralgia following shingles.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-008",
@@ -827,7 +841,9 @@
           ]
         }
       ],
-      "rationale": "Codeine is metabolized in the liver to morphine via the enzyme CYP2D6. Individuals who are genetic ultra-rapid CYP2D6 metabolizers convert codeine to morphine too quickly, risking fatal respiratory depression."
+      "rationale": "Codeine is metabolized in the liver to morphine via the enzyme CYP2D6. Individuals who are genetic ultra-rapid CYP2D6 metabolizers convert codeine to morphine too quickly, risking fatal respiratory depression.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "anlg-cs-001",
@@ -1002,7 +1018,9 @@
                 ]
               }
             ],
-            "rationale": "Acetylcysteine is the antidote for acetaminophen overdose; it prevents the formation of hepatotoxic metabolites and is most effective when given within 10 hours of ingestion."
+            "rationale": "Acetylcysteine is the antidote for acetaminophen overdose; it prevents the formation of hepatotoxic metabolites and is most effective when given within 10 hours of ingestion.",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -1130,19 +1148,16 @@
           "update": "Using the FACES scale, Leo points to the tearful face (level 5) once he learns his medicine can be given through his existing IV line without a needle stick. The surgeon orders morphine sulphate 0.1 mg/kg IV every 4 hours as needed for severe pain.",
           "question": {
             "type": "short-answer",
-            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose? (Enter the number and unit, e.g., 2 mg)",
+            "inputType": "number",
+            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose?",
             "answers": [
               {
-                "text": "2 mg",
-                "aliases": [
-                  "2",
-                  "2.0 mg",
-                  "2.0",
-                  "2 milligrams"
-                ]
+                "text": "2"
               }
             ],
-            "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg \u00d7 0.1 mg/kg = 2 mg per dose."
+            "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg \u00d7 0.1 mg/kg = 2 mg per dose.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

@@ -715,7 +715,9 @@
           ]
         }
       ],
-      "rationale": "Aliskiren (aliskiren fumarate; Rasilez) is the sole drug in the direct renin inhibitor class. It binds directly to the renin enzyme to prevent the conversion of angiotensinogen to angiotensin I."
+      "rationale": "Aliskiren (aliskiren fumarate; Rasilez) is the sole drug in the direct renin inhibitor class. It binds directly to the renin enzyme to prevent the conversion of angiotensinogen to angiotensin I.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-002",
@@ -733,7 +735,9 @@
           ]
         }
       ],
-      "rationale": "First-dose syncope refers to a severe hypotensive effect with loss of consciousness that can occur with the initial dose of an alpha1 blocker (such as doxazosin or prazosin) or alpha agonist. Administering the first dose at bedtime helps prevent injury."
+      "rationale": "First-dose syncope refers to a severe hypotensive effect with loss of consciousness that can occur with the initial dose of an alpha1 blocker (such as doxazosin or prazosin) or alpha agonist. Administering the first dose at bedtime helps prevent injury.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-003",
@@ -749,7 +753,9 @@
           ]
         }
       ],
-      "rationale": "Angioedema is a rare but potentially fatal adverse effect of ACE inhibitors involving submucosal and laryngeal swelling that can progress to airway obstruction and anaphylaxis."
+      "rationale": "Angioedema is a rare but potentially fatal adverse effect of ACE inhibitors involving submucosal and laryngeal swelling that can progress to airway obstruction and anaphylaxis.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-004",
@@ -766,7 +772,9 @@
           ]
         }
       ],
-      "rationale": "Enalapril sodium (Vasotec) is the only marketed ACE inhibitor available in both oral and parenteral (enalaprilat) preparations."
+      "rationale": "Enalapril sodium (Vasotec) is the only marketed ACE inhibitor available in both oral and parenteral (enalaprilat) preparations.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-005",
@@ -782,7 +790,9 @@
           ]
         }
       ],
-      "rationale": "Minoxidil (Loniten orally; Rogaine topically) is a direct-acting arteriolar vasodilator used for severe hypertension that also stimulates hair growth."
+      "rationale": "Minoxidil (Loniten orally; Rogaine topically) is a direct-acting arteriolar vasodilator used for severe hypertension that also stimulates hair growth.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-006",
@@ -799,7 +809,9 @@
           ]
         }
       ],
-      "rationale": "ACE inhibitors, ARBs, and selective aldosterone blockers (eplerenone) reduce aldosterone activity, promoting potassium resorption in the kidneys and placing the patient at risk for hyperkalemia (serum potassium > 5.0 to 5.5 mmol/L)."
+      "rationale": "ACE inhibitors, ARBs, and selective aldosterone blockers (eplerenone) reduce aldosterone activity, promoting potassium resorption in the kidneys and placing the patient at risk for hyperkalemia (serum potassium > 5.0 to 5.5 mmol/L).",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-007",
@@ -814,7 +826,9 @@
           ]
         }
       ],
-      "rationale": "Eplerenone (Inspra) is the selective aldosterone receptor antagonist indicated for routine hypertension and for improving survival in patients with stable heart failure after a myocardial infarction."
+      "rationale": "Eplerenone (Inspra) is the selective aldosterone receptor antagonist indicated for routine hypertension and for improving survival in patients with stable heart failure after a myocardial infarction.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-008",
@@ -829,7 +843,9 @@
           ]
         }
       ],
-      "rationale": "Abrupt discontinuation of antihypertensive medications—especially centrally acting alpha2 agonists like clonidine and beta blockers—causes rebound hypertension, which can precipitate a stroke or acute cardiac event."
+      "rationale": "Abrupt discontinuation of antihypertensive medications—especially centrally acting alpha2 agonists like clonidine and beta blockers—causes rebound hypertension, which can precipitate a stroke or acute cardiac event.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-009",
@@ -844,7 +860,9 @@
           ]
         }
       ],
-      "rationale": "A prodrug is a drug that is inactive in its administered form and must be metabolized to its active form in the body, generally by the liver, to be effective. All ACE inhibitors except captopril and lisinopril are prodrugs."
+      "rationale": "A prodrug is a drug that is inactive in its administered form and must be metabolized to its active form in the body, generally by the liver, to be effective. All ACE inhibitors except captopril and lisinopril are prodrugs.",
+      "placeholder": "Type the pharmacological term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-cs-001",
@@ -897,7 +915,9 @@
                 ]
               }
             ],
-            "rationale": "When sodium nitroprusside is combined with sodium thiosulfate (sodium thiosulphate), the potential for cyanide toxicity is greatly reduced. If cyanide or thiocyanate toxicity occurs, treatment uses a standard cyanide antidote kit containing amyl nitrite for inhalation and sodium nitrite and sodium thiosulfate for injection."
+            "rationale": "When sodium nitroprusside is combined with sodium thiosulfate (sodium thiosulphate), the potential for cyanide toxicity is greatly reduced. If cyanide or thiocyanate toxicity occurs, treatment uses a standard cyanide antidote kit containing amyl nitrite for inhalation and sodium nitrite and sodium thiosulfate for injection.",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -1073,7 +1093,9 @@
                 ]
               }
             ],
-            "rationale": "Captopril and lisinopril (Prinivil, Zestril) are the only two ACE inhibitors that are not prodrugs. Unlike oral enalapril, ramipril, or perindopril, lisinopril does not depend on liver function for conversion into an active form and offers convenient once-daily dosing."
+            "rationale": "Captopril and lisinopril (Prinivil, Zestril) are the only two ACE inhibitors that are not prodrugs. Unlike oral enalapril, ramipril, or perindopril, lisinopril does not depend on liver function for conversion into an active form and offers convenient once-daily dosing.",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -1839,7 +1861,7 @@
       "id": "diur-sa-001",
       "type": "short-answer",
       "topic": "Antidiuretic: Loop Diuretics",
-      "prompt": "Name the prototypical loop diuretic (generic name) whose trade name, Lasix, was derived from its 6-hour oral duration of action.",
+      "prompt": "Name the prototypical loop diuretic whose trade name, Lasix, was derived from its 6-hour oral duration of action.",
       "answers": [
         {
           "text": "furosemide",
@@ -1848,13 +1870,15 @@
           ]
         }
       ],
-      "rationale": "Furosemide (Lasix) is the prototypical and most commonly used loop diuretic; its trade name reflects that its action lasts approximately 6 hours when given orally."
+      "rationale": "Furosemide (Lasix) is the prototypical and most commonly used loop diuretic; its trade name reflects that its action lasts approximately 6 hours when given orally.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-002",
       "type": "short-answer",
       "topic": "Antidiuretic: Osmotic Diuretics",
-      "prompt": "Name the prototypical osmotic diuretic (generic name) that is a nonabsorbable solute used to reduce intracranial pressure and cerebral edema.",
+      "prompt": "Name the prototypical osmotic diuretic that is a nonabsorbable solute used to reduce intracranial pressure and cerebral edema.",
       "answers": [
         {
           "text": "mannitol",
@@ -1863,13 +1887,15 @@
           ]
         }
       ],
-      "rationale": "Mannitol (Osmitrol) is a nonabsorbable solute that acts as an osmotic diuretic along the nephron (primarily the proximal tubule and descending loop of Henle) to reduce cerebral edema and intracranial pressure."
+      "rationale": "Mannitol (Osmitrol) is a nonabsorbable solute that acts as an osmotic diuretic along the nephron (primarily the proximal tubule and descending loop of Henle) to reduce cerebral edema and intracranial pressure.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-003",
       "type": "short-answer",
       "topic": "Antidiuretic: Potassium-Sparing Diuretics",
-      "prompt": "Name the synthetic steroid potassium-sparing diuretic (generic name) that acts as a competitive antagonist of aldosterone receptors and is used to treat ascites and heart failure.",
+      "prompt": "Name the synthetic steroid potassium-sparing diuretic that acts as a competitive antagonist of aldosterone receptors and is used to treat ascites and heart failure.",
       "answers": [
         {
           "text": "spironolactone",
@@ -1878,13 +1904,15 @@
           ]
         }
       ],
-      "rationale": "Spironolactone (Aldactone) is a synthetic steroid that competitively binds to aldosterone receptors in the distal tubule, causing sodium and water excretion while retaining potassium."
+      "rationale": "Spironolactone (Aldactone) is a synthetic steroid that competitively binds to aldosterone receptors in the distal tubule, causing sodium and water excretion while retaining potassium.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-004",
       "type": "short-answer",
       "topic": "Antidiuretic: Carbonic Anhydrase Inhibitors",
-      "prompt": "Name the most commonly used carbonic anhydrase inhibitor (generic name) indicated for open-angle glaucoma and the prevention and treatment of high-altitude sickness.",
+      "prompt": "Name the most commonly used carbonic anhydrase inhibitor indicated for open-angle glaucoma and the prevention and treatment of high-altitude sickness.",
       "answers": [
         {
           "text": "acetazolamide",
@@ -1893,13 +1921,15 @@
           ]
         }
       ],
-      "rationale": "Acetazolamide (Acetazolam) is the prototypical carbonic anhydrase inhibitor acting in the proximal convoluted tubule and eye."
+      "rationale": "Acetazolamide (Acetazolam) is the prototypical carbonic anhydrase inhibitor acting in the proximal convoluted tubule and eye.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-005",
       "type": "short-answer",
       "topic": "Antidiuretic: Thiazide and Thiazide-Like Diuretics",
-      "prompt": "Name the thiazide-like diuretic (generic name) that remains effective at a creatinine clearance as low as 10 mL/min and is frequently combined with a loop diuretic for sequential nephron blockade.",
+      "prompt": "Name the thiazide-like diuretic that remains effective at a creatinine clearance as low as 10 mL/min and is frequently combined with a loop diuretic for sequential nephron blockade.",
       "answers": [
         {
           "text": "metolazone",
@@ -1908,13 +1938,15 @@
           ]
         }
       ],
-      "rationale": "Metolazone (Zaroxolyn) is a potent thiazide-like diuretic that remains effective in severe kidney impairment (down to a creatinine clearance of 10 mL/min) and is combined with loop diuretics for sequential nephron blockade."
+      "rationale": "Metolazone (Zaroxolyn) is a potent thiazide-like diuretic that remains effective in severe kidney impairment (down to a creatinine clearance of 10 mL/min) and is combined with loop diuretics for sequential nephron blockade.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-006",
       "type": "short-answer",
       "topic": "Antidiuretic: Antidiuretic Hormone Drugs",
-      "prompt": "Name the synthetic structural analogue of human antidiuretic hormone (generic name) that has 10 times the antidiuretic activity of vasopressin and is used to treat central diabetes insipidus and mild hemophilia A.",
+      "prompt": "Name the synthetic structural analogue of human antidiuretic hormone that has 10 times the antidiuretic activity of vasopressin and is used to treat central diabetes insipidus and mild hemophilia A.",
       "answers": [
         {
           "text": "desmopressin",
@@ -1926,20 +1958,24 @@
           ]
         }
       ],
-      "rationale": "Desmopressin (DDAVP, Octostim, Nocdurna) is a synthetic vasopressin analogue with potent antidiuretic activity, minimal vasoconstrictor effect, and the ability to increase factor VIII and von Willebrand factor levels."
+      "rationale": "Desmopressin (DDAVP, Octostim, Nocdurna) is a synthetic vasopressin analogue with potent antidiuretic activity, minimal vasoconstrictor effect, and the ability to increase factor VIII and von Willebrand factor levels.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-007",
       "type": "short-answer",
       "topic": "Antidiuretic: Antidiuretic Hormone Drugs",
-      "prompt": "Name the vasopressin receptor antagonist (generic name) mentioned in Chapter 31 that is prescribed to treat marked symptomatic hyponatremia in patients with SIADH or heart failure.",
+      "prompt": "Name the vasopressin receptor antagonist mentioned in Chapter 31 that is prescribed to treat marked symptomatic hyponatremia in patients with SIADH or heart failure.",
       "answers": [
         {
           "text": "tolvaptan",
           "aliases": []
         }
       ],
-      "rationale": "Tolvaptan is a vasopressin antagonist used to treat marked symptomatic hyponatremia associated with syndrome of inappropriate antidiuretic hormone (SIADH) and heart failure."
+      "rationale": "Tolvaptan is a vasopressin antagonist used to treat marked symptomatic hyponatremia associated with syndrome of inappropriate antidiuretic hormone (SIADH) and heart failure.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-008",
@@ -1956,7 +1992,9 @@
           ]
         }
       ],
-      "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L) is the most common and clinically important electrolyte abnormality associated with loop and thiazide diuretics and predisposes patients to digoxin toxicity and cardiac dysrhythmias."
+      "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L) is the most common and clinically important electrolyte abnormality associated with loop and thiazide diuretics and predisposes patients to digoxin toxicity and cardiac dysrhythmias.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "diur-cs-001",
@@ -1998,7 +2036,7 @@
           "update": "Arthur's morning serum potassium level returns at 2.9 mmol/L. Digoxin is held, and his potassium is safely replaced until it reaches 4.2 mmol/L. However, on hospital day 4, his peripheral edema becomes resistant to IV furosemide alone, and his estimated creatinine clearance is 22 mL/min. The cardiologist adds a daily oral thiazide-like diuretic to produce sequential nephron blockade.",
           "question": {
             "type": "short-answer",
-            "prompt": "Which oral thiazide-like diuretic (generic name) is specifically chosen to combine with a loop diuretic for sequential nephron blockade when creatinine clearance is below 25 mL/min?",
+            "prompt": "Which oral thiazide-like diuretic is specifically chosen to combine with a loop diuretic for sequential nephron blockade when creatinine clearance is below 25 mL/min?",
             "answers": [
               {
                 "text": "metolazone",
@@ -2007,7 +2045,9 @@
                 ]
               }
             ],
-            "rationale": "Metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min and is combined with loop diuretics to block sodium and water reabsorption at multiple sites along the nephron (sequential nephron blockade)."
+            "rationale": "Metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min and is combined with loop diuretics to block sodium and water reabsorption at multiple sites along the nephron (sequential nephron blockade).",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -3058,7 +3098,9 @@
           ]
         }
       ],
-      "rationale": "Nitroglycerin is the prototypical nitrate vasodilator available in rapid-acting forms (sublingual tablets, translingual spray, IV infusion) and long-acting forms (transdermal patches, topical ointment, extended-release oral capsules)."
+      "rationale": "Nitroglycerin is the prototypical nitrate vasodilator available in rapid-acting forms (sublingual tablets, translingual spray, IV infusion) and long-acting forms (transdermal patches, topical ointment, extended-release oral capsules).",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-002",
@@ -3073,7 +3115,9 @@
           ]
         }
       ],
-      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system that metabolizes CCBs (particularly nifedipine), increasing bioavailability and the risk of severe hypotension and toxicity."
+      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system that metabolizes CCBs (particularly nifedipine), increasing bioavailability and the risk of severe hypotension and toxicity.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "ang-sa-003",
@@ -3089,7 +3133,9 @@
           ]
         }
       ],
-      "rationale": "Nitrate-induced headaches result from cerebral vasodilation, typically last about 20 minutes with sublingual doses, diminish with continued use, and can be safely managed with acetaminophen."
+      "rationale": "Nitrate-induced headaches result from cerebral vasodilation, typically last about 20 minutes with sublingual doses, diminish with continued use, and can be safely managed with acetaminophen.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-004",
@@ -3105,7 +3151,9 @@
           ]
         }
       ],
-      "rationale": "As stated in the chapter's IV implementation guidelines, using specialized non-PVC infusion kits and protecting IV nitroglycerin from light prevents uptake by plastic and prevents decomposition of the nitrate into cyanide."
+      "rationale": "As stated in the chapter's IV implementation guidelines, using specialized non-PVC infusion kits and protecting IV nitroglycerin from light prevents uptake by plastic and prevents decomposition of the nitrate into cyanide.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-005",
@@ -3124,7 +3172,9 @@
           ]
         }
       ],
-      "rationale": "Diltiazem hydrochloride is the only benzothiazepine CCB profiled in the chapter and is used orally for angina and hypertension and intravenously for atrial fibrillation/flutter and paroxysmal supraventricular tachycardia."
+      "rationale": "Diltiazem hydrochloride is the only benzothiazepine CCB profiled in the chapter and is used orally for angina and hypertension and intravenously for atrial fibrillation/flutter and paroxysmal supraventricular tachycardia.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-006",
@@ -3140,7 +3190,9 @@
           ]
         }
       ],
-      "rationale": "Amlodipine besylate (Norvasc) is the most popular dihydropyridine CCB, characterized by a 30- to 50-hour half-life that allows once-daily oral dosing."
+      "rationale": "Amlodipine besylate (Norvasc) is the most popular dihydropyridine CCB, characterized by a 30- to 50-hour half-life that allows once-daily oral dosing.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-007",
@@ -3156,7 +3208,9 @@
           ]
         }
       ],
-      "rationale": "Isosorbide-5-mononitrate (isosorbide mononitrate, Imdur) is the active metabolite of isosorbide dinitrate and provides a steady, predictable antianginal response without requiring hepatic conversion."
+      "rationale": "Isosorbide-5-mononitrate (isosorbide mononitrate, Imdur) is the active metabolite of isosorbide dinitrate and provides a steady, predictable antianginal response without requiring hepatic conversion.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-008",
@@ -3174,7 +3228,9 @@
           ]
         }
       ],
-      "rationale": "Vasospastic (Prinzmetal's or variant) angina results from coronary artery smooth muscle spasm rather than physical exertion, often occurring at rest in a regular circadian pattern."
+      "rationale": "Vasospastic (Prinzmetal's or variant) angina results from coronary artery smooth muscle spasm rather than physical exertion, often occurring at rest in a regular circadian pattern.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-009",
@@ -3189,24 +3245,24 @@
           ]
         }
       ],
-      "rationale": "Reflex tachycardia occurs when rapid venous vasodilation reduces central blood volume, causing arterial baroreceptors to stimulate sympathetic output and temporarily increase heart rate."
+      "rationale": "Reflex tachycardia occurs when rapid venous vasodilation reduces central blood volume, causing arterial baroreceptors to stimulate sympathetic output and temporarily increase heart rate.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "ang-sa-010",
       "type": "short-answer",
+      "inputType": "number",
       "topic": "Antianginal: Beta blockers",
       "prompt": "At or below what apical pulse rate (in beats per minute) must the nurse withhold an antianginal beta blocker and contact the health care provider for further instructions?",
       "answers": [
         {
-          "text": "60",
-          "aliases": [
-            "60 bpm",
-            "60 beats/min",
-            "60 beats per minute"
-          ]
+          "text": "60"
         }
       ],
-      "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater)."
+      "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater).",
+      "placeholder": "Enter a number…",
+      "helperText": "Numbers only. Do not include units."
     },
     {
       "id": "ang-cs-001",
@@ -3316,24 +3372,16 @@
           "update": "The IV nitroglycerin rate is adjusted, and Elena's blood pressure stabilizes at 118/72 mm Hg with a heart rate of 76 beats/min. Twenty-four hours later, she has remained pain-free, and the cardiologist orders a transition from IV nitroglycerin to a transdermal nitroglycerin patch 0.4 mg/hr applied daily at 0800 hours and removed at 2000 hours.",
           "question": {
             "type": "short-answer",
-            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action (in minutes, expressed as a range or single number from 30 to 60) of a transdermal nitroglycerin patch?",
+            "inputType": "number",
+            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action in minutes of a transdermal nitroglycerin patch?",
             "answers": [
               {
-                "text": "30 to 60 minutes",
-                "aliases": [
-                  "30-60 minutes",
-                  "30-60 min",
-                  "30 to 60 min",
-                  "30",
-                  "30 minutes",
-                  "30 min",
-                  "60",
-                  "60 minutes",
-                  "60 min"
-                ]
+                "text": "30"
               }
             ],
-            "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours."
+            "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -4205,7 +4253,9 @@
           ]
         }
       ],
-      "rationale": "Parenteral phenytoin is highly alkaline (pH 12) and precipitates if mixed with dextrose or other acidic solutions; therefore, normal saline (0.9% sodium chloride) is the only compatible dilutional fluid used to dilute and flush IV phenytoin lines."
+      "rationale": "Parenteral phenytoin is highly alkaline (pH 12) and precipitates if mixed with dextrose or other acidic solutions; therefore, normal saline (0.9% sodium chloride) is the only compatible dilutional fluid used to dilute and flush IV phenytoin lines.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-002",
@@ -4220,13 +4270,15 @@
           ]
         }
       ],
-      "rationale": "Autoinduction is a metabolic process in which a drug stimulates hepatic enzymes that accelerate its own metabolism over time (typically within the first 2 months of carbamazepine therapy), reducing therapeutic drug concentrations."
+      "rationale": "Autoinduction is a metabolic process in which a drug stimulates hepatic enzymes that accelerate its own metabolism over time (typically within the first 2 months of carbamazepine therapy), reducing therapeutic drug concentrations.",
+      "placeholder": "Type the pharmacological term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-003",
       "type": "short-answer",
       "topic": "Antiepileptic: Succinimides",
-      "prompt": "Name the succinimide antiepileptic drug (generic name) that is a first-line medication specifically indicated for the treatment of uncomplicated absence seizures.",
+      "prompt": "Name the succinimide antiepileptic drug that is a first-line medication specifically indicated for the treatment of uncomplicated absence seizures.",
       "answers": [
         {
           "text": "ethosuximide",
@@ -4235,7 +4287,9 @@
           ]
         }
       ],
-      "rationale": "Ethosuximide (Zarontin) is the prototypical succinimide antiepileptic drug used as a first-line agent for uncomplicated absence seizures."
+      "rationale": "Ethosuximide (Zarontin) is the prototypical succinimide antiepileptic drug used as a first-line agent for uncomplicated absence seizures.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-004",
@@ -4250,7 +4304,9 @@
           ]
         }
       ],
-      "rationale": "Status epilepticus is a true medical emergency characterized by prolonged seizure activity lasting 5 minutes or longer or repeated seizures without recovery between episodes."
+      "rationale": "Status epilepticus is a true medical emergency characterized by prolonged seizure activity lasting 5 minutes or longer or repeated seizures without recovery between episodes.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-005",
@@ -4266,13 +4322,15 @@
           ]
         }
       ],
-      "rationale": "Gingival hyperplasia (or gingival hypertrophy) is the overgrowth of gum tissue commonly associated with long-term phenytoin therapy; it is minimized through scrupulous dental hygiene."
+      "rationale": "Gingival hyperplasia (or gingival hypertrophy) is the overgrowth of gum tissue commonly associated with long-term phenytoin therapy; it is minimized through scrupulous dental hygiene.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-006",
       "type": "short-answer",
       "topic": "Antiepileptic: Hydantoins",
-      "prompt": "Name the water-soluble injectable prodrug of phenytoin (generic name) that is dosed in phenytoin equivalents (PE) and can be administered intramuscularly or intravenously at up to 150 mg PE/min.",
+      "prompt": "Name the water-soluble injectable prodrug of phenytoin that is dosed in phenytoin equivalents (PE) and can be administered intramuscularly or intravenously at up to 150 mg PE/min.",
       "answers": [
         {
           "text": "fosphenytoin",
@@ -4282,7 +4340,9 @@
           ]
         }
       ],
-      "rationale": "Fosphenytoin (Cerebyx) is a water-soluble prodrug of phenytoin (150 mg fosphenytoin = 100 mg phenytoin, or 100 mg PE) that causes less venous irritation and can be given IM or IV at rates up to 150 mg PE/min."
+      "rationale": "Fosphenytoin (Cerebyx) is a water-soluble prodrug of phenytoin (150 mg fosphenytoin = 100 mg phenytoin, or 100 mg PE) that causes less venous irritation and can be given IM or IV at rates up to 150 mg PE/min.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-007",
@@ -4298,26 +4358,30 @@
           ]
         }
       ],
-      "rationale": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the brain that regulates neuronal excitability; low GABA levels are associated with seizures, and many AEDs enhance GABA activity."
+      "rationale": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the brain that regulates neuronal excitability; low GABA levels are associated with seizures, and many AEDs enhance GABA activity.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-008",
       "type": "short-answer",
       "topic": "Antiepileptic: Barbiturates",
-      "prompt": "Name the barbiturate antiepileptic drug (generic name) that is metabolized in the liver to phenobarbital and phenylethylmalonamide (PEMA).",
+      "prompt": "Name the barbiturate antiepileptic drug that is metabolized in the liver to phenobarbital and phenylethylmalonamide (PEMA).",
       "answers": [
         {
           "text": "primidone",
           "aliases": []
         }
       ],
-      "rationale": "Primidone is metabolized in the liver into two active anticonvulsant metabolites: phenobarbital and phenylethylmalonamide (PEMA)."
+      "rationale": "Primidone is metabolized in the liver into two active anticonvulsant metabolites: phenobarbital and phenylethylmalonamide (PEMA).",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-sa-009",
       "type": "short-answer",
       "topic": "Antiepileptic: Miscellaneous AEDs",
-      "prompt": "Name the antiepileptic drug (generic name) that is chemically similar to fructose, is used for focal and generalized seizures as well as Lennox-Gastaut drop attacks, and carries a risk of acute angle-closure glaucoma and fetal cleft palate.",
+      "prompt": "Name the antiepileptic drug that is chemically similar to fructose, is used for focal and generalized seizures as well as Lennox-Gastaut drop attacks, and carries a risk of acute angle-closure glaucoma and fetal cleft palate.",
       "answers": [
         {
           "text": "topiramate",
@@ -4326,7 +4390,9 @@
           ]
         }
       ],
-      "rationale": "Topiramate (Topamax) is a fructose-derivative AED indicated for focal and generalized tonic-clonic seizures and drop attacks in Lennox-Gastaut syndrome; notable risks include angle-closure glaucoma and cleft palate in infants exposed in utero."
+      "rationale": "Topiramate (Topamax) is a fructose-derivative AED indicated for focal and generalized tonic-clonic seizures and drop attacks in Lennox-Gastaut syndrome; notable risks include angle-closure glaucoma and cleft palate in infants exposed in utero.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "aed-cs-001",
@@ -4383,19 +4449,16 @@
           "update": "After discontinuing the phenytoin infusion and stabilizing Arthur's blood pressure, the prescriber switches the order to fosphenytoin (Cerebyx) and later transitions Arthur to oral phenytoin maintenance therapy. Laboratory results on day 3 show a serum albumin of 24 g/L (low) and a total serum phenytoin level of 24 mcg/mL. Arthur exhibits horizontal nystagmus and an unsteady, ataxic gait when attempting to stand.",
           "question": {
             "type": "short-answer",
-            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL (enter the number only, e.g., 20)?",
+            "inputType": "number",
+            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL?",
             "answers": [
               {
-                "text": "20",
-                "aliases": [
-                  "20 mcg/mL",
-                  "10-20",
-                  "10 to 20",
-                  "10-20 mcg/mL"
-                ]
+                "text": "20"
               }
             ],
-            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia."
+            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         }
       ]
@@ -4478,17 +4541,16 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams of valproic acid will the nurse administer per single dose (enter number and unit or number only, e.g., 225 mg)?",
+            "inputType": "number",
+            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams (mg) of valproic acid will the nurse administer per single dose?",
             "answers": [
               {
-                "text": "225 mg",
-                "aliases": [
-                  "225",
-                  "225mg"
-                ]
+                "text": "225"
               }
             ],
-            "rationale": "Total daily dose = 15 mg/kg/day × 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose."
+            "rationale": "Total daily dose = 15 mg/kg/day × 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -5400,7 +5462,9 @@
           ]
         }
       ],
-      "rationale": "Protamine sulphate is the specific antagonist that forms a complex with unfractionated heparin (1 mg per 100 units) and LMWHs (1 mg per 1 mg) to reverse their anticoagulant effects within 5 minutes."
+      "rationale": "Protamine sulphate is the specific antagonist that forms a complex with unfractionated heparin (1 mg per 100 units) and LMWHs (1 mg per 1 mg) to reverse their anticoagulant effects within 5 minutes.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-002",
@@ -5416,7 +5480,9 @@
           ]
         }
       ],
-      "rationale": "Vitamin K1 (phytonadione) is the antidote for warfarin sodium toxicity because warfarin acts by inhibiting vitamin K-dependent clotting factors II, VII, IX, and X in the liver."
+      "rationale": "Vitamin K1 (phytonadione) is the antidote for warfarin sodium toxicity because warfarin acts by inhibiting vitamin K-dependent clotting factors II, VII, IX, and X in the liver.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "coag-sa-003",
@@ -5432,7 +5498,9 @@
           ]
         }
       ],
-      "rationale": "The international normalized ratio (INR) standardizes prothrombin time (PT) reporting across laboratories and is used to monitor warfarin therapy, with a typical therapeutic target of 2.0 to 3.0 (or 2.5 to 3.5 for mechanical heart valves)."
+      "rationale": "The international normalized ratio (INR) standardizes prothrombin time (PT) reporting across laboratories and is used to monitor warfarin therapy, with a typical therapeutic target of 2.0 to 3.0 (or 2.5 to 3.5 for mechanical heart valves).",
+      "placeholder": "Type the test name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "coag-sa-004",
@@ -5449,7 +5517,9 @@
           ]
         }
       ],
-      "rationale": "Activated partial thromboplastin time (aPTT) measures the intrinsic coagulation pathway and is the primary laboratory test used to titrate therapeutic unfractionated heparin infusions."
+      "rationale": "Activated partial thromboplastin time (aPTT) measures the intrinsic coagulation pathway and is the primary laboratory test used to titrate therapeutic unfractionated heparin infusions.",
+      "placeholder": "Type the test name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "coag-sa-005",
@@ -5466,7 +5536,9 @@
           ]
         }
       ],
-      "rationale": "Dabigatran etexilate mesylate (Pradaxa) is an oral direct thrombin inhibitor whose capsules are sensitive to moisture and must be kept in the original bottle with a desiccant cap or blister pack and used within 4 months of opening."
+      "rationale": "Dabigatran etexilate mesylate (Pradaxa) is an oral direct thrombin inhibitor whose capsules are sensitive to moisture and must be kept in the original bottle with a desiccant cap or blister pack and used within 4 months of opening.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-006",
@@ -5483,7 +5555,9 @@
           ]
         }
       ],
-      "rationale": "Clopidogrel bisulphate (Plavix) is the prototype ADP (P2Y12) inhibitor used to prevent platelet aggregation in acute coronary syndromes, post-stent placement, MI, and stroke/TIA prophylaxis."
+      "rationale": "Clopidogrel bisulphate (Plavix) is the prototype ADP (P2Y12) inhibitor used to prevent platelet aggregation in acute coronary syndromes, post-stent placement, MI, and stroke/TIA prophylaxis.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-007",
@@ -5501,7 +5575,9 @@
           ]
         }
       ],
-      "rationale": "Alteplase (Activase) is a fibrin-specific recombinant tissue plasminogen activator (rt-PA) used for thrombolysis in acute ischemic stroke, pulmonary embolism, and STEMI, as well as catheter clearance (Cathflo)."
+      "rationale": "Alteplase (Activase) is a fibrin-specific recombinant tissue plasminogen activator (rt-PA) used for thrombolysis in acute ischemic stroke, pulmonary embolism, and STEMI, as well as catheter clearance (Cathflo).",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-008",
@@ -5516,7 +5592,9 @@
           ]
         }
       ],
-      "rationale": "Tranexamic acid (Cyklokapron) is a synthetic systemic hemostat/antifibrinolytic that displaces plasminogen from fibrin to prevent clot breakdown in hyperfibrinolysis, cardiac surgery, and dental extractions in patients with hemophilia."
+      "rationale": "Tranexamic acid (Cyklokapron) is a synthetic systemic hemostat/antifibrinolytic that displaces plasminogen from fibrin to prevent clot breakdown in hyperfibrinolysis, cardiac surgery, and dental extractions in patients with hemophilia.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-009",
@@ -5532,7 +5610,9 @@
           ]
         }
       ],
-      "rationale": "Fondaparinux sodium (Arixtra) is a parenteral selective factor Xa inhibitor used for DVT/PE prophylaxis and treatment; it is contraindicated in patients weighing under 50 kg or with creatinine clearance <30 mL/min."
+      "rationale": "Fondaparinux sodium (Arixtra) is a parenteral selective factor Xa inhibitor used for DVT/PE prophylaxis and treatment; it is contraindicated in patients weighing under 50 kg or with creatinine clearance <30 mL/min.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-cs-001",
@@ -5583,7 +5663,9 @@
                 ]
               }
             ],
-            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2–10 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT)."
+            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2–10 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT).",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -5711,18 +5793,16 @@
           "update": "Twelve hours after receiving an inadvertently high therapeutic dose of 70 mg of enoxaparin due to a look-alike syringe error, Mrs. Grewal develops brisk bleeding from her hip surgical drain, a drop in blood pressure to 92/56 mm Hg, and a heart rate of 114 beats/min. The surgeon orders immediate reversal of the 70 mg enoxaparin dose with intravenous protamine sulphate.",
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the textbook's reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin), how many milligrams of protamine sulphate should the nurse prepare? (Enter the number and unit, e.g., 50 mg, or just the number.)",
+            "inputType": "number",
+            "prompt": "Based on the reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin for a 70-mg dose), how many milligrams (mg) of protamine sulphate should the nurse prepare?",
             "answers": [
               {
-                "text": "70 mg",
-                "aliases": [
-                  "70",
-                  "70mg",
-                  "70 milligrams"
-                ]
+                "text": "70"
               }
             ],
-            "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate."
+            "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -5861,7 +5941,9 @@
                 ]
               }
             ],
-            "rationale": "With the breakdown of fibrin (fibrinolysis) after thrombolytic administration, INR increases, aPTT is prolonged, and fibrinogen levels decrease. Measuring the patient's fibrinogen level checks for the occurrence of fibrinolysis."
+            "rationale": "With the breakdown of fibrin (fibrinolysis) after thrombolytic administration, INR increases, aPTT is prolonged, and fibrinogen levels decrease. Measuring the patient's fibrinogen level checks for the occurrence of fibrinolysis.",
+            "placeholder": "Type the test name…",
+            "helperText": "Standard abbreviations or full names are accepted."
           }
         },
         {
@@ -6597,7 +6679,7 @@
       "id": "emet-sa-001",
       "type": "short-answer",
       "topic": "Antiemetics: Serotonin Blockers",
-      "prompt": "Name the prototypical serotonin (5-HT3) receptor blocker antiemetic (generic name or Canadian brand name) that was approved in 1991 and is widely used to prevent chemotherapy-induced and postoperative nausea and vomiting.",
+      "prompt": "Name the prototypical serotonin (5-HT3) receptor blocker antiemetic that was approved in 1991 and is widely used to prevent chemotherapy-induced and postoperative nausea and vomiting.",
       "answers": [
         {
           "text": "ondansetron",
@@ -6608,13 +6690,15 @@
           ]
         }
       ],
-      "rationale": "Ondansetron (Zofran) is the prototypical 5-HT3 receptor antagonist (serotonin blocker) used for chemotherapy-induced nausea and vomiting, postoperative nausea and vomiting, and hyperemesis gravidarum."
+      "rationale": "Ondansetron (Zofran) is the prototypical 5-HT3 receptor antagonist (serotonin blocker) used for chemotherapy-induced nausea and vomiting, postoperative nausea and vomiting, and hyperemesis gravidarum.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-002",
       "type": "short-answer",
       "topic": "Antiemetics: Prokinetics",
-      "prompt": "Which prokinetic drug (generic name) blocks dopamine receptors in the chemoreceptor trigger zone (CTZ) and stimulates peristalsis in the upper gastrointestinal tract to treat delayed gastric emptying and gastroesophageal reflux?",
+      "prompt": "Which prokinetic drug blocks dopamine receptors in the chemoreceptor trigger zone (CTZ) and stimulates peristalsis in the upper gastrointestinal tract to treat delayed gastric emptying and gastroesophageal reflux?",
       "answers": [
         {
           "text": "metoclopramide",
@@ -6625,13 +6709,15 @@
           ]
         }
       ],
-      "rationale": "Metoclopramide hydrochloride (Metonia, Metoclopramide OMEGA) is the only prokinetic drug profiled in the chapter that is used both to promote GI motility in delayed gastric emptying/GERD and to prevent nausea and vomiting."
+      "rationale": "Metoclopramide hydrochloride (Metonia, Metoclopramide OMEGA) is the only prokinetic drug profiled in the chapter that is used both to promote GI motility in delayed gastric emptying/GERD and to prevent nausea and vomiting.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-003",
       "type": "short-answer",
       "topic": "Antiemetics: Anticholinergics",
-      "prompt": "Name the primary anticholinergic belladonna alkaloid drug (generic name) that blocks acetylcholine receptors in the vestibular nuclei and is available as an over-the-counter transdermal patch (Transderm V) for motion sickness.",
+      "prompt": "Name the primary anticholinergic belladonna alkaloid drug that blocks acetylcholine receptors in the vestibular nuclei and is available as an over-the-counter transdermal patch (Transderm V) for motion sickness.",
       "answers": [
         {
           "text": "scopolamine",
@@ -6642,13 +6728,15 @@
           ]
         }
       ],
-      "rationale": "Scopolamine (scopolamine hydrobromide; Transderm V) is the primary anticholinergic antiemetic used for motion sickness, preoperative secretion reduction, and postoperative nausea and vomiting."
+      "rationale": "Scopolamine (scopolamine hydrobromide; Transderm V) is the primary anticholinergic antiemetic used for motion sickness, preoperative secretion reduction, and postoperative nausea and vomiting.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-004",
       "type": "short-answer",
       "topic": "Antiemetics: Substance P–Neurokinin-1 Antagonists",
-      "prompt": "Name the antiemetic drug (generic or brand name) that acts as an antagonist of substance P–neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
+      "prompt": "Name the antiemetic drug that acts as an antagonist of substance P–neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
       "answers": [
         {
           "text": "aprepitant",
@@ -6657,7 +6745,9 @@
           ]
         }
       ],
-      "rationale": "Aprepitant (Emend) blocks substance P–neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy."
+      "rationale": "Aprepitant (Emend) blocks substance P–neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-005",
@@ -6674,7 +6764,9 @@
           ]
         }
       ],
-      "rationale": "Aprepitant induces the metabolism of warfarin sodium, which can decrease its anticoagulant effect; therefore, the international normalized ratio (INR) must be checked before each cycle of aprepitant."
+      "rationale": "Aprepitant induces the metabolism of warfarin sodium, which can decrease its anticoagulant effect; therefore, the international normalized ratio (INR) must be checked before each cycle of aprepitant.",
+      "placeholder": "Type the test name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "emet-sa-006",
@@ -6689,13 +6781,15 @@
           ]
         }
       ],
-      "rationale": "Pyridoxine hydrochloride is vitamin B6, which is combined with the antihistamine doxylamine succinate in Diclectin delayed-release tablets to manage nausea and vomiting during pregnancy."
+      "rationale": "Pyridoxine hydrochloride is vitamin B6, which is combined with the antihistamine doxylamine succinate in Diclectin delayed-release tablets to manage nausea and vomiting during pregnancy.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "emet-sa-007",
       "type": "short-answer",
       "topic": "Antiemetics: Antidopaminergics",
-      "prompt": "Which high-alert phenothiazine antidopaminergic drug (generic name) is contraindicated in children under 2 years of age and can cause severe tissue necrosis and amputation if inadvertently injected intra-arterially?",
+      "prompt": "Which high-alert phenothiazine antidopaminergic drug is contraindicated in children under 2 years of age and can cause severe tissue necrosis and amputation if inadvertently injected intra-arterially?",
       "answers": [
         {
           "text": "promethazine",
@@ -6706,7 +6800,9 @@
           ]
         }
       ],
-      "rationale": "Promethazine hydrochloride (Histantil) is a high-alert antidopaminergic antiemetic that is contraindicated in children younger than 2 years of age and causes devastating tissue damage and gangrene if given intra-arterially or subcutaneously."
+      "rationale": "Promethazine hydrochloride (Histantil) is a high-alert antidopaminergic antiemetic that is contraindicated in children younger than 2 years of age and causes devastating tissue damage and gangrene if given intra-arterially or subcutaneously.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-008",
@@ -6722,7 +6818,9 @@
           ]
         }
       ],
-      "rationale": "Ginger (Zingiber officinale) contains gingerols and gingerdione and is used for nausea and vomiting, but it may worsen cholelithiasis (gallstones) and increase bleeding risk with anticoagulants or antiplatelet drugs."
+      "rationale": "Ginger (Zingiber officinale) contains gingerols and gingerdione and is used for nausea and vomiting, but it may worsen cholelithiasis (gallstones) and increase bleeding risk with anticoagulants or antiplatelet drugs.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "emet-cs-001",
@@ -6779,7 +6877,7 @@
           "update": "Three weeks later, as Arthur walks into the oncology clinic for Cycle 2, he becomes pale, diaphoretic, and nauseated merely from seeing the infusion chairs and smelling the clinic antiseptic.",
           "question": {
             "type": "short-answer",
-            "prompt": "Name the benzodiazepine anxiolytic drug (generic or brand name) mentioned in the chapter that is often given during chemotherapy to treat 'anticipatory nausea and vomiting' by blunting the memory of the nausea and vomiting experience.",
+            "prompt": "Name the benzodiazepine anxiolytic drug mentioned in the chapter that is often given during chemotherapy to treat 'anticipatory nausea and vomiting' by blunting the memory of the nausea and vomiting experience.",
             "answers": [
               {
                 "text": "lorazepam",
@@ -6788,7 +6886,9 @@
                 ]
               }
             ],
-            "rationale": "Lorazepam is an anxiolytic benzodiazepine used in combination with serotonin blockers during chemotherapy because, in addition to its antiemetic effect, it helps blunt the memory of the nausea and vomiting experience (anticipatory nausea and vomiting)."
+            "rationale": "Lorazepam is an anxiolytic benzodiazepine used in combination with serotonin blockers during chemotherapy because, in addition to its antiemetic effect, it helps blunt the memory of the nausea and vomiting experience (anticipatory nausea and vomiting).",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         }
       ]
@@ -6833,19 +6933,16 @@
           "update": "The resident cancels the hydroxyzine order and instead prescribes promethazine hydrochloride (Histantil) 12.5 mg IM stat. The unit stock vials contain promethazine hydrochloride 25 mg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many millilitres (mL) of promethazine hydrochloride will the nurse draw up to administer the 12.5-mg intramuscular dose? (Enter the numerical value only or with mL.)",
+            "inputType": "number",
+            "prompt": "How many millilitres (mL) of promethazine hydrochloride will the nurse draw up to administer the 12.5-mg intramuscular dose?",
             "answers": [
               {
-                "text": "0.5",
-                "aliases": [
-                  "0.5 mL",
-                  "0.5mL",
-                  ".5",
-                  ".5 mL"
-                ]
+                "text": "0.5"
               }
             ],
-            "rationale": "Using the dosage formula (Desired ÷ Have × Volume): 12.5 mg ÷ 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine."
+            "rationale": "Using the dosage formula (Desired ÷ Have × Volume): 12.5 mg ÷ 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -7841,7 +7938,7 @@
       "id": "acid-sa-001",
       "type": "short-answer",
       "topic": "Acid control: Miscellaneous Acid-Controlling Drugs: Sucralfate",
-      "prompt": "Name the mucosal protectant drug (generic name) that dissociates in stomach acid into aluminum hydroxide and sulphated sucrose anions, binding to positively charged proteins at the base of ulcers to form a local protective barrier.",
+      "prompt": "Name the mucosal protectant drug that dissociates in stomach acid into aluminum hydroxide and sulphated sucrose anions, binding to positively charged proteins at the base of ulcers to form a local protective barrier.",
       "answers": [
         {
           "text": "sucralfate",
@@ -7850,13 +7947,15 @@
           ]
         }
       ],
-      "rationale": "Sucralfate acts locally in the stomach by dissociating into aluminum hydroxide and sulphate anions that bind to positively charged tissue proteins in ulcer craters and erosions, forming a protective 'liquid bandage.'"
+      "rationale": "Sucralfate acts locally in the stomach by dissociating into aluminum hydroxide and sulphate anions that bind to positively charged tissue proteins in ulcer craters and erosions, forming a protective 'liquid bandage.'",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-002",
       "type": "short-answer",
       "topic": "Acid control: Miscellaneous Acid-Controlling Drugs: Misoprostol",
-      "prompt": "Name the synthetic prostaglandin E analogue (generic name) used to prevent NSAID-induced gastric ulcers that is strictly contraindicated in pregnancy because it induces uterine contractions.",
+      "prompt": "Name the synthetic prostaglandin E analogue used to prevent NSAID-induced gastric ulcers that is strictly contraindicated in pregnancy because it induces uterine contractions.",
       "answers": [
         {
           "text": "misoprostol",
@@ -7865,13 +7964,15 @@
           ]
         }
       ],
-      "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and provides cytoprotection against NSAID-induced ulcers, but it is an abortifacient and contraindicated during pregnancy."
+      "rationale": "Misoprostol is a synthetic prostaglandin E analogue that inhibits gastric acid secretion and provides cytoprotection against NSAID-induced ulcers, but it is an abortifacient and contraindicated during pregnancy.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-003",
       "type": "short-answer",
       "topic": "Acid control: Miscellaneous Acid-Controlling Drugs: Simethicone",
-      "prompt": "Name the antiflatulent surfactant medication (generic name) that alters the elasticity of mucus-coated gas bubbles in the gastrointestinal tract so they break into smaller bubbles and are more easily expelled.",
+      "prompt": "Name the antiflatulent surfactant medication that alters the elasticity of mucus-coated gas bubbles in the gastrointestinal tract so they break into smaller bubbles and are more easily expelled.",
       "answers": [
         {
           "text": "simethicone",
@@ -7882,13 +7983,15 @@
           ]
         }
       ],
-      "rationale": "Simethicone (Ovol, Pediacol, Phazyme) is an antiflatulent drug that alters the surface elasticity of mucus-coated gas bubbles, breaking them into smaller bubbles to relieve flatulence and bloating."
+      "rationale": "Simethicone (Ovol, Pediacol, Phazyme) is an antiflatulent drug that alters the surface elasticity of mucus-coated gas bubbles, breaking them into smaller bubbles to relieve flatulence and bloating.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-004",
       "type": "short-answer",
       "topic": "Acid control: H2 Receptor Antagonists",
-      "prompt": "Which prototypical H2 receptor antagonist (generic name) inhibits hepatic cytochrome P450 pathways (CYP1A2, CYP2D6, CYP3A4) and can cause gynecomastia and erectile dysfunction?",
+      "prompt": "Which prototypical H2 receptor antagonist inhibits hepatic cytochrome P450 pathways (CYP1A2, CYP2D6, CYP3A4) and can cause gynecomastia and erectile dysfunction?",
       "answers": [
         {
           "text": "cimetidine",
@@ -7897,7 +8000,9 @@
           ]
         }
       ],
-      "rationale": "Cimetidine was the first H2 receptor antagonist released. Unlike famotidine, it inhibits CYP1A2, CYP2D6, and CYP3A4 enzymes and can cause gynecomastia and impotence due to antiandrogenic and estradiol-inhibiting effects."
+      "rationale": "Cimetidine was the first H2 receptor antagonist released. Unlike famotidine, it inhibits CYP1A2, CYP2D6, and CYP3A4 enzymes and can cause gynecomastia and impotence due to antiandrogenic and estradiol-inhibiting effects.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-sa-005",
@@ -7912,7 +8017,9 @@
           ]
         }
       ],
-      "rationale": "Chief cells in the gastric glands secrete pepsinogen, a proenzyme that is activated by gastric acid into pepsin, a proteolytic enzyme that digests dietary proteins."
+      "rationale": "Chief cells in the gastric glands secrete pepsinogen, a proenzyme that is activated by gastric acid into pepsin, a proteolytic enzyme that digests dietary proteins.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "acid-sa-006",
@@ -7929,7 +8036,9 @@
           ]
         }
       ],
-      "rationale": "Helicobacter pylori (formerly called Campylobacter pylori) is the gram-negative spiral bacterium found in the GI tract of roughly 90% of patients with duodenal ulcers and 70% of those with gastric ulcers."
+      "rationale": "Helicobacter pylori (formerly called Campylobacter pylori) is the gram-negative spiral bacterium found in the GI tract of roughly 90% of patients with duodenal ulcers and 70% of those with gastric ulcers.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "acid-sa-007",
@@ -7945,13 +8054,15 @@
           ]
         }
       ],
-      "rationale": "A Cushing ulcer is a stress ulcer that occurs after severe head trauma, whereas a Curling ulcer occurs in patients with severe burns."
+      "rationale": "A Cushing ulcer is a stress ulcer that occurs after severe head trauma, whereas a Curling ulcer occurs in patients with severe burns.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "acid-sa-008",
       "type": "short-answer",
       "topic": "Acid control: Proton Pump Inhibitors",
-      "prompt": "Which proton pump inhibitor (generic name) is profiled in the chapter as being used as a high-dose intravenous bolus followed by continuous IV infusion to prevent peptic ulcer rebleeding after endoscopic hemostasis?",
+      "prompt": "Which proton pump inhibitor is profiled in the chapter as being used as a high-dose intravenous bolus followed by continuous IV infusion to prevent peptic ulcer rebleeding after endoscopic hemostasis?",
       "answers": [
         {
           "text": "pantoprazole",
@@ -7963,7 +8074,9 @@
           ]
         }
       ],
-      "rationale": "Pantoprazole sodium (Pantoloc, Panto IV) is administered intravenously as a bolus followed by continuous infusion for acute peptic ulcer bleeding after endoscopic therapy."
+      "rationale": "Pantoprazole sodium (Pantoloc, Panto IV) is administered intravenously as a bolus followed by continuous infusion for acute peptic ulcer bleeding after endoscopic therapy.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "acid-cs-001",
@@ -8073,7 +8186,7 @@
           "update": "The prescriber discontinues cimetidine and considers switching Walter to a different H2 receptor antagonist at a reduced renal-adjusted dose once his mental status and drug levels stabilize.",
           "question": {
             "type": "short-answer",
-            "prompt": "Name the H2 receptor antagonist (generic name; brand name Pepcid) profiled in the chapter that has essentially no effect on the hepatic cytochrome P450 enzyme system and minimal drug interaction concerns.",
+            "prompt": "Name the H2 receptor antagonist (brand name Pepcid) profiled in the chapter that has essentially no effect on the hepatic cytochrome P450 enzyme system and minimal drug interaction concerns.",
             "answers": [
               {
                 "text": "famotidine",
@@ -8083,7 +8196,9 @@
                 ]
               }
             ],
-            "rationale": "Famotidine (Pepcid) and nizatidine have essentially no effect on the hepatic cytochrome P450 enzyme system, making famotidine much safer than cimetidine regarding CYP450 drug interactions."
+            "rationale": "Famotidine (Pepcid) and nizatidine have essentially no effect on the hepatic cytochrome P450 enzyme system, making famotidine much safer than cimetidine regarding CYP450 drug interactions.",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -8279,19 +8394,16 @@
           "update": "Five days later, Marcus is extubated, transferred to the surgical step-down unit, and starts a regular diet. He complains of uncomfortable postoperative abdominal bloating and gas pain. The surgeon orders oral simethicone (Ovol) chewable tablets after meals and at bedtime.",
           "question": {
             "type": "short-answer",
-            "prompt": "What is the maximum daily dose (in mg/day, enter number and unit such as '500 mg') of simethicone for an adult as stated in the chapter?",
+            "inputType": "number",
+            "prompt": "What is the maximum daily dose in milligrams (mg) of simethicone for an adult as stated in the chapter?",
             "answers": [
               {
-                "text": "500 mg",
-                "aliases": [
-                  "500",
-                  "500mg",
-                  "500 mg/day",
-                  "500mg/day"
-                ]
+                "text": "500"
               }
             ],
-            "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day."
+            "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -9027,7 +9139,9 @@
           ]
         }
       ],
-      "rationale": "Levothyroxine (levothyroxine sodium; Canadian brand names Synthroid and Eltroxin) is chemically pure 100% T4 with a predictable effect and long half-life, making it the drug of choice for hypothyroidism."
+      "rationale": "Levothyroxine (levothyroxine sodium; Canadian brand names Synthroid and Eltroxin) is chemically pure 100% T4 with a predictable effect and long half-life, making it the drug of choice for hypothyroidism.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-002",
@@ -9043,7 +9157,9 @@
           ]
         }
       ],
-      "rationale": "Liothyronine sodium (Cytomel) is the synthetic form of triiodothyronine (T3); 25 mcg of liothyronine is clinically equivalent to approximately 100 mcg of levothyroxine."
+      "rationale": "Liothyronine sodium (Cytomel) is the synthetic form of triiodothyronine (T3); 25 mcg of liothyronine is clinically equivalent to approximately 100 mcg of levothyroxine.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-003",
@@ -9058,7 +9174,9 @@
           ]
         }
       ],
-      "rationale": "Propylthiouracil (PTU) inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosine and uniquely inhibits the peripheral conversion of T4 to the more active T3."
+      "rationale": "Propylthiouracil (PTU) inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosine and uniquely inhibits the peripheral conversion of T4 to the more active T3.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-004",
@@ -9074,7 +9192,9 @@
           ]
         }
       ],
-      "rationale": "Methimazole (also referred to by its international nonproprietary name, thiamazole, and brand name Tapazole) is an oral thioamide antithyroid drug that inhibits the incorporation of iodine into tyrosine."
+      "rationale": "Methimazole (also referred to by its international nonproprietary name, thiamazole, and brand name Tapazole) is an oral thioamide antithyroid drug that inhibits the incorporation of iodine into tyrosine.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-005",
@@ -9092,7 +9212,9 @@
           ]
         }
       ],
-      "rationale": "Thyroid-stimulating hormone (TSH, or thyrotropin) secreted by the anterior pituitary gland is the primary laboratory test monitored (along with free thyroid hormone levels) to evaluate and titrate thyroid hormone replacement."
+      "rationale": "Thyroid-stimulating hormone (TSH, or thyrotropin) secreted by the anterior pituitary gland is the primary laboratory test monitored (along with free thyroid hormone levels) to evaluate and titrate thyroid hormone replacement.",
+      "placeholder": "Type the test name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "thy-sa-006",
@@ -9108,7 +9230,9 @@
           ]
         }
       ],
-      "rationale": "Amiodarone hydrochloride is an iodine-rich antidysrhythmic that inhibits peripheral T4-to-T3 conversion, blocks hormone entry into peripheral tissues, and can have a direct cytotoxic effect on thyroid follicular cells."
+      "rationale": "Amiodarone hydrochloride is an iodine-rich antidysrhythmic that inhibits peripheral T4-to-T3 conversion, blocks hormone entry into peripheral tissues, and can have a direct cytotoxic effect on thyroid follicular cells.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-007",
@@ -9127,7 +9251,9 @@
           ]
         }
       ],
-      "rationale": "Agranulocytosis (severe leukopenia due to bone marrow toxicity) is a serious adverse effect of thioamide antithyroid drugs that presents with fever, sore throat, and oral lesions/ulcers."
+      "rationale": "Agranulocytosis (severe leukopenia due to bone marrow toxicity) is a serious adverse effect of thioamide antithyroid drugs that presents with fever, sore throat, and oral lesions/ulcers.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "thy-sa-008",
@@ -9143,7 +9269,9 @@
           ]
         }
       ],
-      "rationale": "Potassium iodide is used as prophylaxis for radiation exposure to block the thyroid gland from sequestering radioactive iodine."
+      "rationale": "Potassium iodide is used as prophylaxis for radiation exposure to block the thyroid gland from sequestering radioactive iodine.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "thy-cs-001",
@@ -9266,7 +9394,9 @@
                 ]
               }
             ],
-            "rationale": "Fever, sore throat, and mouth ulcers or sores in a patient taking an antithyroid drug are hallmark warning signs of agranulocytosis/leukopenia caused by bone marrow toxicity and must be evaluated promptly with a CBC."
+            "rationale": "Fever, sore throat, and mouth ulcers or sores in a patient taking an antithyroid drug are hallmark warning signs of agranulocytosis/leukopenia caused by bone marrow toxicity and must be evaluated promptly with a CBC.",
+            "placeholder": "Type the medical term…",
+            "helperText": "Spelling counts."
           }
         },
         {
@@ -9311,18 +9441,16 @@
           "update": "The prescriber orders levothyroxine sodium 0.4 mg IV push once now. The pharmacy delivers vials containing levothyroxine sodium reconstituted to a concentration of 100 mcg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many micrograms of levothyroxine are ordered in the 0.4-mg dose? (Enter the number and unit, or just the number in mcg.)",
+            "inputType": "number",
+            "prompt": "How many micrograms (mcg) of levothyroxine are ordered in the 0.4-mg dose?",
             "answers": [
               {
-                "text": "400 mcg",
-                "aliases": [
-                  "400",
-                  "400 micrograms",
-                  "400mcg"
-                ]
+                "text": "400"
               }
             ],
-            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg × 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300–500 mcg IV single-dose range for myxedema coma)."
+            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg × 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300–500 mcg IV single-dose range for myxedema coma).",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -10180,7 +10308,9 @@
           ]
         }
       ],
-      "rationale": "Metformin (Glucophage, Glumetza) is the only biguanide and is first-line oral therapy for type 2 diabetes. It must be held on the day of iodinated contrast studies and for at least 48 hours after to prevent contrast-induced nephropathy and lactic acidosis."
+      "rationale": "Metformin (Glucophage, Glumetza) is the only biguanide and is first-line oral therapy for type 2 diabetes. It must be held on the day of iodinated contrast studies and for at least 48 hours after to prevent contrast-induced nephropathy and lactic acidosis.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-002",
@@ -10195,7 +10325,9 @@
           ]
         }
       ],
-      "rationale": "Glucagon stimulates hepatic glycogenolysis to convert stored glycogen into glucose and is injected subcutaneously or intramuscularly when an unconscious hypoglycemic patient does not have IV access."
+      "rationale": "Glucagon stimulates hepatic glycogenolysis to convert stored glycogen into glucose and is injected subcutaneously or intramuscularly when an unconscious hypoglycemic patient does not have IV access.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-003",
@@ -10214,7 +10346,9 @@
           ]
         }
       ],
-      "rationale": "Regular insulin (Humulin R, Novolin ge Toronto) is a short-acting, clear unmodified solution and is the only insulin approved for intravenous bolus or infusion administration."
+      "rationale": "Regular insulin (Humulin R, Novolin ge Toronto) is a short-acting, clear unmodified solution and is the only insulin approved for intravenous bolus or infusion administration.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-004",
@@ -10229,7 +10363,9 @@
           ]
         }
       ],
-      "rationale": "Acarbose (Glucobay) reversibly inhibits intestinal alpha-glucosidase and must be taken with the first bite of each main meal to blunt postprandial glucose elevations."
+      "rationale": "Acarbose (Glucobay) reversibly inhibits intestinal alpha-glucosidase and must be taken with the first bite of each main meal to blunt postprandial glucose elevations.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-005",
@@ -10249,7 +10385,9 @@
           ]
         }
       ],
-      "rationale": "Hemoglobin A1C (HbA1C or A1C) measures the percentage of hemoglobin A irreversibly bound to glucose over the 90- to 120-day lifespan of red blood cells. The Diabetes Canada target for most adults with diabetes is < 7.0%."
+      "rationale": "Hemoglobin A1C (HbA1C or A1C) measures the percentage of hemoglobin A irreversibly bound to glucose over the 90- to 120-day lifespan of red blood cells. The Diabetes Canada target for most adults with diabetes is < 7.0%.",
+      "placeholder": "Type the test name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "dm-sa-006",
@@ -10267,7 +10405,9 @@
           ]
         }
       ],
-      "rationale": "NPH stands for neutral protamine Hagedorn (insulin isophane suspension), an opaque/cloudy intermediate-acting insulin with an onset of 2 to 4 hours, peak of 4 to 10 hours, and duration of 12 to 18 hours."
+      "rationale": "NPH stands for neutral protamine Hagedorn (insulin isophane suspension), an opaque/cloudy intermediate-acting insulin with an onset of 2 to 4 hours, peak of 4 to 10 hours, and duration of 12 to 18 hours.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-007",
@@ -10286,7 +10426,9 @@
           ]
         }
       ],
-      "rationale": "Insulin glargine (Lantus, Basaglar, Toujeo) is a peakless long-acting basal insulin with a pH of 4 that precipitates in subcutaneous tissue for slow release over 20 to 24 hours (up to 30 hours for Toujeo)."
+      "rationale": "Insulin glargine (Lantus, Basaglar, Toujeo) is a peakless long-acting basal insulin with a pH of 4 that precipitates in subcutaneous tissue for slow release over 20 to 24 hours (up to 30 hours for Toujeo).",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-008",
@@ -10302,7 +10444,9 @@
           ]
         }
       ],
-      "rationale": "Pioglitazone (Actos) is a thiazolidinedione (glitazone) that decreases insulin resistance but causes fluid retention, weight gain, and peripheral edema, making it contraindicated in NYHA Class III or IV heart failure."
+      "rationale": "Pioglitazone (Actos) is a thiazolidinedione (glitazone) that decreases insulin resistance but causes fluid retention, weight gain, and peripheral edema, making it contraindicated in NYHA Class III or IV heart failure.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-009",
@@ -10317,7 +10461,9 @@
           ]
         }
       ],
-      "rationale": "Repaglinide (GlucoNorm) is a glinide (meglitinide) that stimulates rapid, short-duration insulin secretion from pancreatic beta-cells; patients take it 15 minutes before meals and skip the dose if a meal is missed."
+      "rationale": "Repaglinide (GlucoNorm) is a glinide (meglitinide) that stimulates rapid, short-duration insulin secretion from pancreatic beta-cells; patients take it 15 minutes before meals and skip the dose if a meal is missed.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-010",
@@ -10334,7 +10480,9 @@
           ]
         }
       ],
-      "rationale": "Sitagliptin phosphate monohydrate (Januvia) selectively inhibits dipeptidyl peptidase-4 (DPP-4), increasing endogenous GLP-1 and GIP levels to improve glycemic control in type 2 diabetes."
+      "rationale": "Sitagliptin phosphate monohydrate (Januvia) selectively inhibits dipeptidyl peptidase-4 (DPP-4), increasing endogenous GLP-1 and GIP levels to improve glycemic control in type 2 diabetes.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-cs-001",
@@ -10578,7 +10726,9 @@
                 ]
               }
             ],
-            "rationale": "Acarbose inhibits alpha-glucosidase in the small intestine, preventing the hydrolysis of sucrose (table sugar) and complex carbohydrates. Patients taking acarbose must treat hypoglycemia with pure glucose (dextrose) tablets (or honey/milk if tablets are unavailable)."
+            "rationale": "Acarbose inhibits alpha-glucosidase in the small intestine, preventing the hydrolysis of sucrose (table sugar) and complex carbohydrates. Patients taking acarbose must treat hypoglycemia with pure glucose (dextrose) tablets (or honey/milk if tablets are unavailable).",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -11324,7 +11474,9 @@
           ]
         }
       ],
-      "rationale": "Misoprostol (Cytotec) is a synthetic prostaglandin analogue that replaces protective gastric prostaglandins depleted by COX-1 inhibition, preventing NSAID-induced gastric ulceration and mucosal injury."
+      "rationale": "Misoprostol (Cytotec) is a synthetic prostaglandin analogue that replaces protective gastric prostaglandins depleted by COX-1 inhibition, preventing NSAID-induced gastric ulceration and mucosal injury.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "nsaid-sa-002",
@@ -11340,7 +11492,9 @@
           ]
         }
       ],
-      "rationale": "The Done nomogram plots serum salicylate concentration as a function of time elapsed since an acute single salicylate ingestion (measured 6 hours or more post-ingestion) to gauge toxicity severity and guide treatment."
+      "rationale": "The Done nomogram plots serum salicylate concentration as a function of time elapsed since an acute single salicylate ingestion (measured 6 hours or more post-ingestion) to gauge toxicity severity and guide treatment.",
+      "placeholder": "Type the test name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "nsaid-sa-003",
@@ -11356,7 +11510,9 @@
           ]
         }
       ],
-      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid–base disturbances."
+      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid–base disturbances.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-004",
@@ -11372,7 +11528,9 @@
           ]
         }
       ],
-      "rationale": "Reye's syndrome is an acute, life-threatening condition involving progressive neurological deficits (encephalopathy, cerebral edema, coma) and hepatic damage triggered by salicylate use during pediatric viral infections."
+      "rationale": "Reye's syndrome is an acute, life-threatening condition involving progressive neurological deficits (encephalopathy, cerebral edema, coma) and hepatic damage triggered by salicylate use during pediatric viral infections.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-005",
@@ -11387,7 +11545,9 @@
           ]
         }
       ],
-      "rationale": "Celecoxib (Celebrex) was the first COX-2 inhibitor approved and is the only one remaining on the Canadian market following the withdrawal of rofecoxib (Vioxx) and valdecoxib (Bextra)."
+      "rationale": "Celecoxib (Celebrex) was the first COX-2 inhibitor approved and is the only one remaining on the Canadian market following the withdrawal of rofecoxib (Vioxx) and valdecoxib (Bextra).",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "nsaid-sa-006",
@@ -11402,7 +11562,9 @@
           ]
         }
       ],
-      "rationale": "Allopurinol and febuxostat inhibit xanthine oxidase (XO), the enzyme responsible for converting hypoxanthine to xanthine and xanthine to uric acid during purine metabolism."
+      "rationale": "Allopurinol and febuxostat inhibit xanthine oxidase (XO), the enzyme responsible for converting hypoxanthine to xanthine and xanthine to uric acid during purine metabolism.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-007",
@@ -11419,7 +11581,9 @@
           ]
         }
       ],
-      "rationale": "Drugs that promote uric acid excretion in the urine by inhibiting its reabsorption in the proximal convoluted kidney tubule are known as uricosurics (e.g., probenecid, sulfinpyrazone)."
+      "rationale": "Drugs that promote uric acid excretion in the urine by inhibiting its reabsorption in the proximal convoluted kidney tubule are known as uricosurics (e.g., probenecid, sulfinpyrazone).",
+      "placeholder": "Type the pharmacological term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-008",
@@ -11435,7 +11599,9 @@
           ]
         }
       ],
-      "rationale": "Ketorolac tromethamine (Toradol) is an acetic acid derivative NSAID used for short-term management (maximum 5 days postsurgical or 7 days musculoskeletal) of moderate-to-severe acute pain."
+      "rationale": "Ketorolac tromethamine (Toradol) is an acetic acid derivative NSAID used for short-term management (maximum 5 days postsurgical or 7 days musculoskeletal) of moderate-to-severe acute pain.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "nsaid-sa-009",
@@ -11450,7 +11616,9 @@
           ]
         }
       ],
-      "rationale": "For an acute overdose of a nonsalicylate NSAID, treatment consists of administering activated charcoal to prevent further GI absorption, followed by supportive and symptomatic care."
+      "rationale": "For an acute overdose of a nonsalicylate NSAID, treatment consists of administering activated charcoal to prevent further GI absorption, followed by supportive and symptomatic care.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-cs-001",
@@ -11623,7 +11791,9 @@
                 ]
               }
             ],
-            "rationale": "A serum salicylate concentration measured 6 hours or longer after an acute single ingestion is plotted on the Done nomogram to estimate the severity of acute intoxication and help guide treatment."
+            "rationale": "A serum salicylate concentration measured 6 hours or longer after an acute single ingestion is plotted on the Done nomogram to estimate the severity of acute intoxication and help guide treatment.",
+            "placeholder": "Type the test name…",
+            "helperText": "Standard abbreviations or full names are accepted."
           }
         },
         {
@@ -12533,7 +12703,9 @@
           ]
         }
       ],
-      "rationale": "Acetylcysteine (N-acetylcysteine) is the antidote for acetaminophen toxicity. It works by preventing the formation of hepatotoxic metabolites and is most effective when given within 10 hours of the overdose."
+      "rationale": "Acetylcysteine (N-acetylcysteine) is the antidote for acetaminophen toxicity. It works by preventing the formation of hepatotoxic metabolites and is most effective when given within 10 hours of the overdose.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-002",
@@ -12549,7 +12721,9 @@
           ]
         }
       ],
-      "rationale": "Naloxone hydrochloride is a pure competitive opioid antagonist at mu, kappa, and delta receptors that rapidly reverses opioid-induced CNS and respiratory depression."
+      "rationale": "Naloxone hydrochloride is a pure competitive opioid antagonist at mu, kappa, and delta receptors that rapidly reverses opioid-induced CNS and respiratory depression.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-003",
@@ -12564,7 +12738,9 @@
           ]
         }
       ],
-      "rationale": "Meperidine is metabolized into normeperidine, an active neurotoxic metabolite that accumulates with repeated dosing or renal dysfunction and causes CNS excitation and seizures unresponsive to naloxone."
+      "rationale": "Meperidine is metabolized into normeperidine, an active neurotoxic metabolite that accumulates with repeated dosing or renal dysfunction and causes CNS excitation and seizures unresponsive to naloxone.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-004",
@@ -12581,7 +12757,9 @@
           ]
         }
       ],
-      "rationale": "Methadone hydrochloride (Metadol, Methadose) is a long-acting synthetic opioid used in opioid detoxification/maintenance programs and for severe persistent pain; because it is eliminated via the liver, it is also safer in renal impairment."
+      "rationale": "Methadone hydrochloride (Metadol, Methadose) is a long-acting synthetic opioid used in opioid detoxification/maintenance programs and for severe persistent pain; because it is eliminated via the liver, it is also safer in renal impairment.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-005",
@@ -12594,7 +12772,9 @@
           "aliases": []
         }
       ],
-      "rationale": "Allodynia is a painful response to a normally non-noxious stimulus (such as light touch or bedsheets on the feet) and is characteristic of neuropathic pain syndromes and opioid-induced hyperalgesia."
+      "rationale": "Allodynia is a painful response to a normally non-noxious stimulus (such as light touch or bedsheets on the feet) and is characteristic of neuropathic pain syndromes and opioid-induced hyperalgesia.",
+      "placeholder": "Type the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "anlg-sa-006",
@@ -12610,7 +12790,9 @@
           ]
         }
       ],
-      "rationale": "Naltrexone hydrochloride (ReVia) is an oral competitive opioid antagonist with a 24- to 48-hour duration of action used to maintain an opioid-free state and as an adjunct in treating alcoholism."
+      "rationale": "Naltrexone hydrochloride (ReVia) is an oral competitive opioid antagonist with a 24- to 48-hour duration of action used to maintain an opioid-free state and as an adjunct in treating alcoholism.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-007",
@@ -12627,7 +12809,9 @@
           ]
         }
       ],
-      "rationale": "Transdermal lidocaine patches are applied to intact skin for up to 12 hours a day to provide local pain relief in patients with postherpetic neuralgia following shingles."
+      "rationale": "Transdermal lidocaine patches are applied to intact skin for up to 12 hours a day to provide local pain relief in patients with postherpetic neuralgia following shingles.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "anlg-sa-008",
@@ -12643,7 +12827,9 @@
           ]
         }
       ],
-      "rationale": "Codeine is metabolized in the liver to morphine via the enzyme CYP2D6. Individuals who are genetic ultra-rapid CYP2D6 metabolizers convert codeine to morphine too quickly, risking fatal respiratory depression."
+      "rationale": "Codeine is metabolized in the liver to morphine via the enzyme CYP2D6. Individuals who are genetic ultra-rapid CYP2D6 metabolizers convert codeine to morphine too quickly, risking fatal respiratory depression.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "anlg-cs-001",
@@ -12818,7 +13004,9 @@
                 ]
               }
             ],
-            "rationale": "Acetylcysteine is the antidote for acetaminophen overdose; it prevents the formation of hepatotoxic metabolites and is most effective when given within 10 hours of ingestion."
+            "rationale": "Acetylcysteine is the antidote for acetaminophen overdose; it prevents the formation of hepatotoxic metabolites and is most effective when given within 10 hours of ingestion.",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -12946,19 +13134,16 @@
           "update": "Using the FACES scale, Leo points to the tearful face (level 5) once he learns his medicine can be given through his existing IV line without a needle stick. The surgeon orders morphine sulphate 0.1 mg/kg IV every 4 hours as needed for severe pain.",
           "question": {
             "type": "short-answer",
-            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose? (Enter the number and unit, e.g., 2 mg)",
+            "inputType": "number",
+            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose?",
             "answers": [
               {
-                "text": "2 mg",
-                "aliases": [
-                  "2",
-                  "2.0 mg",
-                  "2.0",
-                  "2 milligrams"
-                ]
+                "text": "2"
               }
             ],
-            "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg × 0.1 mg/kg = 2 mg per dose."
+            "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg × 0.1 mg/kg = 2 mg per dose.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -13708,7 +13893,9 @@
           ]
         }
       ],
-      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen–antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia."
+      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen–antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-002",
@@ -13723,7 +13910,9 @@
           ]
         }
       ],
-      "rationale": "Milrinone (milrinone lactate) is the only phosphodiesterase inhibitor currently available for acute heart failure after the discontinuation of inamrinone."
+      "rationale": "Milrinone (milrinone lactate) is the only phosphodiesterase inhibitor currently available for acute heart failure after the discontinuation of inamrinone.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-003",
@@ -13740,7 +13929,9 @@
           ]
         }
       ],
-      "rationale": "Inotropic drugs affect the force or energy of myocardial contractions (positive inotropes increase contractility; negative inotropes decrease contractility). Chronotropic drugs affect heart rate, and dromotropic drugs affect electrical conduction velocity."
+      "rationale": "Inotropic drugs affect the force or energy of myocardial contractions (positive inotropes increase contractility; negative inotropes decrease contractility). Chronotropic drugs affect heart rate, and dromotropic drugs affect electrical conduction velocity.",
+      "placeholder": "Type the pharmacological term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-sa-004",
@@ -13755,7 +13946,9 @@
           ]
         }
       ],
-      "rationale": "Furosemide precipitates upon contact with milrinone in intravenous lines and must be administered through a separate line."
+      "rationale": "Furosemide precipitates upon contact with milrinone in intravenous lines and must be administered through a separate line.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-005",
@@ -13773,7 +13966,9 @@
           ]
         }
       ],
-      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium–potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias."
+      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium–potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-sa-006",
@@ -13788,7 +13983,9 @@
           ]
         }
       ],
-      "rationale": "Dobutamine (dobutamine hydrochloride) stimulates beta-1 receptors on the myocardium to produce a positive inotropic effect and increase stroke volume in hemodynamically unstable acute decompensated heart failure."
+      "rationale": "Dobutamine (dobutamine hydrochloride) stimulates beta-1 receptors on the myocardium to produce a positive inotropic effect and increase stroke volume in hemodynamically unstable acute decompensated heart failure.",
+      "placeholder": "Type a drug name…",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "hf-sa-007",
@@ -13805,7 +14002,9 @@
           ]
         }
       ],
-      "rationale": "ACE inhibitors block the breakdown of bradykinins, which build up in the blood and lodge in the bronchial tubes, triggering a dry cough as the body attempts to expel them."
+      "rationale": "ACE inhibitors block the breakdown of bradykinins, which build up in the blood and lodge in the bronchial tubes, triggering a dry cough as the body attempts to expel them.",
+      "placeholder": "Type the substance name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-sa-008",
@@ -13822,7 +14021,9 @@
           ]
         }
       ],
-      "rationale": "The ejection fraction is the proportion of blood ejected from the ventricle with each contraction relative to the left ventricular end-diastolic volume (LVEDV); normal is approximately 65% (0.65)."
+      "rationale": "The ejection fraction is the proportion of blood ejected from the ventricle with each contraction relative to the left ventricular end-diastolic volume (LVEDV); normal is approximately 65% (0.65).",
+      "placeholder": "Type the pharmacological term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "hf-cs-001",
@@ -13875,7 +14076,9 @@
                 ]
               }
             ],
-            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen–antibody complex."
+            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen–antibody complex.",
+            "placeholder": "Type a drug name…",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -13905,17 +14108,16 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Based on Evelyn's weight of 60 kg and the prescribed loading dose of 50 mcg/kg, how many milligrams (mg) of milrinone should the nurse administer for the loading dose? (Enter the number only, e.g., 5)",
+            "inputType": "number",
+            "prompt": "Based on Evelyn's weight of 60 kg and the prescribed loading dose of 50 mcg/kg, how many milligrams (mg) of milrinone should the nurse administer for the loading dose?",
             "answers": [
               {
-                "text": "3",
-                "aliases": [
-                  "3 mg",
-                  "3mg"
-                ]
+                "text": "3"
               }
             ],
-            "rationale": "Loading dose = 50 mcg/kg × 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg ÷ 1 000 = 3 mg."
+            "rationale": "Loading dose = 50 mcg/kg × 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg ÷ 1 000 = 3 mg.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -14035,7 +14237,9 @@
                 ]
               }
             ],
-            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850–882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure."
+            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850–882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure.",
+            "placeholder": "Type the substance name…",
+            "helperText": "Spelling counts."
           }
         }
       ]
@@ -14050,17 +14254,16 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Maya weighs 8 kg and the total oral digitalizing dose is 30 mcg/kg divided into 3 equal doses. How many micrograms (mcg) of digoxin will the nurse administer for EACH single dose? (Enter the number only, e.g., 50)",
+            "inputType": "number",
+            "prompt": "Maya weighs 8 kg and the total oral digitalizing dose is 30 mcg/kg divided into 3 equal doses. How many micrograms (mcg) of digoxin will the nurse administer for each single dose?",
             "answers": [
               {
-                "text": "80",
-                "aliases": [
-                  "80 mcg",
-                  "80mcg"
-                ]
+                "text": "80"
               }
             ],
-            "rationale": "Total digitalizing dose = 30 mcg/kg × 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg ÷ 3 = 80 mcg (0.08 mg) per dose."
+            "rationale": "Total digitalizing dose = 30 mcg/kg × 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg ÷ 3 = 80 mcg (0.08 mg) per dose.",
+            "placeholder": "Enter a number…",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

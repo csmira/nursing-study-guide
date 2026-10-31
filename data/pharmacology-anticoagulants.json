@@ -659,7 +659,9 @@
           ]
         }
       ],
-      "rationale": "Protamine sulphate is the specific antagonist that forms a complex with unfractionated heparin (1 mg per 100 units) and LMWHs (1 mg per 1 mg) to reverse their anticoagulant effects within 5 minutes."
+      "rationale": "Protamine sulphate is the specific antagonist that forms a complex with unfractionated heparin (1 mg per 100 units) and LMWHs (1 mg per 1 mg) to reverse their anticoagulant effects within 5 minutes.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-002",
@@ -675,7 +677,9 @@
           ]
         }
       ],
-      "rationale": "Vitamin K1 (phytonadione) is the antidote for warfarin sodium toxicity because warfarin acts by inhibiting vitamin K-dependent clotting factors II, VII, IX, and X in the liver."
+      "rationale": "Vitamin K1 (phytonadione) is the antidote for warfarin sodium toxicity because warfarin acts by inhibiting vitamin K-dependent clotting factors II, VII, IX, and X in the liver.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "coag-sa-003",
@@ -691,7 +695,9 @@
           ]
         }
       ],
-      "rationale": "The international normalized ratio (INR) standardizes prothrombin time (PT) reporting across laboratories and is used to monitor warfarin therapy, with a typical therapeutic target of 2.0 to 3.0 (or 2.5 to 3.5 for mechanical heart valves)."
+      "rationale": "The international normalized ratio (INR) standardizes prothrombin time (PT) reporting across laboratories and is used to monitor warfarin therapy, with a typical therapeutic target of 2.0 to 3.0 (or 2.5 to 3.5 for mechanical heart valves).",
+      "placeholder": "Type the test name\u2026",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "coag-sa-004",
@@ -708,7 +714,9 @@
           ]
         }
       ],
-      "rationale": "Activated partial thromboplastin time (aPTT) measures the intrinsic coagulation pathway and is the primary laboratory test used to titrate therapeutic unfractionated heparin infusions."
+      "rationale": "Activated partial thromboplastin time (aPTT) measures the intrinsic coagulation pathway and is the primary laboratory test used to titrate therapeutic unfractionated heparin infusions.",
+      "placeholder": "Type the test name\u2026",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "coag-sa-005",
@@ -725,7 +733,9 @@
           ]
         }
       ],
-      "rationale": "Dabigatran etexilate mesylate (Pradaxa) is an oral direct thrombin inhibitor whose capsules are sensitive to moisture and must be kept in the original bottle with a desiccant cap or blister pack and used within 4 months of opening."
+      "rationale": "Dabigatran etexilate mesylate (Pradaxa) is an oral direct thrombin inhibitor whose capsules are sensitive to moisture and must be kept in the original bottle with a desiccant cap or blister pack and used within 4 months of opening.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-006",
@@ -742,7 +752,9 @@
           ]
         }
       ],
-      "rationale": "Clopidogrel bisulphate (Plavix) is the prototype ADP (P2Y12) inhibitor used to prevent platelet aggregation in acute coronary syndromes, post-stent placement, MI, and stroke/TIA prophylaxis."
+      "rationale": "Clopidogrel bisulphate (Plavix) is the prototype ADP (P2Y12) inhibitor used to prevent platelet aggregation in acute coronary syndromes, post-stent placement, MI, and stroke/TIA prophylaxis.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-007",
@@ -760,7 +772,9 @@
           ]
         }
       ],
-      "rationale": "Alteplase (Activase) is a fibrin-specific recombinant tissue plasminogen activator (rt-PA) used for thrombolysis in acute ischemic stroke, pulmonary embolism, and STEMI, as well as catheter clearance (Cathflo)."
+      "rationale": "Alteplase (Activase) is a fibrin-specific recombinant tissue plasminogen activator (rt-PA) used for thrombolysis in acute ischemic stroke, pulmonary embolism, and STEMI, as well as catheter clearance (Cathflo).",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-008",
@@ -775,7 +789,9 @@
           ]
         }
       ],
-      "rationale": "Tranexamic acid (Cyklokapron) is a synthetic systemic hemostat/antifibrinolytic that displaces plasminogen from fibrin to prevent clot breakdown in hyperfibrinolysis, cardiac surgery, and dental extractions in patients with hemophilia."
+      "rationale": "Tranexamic acid (Cyklokapron) is a synthetic systemic hemostat/antifibrinolytic that displaces plasminogen from fibrin to prevent clot breakdown in hyperfibrinolysis, cardiac surgery, and dental extractions in patients with hemophilia.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-sa-009",
@@ -791,7 +807,9 @@
           ]
         }
       ],
-      "rationale": "Fondaparinux sodium (Arixtra) is a parenteral selective factor Xa inhibitor used for DVT/PE prophylaxis and treatment; it is contraindicated in patients weighing under 50 kg or with creatinine clearance <30 mL/min."
+      "rationale": "Fondaparinux sodium (Arixtra) is a parenteral selective factor Xa inhibitor used for DVT/PE prophylaxis and treatment; it is contraindicated in patients weighing under 50 kg or with creatinine clearance <30 mL/min.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "coag-cs-001",
@@ -842,7 +860,9 @@
                 ]
               }
             ],
-            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2\u201310 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT)."
+            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2\u201310 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT).",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -970,18 +990,16 @@
           "update": "Twelve hours after receiving an inadvertently high therapeutic dose of 70 mg of enoxaparin due to a look-alike syringe error, Mrs. Grewal develops brisk bleeding from her hip surgical drain, a drop in blood pressure to 92/56 mm Hg, and a heart rate of 114 beats/min. The surgeon orders immediate reversal of the 70 mg enoxaparin dose with intravenous protamine sulphate.",
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the textbook's reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin), how many milligrams of protamine sulphate should the nurse prepare? (Enter the number and unit, e.g., 50 mg, or just the number.)",
+            "inputType": "number",
+            "prompt": "Based on the reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin for a 70-mg dose), how many milligrams (mg) of protamine sulphate should the nurse prepare?",
             "answers": [
               {
-                "text": "70 mg",
-                "aliases": [
-                  "70",
-                  "70mg",
-                  "70 milligrams"
-                ]
+                "text": "70"
               }
             ],
-            "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate."
+            "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {
@@ -1120,7 +1138,9 @@
                 ]
               }
             ],
-            "rationale": "With the breakdown of fibrin (fibrinolysis) after thrombolytic administration, INR increases, aPTT is prolonged, and fibrinogen levels decrease. Measuring the patient's fibrinogen level checks for the occurrence of fibrinolysis."
+            "rationale": "With the breakdown of fibrin (fibrinolysis) after thrombolytic administration, INR increases, aPTT is prolonged, and fibrinogen levels decrease. Measuring the patient's fibrinogen level checks for the occurrence of fibrinolysis.",
+            "placeholder": "Type the test name\u2026",
+            "helperText": "Standard abbreviations or full names are accepted."
           }
         },
         {

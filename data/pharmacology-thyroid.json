@@ -717,7 +717,9 @@
           ]
         }
       ],
-      "rationale": "Levothyroxine (levothyroxine sodium; Canadian brand names Synthroid and Eltroxin) is chemically pure 100% T4 with a predictable effect and long half-life, making it the drug of choice for hypothyroidism."
+      "rationale": "Levothyroxine (levothyroxine sodium; Canadian brand names Synthroid and Eltroxin) is chemically pure 100% T4 with a predictable effect and long half-life, making it the drug of choice for hypothyroidism.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-002",
@@ -733,7 +735,9 @@
           ]
         }
       ],
-      "rationale": "Liothyronine sodium (Cytomel) is the synthetic form of triiodothyronine (T3); 25 mcg of liothyronine is clinically equivalent to approximately 100 mcg of levothyroxine."
+      "rationale": "Liothyronine sodium (Cytomel) is the synthetic form of triiodothyronine (T3); 25 mcg of liothyronine is clinically equivalent to approximately 100 mcg of levothyroxine.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-003",
@@ -748,7 +752,9 @@
           ]
         }
       ],
-      "rationale": "Propylthiouracil (PTU) inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosine and uniquely inhibits the peripheral conversion of T4 to the more active T3."
+      "rationale": "Propylthiouracil (PTU) inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosine and uniquely inhibits the peripheral conversion of T4 to the more active T3.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-004",
@@ -764,7 +770,9 @@
           ]
         }
       ],
-      "rationale": "Methimazole (also referred to by its international nonproprietary name, thiamazole, and brand name Tapazole) is an oral thioamide antithyroid drug that inhibits the incorporation of iodine into tyrosine."
+      "rationale": "Methimazole (also referred to by its international nonproprietary name, thiamazole, and brand name Tapazole) is an oral thioamide antithyroid drug that inhibits the incorporation of iodine into tyrosine.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-005",
@@ -782,7 +790,9 @@
           ]
         }
       ],
-      "rationale": "Thyroid-stimulating hormone (TSH, or thyrotropin) secreted by the anterior pituitary gland is the primary laboratory test monitored (along with free thyroid hormone levels) to evaluate and titrate thyroid hormone replacement."
+      "rationale": "Thyroid-stimulating hormone (TSH, or thyrotropin) secreted by the anterior pituitary gland is the primary laboratory test monitored (along with free thyroid hormone levels) to evaluate and titrate thyroid hormone replacement.",
+      "placeholder": "Type the test name\u2026",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "thy-sa-006",
@@ -798,7 +808,9 @@
           ]
         }
       ],
-      "rationale": "Amiodarone hydrochloride is an iodine-rich antidysrhythmic that inhibits peripheral T4-to-T3 conversion, blocks hormone entry into peripheral tissues, and can have a direct cytotoxic effect on thyroid follicular cells."
+      "rationale": "Amiodarone hydrochloride is an iodine-rich antidysrhythmic that inhibits peripheral T4-to-T3 conversion, blocks hormone entry into peripheral tissues, and can have a direct cytotoxic effect on thyroid follicular cells.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-007",
@@ -817,7 +829,9 @@
           ]
         }
       ],
-      "rationale": "Agranulocytosis (severe leukopenia due to bone marrow toxicity) is a serious adverse effect of thioamide antithyroid drugs that presents with fever, sore throat, and oral lesions/ulcers."
+      "rationale": "Agranulocytosis (severe leukopenia due to bone marrow toxicity) is a serious adverse effect of thioamide antithyroid drugs that presents with fever, sore throat, and oral lesions/ulcers.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "thy-sa-008",
@@ -833,7 +847,9 @@
           ]
         }
       ],
-      "rationale": "Potassium iodide is used as prophylaxis for radiation exposure to block the thyroid gland from sequestering radioactive iodine."
+      "rationale": "Potassium iodide is used as prophylaxis for radiation exposure to block the thyroid gland from sequestering radioactive iodine.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "thy-cs-001",
@@ -956,7 +972,9 @@
                 ]
               }
             ],
-            "rationale": "Fever, sore throat, and mouth ulcers or sores in a patient taking an antithyroid drug are hallmark warning signs of agranulocytosis/leukopenia caused by bone marrow toxicity and must be evaluated promptly with a CBC."
+            "rationale": "Fever, sore throat, and mouth ulcers or sores in a patient taking an antithyroid drug are hallmark warning signs of agranulocytosis/leukopenia caused by bone marrow toxicity and must be evaluated promptly with a CBC.",
+            "placeholder": "Type the medical term\u2026",
+            "helperText": "Spelling counts."
           }
         },
         {
@@ -1001,18 +1019,16 @@
           "update": "The prescriber orders levothyroxine sodium 0.4 mg IV push once now. The pharmacy delivers vials containing levothyroxine sodium reconstituted to a concentration of 100 mcg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many micrograms of levothyroxine are ordered in the 0.4-mg dose? (Enter the number and unit, or just the number in mcg.)",
+            "inputType": "number",
+            "prompt": "How many micrograms (mcg) of levothyroxine are ordered in the 0.4-mg dose?",
             "answers": [
               {
-                "text": "400 mcg",
-                "aliases": [
-                  "400",
-                  "400 micrograms",
-                  "400mcg"
-                ]
+                "text": "400"
               }
             ],
-            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg \u00d7 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300\u2013500 mcg IV single-dose range for myxedema coma)."
+            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg \u00d7 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300\u2013500 mcg IV single-dose range for myxedema coma).",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

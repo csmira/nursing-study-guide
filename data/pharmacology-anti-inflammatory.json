@@ -644,7 +644,9 @@
           ]
         }
       ],
-      "rationale": "Misoprostol (Cytotec) is a synthetic prostaglandin analogue that replaces protective gastric prostaglandins depleted by COX-1 inhibition, preventing NSAID-induced gastric ulceration and mucosal injury."
+      "rationale": "Misoprostol (Cytotec) is a synthetic prostaglandin analogue that replaces protective gastric prostaglandins depleted by COX-1 inhibition, preventing NSAID-induced gastric ulceration and mucosal injury.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "nsaid-sa-002",
@@ -660,7 +662,9 @@
           ]
         }
       ],
-      "rationale": "The Done nomogram plots serum salicylate concentration as a function of time elapsed since an acute single salicylate ingestion (measured 6 hours or more post-ingestion) to gauge toxicity severity and guide treatment."
+      "rationale": "The Done nomogram plots serum salicylate concentration as a function of time elapsed since an acute single salicylate ingestion (measured 6 hours or more post-ingestion) to gauge toxicity severity and guide treatment.",
+      "placeholder": "Type the test name\u2026",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "nsaid-sa-003",
@@ -676,7 +680,9 @@
           ]
         }
       ],
-      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid\u2013base disturbances."
+      "rationale": "Salicylism is the syndrome of chronic salicylate intoxication resulting from short-term high dosages or prolonged therapy, commonly presenting with tinnitus, hearing loss, GI distress, and acid\u2013base disturbances.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-004",
@@ -692,7 +698,9 @@
           ]
         }
       ],
-      "rationale": "Reye's syndrome is an acute, life-threatening condition involving progressive neurological deficits (encephalopathy, cerebral edema, coma) and hepatic damage triggered by salicylate use during pediatric viral infections."
+      "rationale": "Reye's syndrome is an acute, life-threatening condition involving progressive neurological deficits (encephalopathy, cerebral edema, coma) and hepatic damage triggered by salicylate use during pediatric viral infections.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-005",
@@ -707,7 +715,9 @@
           ]
         }
       ],
-      "rationale": "Celecoxib (Celebrex) was the first COX-2 inhibitor approved and is the only one remaining on the Canadian market following the withdrawal of rofecoxib (Vioxx) and valdecoxib (Bextra)."
+      "rationale": "Celecoxib (Celebrex) was the first COX-2 inhibitor approved and is the only one remaining on the Canadian market following the withdrawal of rofecoxib (Vioxx) and valdecoxib (Bextra).",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "nsaid-sa-006",
@@ -722,7 +732,9 @@
           ]
         }
       ],
-      "rationale": "Allopurinol and febuxostat inhibit xanthine oxidase (XO), the enzyme responsible for converting hypoxanthine to xanthine and xanthine to uric acid during purine metabolism."
+      "rationale": "Allopurinol and febuxostat inhibit xanthine oxidase (XO), the enzyme responsible for converting hypoxanthine to xanthine and xanthine to uric acid during purine metabolism.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-007",
@@ -739,7 +751,9 @@
           ]
         }
       ],
-      "rationale": "Drugs that promote uric acid excretion in the urine by inhibiting its reabsorption in the proximal convoluted kidney tubule are known as uricosurics (e.g., probenecid, sulfinpyrazone)."
+      "rationale": "Drugs that promote uric acid excretion in the urine by inhibiting its reabsorption in the proximal convoluted kidney tubule are known as uricosurics (e.g., probenecid, sulfinpyrazone).",
+      "placeholder": "Type the pharmacological term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-sa-008",
@@ -755,7 +769,9 @@
           ]
         }
       ],
-      "rationale": "Ketorolac tromethamine (Toradol) is an acetic acid derivative NSAID used for short-term management (maximum 5 days postsurgical or 7 days musculoskeletal) of moderate-to-severe acute pain."
+      "rationale": "Ketorolac tromethamine (Toradol) is an acetic acid derivative NSAID used for short-term management (maximum 5 days postsurgical or 7 days musculoskeletal) of moderate-to-severe acute pain.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "nsaid-sa-009",
@@ -770,7 +786,9 @@
           ]
         }
       ],
-      "rationale": "For an acute overdose of a nonsalicylate NSAID, treatment consists of administering activated charcoal to prevent further GI absorption, followed by supportive and symptomatic care."
+      "rationale": "For an acute overdose of a nonsalicylate NSAID, treatment consists of administering activated charcoal to prevent further GI absorption, followed by supportive and symptomatic care.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "nsaid-cs-001",
@@ -943,7 +961,9 @@
                 ]
               }
             ],
-            "rationale": "A serum salicylate concentration measured 6 hours or longer after an acute single ingestion is plotted on the Done nomogram to estimate the severity of acute intoxication and help guide treatment."
+            "rationale": "A serum salicylate concentration measured 6 hours or longer after an acute single ingestion is plotted on the Done nomogram to estimate the severity of acute intoxication and help guide treatment.",
+            "placeholder": "Type the test name\u2026",
+            "helperText": "Standard abbreviations or full names are accepted."
           }
         },
         {

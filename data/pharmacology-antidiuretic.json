@@ -649,7 +649,7 @@
       "id": "diur-sa-001",
       "type": "short-answer",
       "topic": "Loop Diuretics",
-      "prompt": "Name the prototypical loop diuretic (generic name) whose trade name, Lasix, was derived from its 6-hour oral duration of action.",
+      "prompt": "Name the prototypical loop diuretic whose trade name, Lasix, was derived from its 6-hour oral duration of action.",
       "answers": [
         {
           "text": "furosemide",
@@ -658,13 +658,15 @@
           ]
         }
       ],
-      "rationale": "Furosemide (Lasix) is the prototypical and most commonly used loop diuretic; its trade name reflects that its action lasts approximately 6 hours when given orally."
+      "rationale": "Furosemide (Lasix) is the prototypical and most commonly used loop diuretic; its trade name reflects that its action lasts approximately 6 hours when given orally.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-002",
       "type": "short-answer",
       "topic": "Osmotic Diuretics",
-      "prompt": "Name the prototypical osmotic diuretic (generic name) that is a nonabsorbable solute used to reduce intracranial pressure and cerebral edema.",
+      "prompt": "Name the prototypical osmotic diuretic that is a nonabsorbable solute used to reduce intracranial pressure and cerebral edema.",
       "answers": [
         {
           "text": "mannitol",
@@ -673,13 +675,15 @@
           ]
         }
       ],
-      "rationale": "Mannitol (Osmitrol) is a nonabsorbable solute that acts as an osmotic diuretic along the nephron (primarily the proximal tubule and descending loop of Henle) to reduce cerebral edema and intracranial pressure."
+      "rationale": "Mannitol (Osmitrol) is a nonabsorbable solute that acts as an osmotic diuretic along the nephron (primarily the proximal tubule and descending loop of Henle) to reduce cerebral edema and intracranial pressure.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-003",
       "type": "short-answer",
       "topic": "Potassium-Sparing Diuretics",
-      "prompt": "Name the synthetic steroid potassium-sparing diuretic (generic name) that acts as a competitive antagonist of aldosterone receptors and is used to treat ascites and heart failure.",
+      "prompt": "Name the synthetic steroid potassium-sparing diuretic that acts as a competitive antagonist of aldosterone receptors and is used to treat ascites and heart failure.",
       "answers": [
         {
           "text": "spironolactone",
@@ -688,13 +692,15 @@
           ]
         }
       ],
-      "rationale": "Spironolactone (Aldactone) is a synthetic steroid that competitively binds to aldosterone receptors in the distal tubule, causing sodium and water excretion while retaining potassium."
+      "rationale": "Spironolactone (Aldactone) is a synthetic steroid that competitively binds to aldosterone receptors in the distal tubule, causing sodium and water excretion while retaining potassium.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-004",
       "type": "short-answer",
       "topic": "Carbonic Anhydrase Inhibitors",
-      "prompt": "Name the most commonly used carbonic anhydrase inhibitor (generic name) indicated for open-angle glaucoma and the prevention and treatment of high-altitude sickness.",
+      "prompt": "Name the most commonly used carbonic anhydrase inhibitor indicated for open-angle glaucoma and the prevention and treatment of high-altitude sickness.",
       "answers": [
         {
           "text": "acetazolamide",
@@ -703,13 +709,15 @@
           ]
         }
       ],
-      "rationale": "Acetazolamide (Acetazolam) is the prototypical carbonic anhydrase inhibitor acting in the proximal convoluted tubule and eye."
+      "rationale": "Acetazolamide (Acetazolam) is the prototypical carbonic anhydrase inhibitor acting in the proximal convoluted tubule and eye.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-005",
       "type": "short-answer",
       "topic": "Thiazide and Thiazide-Like Diuretics",
-      "prompt": "Name the thiazide-like diuretic (generic name) that remains effective at a creatinine clearance as low as 10 mL/min and is frequently combined with a loop diuretic for sequential nephron blockade.",
+      "prompt": "Name the thiazide-like diuretic that remains effective at a creatinine clearance as low as 10 mL/min and is frequently combined with a loop diuretic for sequential nephron blockade.",
       "answers": [
         {
           "text": "metolazone",
@@ -718,13 +726,15 @@
           ]
         }
       ],
-      "rationale": "Metolazone (Zaroxolyn) is a potent thiazide-like diuretic that remains effective in severe kidney impairment (down to a creatinine clearance of 10 mL/min) and is combined with loop diuretics for sequential nephron blockade."
+      "rationale": "Metolazone (Zaroxolyn) is a potent thiazide-like diuretic that remains effective in severe kidney impairment (down to a creatinine clearance of 10 mL/min) and is combined with loop diuretics for sequential nephron blockade.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-006",
       "type": "short-answer",
       "topic": "Antidiuretic Hormone Drugs",
-      "prompt": "Name the synthetic structural analogue of human antidiuretic hormone (generic name) that has 10 times the antidiuretic activity of vasopressin and is used to treat central diabetes insipidus and mild hemophilia A.",
+      "prompt": "Name the synthetic structural analogue of human antidiuretic hormone that has 10 times the antidiuretic activity of vasopressin and is used to treat central diabetes insipidus and mild hemophilia A.",
       "answers": [
         {
           "text": "desmopressin",
@@ -736,20 +746,24 @@
           ]
         }
       ],
-      "rationale": "Desmopressin (DDAVP, Octostim, Nocdurna) is a synthetic vasopressin analogue with potent antidiuretic activity, minimal vasoconstrictor effect, and the ability to increase factor VIII and von Willebrand factor levels."
+      "rationale": "Desmopressin (DDAVP, Octostim, Nocdurna) is a synthetic vasopressin analogue with potent antidiuretic activity, minimal vasoconstrictor effect, and the ability to increase factor VIII and von Willebrand factor levels.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-007",
       "type": "short-answer",
       "topic": "Antidiuretic Hormone Drugs",
-      "prompt": "Name the vasopressin receptor antagonist (generic name) mentioned in Chapter 31 that is prescribed to treat marked symptomatic hyponatremia in patients with SIADH or heart failure.",
+      "prompt": "Name the vasopressin receptor antagonist mentioned in Chapter 31 that is prescribed to treat marked symptomatic hyponatremia in patients with SIADH or heart failure.",
       "answers": [
         {
           "text": "tolvaptan",
           "aliases": []
         }
       ],
-      "rationale": "Tolvaptan is a vasopressin antagonist used to treat marked symptomatic hyponatremia associated with syndrome of inappropriate antidiuretic hormone (SIADH) and heart failure."
+      "rationale": "Tolvaptan is a vasopressin antagonist used to treat marked symptomatic hyponatremia associated with syndrome of inappropriate antidiuretic hormone (SIADH) and heart failure.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "diur-sa-008",
@@ -766,7 +780,9 @@
           ]
         }
       ],
-      "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L) is the most common and clinically important electrolyte abnormality associated with loop and thiazide diuretics and predisposes patients to digoxin toxicity and cardiac dysrhythmias."
+      "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L) is the most common and clinically important electrolyte abnormality associated with loop and thiazide diuretics and predisposes patients to digoxin toxicity and cardiac dysrhythmias.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "diur-cs-001",
@@ -808,7 +824,7 @@
           "update": "Arthur's morning serum potassium level returns at 2.9 mmol/L. Digoxin is held, and his potassium is safely replaced until it reaches 4.2 mmol/L. However, on hospital day 4, his peripheral edema becomes resistant to IV furosemide alone, and his estimated creatinine clearance is 22 mL/min. The cardiologist adds a daily oral thiazide-like diuretic to produce sequential nephron blockade.",
           "question": {
             "type": "short-answer",
-            "prompt": "Which oral thiazide-like diuretic (generic name) is specifically chosen to combine with a loop diuretic for sequential nephron blockade when creatinine clearance is below 25 mL/min?",
+            "prompt": "Which oral thiazide-like diuretic is specifically chosen to combine with a loop diuretic for sequential nephron blockade when creatinine clearance is below 25 mL/min?",
             "answers": [
               {
                 "text": "metolazone",
@@ -817,7 +833,9 @@
                 ]
               }
             ],
-            "rationale": "Metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min and is combined with loop diuretics to block sodium and water reabsorption at multiple sites along the nephron (sequential nephron blockade)."
+            "rationale": "Metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min and is combined with loop diuretics to block sodium and water reabsorption at multiple sites along the nephron (sequential nephron blockade).",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {

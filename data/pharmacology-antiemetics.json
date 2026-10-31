@@ -649,7 +649,7 @@
       "id": "emet-sa-001",
       "type": "short-answer",
       "topic": "Serotonin Blockers",
-      "prompt": "Name the prototypical serotonin (5-HT3) receptor blocker antiemetic (generic name or Canadian brand name) that was approved in 1991 and is widely used to prevent chemotherapy-induced and postoperative nausea and vomiting.",
+      "prompt": "Name the prototypical serotonin (5-HT3) receptor blocker antiemetic that was approved in 1991 and is widely used to prevent chemotherapy-induced and postoperative nausea and vomiting.",
       "answers": [
         {
           "text": "ondansetron",
@@ -660,13 +660,15 @@
           ]
         }
       ],
-      "rationale": "Ondansetron (Zofran) is the prototypical 5-HT3 receptor antagonist (serotonin blocker) used for chemotherapy-induced nausea and vomiting, postoperative nausea and vomiting, and hyperemesis gravidarum."
+      "rationale": "Ondansetron (Zofran) is the prototypical 5-HT3 receptor antagonist (serotonin blocker) used for chemotherapy-induced nausea and vomiting, postoperative nausea and vomiting, and hyperemesis gravidarum.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-002",
       "type": "short-answer",
       "topic": "Prokinetics",
-      "prompt": "Which prokinetic drug (generic name) blocks dopamine receptors in the chemoreceptor trigger zone (CTZ) and stimulates peristalsis in the upper gastrointestinal tract to treat delayed gastric emptying and gastroesophageal reflux?",
+      "prompt": "Which prokinetic drug blocks dopamine receptors in the chemoreceptor trigger zone (CTZ) and stimulates peristalsis in the upper gastrointestinal tract to treat delayed gastric emptying and gastroesophageal reflux?",
       "answers": [
         {
           "text": "metoclopramide",
@@ -677,13 +679,15 @@
           ]
         }
       ],
-      "rationale": "Metoclopramide hydrochloride (Metonia, Metoclopramide OMEGA) is the only prokinetic drug profiled in the chapter that is used both to promote GI motility in delayed gastric emptying/GERD and to prevent nausea and vomiting."
+      "rationale": "Metoclopramide hydrochloride (Metonia, Metoclopramide OMEGA) is the only prokinetic drug profiled in the chapter that is used both to promote GI motility in delayed gastric emptying/GERD and to prevent nausea and vomiting.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-003",
       "type": "short-answer",
       "topic": "Anticholinergics",
-      "prompt": "Name the primary anticholinergic belladonna alkaloid drug (generic name) that blocks acetylcholine receptors in the vestibular nuclei and is available as an over-the-counter transdermal patch (Transderm V) for motion sickness.",
+      "prompt": "Name the primary anticholinergic belladonna alkaloid drug that blocks acetylcholine receptors in the vestibular nuclei and is available as an over-the-counter transdermal patch (Transderm V) for motion sickness.",
       "answers": [
         {
           "text": "scopolamine",
@@ -694,13 +698,15 @@
           ]
         }
       ],
-      "rationale": "Scopolamine (scopolamine hydrobromide; Transderm V) is the primary anticholinergic antiemetic used for motion sickness, preoperative secretion reduction, and postoperative nausea and vomiting."
+      "rationale": "Scopolamine (scopolamine hydrobromide; Transderm V) is the primary anticholinergic antiemetic used for motion sickness, preoperative secretion reduction, and postoperative nausea and vomiting.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-004",
       "type": "short-answer",
       "topic": "Substance P\u2013Neurokinin-1 Antagonists",
-      "prompt": "Name the antiemetic drug (generic or brand name) that acts as an antagonist of substance P\u2013neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
+      "prompt": "Name the antiemetic drug that acts as an antagonist of substance P\u2013neurokinin-1 (NK1) receptors in the brain and augments the antiemetic activity of ondansetron and dexamethasone.",
       "answers": [
         {
           "text": "aprepitant",
@@ -709,7 +715,9 @@
           ]
         }
       ],
-      "rationale": "Aprepitant (Emend) blocks substance P\u2013neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy."
+      "rationale": "Aprepitant (Emend) blocks substance P\u2013neurokinin-1 receptors in the brain and is used with ondansetron and dexamethasone for preventing nausea and vomiting from highly and moderately emetogenic chemotherapy.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-005",
@@ -726,7 +734,9 @@
           ]
         }
       ],
-      "rationale": "Aprepitant induces the metabolism of warfarin sodium, which can decrease its anticoagulant effect; therefore, the international normalized ratio (INR) must be checked before each cycle of aprepitant."
+      "rationale": "Aprepitant induces the metabolism of warfarin sodium, which can decrease its anticoagulant effect; therefore, the international normalized ratio (INR) must be checked before each cycle of aprepitant.",
+      "placeholder": "Type the test name\u2026",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "emet-sa-006",
@@ -741,13 +751,15 @@
           ]
         }
       ],
-      "rationale": "Pyridoxine hydrochloride is vitamin B6, which is combined with the antihistamine doxylamine succinate in Diclectin delayed-release tablets to manage nausea and vomiting during pregnancy."
+      "rationale": "Pyridoxine hydrochloride is vitamin B6, which is combined with the antihistamine doxylamine succinate in Diclectin delayed-release tablets to manage nausea and vomiting during pregnancy.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "emet-sa-007",
       "type": "short-answer",
       "topic": "Antidopaminergics",
-      "prompt": "Which high-alert phenothiazine antidopaminergic drug (generic name) is contraindicated in children under 2 years of age and can cause severe tissue necrosis and amputation if inadvertently injected intra-arterially?",
+      "prompt": "Which high-alert phenothiazine antidopaminergic drug is contraindicated in children under 2 years of age and can cause severe tissue necrosis and amputation if inadvertently injected intra-arterially?",
       "answers": [
         {
           "text": "promethazine",
@@ -758,7 +770,9 @@
           ]
         }
       ],
-      "rationale": "Promethazine hydrochloride (Histantil) is a high-alert antidopaminergic antiemetic that is contraindicated in children younger than 2 years of age and causes devastating tissue damage and gangrene if given intra-arterially or subcutaneously."
+      "rationale": "Promethazine hydrochloride (Histantil) is a high-alert antidopaminergic antiemetic that is contraindicated in children younger than 2 years of age and causes devastating tissue damage and gangrene if given intra-arterially or subcutaneously.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "emet-sa-008",
@@ -774,7 +788,9 @@
           ]
         }
       ],
-      "rationale": "Ginger (Zingiber officinale) contains gingerols and gingerdione and is used for nausea and vomiting, but it may worsen cholelithiasis (gallstones) and increase bleeding risk with anticoagulants or antiplatelet drugs."
+      "rationale": "Ginger (Zingiber officinale) contains gingerols and gingerdione and is used for nausea and vomiting, but it may worsen cholelithiasis (gallstones) and increase bleeding risk with anticoagulants or antiplatelet drugs.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "emet-cs-001",
@@ -831,7 +847,7 @@
           "update": "Three weeks later, as Arthur walks into the oncology clinic for Cycle 2, he becomes pale, diaphoretic, and nauseated merely from seeing the infusion chairs and smelling the clinic antiseptic.",
           "question": {
             "type": "short-answer",
-            "prompt": "Name the benzodiazepine anxiolytic drug (generic or brand name) mentioned in the chapter that is often given during chemotherapy to treat 'anticipatory nausea and vomiting' by blunting the memory of the nausea and vomiting experience.",
+            "prompt": "Name the benzodiazepine anxiolytic drug mentioned in the chapter that is often given during chemotherapy to treat 'anticipatory nausea and vomiting' by blunting the memory of the nausea and vomiting experience.",
             "answers": [
               {
                 "text": "lorazepam",
@@ -840,7 +856,9 @@
                 ]
               }
             ],
-            "rationale": "Lorazepam is an anxiolytic benzodiazepine used in combination with serotonin blockers during chemotherapy because, in addition to its antiemetic effect, it helps blunt the memory of the nausea and vomiting experience (anticipatory nausea and vomiting)."
+            "rationale": "Lorazepam is an anxiolytic benzodiazepine used in combination with serotonin blockers during chemotherapy because, in addition to its antiemetic effect, it helps blunt the memory of the nausea and vomiting experience (anticipatory nausea and vomiting).",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         }
       ]
@@ -885,19 +903,16 @@
           "update": "The resident cancels the hydroxyzine order and instead prescribes promethazine hydrochloride (Histantil) 12.5 mg IM stat. The unit stock vials contain promethazine hydrochloride 25 mg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many millilitres (mL) of promethazine hydrochloride will the nurse draw up to administer the 12.5-mg intramuscular dose? (Enter the numerical value only or with mL.)",
+            "inputType": "number",
+            "prompt": "How many millilitres (mL) of promethazine hydrochloride will the nurse draw up to administer the 12.5-mg intramuscular dose?",
             "answers": [
               {
-                "text": "0.5",
-                "aliases": [
-                  "0.5 mL",
-                  "0.5mL",
-                  ".5",
-                  ".5 mL"
-                ]
+                "text": "0.5"
               }
             ],
-            "rationale": "Using the dosage formula (Desired \u00f7 Have \u00d7 Volume): 12.5 mg \u00f7 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine."
+            "rationale": "Using the dosage formula (Desired \u00f7 Have \u00d7 Volume): 12.5 mg \u00f7 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

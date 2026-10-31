@@ -715,7 +715,9 @@
           ]
         }
       ],
-      "rationale": "Aliskiren (aliskiren fumarate; Rasilez) is the sole drug in the direct renin inhibitor class. It binds directly to the renin enzyme to prevent the conversion of angiotensinogen to angiotensin I."
+      "rationale": "Aliskiren (aliskiren fumarate; Rasilez) is the sole drug in the direct renin inhibitor class. It binds directly to the renin enzyme to prevent the conversion of angiotensinogen to angiotensin I.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-002",
@@ -733,7 +735,9 @@
           ]
         }
       ],
-      "rationale": "First-dose syncope refers to a severe hypotensive effect with loss of consciousness that can occur with the initial dose of an alpha1 blocker (such as doxazosin or prazosin) or alpha agonist. Administering the first dose at bedtime helps prevent injury."
+      "rationale": "First-dose syncope refers to a severe hypotensive effect with loss of consciousness that can occur with the initial dose of an alpha1 blocker (such as doxazosin or prazosin) or alpha agonist. Administering the first dose at bedtime helps prevent injury.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-003",
@@ -749,7 +753,9 @@
           ]
         }
       ],
-      "rationale": "Angioedema is a rare but potentially fatal adverse effect of ACE inhibitors involving submucosal and laryngeal swelling that can progress to airway obstruction and anaphylaxis."
+      "rationale": "Angioedema is a rare but potentially fatal adverse effect of ACE inhibitors involving submucosal and laryngeal swelling that can progress to airway obstruction and anaphylaxis.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-004",
@@ -766,7 +772,9 @@
           ]
         }
       ],
-      "rationale": "Enalapril sodium (Vasotec) is the only marketed ACE inhibitor available in both oral and parenteral (enalaprilat) preparations."
+      "rationale": "Enalapril sodium (Vasotec) is the only marketed ACE inhibitor available in both oral and parenteral (enalaprilat) preparations.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-005",
@@ -782,7 +790,9 @@
           ]
         }
       ],
-      "rationale": "Minoxidil (Loniten orally; Rogaine topically) is a direct-acting arteriolar vasodilator used for severe hypertension that also stimulates hair growth."
+      "rationale": "Minoxidil (Loniten orally; Rogaine topically) is a direct-acting arteriolar vasodilator used for severe hypertension that also stimulates hair growth.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-006",
@@ -799,7 +809,9 @@
           ]
         }
       ],
-      "rationale": "ACE inhibitors, ARBs, and selective aldosterone blockers (eplerenone) reduce aldosterone activity, promoting potassium resorption in the kidneys and placing the patient at risk for hyperkalemia (serum potassium > 5.0 to 5.5 mmol/L)."
+      "rationale": "ACE inhibitors, ARBs, and selective aldosterone blockers (eplerenone) reduce aldosterone activity, promoting potassium resorption in the kidneys and placing the patient at risk for hyperkalemia (serum potassium > 5.0 to 5.5 mmol/L).",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-007",
@@ -814,7 +826,9 @@
           ]
         }
       ],
-      "rationale": "Eplerenone (Inspra) is the selective aldosterone receptor antagonist indicated for routine hypertension and for improving survival in patients with stable heart failure after a myocardial infarction."
+      "rationale": "Eplerenone (Inspra) is the selective aldosterone receptor antagonist indicated for routine hypertension and for improving survival in patients with stable heart failure after a myocardial infarction.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "htn-sa-008",
@@ -829,7 +843,9 @@
           ]
         }
       ],
-      "rationale": "Abrupt discontinuation of antihypertensive medications\u2014especially centrally acting alpha2 agonists like clonidine and beta blockers\u2014causes rebound hypertension, which can precipitate a stroke or acute cardiac event."
+      "rationale": "Abrupt discontinuation of antihypertensive medications\u2014especially centrally acting alpha2 agonists like clonidine and beta blockers\u2014causes rebound hypertension, which can precipitate a stroke or acute cardiac event.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-sa-009",
@@ -844,7 +860,9 @@
           ]
         }
       ],
-      "rationale": "A prodrug is a drug that is inactive in its administered form and must be metabolized to its active form in the body, generally by the liver, to be effective. All ACE inhibitors except captopril and lisinopril are prodrugs."
+      "rationale": "A prodrug is a drug that is inactive in its administered form and must be metabolized to its active form in the body, generally by the liver, to be effective. All ACE inhibitors except captopril and lisinopril are prodrugs.",
+      "placeholder": "Type the pharmacological term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "htn-cs-001",
@@ -897,7 +915,9 @@
                 ]
               }
             ],
-            "rationale": "When sodium nitroprusside is combined with sodium thiosulfate (sodium thiosulphate), the potential for cyanide toxicity is greatly reduced. If cyanide or thiocyanate toxicity occurs, treatment uses a standard cyanide antidote kit containing amyl nitrite for inhalation and sodium nitrite and sodium thiosulfate for injection."
+            "rationale": "When sodium nitroprusside is combined with sodium thiosulfate (sodium thiosulphate), the potential for cyanide toxicity is greatly reduced. If cyanide or thiocyanate toxicity occurs, treatment uses a standard cyanide antidote kit containing amyl nitrite for inhalation and sodium nitrite and sodium thiosulfate for injection.",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
@@ -1073,7 +1093,9 @@
                 ]
               }
             ],
-            "rationale": "Captopril and lisinopril (Prinivil, Zestril) are the only two ACE inhibitors that are not prodrugs. Unlike oral enalapril, ramipril, or perindopril, lisinopril does not depend on liver function for conversion into an active form and offers convenient once-daily dosing."
+            "rationale": "Captopril and lisinopril (Prinivil, Zestril) are the only two ACE inhibitors that are not prodrugs. Unlike oral enalapril, ramipril, or perindopril, lisinopril does not depend on liver function for conversion into an active form and offers convenient once-daily dosing.",
+            "placeholder": "Type a drug name\u2026",
+            "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {

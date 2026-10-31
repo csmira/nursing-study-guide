@@ -692,7 +692,9 @@
           ]
         }
       ],
-      "rationale": "Nitroglycerin is the prototypical nitrate vasodilator available in rapid-acting forms (sublingual tablets, translingual spray, IV infusion) and long-acting forms (transdermal patches, topical ointment, extended-release oral capsules)."
+      "rationale": "Nitroglycerin is the prototypical nitrate vasodilator available in rapid-acting forms (sublingual tablets, translingual spray, IV infusion) and long-acting forms (transdermal patches, topical ointment, extended-release oral capsules).",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-002",
@@ -707,7 +709,9 @@
           ]
         }
       ],
-      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system that metabolizes CCBs (particularly nifedipine), increasing bioavailability and the risk of severe hypotension and toxicity."
+      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system that metabolizes CCBs (particularly nifedipine), increasing bioavailability and the risk of severe hypotension and toxicity.",
+      "placeholder": "Type the substance name\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "ang-sa-003",
@@ -723,7 +727,9 @@
           ]
         }
       ],
-      "rationale": "Nitrate-induced headaches result from cerebral vasodilation, typically last about 20 minutes with sublingual doses, diminish with continued use, and can be safely managed with acetaminophen."
+      "rationale": "Nitrate-induced headaches result from cerebral vasodilation, typically last about 20 minutes with sublingual doses, diminish with continued use, and can be safely managed with acetaminophen.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-004",
@@ -739,7 +745,9 @@
           ]
         }
       ],
-      "rationale": "As stated in the chapter's IV implementation guidelines, using specialized non-PVC infusion kits and protecting IV nitroglycerin from light prevents uptake by plastic and prevents decomposition of the nitrate into cyanide."
+      "rationale": "As stated in the chapter's IV implementation guidelines, using specialized non-PVC infusion kits and protecting IV nitroglycerin from light prevents uptake by plastic and prevents decomposition of the nitrate into cyanide.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-005",
@@ -758,7 +766,9 @@
           ]
         }
       ],
-      "rationale": "Diltiazem hydrochloride is the only benzothiazepine CCB profiled in the chapter and is used orally for angina and hypertension and intravenously for atrial fibrillation/flutter and paroxysmal supraventricular tachycardia."
+      "rationale": "Diltiazem hydrochloride is the only benzothiazepine CCB profiled in the chapter and is used orally for angina and hypertension and intravenously for atrial fibrillation/flutter and paroxysmal supraventricular tachycardia.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-006",
@@ -774,7 +784,9 @@
           ]
         }
       ],
-      "rationale": "Amlodipine besylate (Norvasc) is the most popular dihydropyridine CCB, characterized by a 30- to 50-hour half-life that allows once-daily oral dosing."
+      "rationale": "Amlodipine besylate (Norvasc) is the most popular dihydropyridine CCB, characterized by a 30- to 50-hour half-life that allows once-daily oral dosing.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-007",
@@ -790,7 +802,9 @@
           ]
         }
       ],
-      "rationale": "Isosorbide-5-mononitrate (isosorbide mononitrate, Imdur) is the active metabolite of isosorbide dinitrate and provides a steady, predictable antianginal response without requiring hepatic conversion."
+      "rationale": "Isosorbide-5-mononitrate (isosorbide mononitrate, Imdur) is the active metabolite of isosorbide dinitrate and provides a steady, predictable antianginal response without requiring hepatic conversion.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-008",
@@ -808,7 +822,9 @@
           ]
         }
       ],
-      "rationale": "Vasospastic (Prinzmetal's or variant) angina results from coronary artery smooth muscle spasm rather than physical exertion, often occurring at rest in a regular circadian pattern."
+      "rationale": "Vasospastic (Prinzmetal's or variant) angina results from coronary artery smooth muscle spasm rather than physical exertion, often occurring at rest in a regular circadian pattern.",
+      "placeholder": "Type a drug name\u2026",
+      "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-009",
@@ -823,24 +839,24 @@
           ]
         }
       ],
-      "rationale": "Reflex tachycardia occurs when rapid venous vasodilation reduces central blood volume, causing arterial baroreceptors to stimulate sympathetic output and temporarily increase heart rate."
+      "rationale": "Reflex tachycardia occurs when rapid venous vasodilation reduces central blood volume, causing arterial baroreceptors to stimulate sympathetic output and temporarily increase heart rate.",
+      "placeholder": "Type the medical term\u2026",
+      "helperText": "Spelling counts."
     },
     {
       "id": "ang-sa-010",
       "type": "short-answer",
+      "inputType": "number",
       "topic": "Beta blockers",
       "prompt": "At or below what apical pulse rate (in beats per minute) must the nurse withhold an antianginal beta blocker and contact the health care provider for further instructions?",
       "answers": [
         {
-          "text": "60",
-          "aliases": [
-            "60 bpm",
-            "60 beats/min",
-            "60 beats per minute"
-          ]
+          "text": "60"
         }
       ],
-      "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater)."
+      "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater).",
+      "placeholder": "Enter a number\u2026",
+      "helperText": "Numbers only. Do not include units."
     },
     {
       "id": "ang-cs-001",
@@ -950,24 +966,16 @@
           "update": "The IV nitroglycerin rate is adjusted, and Elena's blood pressure stabilizes at 118/72 mm Hg with a heart rate of 76 beats/min. Twenty-four hours later, she has remained pain-free, and the cardiologist orders a transition from IV nitroglycerin to a transdermal nitroglycerin patch 0.4 mg/hr applied daily at 0800 hours and removed at 2000 hours.",
           "question": {
             "type": "short-answer",
-            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action (in minutes, expressed as a range or single number from 30 to 60) of a transdermal nitroglycerin patch?",
+            "inputType": "number",
+            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action in minutes of a transdermal nitroglycerin patch?",
             "answers": [
               {
-                "text": "30 to 60 minutes",
-                "aliases": [
-                  "30-60 minutes",
-                  "30-60 min",
-                  "30 to 60 min",
-                  "30",
-                  "30 minutes",
-                  "30 min",
-                  "60",
-                  "60 minutes",
-                  "60 min"
-                ]
+                "text": "30"
               }
             ],
-            "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours."
+            "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours.",
+            "placeholder": "Enter a number\u2026",
+            "helperText": "Numbers only. Do not include units."
           }
         },
         {

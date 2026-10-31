@@ -47,7 +47,7 @@ export function ShortAnswerInput({ question, value, onChange, onSubmit }: ShortA
     question.inputType === 'number' ||
     (question.inputType !== 'text' &&
       question.answers.length > 0 &&
-      /^-?\d+(\.\d+)?$/.test(question.answers[0].text.trim()))
+      /^-?\d+(\.\d+)?$/.test(question.answers[0]?.text.trim() ?? ''))
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const raw = e.target.value
@@ -93,7 +93,9 @@ export function ShortAnswerInput({ question, value, onChange, onSubmit }: ShortA
         autoCorrect="off"
         autoCapitalize="off"
         spellCheck={false}
-        placeholder={question.placeholder ?? (isNumeric ? 'Enter a number…' : 'Type your answer…')}
+        placeholder={(
+          question.placeholder ?? (isNumeric ? 'Enter a number…' : 'Type your answer…')
+        ).replace(/\s*\(generic or brand\)/gi, '')}
         value={typeof value === 'string' ? value : typeof value === 'number' ? String(value) : ''}
         onChange={handleChange}
         onKeyDown={handleKeyDown}

@@ -970,15 +970,11 @@
           "update": "Twelve hours after receiving an inadvertently high therapeutic dose of 70 mg of enoxaparin due to a look-alike syringe error, Mrs. Grewal develops brisk bleeding from her hip surgical drain, a drop in blood pressure to 92/56 mm Hg, and a heart rate of 114 beats/min. The surgeon orders immediate reversal of the 70 mg enoxaparin dose with intravenous protamine sulphate.",
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the textbook's reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin), how many milligrams of protamine sulphate should the nurse prepare? (Enter the number and unit, e.g., 50 mg, or just the number.)",
+            "inputType": "number",
+            "prompt": "Based on the reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin for a 70-mg dose), how many milligrams (mg) of protamine sulphate should the nurse prepare?",
             "answers": [
               {
-                "text": "70 mg",
-                "aliases": [
-                  "70",
-                  "70mg",
-                  "70 milligrams"
-                ]
+                "text": "70"
               }
             ],
             "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate."

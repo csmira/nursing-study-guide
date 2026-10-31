@@ -827,19 +827,14 @@
           "update": "After discontinuing the phenytoin infusion and stabilizing Arthur's blood pressure, the prescriber switches the order to fosphenytoin (Cerebyx) and later transitions Arthur to oral phenytoin maintenance therapy. Laboratory results on day 3 show a serum albumin of 24 g/L (low) and a total serum phenytoin level of 24 mcg/mL. Arthur exhibits horizontal nystagmus and an unsteady, ataxic gait when attempting to stand.",
           "question": {
             "type": "short-answer",
-            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL (enter the number only, e.g., 20)?",
+            "inputType": "number",
+            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL?",
             "answers": [
               {
-                "text": "20",
-                "aliases": [
-                  "20 mcg/mL",
-                  "10-20",
-                  "10 to 20",
-                  "10-20 mcg/mL"
-                ]
+                "text": "20"
               }
             ],
-            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL\u2014compounded by low serum albumin, which increases free unbound phenytoin\u2014is toxic and accounts for his nystagmus and ataxia."
+            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia."
           }
         }
       ]
@@ -922,14 +917,11 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams of valproic acid will the nurse administer per single dose (enter number and unit or number only, e.g., 225 mg)?",
+            "inputType": "number",
+            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams (mg) of valproic acid will the nurse administer per single dose?",
             "answers": [
               {
-                "text": "225 mg",
-                "aliases": [
-                  "225",
-                  "225mg"
-                ]
+                "text": "225"
               }
             ],
             "rationale": "Total daily dose = 15 mg/kg/day \u00d7 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose."

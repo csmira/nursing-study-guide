@@ -42,32 +42,67 @@ interface ShortAnswerProps {
 
 export function ShortAnswerInput({ question, value, onChange, onSubmit }: ShortAnswerProps) {
   const id = `sa-${question.key}`
+
+  const isNumeric =
+    question.inputType === 'number' ||
+    (question.inputType !== 'text' &&
+      question.answers.length > 0 &&
+      /^-?\d+(\.\d+)?$/.test(question.answers[0].text.trim()))
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const raw = e.target.value
+    if (isNumeric) {
+      if (raw === '' || /^-?\d*\.?\d*$/.test(raw)) {
+        onChange(raw)
+      }
+    } else {
+      onChange(raw)
+    }
+  }
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') {
+      e.preventDefault()
+      onSubmit?.()
+      return
+    }
+    if (isNumeric) {
+      if (e.ctrlKey || e.metaKey || e.altKey) return
+      if (['Backspace', 'Delete', 'Tab', 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'Home', 'End'].includes(e.key)) {
+        return
+      }
+      if (/^[0-9]$/.test(e.key)) return
+      if (e.key === '.' && !(typeof value === 'string' && value.includes('.'))) return
+      if (e.key === '-' && (typeof value !== 'string' || value.length === 0)) return
+      e.preventDefault()
+    }
+  }
+
   return (
     <div className="short-answer">
       <label htmlFor={id} className="short-answer__label">
-        Your answer
+        {isNumeric ? 'Your answer (number only)' : 'Your answer'}
       </label>
       <input
         id={id}
         key={question.key}
         className="text-input"
         type="text"
-        inputMode="text"
+        inputMode={isNumeric ? 'decimal' : 'text'}
         autoComplete="off"
         autoCorrect="off"
         autoCapitalize="off"
         spellCheck={false}
-        placeholder="Type a single word or drug name…"
-        value={typeof value === 'string' ? value : ''}
-        onChange={(e) => onChange(e.target.value)}
-        onKeyDown={(e) => {
-          if (e.key === 'Enter') {
-            e.preventDefault()
-            onSubmit?.()
-          }
-        }}
+        placeholder={isNumeric ? 'Enter a number…' : 'Type a single word or drug name…'}
+        value={typeof value === 'string' ? value : typeof value === 'number' ? String(value) : ''}
+        onChange={handleChange}
+        onKeyDown={handleKeyDown}
       />
-      <p className="hint">Spelling counts. Generic or brand names are accepted. Press Enter to continue.</p>
+      <p className="hint">
+        {isNumeric
+          ? 'Enter numbers only. Do not include units. Press Enter to continue.'
+          : 'Spelling counts. Generic or brand names are accepted. Press Enter to continue.'}
+      </p>
     </div>
   )
 }

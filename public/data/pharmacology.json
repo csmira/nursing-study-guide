@@ -3194,16 +3194,12 @@
     {
       "id": "ang-sa-010",
       "type": "short-answer",
+      "inputType": "number",
       "topic": "Antianginal: Beta blockers",
       "prompt": "At or below what apical pulse rate (in beats per minute) must the nurse withhold an antianginal beta blocker and contact the health care provider for further instructions?",
       "answers": [
         {
-          "text": "60",
-          "aliases": [
-            "60 bpm",
-            "60 beats/min",
-            "60 beats per minute"
-          ]
+          "text": "60"
         }
       ],
       "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater)."
@@ -3316,21 +3312,11 @@
           "update": "The IV nitroglycerin rate is adjusted, and Elena's blood pressure stabilizes at 118/72 mm Hg with a heart rate of 76 beats/min. Twenty-four hours later, she has remained pain-free, and the cardiologist orders a transition from IV nitroglycerin to a transdermal nitroglycerin patch 0.4 mg/hr applied daily at 0800 hours and removed at 2000 hours.",
           "question": {
             "type": "short-answer",
-            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action (in minutes, expressed as a range or single number from 30 to 60) of a transdermal nitroglycerin patch?",
+            "inputType": "number",
+            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action in minutes of a transdermal nitroglycerin patch?",
             "answers": [
               {
-                "text": "30 to 60 minutes",
-                "aliases": [
-                  "30-60 minutes",
-                  "30-60 min",
-                  "30 to 60 min",
-                  "30",
-                  "30 minutes",
-                  "30 min",
-                  "60",
-                  "60 minutes",
-                  "60 min"
-                ]
+                "text": "30"
               }
             ],
             "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours."
@@ -4383,16 +4369,11 @@
           "update": "After discontinuing the phenytoin infusion and stabilizing Arthur's blood pressure, the prescriber switches the order to fosphenytoin (Cerebyx) and later transitions Arthur to oral phenytoin maintenance therapy. Laboratory results on day 3 show a serum albumin of 24 g/L (low) and a total serum phenytoin level of 24 mcg/mL. Arthur exhibits horizontal nystagmus and an unsteady, ataxic gait when attempting to stand.",
           "question": {
             "type": "short-answer",
-            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL (enter the number only, e.g., 20)?",
+            "inputType": "number",
+            "prompt": "What is the upper limit of the normal therapeutic plasma range for phenytoin in mcg/mL?",
             "answers": [
               {
-                "text": "20",
-                "aliases": [
-                  "20 mcg/mL",
-                  "10-20",
-                  "10 to 20",
-                  "10-20 mcg/mL"
-                ]
+                "text": "20"
               }
             ],
             "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia."
@@ -4478,14 +4459,11 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams of valproic acid will the nurse administer per single dose (enter number and unit or number only, e.g., 225 mg)?",
+            "inputType": "number",
+            "prompt": "Based on the order for valproic acid 15 mg/kg/day PO divided BID for Liam (weight 30 kg), how many milligrams (mg) of valproic acid will the nurse administer per single dose?",
             "answers": [
               {
-                "text": "225 mg",
-                "aliases": [
-                  "225",
-                  "225mg"
-                ]
+                "text": "225"
               }
             ],
             "rationale": "Total daily dose = 15 mg/kg/day × 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose."
@@ -5711,15 +5689,11 @@
           "update": "Twelve hours after receiving an inadvertently high therapeutic dose of 70 mg of enoxaparin due to a look-alike syringe error, Mrs. Grewal develops brisk bleeding from her hip surgical drain, a drop in blood pressure to 92/56 mm Hg, and a heart rate of 114 beats/min. The surgeon orders immediate reversal of the 70 mg enoxaparin dose with intravenous protamine sulphate.",
           "question": {
             "type": "short-answer",
-            "prompt": "Based on the textbook's reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin), how many milligrams of protamine sulphate should the nurse prepare? (Enter the number and unit, e.g., 50 mg, or just the number.)",
+            "inputType": "number",
+            "prompt": "Based on the reversal ratio for LMWHs (1 mg of protamine sulphate per 1 mg of enoxaparin for a 70-mg dose), how many milligrams (mg) of protamine sulphate should the nurse prepare?",
             "answers": [
               {
-                "text": "70 mg",
-                "aliases": [
-                  "70",
-                  "70mg",
-                  "70 milligrams"
-                ]
+                "text": "70"
               }
             ],
             "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate."
@@ -6833,16 +6807,11 @@
           "update": "The resident cancels the hydroxyzine order and instead prescribes promethazine hydrochloride (Histantil) 12.5 mg IM stat. The unit stock vials contain promethazine hydrochloride 25 mg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many millilitres (mL) of promethazine hydrochloride will the nurse draw up to administer the 12.5-mg intramuscular dose? (Enter the numerical value only or with mL.)",
+            "inputType": "number",
+            "prompt": "How many millilitres (mL) of promethazine hydrochloride will the nurse draw up to administer the 12.5-mg intramuscular dose?",
             "answers": [
               {
-                "text": "0.5",
-                "aliases": [
-                  "0.5 mL",
-                  "0.5mL",
-                  ".5",
-                  ".5 mL"
-                ]
+                "text": "0.5"
               }
             ],
             "rationale": "Using the dosage formula (Desired ÷ Have × Volume): 12.5 mg ÷ 25 mg/mL = 0.5 mL. Deep intramuscular injection into a large muscle is the preferred parenteral route for promethazine."
@@ -8279,16 +8248,11 @@
           "update": "Five days later, Marcus is extubated, transferred to the surgical step-down unit, and starts a regular diet. He complains of uncomfortable postoperative abdominal bloating and gas pain. The surgeon orders oral simethicone (Ovol) chewable tablets after meals and at bedtime.",
           "question": {
             "type": "short-answer",
-            "prompt": "What is the maximum daily dose (in mg/day, enter number and unit such as '500 mg') of simethicone for an adult as stated in the chapter?",
+            "inputType": "number",
+            "prompt": "What is the maximum daily dose in milligrams (mg) of simethicone for an adult as stated in the chapter?",
             "answers": [
               {
-                "text": "500 mg",
-                "aliases": [
-                  "500",
-                  "500mg",
-                  "500 mg/day",
-                  "500mg/day"
-                ]
+                "text": "500"
               }
             ],
             "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day."
@@ -9311,15 +9275,11 @@
           "update": "The prescriber orders levothyroxine sodium 0.4 mg IV push once now. The pharmacy delivers vials containing levothyroxine sodium reconstituted to a concentration of 100 mcg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many micrograms of levothyroxine are ordered in the 0.4-mg dose? (Enter the number and unit, or just the number in mcg.)",
+            "inputType": "number",
+            "prompt": "How many micrograms (mcg) of levothyroxine are ordered in the 0.4-mg dose?",
             "answers": [
               {
-                "text": "400 mcg",
-                "aliases": [
-                  "400",
-                  "400 micrograms",
-                  "400mcg"
-                ]
+                "text": "400"
               }
             ],
             "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg × 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300–500 mcg IV single-dose range for myxedema coma)."
@@ -12946,16 +12906,11 @@
           "update": "Using the FACES scale, Leo points to the tearful face (level 5) once he learns his medicine can be given through his existing IV line without a needle stick. The surgeon orders morphine sulphate 0.1 mg/kg IV every 4 hours as needed for severe pain.",
           "question": {
             "type": "short-answer",
-            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose? (Enter the number and unit, e.g., 2 mg)",
+            "inputType": "number",
+            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose?",
             "answers": [
               {
-                "text": "2 mg",
-                "aliases": [
-                  "2",
-                  "2.0 mg",
-                  "2.0",
-                  "2 milligrams"
-                ]
+                "text": "2"
               }
             ],
             "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg × 0.1 mg/kg = 2 mg per dose."
@@ -13905,14 +13860,11 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Based on Evelyn's weight of 60 kg and the prescribed loading dose of 50 mcg/kg, how many milligrams (mg) of milrinone should the nurse administer for the loading dose? (Enter the number only, e.g., 5)",
+            "inputType": "number",
+            "prompt": "Based on Evelyn's weight of 60 kg and the prescribed loading dose of 50 mcg/kg, how many milligrams (mg) of milrinone should the nurse administer for the loading dose?",
             "answers": [
               {
-                "text": "3",
-                "aliases": [
-                  "3 mg",
-                  "3mg"
-                ]
+                "text": "3"
               }
             ],
             "rationale": "Loading dose = 50 mcg/kg × 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg ÷ 1 000 = 3 mg."
@@ -14050,14 +14002,11 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Maya weighs 8 kg and the total oral digitalizing dose is 30 mcg/kg divided into 3 equal doses. How many micrograms (mcg) of digoxin will the nurse administer for EACH single dose? (Enter the number only, e.g., 50)",
+            "inputType": "number",
+            "prompt": "Maya weighs 8 kg and the total oral digitalizing dose is 30 mcg/kg divided into 3 equal doses. How many micrograms (mcg) of digoxin will the nurse administer for each single dose?",
             "answers": [
               {
-                "text": "80",
-                "aliases": [
-                  "80 mcg",
-                  "80mcg"
-                ]
+                "text": "80"
               }
             ],
             "rationale": "Total digitalizing dose = 30 mcg/kg × 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg ÷ 3 = 80 mcg (0.08 mg) per dose."

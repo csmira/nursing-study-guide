@@ -1143,16 +1143,11 @@
           "update": "Five days later, Marcus is extubated, transferred to the surgical step-down unit, and starts a regular diet. He complains of uncomfortable postoperative abdominal bloating and gas pain. The surgeon orders oral simethicone (Ovol) chewable tablets after meals and at bedtime.",
           "question": {
             "type": "short-answer",
-            "prompt": "What is the maximum daily dose (in mg/day, enter number and unit such as '500 mg') of simethicone for an adult as stated in the chapter?",
+            "inputType": "number",
+            "prompt": "What is the maximum daily dose in milligrams (mg) of simethicone for an adult as stated in the chapter?",
             "answers": [
               {
-                "text": "500 mg",
-                "aliases": [
-                  "500",
-                  "500mg",
-                  "500 mg/day",
-                  "500mg/day"
-                ]
+                "text": "500"
               }
             ],
             "rationale": "The usual adult simethicone dosage is 1 to 2 tablets, 4 to 6 times daily as needed, up to a maximum daily dose of 500 mg/day."

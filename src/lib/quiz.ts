@@ -45,6 +45,7 @@ function toTestQuestion(q: StepQuestion, key: string, extra: Partial<TestQuestio
     prompt: q.prompt,
     rationale: q.rationale,
     answers: q.answers,
+    inputType: q.inputType,
     ...extra,
   } as TestQuestion
 }
@@ -141,9 +142,22 @@ export const normalize = (s: string) =>
     .replace(/[^a-z0-9]/g, '')
 
 export function gradeShortAnswer(answers: RankedAnswer[], input: string): ShortAnswerGrade {
-  const value = normalize(input)
-  if (!value) return { correct: false }
-  const idx = answers.findIndex((a) => [a.text, ...(a.aliases ?? [])].some((t) => normalize(t) === value))
+  const trimmed = input.trim()
+  if (!trimmed) return { correct: false }
+
+  const numInput = parseFloat(trimmed)
+  const isInputNum = !Number.isNaN(numInput) && /^-?\d*(\.\d+)?$/.test(trimmed)
+
+  const value = normalize(trimmed)
+  const idx = answers.findIndex((a) =>
+    [a.text, ...(a.aliases ?? [])].some((t) => {
+      if (isInputNum) {
+        const numTarget = parseFloat(t.trim())
+        if (!Number.isNaN(numTarget) && numInput === numTarget) return true
+      }
+      return normalize(t) === value
+    }),
+  )
   return idx === -1 ? { correct: false } : { correct: true, rank: idx + 1 }
 }
 

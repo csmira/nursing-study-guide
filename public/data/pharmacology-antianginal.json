@@ -828,16 +828,12 @@
     {
       "id": "ang-sa-010",
       "type": "short-answer",
+      "inputType": "number",
       "topic": "Beta blockers",
       "prompt": "At or below what apical pulse rate (in beats per minute) must the nurse withhold an antianginal beta blocker and contact the health care provider for further instructions?",
       "answers": [
         {
-          "text": "60",
-          "aliases": [
-            "60 bpm",
-            "60 beats/min",
-            "60 beats per minute"
-          ]
+          "text": "60"
         }
       ],
       "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater)."
@@ -950,21 +946,11 @@
           "update": "The IV nitroglycerin rate is adjusted, and Elena's blood pressure stabilizes at 118/72 mm Hg with a heart rate of 76 beats/min. Twenty-four hours later, she has remained pain-free, and the cardiologist orders a transition from IV nitroglycerin to a transdermal nitroglycerin patch 0.4 mg/hr applied daily at 0800 hours and removed at 2000 hours.",
           "question": {
             "type": "short-answer",
-            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action (in minutes, expressed as a range or single number from 30 to 60) of a transdermal nitroglycerin patch?",
+            "inputType": "number",
+            "prompt": "According to the pharmacokinetic profile of nitroglycerin, what is the minimum onset of action in minutes of a transdermal nitroglycerin patch?",
             "answers": [
               {
-                "text": "30 to 60 minutes",
-                "aliases": [
-                  "30-60 minutes",
-                  "30-60 min",
-                  "30 to 60 min",
-                  "30",
-                  "30 minutes",
-                  "30 min",
-                  "60",
-                  "60 minutes",
-                  "60 min"
-                ]
+                "text": "30"
               }
             ],
             "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours."

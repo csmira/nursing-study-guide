@@ -30,6 +30,8 @@ export interface ShortAnswerQuestion {
   /** Accepted answers ordered best (#1) → acceptable. At least one entry. */
   answers: RankedAnswer[]
   rationale?: string
+  /** 'number' strictly restricts input to numerical values; 'text' for generic words. Defaults to 'text'. */
+  inputType?: 'number' | 'text'
 }
 
 export type StepQuestion = MultipleChoiceQuestion | ShortAnswerQuestion
@@ -108,6 +110,7 @@ export interface TestMultipleChoice extends TestQuestionBase {
 export interface TestShortAnswer extends TestQuestionBase {
   type: 'short-answer'
   answers: RankedAnswer[]
+  inputType?: 'number' | 'text'
 }
 
 export type TestQuestion = TestMultipleChoice | TestShortAnswer

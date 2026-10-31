@@ -1130,16 +1130,11 @@
           "update": "Using the FACES scale, Leo points to the tearful face (level 5) once he learns his medicine can be given through his existing IV line without a needle stick. The surgeon orders morphine sulphate 0.1 mg/kg IV every 4 hours as needed for severe pain.",
           "question": {
             "type": "short-answer",
-            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose? (Enter the number and unit, e.g., 2 mg)",
+            "inputType": "number",
+            "prompt": "Leo weighs 20 kg and the ordered dose is 0.1 mg/kg. How many milligrams (mg) of morphine sulphate should the nurse administer for a single dose?",
             "answers": [
               {
-                "text": "2 mg",
-                "aliases": [
-                  "2",
-                  "2.0 mg",
-                  "2.0",
-                  "2 milligrams"
-                ]
+                "text": "2"
               }
             ],
             "rationale": "Pediatric morphine dosing must be calculated carefully by body weight: 20 kg \u00d7 0.1 mg/kg = 2 mg per dose."

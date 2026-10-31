@@ -1001,15 +1001,11 @@
           "update": "The prescriber orders levothyroxine sodium 0.4 mg IV push once now. The pharmacy delivers vials containing levothyroxine sodium reconstituted to a concentration of 100 mcg/mL.",
           "question": {
             "type": "short-answer",
-            "prompt": "How many micrograms of levothyroxine are ordered in the 0.4-mg dose? (Enter the number and unit, or just the number in mcg.)",
+            "inputType": "number",
+            "prompt": "How many micrograms (mcg) of levothyroxine are ordered in the 0.4-mg dose?",
             "answers": [
               {
-                "text": "400 mcg",
-                "aliases": [
-                  "400",
-                  "400 micrograms",
-                  "400mcg"
-                ]
+                "text": "400"
               }
             ],
             "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg \u00d7 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300\u2013500 mcg IV single-dose range for myxedema coma)."

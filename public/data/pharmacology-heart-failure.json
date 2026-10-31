@@ -913,14 +913,11 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Based on Evelyn's weight of 60 kg and the prescribed loading dose of 50 mcg/kg, how many milligrams (mg) of milrinone should the nurse administer for the loading dose? (Enter the number only, e.g., 5)",
+            "inputType": "number",
+            "prompt": "Based on Evelyn's weight of 60 kg and the prescribed loading dose of 50 mcg/kg, how many milligrams (mg) of milrinone should the nurse administer for the loading dose?",
             "answers": [
               {
-                "text": "3",
-                "aliases": [
-                  "3 mg",
-                  "3mg"
-                ]
+                "text": "3"
               }
             ],
             "rationale": "Loading dose = 50 mcg/kg \u00d7 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg \u00f7 1 000 = 3 mg."
@@ -1058,14 +1055,11 @@
         {
           "question": {
             "type": "short-answer",
-            "prompt": "Maya weighs 8 kg and the total oral digitalizing dose is 30 mcg/kg divided into 3 equal doses. How many micrograms (mcg) of digoxin will the nurse administer for EACH single dose? (Enter the number only, e.g., 50)",
+            "inputType": "number",
+            "prompt": "Maya weighs 8 kg and the total oral digitalizing dose is 30 mcg/kg divided into 3 equal doses. How many micrograms (mcg) of digoxin will the nurse administer for each single dose?",
             "answers": [
               {
-                "text": "80",
-                "aliases": [
-                  "80 mcg",
-                  "80mcg"
-                ]
+                "text": "80"
               }
             ],
             "rationale": "Total digitalizing dose = 30 mcg/kg \u00d7 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg \u00f7 3 = 80 mcg (0.08 mg) per dose."

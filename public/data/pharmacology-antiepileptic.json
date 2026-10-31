@@ -251,7 +251,7 @@
         "Oxcarbazepine (Trileptal)"
       ],
       "answer": 0,
-      "rationale": "Ethosuximide (Zarontin), a succinimide, is a first-line drug specifically indicated for uncomplicated absence seizures (along with valproic acid). Phenytoin and carbamazepine are ineffective for\u2014or may worsen\u2014absence seizures."
+      "rationale": "Ethosuximide (Zarontin), a succinimide, is a first-line drug specifically indicated for uncomplicated absence seizures (along with valproic acid). Phenytoin and carbamazepine are ineffective for—or may worsen—absence seizures."
     },
     {
       "id": "aed-mc-019",
@@ -545,7 +545,7 @@
         "Oral contraceptives accelerate oxcarbazepine glucuronidation, increasing the risk of breakthrough seizures"
       ],
       "answer": 0,
-      "rationale": "Many AEDs\u2014including barbiturates, phenytoin, carbamazepine, oxcarbazepine, lamotrigine, and topiramate\u2014alter CYP450 metabolism and reduce the efficacy of oral contraceptives, increasing the risk of unintended pregnancy. Patients should be counselled to use alternative birth control methods."
+      "rationale": "Many AEDs—including barbiturates, phenytoin, carbamazepine, oxcarbazepine, lamotrigine, and topiramate—alter CYP450 metabolism and reduce the efficacy of oral contraceptives, increasing the risk of unintended pregnancy. Patients should be counselled to use alternative birth control methods."
     },
     {
       "id": "aed-mc-040",
@@ -559,7 +559,7 @@
         "375 mg"
       ],
       "answer": 0,
-      "rationale": "Total daily dose = 20 mg/kg/day \u00d7 25 kg = 500 mg/day. Divided into two equal doses (500 mg / 2), the child will receive 250 mg per dose."
+      "rationale": "Total daily dose = 20 mg/kg/day × 25 kg = 500 mg/day. Divided into two equal doses (500 mg / 2), the child will receive 250 mg per dose."
     },
     {
       "id": "aed-mc-041",
@@ -615,13 +615,13 @@
         "A patient taking phenobarbital with a serum level of 48 mcg/mL"
       ],
       "answer": 0,
-      "rationale": "According to Table 15.6, the normal therapeutic plasma levels are: valproic acid 50\u2013100 mcg/mL (so 75 mcg/mL is therapeutic), carbamazepine 4\u201312 mcg/mL, phenytoin 10\u201320 mcg/mL, phenobarbital 15\u201330 mcg/mL, and primidone 5\u201312 mcg/mL."
+      "rationale": "According to Table 15.6, the normal therapeutic plasma levels are: valproic acid 50–100 mcg/mL (so 75 mcg/mL is therapeutic), carbamazepine 4–12 mcg/mL, phenytoin 10–20 mcg/mL, phenobarbital 15–30 mcg/mL, and primidone 5–12 mcg/mL."
     },
     {
       "id": "aed-mc-045",
       "type": "multiple-choice",
       "topic": "Pediatric Seizures",
-      "prompt": "An 18-month-old toddler is brought to the clinic after experiencing a brief febrile seizure during an acute viral illness with a temperature of 39.4\u00b0C. The parents are terrified that their child now has lifelong epilepsy and will need daily phenytoin. Which explanation by the nurse is most accurate?",
+      "prompt": "An 18-month-old toddler is brought to the clinic after experiencing a brief febrile seizure during an acute viral illness with a temperature of 39.4°C. The parents are terrified that their child now has lifelong epilepsy and will need daily phenytoin. Which explanation by the nurse is most accurate?",
       "options": [
         "Febrile seizures occur between 6 months and 5 years, are usually outgrown, and are treated acutely with antipyretics",
         "Febrile seizures indicate primary idiopathic epilepsy and require daily oral phenytoin until 5 years of age",
@@ -650,8 +650,8 @@
         }
       ],
       "rationale": "Parenteral phenytoin is highly alkaline (pH 12) and precipitates if mixed with dextrose or other acidic solutions; therefore, normal saline (0.9% sodium chloride) is the only compatible dilutional fluid used to dilute and flush IV phenytoin lines.",
-      "placeholder": "Type a drug name\u2026",
-      "helperText": "Spelling counts. Generic or brand names are accepted."
+      "placeholder": "Enter the solution name…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "aed-sa-002",
@@ -667,7 +667,7 @@
         }
       ],
       "rationale": "Autoinduction is a metabolic process in which a drug stimulates hepatic enzymes that accelerate its own metabolism over time (typically within the first 2 months of carbamazepine therapy), reducing therapeutic drug concentrations.",
-      "placeholder": "Type the pharmacological term\u2026",
+      "placeholder": "Enter the pharmacological term…",
       "helperText": "Spelling counts."
     },
     {
@@ -684,7 +684,7 @@
         }
       ],
       "rationale": "Ethosuximide (Zarontin) is the prototypical succinimide antiepileptic drug used as a first-line agent for uncomplicated absence seizures.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -701,7 +701,7 @@
         }
       ],
       "rationale": "Status epilepticus is a true medical emergency characterized by prolonged seizure activity lasting 5 minutes or longer or repeated seizures without recovery between episodes.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -719,7 +719,7 @@
         }
       ],
       "rationale": "Gingival hyperplasia (or gingival hypertrophy) is the overgrowth of gum tissue commonly associated with long-term phenytoin therapy; it is minimized through scrupulous dental hygiene.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -737,7 +737,7 @@
         }
       ],
       "rationale": "Fosphenytoin (Cerebyx) is a water-soluble prodrug of phenytoin (150 mg fosphenytoin = 100 mg phenytoin, or 100 mg PE) that causes less venous irritation and can be given IM or IV at rates up to 150 mg PE/min.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -755,8 +755,8 @@
         }
       ],
       "rationale": "Gamma-aminobutyric acid (GABA) is the major inhibitory neurotransmitter in the brain that regulates neuronal excitability; low GABA levels are associated with seizures, and many AEDs enhance GABA activity.",
-      "placeholder": "Type the substance name\u2026",
-      "helperText": "Spelling counts."
+      "placeholder": "Enter the neurotransmitter name…",
+      "helperText": "Standard abbreviations or full names are accepted."
     },
     {
       "id": "aed-sa-008",
@@ -770,7 +770,7 @@
         }
       ],
       "rationale": "Primidone is metabolized in the liver into two active anticonvulsant metabolites: phenobarbital and phenylethylmalonamide (PEMA).",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -787,7 +787,7 @@
         }
       ],
       "rationale": "Topiramate (Topamax) is a fructose-derivative AED indicated for focal and generalized tonic-clonic seizures and drop attacks in Lennox-Gastaut syndrome; notable risks include angle-closure glaucoma and cleft palate in infants exposed in utero.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -852,8 +852,8 @@
                 "text": "20"
               }
             ],
-            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL\u2014compounded by low serum albumin, which increases free unbound phenytoin\u2014is toxic and accounts for his nystagmus and ataxia.",
-            "placeholder": "Enter a number\u2026",
+            "rationale": "The normal therapeutic plasma range for phenytoin is 10 to 20 mcg/mL (Table 15.6). Arthur's level of 24 mcg/mL—compounded by low serum albumin, which increases free unbound phenytoin—is toxic and accounts for his nystagmus and ataxia.",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         }
@@ -944,8 +944,8 @@
                 "text": "225"
               }
             ],
-            "rationale": "Total daily dose = 15 mg/kg/day \u00d7 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose.",
-            "placeholder": "Enter a number\u2026",
+            "rationale": "Total daily dose = 15 mg/kg/day × 30 kg = 450 mg/day. Divided into 2 equal doses (BID): 450 mg / 2 = 225 mg per dose.",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },
@@ -1033,7 +1033,7 @@
           }
         },
         {
-          "update": "Eighteen days after starting lamotrigine, Maya presents to the urgent care clinic with a temperature of 38.9\u00b0C, painful oral mucosal ulcers, conjunctival redness, and a tender, blistering erythematous rash spreading across her chest and back.",
+          "update": "Eighteen days after starting lamotrigine, Maya presents to the urgent care clinic with a temperature of 38.9°C, painful oral mucosal ulcers, conjunctival redness, and a tender, blistering erythematous rash spreading across her chest and back.",
           "question": {
             "type": "multiple-choice",
             "prompt": "What is the priority clinical action when Maya presents with these findings?",
@@ -1082,7 +1082,7 @@
               "Phenobarbital undergoes hepatic auto-inhibition that prolongs its duration of action after missed doses"
             ],
             "answer": 0,
-            "rationale": "As stated in the phenobarbital profile, a major advantage of phenobarbital is its long half-life (50 to 120 hours), which permits once-daily dosing and maintains therapeutic blood levels even if a dose is taken 12 or 24 hours late\u2014though patients should still be counselled to take AEDs at the same time every day."
+            "rationale": "As stated in the phenobarbital profile, a major advantage of phenobarbital is its long half-life (50 to 120 hours), which permits once-daily dosing and maintains therapeutic blood levels even if a dose is taken 12 or 24 hours late—though patients should still be counselled to take AEDs at the same time every day."
           }
         },
         {

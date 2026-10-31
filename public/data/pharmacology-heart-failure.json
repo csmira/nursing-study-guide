@@ -37,11 +37,11 @@
       "options": [
         "By stimulating myocardial beta-1 adrenergic receptors to increase cyclic AMP",
         "By inhibiting phosphodiesterase type III in cardiac and vascular smooth muscle",
-        "By inhibiting the sodium\u2013potassium ATPase pump to raise intracellular calcium",
+        "By inhibiting the sodium–potassium ATPase pump to raise intracellular calcium",
         "By blocking voltage-gated potassium channels to prolong ventricular repolarization"
       ],
       "answer": 2,
-      "rationale": "Digoxin inhibits the sodium\u2013potassium adenosine triphosphatase (ATPase) pump, leading to increased intracellular sodium and calcium concentrations, which enhances myocardial contractility (positive inotropic effect). Beta-1 stimulation describes dobutamine, and PDE-III inhibition describes milrinone."
+      "rationale": "Digoxin inhibits the sodium–potassium adenosine triphosphatase (ATPase) pump, leading to increased intracellular sodium and calcium concentrations, which enhances myocardial contractility (positive inotropic effect). Beta-1 stimulation describes dobutamine, and PDE-III inhibition describes milrinone."
     },
     {
       "id": "hf-mc-004",
@@ -66,7 +66,7 @@
         "Serum potassium of 2.9 mmol/L",
         "Serum sodium of 140 mmol/L",
         "Serum magnesium of 0.95 mmol/L",
-        "Serum creatinine of 75 \u00b5mol/L"
+        "Serum creatinine of 75 µmol/L"
       ],
       "answer": 0,
       "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L), often caused by loop diuretics like furosemide, strongly predisposes patients to digoxin toxicity, manifested by anorexia, fatigue, and yellow-green halo vision. The other laboratory values are within normal limits."
@@ -192,7 +192,7 @@
         "The antidote dose was insufficient, and a repeat bolus of Fab fragments is needed",
         "Standard assays measure bound and free drug, so clinical status guides monitoring",
         "Enterohepatic recirculation has released unbound digoxin back into the bloodstream",
-        "Renal clearance of the antigen\u2013antibody complex has stalled due to tubular injury"
+        "Renal clearance of the antigen–antibody complex has stalled due to tubular injury"
       ],
       "answer": 1,
       "rationale": "After digoxin immune Fab is administered, subsequent serum digoxin measurements will be elevated for days to weeks because standard assays measure both free and Fab-bound digoxin. Clinical signs, ECG rhythm, and potassium levels must guide evaluation of reversal effectiveness."
@@ -223,7 +223,7 @@
         "12 vials"
       ],
       "answer": 3,
-      "rationale": "One vial of digoxin immune Fab binds 0.5 mg of digoxin. To neutralize 6 mg of digoxin: 6 mg \u00f7 0.5 mg/vial = 12 vials."
+      "rationale": "One vial of digoxin immune Fab binds 0.5 mg of digoxin. To neutralize 6 mg of digoxin: 6 mg ÷ 0.5 mg/vial = 12 vials."
     },
     {
       "id": "hf-mc-017",
@@ -265,7 +265,7 @@
         "Refractory sinus bradycardia"
       ],
       "answer": 2,
-      "rationale": "The primary adverse effect of milrinone therapy is cardiac dysrhythmia\u2014specifically ventricular dysrhythmias, which occur in approximately 12% of treated patients. Continuous ECG monitoring in a critical care setting is essential."
+      "rationale": "The primary adverse effect of milrinone therapy is cardiac dysrhythmia—specifically ventricular dysrhythmias, which occur in approximately 12% of treated patients. Continuous ECG monitoring in a critical care setting is essential."
     },
     {
       "id": "hf-mc-020",
@@ -321,7 +321,7 @@
         "2.5 mg"
       ],
       "answer": 2,
-      "rationale": "Loading dose = 50 mcg/kg \u00d7 80 kg = 4 000 mcg. Converting micrograms to milligrams: 4 000 mcg \u00f7 1 000 = 4 mg."
+      "rationale": "Loading dose = 50 mcg/kg × 80 kg = 4 000 mcg. Converting micrograms to milligrams: 4 000 mcg ÷ 1 000 = 4 mg."
     },
     {
       "id": "hf-mc-024",
@@ -331,7 +331,7 @@
       "options": [
         "They stimulate renal prostaglandins to enhance glomerular filtration pressure",
         "They block cardiac beta-1 receptors to prolong ventricular diastolic filling time",
-        "They inhibit the sodium\u2013potassium pump to increase intracellular calcium stores",
+        "They inhibit the sodium–potassium pump to increase intracellular calcium stores",
         "They inhibit angiotensin II and aldosterone, reducing preload and LV remodeling"
       ],
       "answer": 3,
@@ -360,7 +360,7 @@
         "Blood pressure of 116/72 mm Hg measured 6 hours after the morning lisinopril dose",
         "Serum potassium level of 5.8 mmol/L while taking a daily potassium supplement",
         "Apical heart rate of 68 beats/min with a regular sinus rhythm on telemetry",
-        "Serum creatinine of 88 \u00b5mol/L and blood urea nitrogen within the reference range"
+        "Serum creatinine of 88 µmol/L and blood urea nitrogen within the reference range"
       ],
       "answer": 1,
       "rationale": "Because ACE inhibitors suppress aldosterone secretion, they can cause hyperkalemia. A serum potassium of 5.8 mmol/L is dangerously elevated, and concurrent potassium supplements or potassium-sparing diuretics must be used with caution or discontinued."
@@ -517,7 +517,7 @@
         "Heart failure with recovered ejection fraction (HFrecEF)"
       ],
       "answer": 0,
-      "rationale": "According to the 2017 CCS guidelines, an LVEF \u2264 40% is classified as heart failure with reduced ejection fraction (HFrEF), 41%\u201349% is mid-range (HFmEF), and \u2265 50% is preserved ejection fraction (HFpEF). Normal EF is approximately 65%."
+      "rationale": "According to the 2017 CCS guidelines, an LVEF ≤ 40% is classified as heart failure with reduced ejection fraction (HFrEF), 41%–49% is mid-range (HFmEF), and ≥ 50% is preserved ejection fraction (HFpEF). Normal EF is approximately 65%."
     },
     {
       "id": "hf-mc-038",
@@ -559,7 +559,7 @@
         "0.33 mg"
       ],
       "answer": 3,
-      "rationale": "Dose in micrograms = 15 mcg/kg \u00d7 22 kg = 330 mcg. Convert micrograms to milligrams by dividing by 1 000: 330 mcg \u00f7 1 000 = 0.33 mg. Careful decimal placement prevents a lethal 10-fold dosing error."
+      "rationale": "Dose in micrograms = 15 mcg/kg × 22 kg = 330 mcg. Convert micrograms to milligrams by dividing by 1 000: 330 mcg ÷ 1 000 = 0.33 mg. Careful decimal placement prevents a lethal 10-fold dosing error."
     },
     {
       "id": "hf-mc-041",
@@ -623,13 +623,13 @@
       "topic": "Cardiac glycosides",
       "prompt": "The nurse is reviewing serum digoxin levels for two patients: Patient A has heart failure with reduced ejection fraction in normal sinus rhythm, and Patient B has rapid atrial fibrillation. According to the textbook and Canadian guidelines, how do their target serum digoxin ranges compare?",
       "options": [
-        "Heart failure targets a lower range (0.5\u20130.9 ng/mL) than atrial fibrillation (0.8\u20131.5 ng/mL)",
-        "Heart failure requires higher levels (1.5\u20132.4 ng/mL) than atrial fibrillation (0.5\u20130.8 ng/mL)",
+        "Heart failure targets a lower range (0.5–0.9 ng/mL) than atrial fibrillation (0.8–1.5 ng/mL)",
+        "Heart failure requires higher levels (1.5–2.4 ng/mL) than atrial fibrillation (0.5–0.8 ng/mL)",
         "Both conditions share an identical therapeutic target range of 1.2 to 2.2 ng/mL in adults",
         "Atrial fibrillation requires subtherapeutic levels below 0.5 ng/mL to prevent heart block"
       ],
       "answer": 0,
-      "rationale": "For heart failure management, the Canadian Cardiovascular Society guidelines recommend lower target serum digoxin levels of 0.5\u20130.9 ng/mL (normal range 0.5\u20131 ng/mL or 0.8\u20132 ng/mL), whereas higher targets (0.8\u20131.5 ng/mL) are often needed to control ventricular rate in atrial fibrillation. Levels > 2.4 ng/mL often precipitate toxicity."
+      "rationale": "For heart failure management, the Canadian Cardiovascular Society guidelines recommend lower target serum digoxin levels of 0.5–0.9 ng/mL (normal range 0.5–1 ng/mL or 0.8–2 ng/mL), whereas higher targets (0.8–1.5 ng/mL) are often needed to control ventricular rate in atrial fibrillation. Levels > 2.4 ng/mL often precipitate toxicity."
     },
     {
       "id": "hf-mc-046",
@@ -716,8 +716,8 @@
           ]
         }
       ],
-      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen\u2013antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia.",
-      "placeholder": "Type a drug name\u2026",
+      "rationale": "Digoxin immune Fab (Digifab) is an ovine immunoglobulin fragment antibody that binds free digoxin into an inactive antigen–antibody complex to reverse life-threatening cardiotoxicity and hyperkalemia.",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -734,7 +734,7 @@
         }
       ],
       "rationale": "Milrinone (milrinone lactate) is the only phosphodiesterase inhibitor currently available for acute heart failure after the discontinuation of inamrinone.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -753,7 +753,7 @@
         }
       ],
       "rationale": "Inotropic drugs affect the force or energy of myocardial contractions (positive inotropes increase contractility; negative inotropes decrease contractility). Chronotropic drugs affect heart rate, and dromotropic drugs affect electrical conduction velocity.",
-      "placeholder": "Type the pharmacological term\u2026",
+      "placeholder": "Enter the pharmacological term…",
       "helperText": "Spelling counts."
     },
     {
@@ -770,7 +770,7 @@
         }
       ],
       "rationale": "Furosemide precipitates upon contact with milrinone in intravenous lines and must be administered through a separate line.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -789,8 +789,8 @@
           ]
         }
       ],
-      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium\u2013potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias.",
-      "placeholder": "Type the substance name\u2026",
+      "rationale": "Low serum potassium (hypokalemia) enhances digoxin binding to the sodium–potassium ATPase pump, markedly increasing the risk of digoxin toxicity and life-threatening cardiac dysrhythmias.",
+      "placeholder": "Enter the electrolyte name…",
       "helperText": "Spelling counts."
     },
     {
@@ -807,7 +807,7 @@
         }
       ],
       "rationale": "Dobutamine (dobutamine hydrochloride) stimulates beta-1 receptors on the myocardium to produce a positive inotropic effect and increase stroke volume in hemodynamically unstable acute decompensated heart failure.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -826,7 +826,7 @@
         }
       ],
       "rationale": "ACE inhibitors block the breakdown of bradykinins, which build up in the blood and lodge in the bronchial tubes, triggering a dry cough as the body attempts to expel them.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the substance name…",
       "helperText": "Spelling counts."
     },
     {
@@ -845,7 +845,7 @@
         }
       ],
       "rationale": "The ejection fraction is the proportion of blood ejected from the ventricle with each contraction relative to the left ventricular end-diastolic volume (LVEDV); normal is approximately 65% (0.65).",
-      "placeholder": "Type the pharmacological term\u2026",
+      "placeholder": "Enter the pharmacological term…",
       "helperText": "Spelling counts."
     },
     {
@@ -870,7 +870,7 @@
           }
         },
         {
-          "update": "The nurse withholds the digoxin and places Arthur on a cardiac monitor, which reveals second-degree atrioventricular (AV) block with frequent premature ventricular contractions. Statutory blood work returns: serum digoxin 3.1 ng/mL, serum potassium 2.8 mmol/L, serum magnesium 0.62 mmol/L, and serum creatinine 168 \u00b5mol/L (baseline 95 \u00b5mol/L).",
+          "update": "The nurse withholds the digoxin and places Arthur on a cardiac monitor, which reveals second-degree atrioventricular (AV) block with frequent premature ventricular contractions. Statutory blood work returns: serum digoxin 3.1 ng/mL, serum potassium 2.8 mmol/L, serum magnesium 0.62 mmol/L, and serum creatinine 168 µmol/L (baseline 95 µmol/L).",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which combination of factors in Arthur's history and laboratory findings directly precipitated his severe digoxin toxicity?",
@@ -881,7 +881,7 @@
               "Hypokalemia, hypomagnesemia, and acute kidney injury from dehydration and furosemide"
             ],
             "answer": 3,
-            "rationale": "Digoxin is excreted via the kidneys; dehydration and declining kidney function (creatinine 168 \u00b5mol/L) caused digoxin accumulation (3.1 ng/mL; toxic > 2.4 ng/mL). Simultaneously, diarrhea and furosemide caused hypokalemia (2.8 mmol/L) and hypomagnesemia (0.62 mmol/L), which sensitize the myocardium to digoxin toxicity and dysrhythmias."
+            "rationale": "Digoxin is excreted via the kidneys; dehydration and declining kidney function (creatinine 168 µmol/L) caused digoxin accumulation (3.1 ng/mL; toxic > 2.4 ng/mL). Simultaneously, diarrhea and furosemide caused hypokalemia (2.8 mmol/L) and hypomagnesemia (0.62 mmol/L), which sensitize the myocardium to digoxin toxicity and dysrhythmias."
           }
         },
         {
@@ -899,8 +899,8 @@
                 ]
               }
             ],
-            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen\u2013antibody complex.",
-            "placeholder": "Type a drug name\u2026",
+            "rationale": "Digoxin immune Fab (Digifab) is indicated for life-threatening cardiac dysrhythmias (such as sustained ventricular tachycardia or severe heart block) caused by digoxin toxicity. It binds free digoxin into an antigen–antibody complex.",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
@@ -916,7 +916,7 @@
               "Restart oral digoxin at 0.125 mg daily now that his sinus rhythm and blood pressure are stable"
             ],
             "answer": 0,
-            "rationale": "After digoxin immune Fab is given, total serum digoxin assays measure both bound and free digoxin and remain elevated for days to weeks; thus, clinical findings and ECG\u2014not serum digoxin levels\u2014guide monitoring. Additionally, as Na+/K+ ATPase pump function is restored, potassium shifts back into cells, requiring close monitoring for hypokalemia (muscle weakness, cramping, irregular rhythms)."
+            "rationale": "After digoxin immune Fab is given, total serum digoxin assays measure both bound and free digoxin and remain elevated for days to weeks; thus, clinical findings and ECG—not serum digoxin levels—guide monitoring. Additionally, as Na+/K+ ATPase pump function is restored, potassium shifts back into cells, requiring close monitoring for hypokalemia (muscle weakness, cramping, irregular rhythms)."
           }
         }
       ]
@@ -938,13 +938,13 @@
                 "text": "3"
               }
             ],
-            "rationale": "Loading dose = 50 mcg/kg \u00d7 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg \u00f7 1 000 = 3 mg.",
-            "placeholder": "Enter a number\u2026",
+            "rationale": "Loading dose = 50 mcg/kg × 60 kg = 3 000 mcg. Converting micrograms to milligrams: 3 000 mcg ÷ 1 000 = 3 mg.",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },
         {
-          "update": "The milrinone loading dose is completed and the continuous infusion is running via an infusion pump through Evelyn's right internal jugular central venous catheter. Thirty minutes later, the intensivist prescribes furosemide 40 mg IV \u00d7 1 dose now to relieve her pulmonary congestion.",
+          "update": "The milrinone loading dose is completed and the continuous infusion is running via an infusion pump through Evelyn's right internal jugular central venous catheter. Thirty minutes later, the intensivist prescribes furosemide 40 mg IV × 1 dose now to relieve her pulmonary congestion.",
           "question": {
             "type": "multiple-choice",
             "prompt": "How must the nurse administer the intravenous furosemide to ensure patient safety?",
@@ -974,7 +974,7 @@
           }
         },
         {
-          "update": "The milrinone rate is reduced, normal saline bolus is given cautiously, and stat blood work is drawn. Results show: serum potassium 3.0 mmol/L, platelets 92 \u00d7 10^9/L (down from 185 \u00d7 10^9/L on admission), AST 68 U/L, and ALT 74 U/L.",
+          "update": "The milrinone rate is reduced, normal saline bolus is given cautiously, and stat blood work is drawn. Results show: serum potassium 3.0 mmol/L, platelets 92 × 10^9/L (down from 185 × 10^9/L on admission), AST 68 U/L, and ALT 74 U/L.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which statement accurately explains the laboratory abnormalities observed during Evelyn's milrinone therapy?",
@@ -995,7 +995,7 @@
       "type": "case-study",
       "title": "First-Line Heart Failure Pharmacotherapy and Managing ACE Inhibitor Cough",
       "topic": "ACE inhibitors, ARBs, beta blockers, and aldosterone antagonists",
-      "scenario": "Adeep Dhaliwal, a 61-year-old accountant with a history of anterior myocardial infarction and hypertension, is diagnosed with chronic heart failure with reduced ejection fraction (LVEF 36%, NYHA Class II). He reports fatigue and shortness of breath when climbing a flight of stairs. His vital signs are BP 138/86 mm Hg, HR 84 beats/min, and RR 16 breaths/min. Baseline labs show serum potassium 4.3 mmol/L and serum creatinine 88 \u00b5mol/L. The cardiologist initiates lisinopril 5 mg PO daily, metoprolol tartrate 25 mg PO twice daily, and furosemide 20 mg PO daily.",
+      "scenario": "Adeep Dhaliwal, a 61-year-old accountant with a history of anterior myocardial infarction and hypertension, is diagnosed with chronic heart failure with reduced ejection fraction (LVEF 36%, NYHA Class II). He reports fatigue and shortness of breath when climbing a flight of stairs. His vital signs are BP 138/86 mm Hg, HR 84 beats/min, and RR 16 breaths/min. Baseline labs show serum potassium 4.3 mmol/L and serum creatinine 88 µmol/L. The cardiologist initiates lisinopril 5 mg PO daily, metoprolol tartrate 25 mg PO twice daily, and furosemide 20 mg PO daily.",
       "stages": [
         {
           "question": {
@@ -1060,8 +1060,8 @@
                 ]
               }
             ],
-            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850\u2013882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure.",
-            "placeholder": "Type the substance name\u2026",
+            "rationale": "The 2017 Canadian Cardiovascular Society guidelines recommend omega-3 polyunsaturated fatty acids (PUFAs, 1 g daily containing 850–882 mg of EPA and DHA as ethyl esters in a 1:1.2 ratio) as adjunctive therapy to reduce mortality and hospitalizations in chronic heart failure.",
+            "placeholder": "Enter the supplement name…",
             "helperText": "Spelling counts."
           }
         }
@@ -1084,8 +1084,8 @@
                 "text": "80"
               }
             ],
-            "rationale": "Total digitalizing dose = 30 mcg/kg \u00d7 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg \u00f7 3 = 80 mcg (0.08 mg) per dose.",
-            "placeholder": "Enter a number\u2026",
+            "rationale": "Total digitalizing dose = 30 mcg/kg × 8 kg = 240 mcg. Divided into 3 equal doses: 240 mcg ÷ 3 = 80 mcg (0.08 mg) per dose.",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },
@@ -1105,7 +1105,7 @@
           }
         },
         {
-          "update": "Maya receives the correct 80-mcg doses and is transitioned to a daily maintenance dose of digoxin and furosemide. On day 4 of hospitalization, Maya refuses her morning bottle, vomits twice, and her apical heart rate drops to 78 beats/min (normal for an awake 8-month-old infant is 100\u2013160 beats/min).",
+          "update": "Maya receives the correct 80-mcg doses and is transitioned to a daily maintenance dose of digoxin and furosemide. On day 4 of hospitalization, Maya refuses her morning bottle, vomits twice, and her apical heart rate drops to 78 beats/min (normal for an awake 8-month-old infant is 100–160 beats/min).",
           "question": {
             "type": "multiple-choice",
             "prompt": "How should the nurse interpret Maya's new clinical findings?",
@@ -1154,7 +1154,7 @@
               "Encourage brisk ambulation in the hallway 1 hour after dosing to evaluate exercise tolerance"
             ],
             "answer": 2,
-            "rationale": "Hydralazine and isosorbide dinitrate are specifically recommended for Black patients with heart failure and achieve peak plasma levels in 1 hour. They must be used with caution\u2014especially with the first few doses\u2014because of the risk of hypotension and syncope. If syncope occurs, the drug is usually discontinued."
+            "rationale": "Hydralazine and isosorbide dinitrate are specifically recommended for Black patients with heart failure and achieve peak plasma levels in 1 hour. They must be used with caution—especially with the first few doses—because of the risk of hypotension and syncope. If syncope occurs, the drug is usually discontinued."
           }
         },
         {
@@ -1199,7 +1199,7 @@
               "If I miss my morning digoxin by more than 12 hours, I will take two tablets the following morning."
             ],
             "answer": 1,
-            "rationale": "Discharge teaching for heart failure includes measuring daily morning weights in similar clothing, checking the radial pulse for 1 full minute before digoxin (contacting the provider if < 60 bpm, erratic, or \u2265 120 bpm), not stopping medications abruptly, and avoiding antacids, dairy products (milk, ice cream, yogurt, cheese), or bran within 2 hours before or after oral heart failure medications."
+            "rationale": "Discharge teaching for heart failure includes measuring daily morning weights in similar clothing, checking the radial pulse for 1 full minute before digoxin (contacting the provider if < 60 bpm, erratic, or ≥ 120 bpm), not stopping medications abruptly, and avoiding antacids, dairy products (milk, ice cream, yogurt, cheese), or bran within 2 hours before or after oral heart failure medications."
           }
         }
       ]

@@ -405,7 +405,7 @@
         "400 mL"
       ],
       "answer": 2,
-      "rationale": "First, calculate the required dose in grams: 0.5 g/kg \u00d7 80 kg = 40 g of mannitol. Next, using the 20% solution (20 g / 100 mL = 0.2 g/mL), calculate the volume: (40 g \u00f7 20 g) \u00d7 100 mL = 200 mL."
+      "rationale": "First, calculate the required dose in grams: 0.5 g/kg × 80 kg = 40 g of mannitol. Next, using the 20% solution (20 g / 100 mL = 0.2 g/mL), calculate the volume: (40 g ÷ 20 g) × 100 mL = 200 mL."
     },
     {
       "id": "diur-mc-030",
@@ -514,7 +514,7 @@
         "Avoid prolonged heat, saunas, or hot tubs because sweating causes further electrolyte and water loss.",
         "Use a dry sauna for 20 minutes daily to promote transdermal elimination of excess extracellular sodium.",
         "Increase the morning diuretic dose during heat waves to prevent heat-induced peripheral ankle swelling.",
-        "Restrict oral fluid intake when outdoor temperatures exceed 28\u00b0C to prevent dilutional hyponatremia."
+        "Restrict oral fluid intake when outdoor temperatures exceed 28°C to prevent dilutional hyponatremia."
       ],
       "answer": 0,
       "rationale": "Heat raises core body temperature and causes additional loss of potassium, sodium, and water through sweat, increasing the risk of dehydration, hypotension, heat stroke, and electrolyte imbalances in patients taking diuretics."
@@ -659,7 +659,7 @@
         }
       ],
       "rationale": "Furosemide (Lasix) is the prototypical and most commonly used loop diuretic; its trade name reflects that its action lasts approximately 6 hours when given orally.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -676,7 +676,7 @@
         }
       ],
       "rationale": "Mannitol (Osmitrol) is a nonabsorbable solute that acts as an osmotic diuretic along the nephron (primarily the proximal tubule and descending loop of Henle) to reduce cerebral edema and intracranial pressure.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -693,7 +693,7 @@
         }
       ],
       "rationale": "Spironolactone (Aldactone) is a synthetic steroid that competitively binds to aldosterone receptors in the distal tubule, causing sodium and water excretion while retaining potassium.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -710,7 +710,7 @@
         }
       ],
       "rationale": "Acetazolamide (Acetazolam) is the prototypical carbonic anhydrase inhibitor acting in the proximal convoluted tubule and eye.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -727,7 +727,7 @@
         }
       ],
       "rationale": "Metolazone (Zaroxolyn) is a potent thiazide-like diuretic that remains effective in severe kidney impairment (down to a creatinine clearance of 10 mL/min) and is combined with loop diuretics for sequential nephron blockade.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -747,7 +747,7 @@
         }
       ],
       "rationale": "Desmopressin (DDAVP, Octostim, Nocdurna) is a synthetic vasopressin analogue with potent antidiuretic activity, minimal vasoconstrictor effect, and the ability to increase factor VIII and von Willebrand factor levels.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -762,7 +762,7 @@
         }
       ],
       "rationale": "Tolvaptan is a vasopressin antagonist used to treat marked symptomatic hyponatremia associated with syndrome of inappropriate antidiuretic hormone (SIADH) and heart failure.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -781,7 +781,7 @@
         }
       ],
       "rationale": "Hypokalemia (serum potassium < 3.5 mmol/L) is the most common and clinically important electrolyte abnormality associated with loop and thiazide diuretics and predisposes patients to digoxin toxicity and cardiac dysrhythmias.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -789,7 +789,7 @@
       "type": "case-study",
       "title": "Acute Decompensated Heart Failure and Loop Diuretic Therapy",
       "topic": "Loop Diuretics",
-      "scenario": "Arthur, a 74-year-old retired machinist, is admitted to the cardiac step-down unit with acute decompensated heart failure. He has 3+ bilateral pitting pedal edema, bibasilar crackles on lung auscultation, and dyspnea at rest. His vital signs are BP 154/92 mm Hg, HR 98 beats/min (irregular, atrial fibrillation), RR 24 breaths/min, and SpO2 91% on 2 L/min nasal cannula. Home medications include digoxin 0.125 mg PO daily. Baseline labs show serum potassium 3.9 mmol/L, sodium 137 mmol/L, and creatinine 115 \u00b5mol/L. The prescriber orders furosemide (Lasix) 40 mg IV now.",
+      "scenario": "Arthur, a 74-year-old retired machinist, is admitted to the cardiac step-down unit with acute decompensated heart failure. He has 3+ bilateral pitting pedal edema, bibasilar crackles on lung auscultation, and dyspnea at rest. His vital signs are BP 154/92 mm Hg, HR 98 beats/min (irregular, atrial fibrillation), RR 24 breaths/min, and SpO2 91% on 2 L/min nasal cannula. Home medications include digoxin 0.125 mg PO daily. Baseline labs show serum potassium 3.9 mmol/L, sodium 137 mmol/L, and creatinine 115 µmol/L. The prescriber orders furosemide (Lasix) 40 mg IV now.",
       "stages": [
         {
           "question": {
@@ -834,7 +834,7 @@
               }
             ],
             "rationale": "Metolazone (Zaroxolyn) remains effective down to a creatinine clearance of 10 mL/min and is combined with loop diuretics to block sodium and water reabsorption at multiple sites along the nephron (sequential nephron blockade).",
-            "placeholder": "Type a drug name\u2026",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
@@ -850,7 +850,7 @@
               "'I will limit potassium-rich foods such as bananas, potatoes, and oranges while taking furosemide.'"
             ],
             "answer": 0,
-            "rationale": "Diuretics should be taken in the morning to prevent nocturia and nighttime falls. Patients should record daily weights at the same time each day, consume potassium-rich foods, avoid NSAIDs, and monitor their pulse rate (reporting HR \u2264 60 beats/min) when taking digoxin."
+            "rationale": "Diuretics should be taken in the morning to prevent nocturia and nighttime falls. Patients should record daily weights at the same time each day, consume potassium-rich foods, avoid NSAIDs, and monitor their pulse rate (reporting HR ≤ 60 beats/min) when taking digoxin."
           }
         }
       ]
@@ -860,7 +860,7 @@
       "type": "case-study",
       "title": "Hypertension Management with Hydrochlorothiazide in an Older Adult",
       "topic": "Thiazide and Thiazide-Like Diuretics",
-      "scenario": "Evelyn, a 68-year-old retired librarian, is diagnosed with primary hypertension after three consecutive clinic blood pressure readings averaging 152/90 mm Hg. Her baseline laboratory results are normal: serum potassium 4.3 mmol/L, creatinine 72 \u00b5mol/L (creatinine clearance 78 mL/min), and fasting blood glucose 5.4 mmol/L. She is prescribed hydrochlorothiazide (Urozide) 25 mg PO daily.",
+      "scenario": "Evelyn, a 68-year-old retired librarian, is diagnosed with primary hypertension after three consecutive clinic blood pressure readings averaging 152/90 mm Hg. Her baseline laboratory results are normal: serum potassium 4.3 mmol/L, creatinine 72 µmol/L (creatinine clearance 78 mL/min), and fasting blood glucose 5.4 mmol/L. She is prescribed hydrochlorothiazide (Urozide) 25 mg PO daily.",
       "stages": [
         {
           "question": {
@@ -996,7 +996,7 @@
       "type": "case-study",
       "title": "Cirrhosis with Ascites and Potassium-Sparing Diuretic Therapy",
       "topic": "Potassium-Sparing Diuretics",
-      "scenario": "Jean-Luc, a 59-year-old chef with alcohol-related liver cirrhosis, is admitted with tense abdominal ascites (abdominal girth 112 cm) and 2+ lower extremity edema. His baseline serum potassium is 3.7 mmol/L, sodium is 133 mmol/L, and creatinine is 88 \u00b5mol/L. The hepatologist prescribes spironolactone (Aldactone) 100 mg PO daily.",
+      "scenario": "Jean-Luc, a 59-year-old chef with alcohol-related liver cirrhosis, is admitted with tense abdominal ascites (abdominal girth 112 cm) and 2+ lower extremity edema. His baseline serum potassium is 3.7 mmol/L, sodium is 133 mmol/L, and creatinine is 88 µmol/L. The hepatologist prescribes spironolactone (Aldactone) 100 mg PO daily.",
       "stages": [
         {
           "question": {
@@ -1141,7 +1141,7 @@
             "options": [
               "Verify the clarity of the solution and discard the vial if visible particles or discoloration are present.",
               "Agitate the vial vigorously for 60 seconds until a uniform cloudy white suspension is achieved.",
-              "Warm the ampoule in a water bath to 45\u00b0C before drawing up the dose through a filter needle.",
+              "Warm the ampoule in a water bath to 45°C before drawing up the dose through a filter needle.",
               "Dilute the parenteral solution in 250 mL of lactated Ringer's solution and protect from room light."
             ],
             "answer": 0,

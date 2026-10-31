@@ -47,7 +47,7 @@
       "id": "coag-mc-004",
       "type": "multiple-choice",
       "topic": "Heparin-Induced Thrombocytopenia",
-      "prompt": "A patient has been receiving intravenous unfractionated heparin for 6 days. Today's complete blood count reveals that the platelet count has dropped from a baseline of 260 \u00d7 10\u2079/L to 98 \u00d7 10\u2079/L. What is the nurse's priority action?",
+      "prompt": "A patient has been receiving intravenous unfractionated heparin for 6 days. Today's complete blood count reveals that the platelet count has dropped from a baseline of 260 × 10⁹/L to 98 × 10⁹/L. What is the nurse's priority action?",
       "options": [
         "Continue the infusion at the current rate and recheck the platelet count in 24 hours.",
         "Transition the intravenous heparin to subcutaneous enoxaparin at a weight-based dose.",
@@ -69,7 +69,7 @@
         "90 mg"
       ],
       "answer": 0,
-      "rationale": "Protamine sulphate reverses unfractionated heparin at a ratio of 1 mg of protamine sulphate for every 100 units of heparin. To neutralize 4 500 units of heparin, the nurse calculates 4 500 units \u00f7 100 units/mg = 45 mg."
+      "rationale": "Protamine sulphate reverses unfractionated heparin at a ratio of 1 mg of protamine sulphate for every 100 units of heparin. To neutralize 4 500 units of heparin, the nurse calculates 4 500 units ÷ 100 units/mg = 45 mg."
     },
     {
       "id": "coag-mc-006",
@@ -125,7 +125,7 @@
         "1.98 mL"
       ],
       "answer": 0,
-      "rationale": "First, convert weight in pounds to kilograms: 198 lb \u00f7 2.2 lb/kg = 90 kg. At 1 mg/kg per dose, the patient requires 90 mg every 12 hours. Using the concentration of 100 mg/mL, 90 mg \u00f7 100 mg/mL = 0.9 mL."
+      "rationale": "First, convert weight in pounds to kilograms: 198 lb ÷ 2.2 lb/kg = 90 kg. At 1 mg/kg per dose, the patient requires 90 mg every 12 hours. Using the concentration of 100 mg/mL, 90 mg ÷ 100 mg/mL = 0.9 mL."
     },
     {
       "id": "coag-mc-010",
@@ -301,7 +301,7 @@
       "topic": "Selective Factor Xa Inhibitors",
       "prompt": "The nurse is preparing to administer fondaparinux sodium (Arixtra) subcutaneously for DVT prophylaxis to a postoperative orthopedic patient. Which patient finding is a contraindication to administering fondaparinux?",
       "options": [
-        "Platelet count of 210 \u00d7 10\u2079/L and serum hemoglobin of 128 g/L",
+        "Platelet count of 210 × 10⁹/L and serum hemoglobin of 128 g/L",
         "Body weight of 46 kg and creatinine clearance of 25 mL/min",
         "Elapsed time of 10 hours since completion of orthopedic surgery",
         "Documented history of type II heparin-induced thrombocytopenia"
@@ -315,13 +315,13 @@
       "topic": "Selective Factor Xa Inhibitors",
       "prompt": "A patient receiving subcutaneous fondaparinux sodium (Arixtra) for treatment of a pulmonary embolism has a daily complete blood count drawn. At what platelet count threshold should fondaparinux therapy be discontinued?",
       "options": [
-        "Below 250 \u00d7 10\u2079/L (250 000/\u00b5L)",
-        "Below 150 \u00d7 10\u2079/L (150 000/\u00b5L)",
-        "Below 100 \u00d7 10\u2079/L (100 000/\u00b5L)",
-        "Below 50 \u00d7 10\u2079/L (50 000/\u00b5L)"
+        "Below 250 × 10⁹/L (250 000/µL)",
+        "Below 150 × 10⁹/L (150 000/µL)",
+        "Below 100 × 10⁹/L (100 000/µL)",
+        "Below 50 × 10⁹/L (50 000/µL)"
       ],
       "answer": 2,
-      "rationale": "Thrombocytopenia can occur with fondaparinux therapy, and the drug should be stopped if the platelet count falls below 100 000 platelets per microlitre (100 \u00d7 10\u2079/L)."
+      "rationale": "Thrombocytopenia can occur with fondaparinux therapy, and the drug should be stopped if the platelet count falls below 100 000 platelets per microlitre (100 × 10⁹/L)."
     },
     {
       "id": "coag-mc-024",
@@ -413,13 +413,13 @@
       "topic": "Antiplatelet Drugs",
       "prompt": "The nurse is reviewing baseline complete blood counts for a patient scheduled to start oral antiplatelet therapy with clopidogrel (Plavix). At or below which platelet count should the nurse notify the health care provider because antiplatelet therapy will likely be withheld or discontinued?",
       "options": [
-        "150 \u00d7 10\u2079/L",
-        "80 \u00d7 10\u2079/L",
-        "120 \u00d7 10\u2079/L",
-        "200 \u00d7 10\u2079/L"
+        "150 × 10⁹/L",
+        "80 × 10⁹/L",
+        "120 × 10⁹/L",
+        "200 × 10⁹/L"
       ],
       "answer": 1,
-      "rationale": "According to the Nursing Process assessment guidelines for oral antiplatelet drugs, if platelet counts are at or fall below 80 \u00d7 10\u2079/L, the nurse must notify the health care provider, as antiplatelet therapy will most likely not be initiated or will be discontinued."
+      "rationale": "According to the Nursing Process assessment guidelines for oral antiplatelet drugs, if platelet counts are at or fall below 80 × 10⁹/L, the nurse must notify the health care provider, as antiplatelet therapy will most likely not be initiated or will be discontinued."
     },
     {
       "id": "coag-mc-031",
@@ -427,13 +427,13 @@
       "topic": "Glycoprotein IIb/IIIa Inhibitors",
       "prompt": "A patient with non-ST-segment elevation myocardial infarction is receiving an intravenous infusion of eptifibatide (Integrilin) prior to percutaneous coronary intervention. Before or during GP IIb/IIIa inhibitor therapy, a drop in the platelet count below which threshold requires contacting the health care provider for further orders?",
       "options": [
-        "180 \u00d7 10\u2079/L",
-        "140 \u00d7 10\u2079/L",
-        "90 \u00d7 10\u2079/L",
-        "220 \u00d7 10\u2079/L"
+        "180 × 10⁹/L",
+        "140 × 10⁹/L",
+        "90 × 10⁹/L",
+        "220 × 10⁹/L"
       ],
       "answer": 2,
-      "rationale": "For patients receiving GP IIb/IIIa inhibitors (eptifibatide, tirofiban, abciximab), if the platelet count falls below 90 \u00d7 10\u2079/L before or during therapy, the nurse must contact the health care provider."
+      "rationale": "For patients receiving GP IIb/IIIa inhibitors (eptifibatide, tirofiban, abciximab), if the platelet count falls below 90 × 10⁹/L before or during therapy, the nurse must contact the health care provider."
     },
     {
       "id": "coag-mc-032",
@@ -503,7 +503,7 @@
         "Administer 72 mg IV over 60 minutes, with 7.2 mg given as a 1-minute bolus within 3 hours of onset."
       ],
       "answer": 3,
-      "rationale": "For acute ischemic stroke, the adult IV dosage of alteplase is 0.9 mg/kg (not to exceed a maximum total dose of 90 mg) infused over 60 minutes, with 10% of the total dose administered as an initial IV bolus over 1 minute, and it must be given within 3 hours of symptom onset. For an 80-kg patient, 0.9 mg/kg \u00d7 80 kg = 72 mg total (7.2 mg bolus over 1 min)."
+      "rationale": "For acute ischemic stroke, the adult IV dosage of alteplase is 0.9 mg/kg (not to exceed a maximum total dose of 90 mg) infused over 60 minutes, with 10% of the total dose administered as an initial IV bolus over 1 minute, and it must be given within 3 hours of symptom onset. For an 80-kg patient, 0.9 mg/kg × 80 kg = 72 mg total (7.2 mg bolus over 1 min)."
     },
     {
       "id": "coag-mc-037",
@@ -517,7 +517,7 @@
         "They have a prolonged 48-hour plasma half-life that prevents abrupt drops in fibrinogen levels."
       ],
       "answer": 0,
-      "rationale": "Alteplase and tenecteplase are recombinant human t-PA (rt-PA) products that exhibit fibrin-specificity\u2014meaning the presence of fibrin in a clot stimulates conversion of plasminogen to plasmin locally rather than inducing a widespread systemic lytic state\u2014and because t-PA occurs naturally in humans, it does not induce an antigen-antibody reaction like bacterial streptokinase."
+      "rationale": "Alteplase and tenecteplase are recombinant human t-PA (rt-PA) products that exhibit fibrin-specificity—meaning the presence of fibrin in a clot stimulates conversion of plasminogen to plasmin locally rather than inducing a widespread systemic lytic state—and because t-PA occurs naturally in humans, it does not induce an antigen-antibody reaction like bacterial streptokinase."
     },
     {
       "id": "coag-mc-038",
@@ -531,7 +531,7 @@
         "Draw arterial blood gases every 30 minutes, and apply cold packs to all venipuncture sites."
       ],
       "answer": 1,
-      "rationale": "When reconstituting thrombolytics with sodium chloride or D5W, the nurse must gently roll\u2014not shake\u2014the vial to maintain solution stability. IM injections and unnecessary invasive or arterial punctures are strictly avoided due to severe bleeding risk, and fibrinogen, INR, aPTT, and platelet counts are monitored."
+      "rationale": "When reconstituting thrombolytics with sodium chloride or D5W, the nurse must gently roll—not shake—the vial to maintain solution stability. IM injections and unnecessary invasive or arterial punctures are strictly avoided due to severe bleeding risk, and fibrinogen, INR, aPTT, and platelet counts are monitored."
     },
     {
       "id": "coag-mc-039",
@@ -660,7 +660,7 @@
         }
       ],
       "rationale": "Protamine sulphate is the specific antagonist that forms a complex with unfractionated heparin (1 mg per 100 units) and LMWHs (1 mg per 1 mg) to reverse their anticoagulant effects within 5 minutes.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -678,7 +678,7 @@
         }
       ],
       "rationale": "Vitamin K1 (phytonadione) is the antidote for warfarin sodium toxicity because warfarin acts by inhibiting vitamin K-dependent clotting factors II, VII, IX, and X in the liver.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the vitamin name…",
       "helperText": "Spelling counts."
     },
     {
@@ -696,7 +696,7 @@
         }
       ],
       "rationale": "The international normalized ratio (INR) standardizes prothrombin time (PT) reporting across laboratories and is used to monitor warfarin therapy, with a typical therapeutic target of 2.0 to 3.0 (or 2.5 to 3.5 for mechanical heart valves).",
-      "placeholder": "Type the test name\u2026",
+      "placeholder": "Enter the test name…",
       "helperText": "Standard abbreviations or full names are accepted."
     },
     {
@@ -715,7 +715,7 @@
         }
       ],
       "rationale": "Activated partial thromboplastin time (aPTT) measures the intrinsic coagulation pathway and is the primary laboratory test used to titrate therapeutic unfractionated heparin infusions.",
-      "placeholder": "Type the test name\u2026",
+      "placeholder": "Enter the test name…",
       "helperText": "Standard abbreviations or full names are accepted."
     },
     {
@@ -734,7 +734,7 @@
         }
       ],
       "rationale": "Dabigatran etexilate mesylate (Pradaxa) is an oral direct thrombin inhibitor whose capsules are sensitive to moisture and must be kept in the original bottle with a desiccant cap or blister pack and used within 4 months of opening.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -753,7 +753,7 @@
         }
       ],
       "rationale": "Clopidogrel bisulphate (Plavix) is the prototype ADP (P2Y12) inhibitor used to prevent platelet aggregation in acute coronary syndromes, post-stent placement, MI, and stroke/TIA prophylaxis.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -773,7 +773,7 @@
         }
       ],
       "rationale": "Alteplase (Activase) is a fibrin-specific recombinant tissue plasminogen activator (rt-PA) used for thrombolysis in acute ischemic stroke, pulmonary embolism, and STEMI, as well as catheter clearance (Cathflo).",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -790,7 +790,7 @@
         }
       ],
       "rationale": "Tranexamic acid (Cyklokapron) is a synthetic systemic hemostat/antifibrinolytic that displaces plasminogen from fibrin to prevent clot breakdown in hyperfibrinolysis, cardiac surgery, and dental extractions in patients with hemophilia.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -808,7 +808,7 @@
         }
       ],
       "rationale": "Fondaparinux sodium (Arixtra) is a parenteral selective factor Xa inhibitor used for DVT/PE prophylaxis and treatment; it is contraindicated in patients weighing under 50 kg or with creatinine clearance <30 mL/min.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -816,7 +816,7 @@
       "type": "case-study",
       "title": "Deep Vein Thrombosis, HIT, and Argatroban Therapy",
       "topic": "Heparins and Direct Thrombin Inhibitors",
-      "scenario": "A 62-year-old man, Mr. Desjardins, presents to the emergency department with a 2-day history of unilateral right calf swelling, warmth, and aching pain after a 14-hour international flight. Venous duplex ultrasonography confirms an acute proximal deep vein thrombosis (DVT) in the right femoral vein. Vital signs are BP 134/82 mm Hg, HR 88 beats/min, RR 18 breaths/min, and SpO2 97% on room air. Baseline labs show hemoglobin 148 g/L, platelets 240 \u00d7 10\u2079/L, creatinine 78 \u00b5mol/L, control aPTT 30 seconds, and INR 1.0. He weighs 85 kg. The prescriber orders a weight-based intravenous unfractionated heparin infusion.",
+      "scenario": "A 62-year-old man, Mr. Desjardins, presents to the emergency department with a 2-day history of unilateral right calf swelling, warmth, and aching pain after a 14-hour international flight. Venous duplex ultrasonography confirms an acute proximal deep vein thrombosis (DVT) in the right femoral vein. Vital signs are BP 134/82 mm Hg, HR 88 beats/min, RR 18 breaths/min, and SpO2 97% on room air. Baseline labs show hemoglobin 148 g/L, platelets 240 × 10⁹/L, creatinine 78 µmol/L, control aPTT 30 seconds, and INR 1.0. He weighs 85 kg. The prescriber orders a weight-based intravenous unfractionated heparin infusion.",
       "stages": [
         {
           "question": {
@@ -848,10 +848,10 @@
           }
         },
         {
-          "update": "On hospital day 5, Mr. Desjardins's morning complete blood count reveals that his platelet count has plummeted from 240 \u00d7 10\u2079/L to 82 \u00d7 10\u2079/L. He also reports new coolness and tingling in his left foot. The health care provider diagnoses type II heparin-induced thrombocytopenia (HIT) and immediately discontinues the heparin.",
+          "update": "On hospital day 5, Mr. Desjardins's morning complete blood count reveals that his platelet count has plummeted from 240 × 10⁹/L to 82 × 10⁹/L. He also reports new coolness and tingling in his left foot. The health care provider diagnoses type II heparin-induced thrombocytopenia (HIT) and immediately discontinues the heparin.",
           "question": {
             "type": "short-answer",
-            "prompt": "To treat Mr. Desjardins's active HIT, the prescriber orders an intravenous infusion of a synthetic direct thrombin inhibitor derived from L-arginine (dosed at 2\u201310 mcg/kg/min and titrated to an aPTT of 1.5 to 3 times baseline). What is the generic name of this medication?",
+            "prompt": "To treat Mr. Desjardins's active HIT, the prescriber orders an intravenous infusion of a synthetic direct thrombin inhibitor derived from L-arginine (dosed at 2–10 mcg/kg/min and titrated to an aPTT of 1.5 to 3 times baseline). What is the generic name of this medication?",
             "answers": [
               {
                 "text": "argatroban",
@@ -860,8 +860,8 @@
                 ]
               }
             ],
-            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2\u201310 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT).",
-            "placeholder": "Type a drug name\u2026",
+            "rationale": "Argatroban is a synthetic direct thrombin inhibitor derived from L-arginine that is administered by continuous IV infusion (2–10 mcg/kg/min) for the prophylaxis and treatment of heparin-induced thrombocytopenia (HIT).",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
@@ -998,7 +998,7 @@
               }
             ],
             "rationale": "For LMWHs, a 1-mg dose of protamine sulphate is administered for each 1 mg of LMWH given (1 mg protamine sulphate for 1 mg enoxaparin). Therefore, 70 mg of enoxaparin requires 70 mg of protamine sulphate.",
-            "placeholder": "Enter a number\u2026",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },
@@ -1037,7 +1037,7 @@
               "162 mg"
             ],
             "answer": 0,
-            "rationale": "Multiply the bolus dose by the patient's weight in kilograms: 180 mcg/kg \u00d7 90 kg = 16 200 mcg. Convert micrograms to milligrams by dividing by 1 000: 16 200 mcg \u00f7 1 000 mcg/mg = 16.2 mg."
+            "rationale": "Multiply the bolus dose by the patient's weight in kilograms: 180 mcg/kg × 90 kg = 16 200 mcg. Convert micrograms to milligrams by dividing by 1 000: 16 200 mcg ÷ 1 000 mcg/mg = 16.2 mg."
           }
         },
         {
@@ -1092,7 +1092,7 @@
       "type": "case-study",
       "title": "Acute Ischemic Stroke, Alteplase Thrombolysis, and Bleeding Management",
       "topic": "Thrombolytics and Antifibrinolytics",
-      "scenario": "Mr. Chen, a 66-year-old man weighing 105 kg, is brought to the emergency department by paramedics 75 minutes after the witnessed onset of left facial droop, left arm weakness, and slurred speech. An emergent noncontrast head CT scan shows no intracranial hemorrhage, confirming an acute ischemic stroke. His blood pressure is 146/84 mm Hg, HR 78 beats/min, and platelets 215 \u00d7 10\u2079/L. He has no history of recent surgery, trauma, or bleeding. The stroke team orders intravenous alteplase (Activase).",
+      "scenario": "Mr. Chen, a 66-year-old man weighing 105 kg, is brought to the emergency department by paramedics 75 minutes after the witnessed onset of left facial droop, left arm weakness, and slurred speech. An emergent noncontrast head CT scan shows no intracranial hemorrhage, confirming an acute ischemic stroke. His blood pressure is 146/84 mm Hg, HR 78 beats/min, and platelets 215 × 10⁹/L. He has no history of recent surgery, trauma, or bleeding. The stroke team orders intravenous alteplase (Activase).",
       "stages": [
         {
           "question": {
@@ -1105,7 +1105,7 @@
               "75 mg total dose (15 mg IV bolus over 2 minutes, then 60 mg infused over 120 minutes)"
             ],
             "answer": 0,
-            "rationale": "Although 0.9 mg/kg \u00d7 105 kg equals 94.5 mg, the textbook explicitly states that the total dose of alteplase for acute ischemic stroke must not exceed 90 mg. Therefore, the capped total dose is 90 mg over 60 minutes, with 10% (9 mg) administered as an initial IV bolus over 1 minute."
+            "rationale": "Although 0.9 mg/kg × 105 kg equals 94.5 mg, the textbook explicitly states that the total dose of alteplase for acute ischemic stroke must not exceed 90 mg. Therefore, the capped total dose is 90 mg over 60 minutes, with 10% (9 mg) administered as an initial IV bolus over 1 minute."
           }
         },
         {
@@ -1139,7 +1139,7 @@
               }
             ],
             "rationale": "With the breakdown of fibrin (fibrinolysis) after thrombolytic administration, INR increases, aPTT is prolonged, and fibrinogen levels decrease. Measuring the patient's fibrinogen level checks for the occurrence of fibrinolysis.",
-            "placeholder": "Type the test name\u2026",
+            "placeholder": "Enter the test name…",
             "helperText": "Standard abbreviations or full names are accepted."
           }
         },
@@ -1223,7 +1223,7 @@
               "Administer intravenous desmopressin acetate to accelerate renal excretion of dabigatran."
             ],
             "answer": 2,
-            "rationale": "According to the textbook (pp. 450\u2013452), direct thrombin inhibitors (such as dabigatran) lack a specific antidote; management of overdose or severe bleeding includes discontinuing the drug, administering transfusions as indicated, and removing the drug via hemodialysis."
+            "rationale": "According to the textbook (pp. 450–452), direct thrombin inhibitors (such as dabigatran) lack a specific antidote; management of overdose or severe bleeding includes discontinuing the drug, administering transfusions as indicated, and removing the drug via hemodialysis."
           }
         }
       ]

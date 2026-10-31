@@ -88,7 +88,7 @@
     {
       "id": "thy-mc-007",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Mechanism of Action",
+      "topic": "Thyroid Replacement Drugs — Mechanism of Action",
       "prompt": "When administering levothyroxine sodium to a patient with coronary artery disease, the nurse monitors closely for angina and dysrhythmias. By what cardiovascular mechanism do thyroid hormones increase myocardial workload?",
       "options": [
         "They reduce parasympathetic vagal tone by inhibiting acetylcholinesterase at the sinoatrial node.",
@@ -102,7 +102,7 @@
     {
       "id": "thy-mc-008",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Contraindications",
+      "topic": "Thyroid Replacement Drugs — Contraindications",
       "prompt": "The nurse is reviewing the admission history of a patient newly prescribed levothyroxine sodium. Which condition in the patient's medical record is a contraindication to initiating thyroid hormone replacement?",
       "options": [
         "Untreated adrenal insufficiency and a recent myocardial infarction",
@@ -116,7 +116,7 @@
     {
       "id": "thy-mc-009",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Excipients and Celiac Disease",
+      "topic": "Thyroid Replacement Drugs — Excipients and Celiac Disease",
       "prompt": "A patient with primary hypothyroidism is newly diagnosed with celiac disease and begins strict adherence to a gluten-free diet. How should the nurse anticipate this dietary change will affect the patient's thyroid replacement therapy?",
       "options": [
         "Reduced intestinal inflammation will improve levothyroxine absorption and lower the required dose.",
@@ -130,7 +130,7 @@
     {
       "id": "thy-mc-010",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Excipients",
+      "topic": "Thyroid Replacement Drugs — Excipients",
       "prompt": "A patient with hypothyroidism who has a severe gluten allergy is prescribed thyroid replacement therapy. Which formulation ingredient should the nurse consider when verifying the safety of the prescribed medication?",
       "options": [
         "Liothyronine sodium contains modified food starch with gluten, whereas levothyroxine contains cornstarch and lactose.",
@@ -144,7 +144,7 @@
     {
       "id": "thy-mc-011",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Clinical Equivalence",
+      "topic": "Thyroid Replacement Drugs — Clinical Equivalence",
       "prompt": "A patient who has been stable on oral levothyroxine 100 mcg daily is being evaluated by the endocrinologist. Based on approximate clinically equivalent doses, 100 mcg of levothyroxine is equivalent to which alternative thyroid regimen?",
       "options": [
         "Liothyronine 25 mcg or desiccated thyroid 60 to 65 mg",
@@ -153,12 +153,12 @@
         "Liothyronine 12.5 mcg or desiccated thyroid 30 to 45 mg"
       ],
       "answer": 0,
-      "rationale": "Table 32.1 states that the approximate clinically equivalent doses are levothyroxine 100 mcg (or more), liothyronine 25 mcg, and desiccated thyroid 60\u201365 mg."
+      "rationale": "Table 32.1 states that the approximate clinically equivalent doses are levothyroxine 100 mcg (or more), liothyronine 25 mcg, and desiccated thyroid 60–65 mg."
     },
     {
       "id": "thy-mc-012",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Medication Safety",
+      "topic": "Thyroid Replacement Drugs — Medication Safety",
       "prompt": "A post-thyroidectomy patient has an order for levothyroxine 25 mcg PO daily. The unit stock only has liothyronine (Cytomel) 25-mcg tablets available. What is the nurse's priority action?",
       "options": [
         "Hold the dose and request levothyroxine 25 mcg from pharmacy, as liothyronine is four times as potent.",
@@ -167,12 +167,12 @@
         "Administer 65 mg of desiccated thyroid from ward stock instead so the morning dose is not delayed."
       ],
       "answer": 0,
-      "rationale": "Liothyronine (T3) 25 mcg is clinically equivalent to 100 mcg of levothyroxine (T4)\u2014roughly four times more potent per microgram\u2014and has a much faster onset and shorter half-life. The nurse must not substitute liothyronine for levothyroxine on a microgram-for-microgram basis."
+      "rationale": "Liothyronine (T3) 25 mcg is clinically equivalent to 100 mcg of levothyroxine (T4)—roughly four times more potent per microgram—and has a much faster onset and shorter half-life. The nurse must not substitute liothyronine for levothyroxine on a microgram-for-microgram basis."
     },
     {
       "id": "thy-mc-013",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 High-Alert Dosing",
+      "topic": "Thyroid Replacement Drugs — High-Alert Dosing",
       "prompt": "The nurse reviews a new medication order that reads: 'levothyroxine sodium 0.5 mg PO daily' for an outpatient with mild hypothyroidism. What is the nurse's best action?",
       "options": [
         "Question the prescriber before administration, as oral doses above 200 mcg (0.2 mg) suggest a unit error.",
@@ -186,7 +186,7 @@
     {
       "id": "thy-mc-014",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Pharmacokinetics",
+      "topic": "Thyroid Replacement Drugs — Pharmacokinetics",
       "prompt": "A patient started on oral levothyroxine 5 days ago tells the nurse, 'I still feel exhausted and cold; this pill isn't working at all, so I want to double my dose.' Which response by the nurse is best?",
       "options": [
         "'Keep taking your prescribed dose; symptoms begin improving in 2 weeks, with full effects in 3 to 8 weeks.'",
@@ -195,12 +195,12 @@
         "'You can take an extra half-tablet each morning for the first week until your basal metabolic rate increases.'"
       ],
       "answer": 0,
-      "rationale": "Oral levothyroxine has an onset of 3\u20135 days, an elimination half-life of 6\u201310 days, and a duration of 1\u20133 weeks. Improvement in symptoms is usually seen in 2 weeks, with full therapeutic results taking 3 to 4 (up to 4 to 8) weeks; doubling the dose risks severe cumulative toxicity."
+      "rationale": "Oral levothyroxine has an onset of 3–5 days, an elimination half-life of 6–10 days, and a duration of 1–3 weeks. Improvement in symptoms is usually seen in 2 weeks, with full therapeutic results taking 3 to 4 (up to 4 to 8) weeks; doubling the dose risks severe cumulative toxicity."
     },
     {
       "id": "thy-mc-015",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Pharmacokinetics and Protein Binding",
+      "topic": "Thyroid Replacement Drugs — Pharmacokinetics and Protein Binding",
       "prompt": "Which pharmacokinetic property of levothyroxine explains why it can be administered once daily and also carries a high risk for cumulative toxicity and drug interactions?",
       "options": [
         "High plasma protein binding and a 6- to 10-day half-life make it act like a biological sustained-release drug.",
@@ -214,7 +214,7 @@
     {
       "id": "thy-mc-016",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Administration Timing",
+      "topic": "Thyroid Replacement Drugs — Administration Timing",
       "prompt": "The nurse is educating a patient newly prescribed levothyroxine (Synthroid). Which instruction should the nurse give regarding when and how to take this medication?",
       "options": [
         "Take the tablet once daily in the morning, 60 minutes before breakfast on an empty stomach.",
@@ -228,7 +228,7 @@
     {
       "id": "thy-mc-017",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Brand Interchangeability",
+      "topic": "Thyroid Replacement Drugs — Brand Interchangeability",
       "prompt": "A patient taking Synthroid calls the clinic and states, 'The pharmacy told me Synthroid is on back order, so they offered me a different brand of levothyroxine instead. Can I just switch?' What is the nurse's most appropriate advice?",
       "options": [
         "'Different brands are not bioequivalent; switching products can destabilize your levels and requires closer lab monitoring.'",
@@ -242,7 +242,7 @@
     {
       "id": "thy-mc-018",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Food and Supplement Interactions",
+      "topic": "Thyroid Replacement Drugs — Food and Supplement Interactions",
       "prompt": "A patient taking levothyroxine at 07:00 asks when she can take her daily iron and calcium carbonate supplements. How should the nurse advise her?",
       "options": [
         "Space iron and calcium supplements at least 4 hours apart from levothyroxine to prevent reduced GI absorption.",
@@ -256,7 +256,7 @@
     {
       "id": "thy-mc-019",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Dietary Interactions",
+      "topic": "Thyroid Replacement Drugs — Dietary Interactions",
       "prompt": "The nurse is reviewing the dietary log of an infant with congenital hypothyroidism whose TSH remains elevated despite weight-appropriate oral levothyroxine dosing. Which item in the infant's diet is most likely decreasing levothyroxine absorption?",
       "options": [
         "Soybean-based infant formula",
@@ -270,7 +270,7 @@
     {
       "id": "thy-mc-020",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Drug Interactions",
+      "topic": "Thyroid Replacement Drugs — Drug Interactions",
       "prompt": "A patient with atrial fibrillation and hypothyroidism is stabilized on warfarin and digoxin. When levothyroxine therapy is initiated, which combined drug interaction effects should the nurse anticipate?",
       "options": [
         "Increased anticoagulant activity of warfarin and decreased serum digoxin effectiveness",
@@ -284,7 +284,7 @@
     {
       "id": "thy-mc-021",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Diabetes Interaction",
+      "topic": "Thyroid Replacement Drugs — Diabetes Interaction",
       "prompt": "A patient with type 1 diabetes mellitus starts levothyroxine therapy for newly diagnosed primary hypothyroidism. What change in glycemic control should the nurse instruct the patient to monitor for?",
       "options": [
         "Increased blood glucose levels and a possible need for higher insulin dosages",
@@ -298,7 +298,7 @@
     {
       "id": "thy-mc-022",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Enzyme Inducer Interactions",
+      "topic": "Thyroid Replacement Drugs — Enzyme Inducer Interactions",
       "prompt": "A patient who has been euthyroid on a stable dose of levothyroxine is started on phenytoin for a seizure disorder. Which effect on the patient's thyroid status should the nurse monitor for?",
       "options": [
         "Reduced levothyroxine effectiveness, potentially causing recurrent hypothyroid symptoms and elevated TSH",
@@ -312,7 +312,7 @@
     {
       "id": "thy-mc-023",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Special Populations: Pregnancy",
+      "topic": "Thyroid Replacement Drugs — Special Populations: Pregnancy",
       "prompt": "A 29-year-old woman with hypothyroidism informs the clinic nurse that she is 6 weeks pregnant and is worried that her levothyroxine will harm her baby. What is the nurse's best response?",
       "options": [
         "'Levothyroxine is safe and necessary for fetal growth; your dose is adjusted every 4 weeks to keep TSH in the low-normal range.'",
@@ -326,7 +326,7 @@
     {
       "id": "thy-mc-024",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Special Populations: Older Adults",
+      "topic": "Thyroid Replacement Drugs — Special Populations: Older Adults",
       "prompt": "The nurse is reviewing a new prescription for levothyroxine for a 74-year-old patient newly diagnosed with hypothyroidism. Which age-related dosing principle applies to older adults?",
       "options": [
         "Replacement requirements are about 25% lower in patients aged 60 and older, so dosing is started low and titrated gradually.",
@@ -340,7 +340,7 @@
     {
       "id": "thy-mc-025",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Older Adult Adverse Effects",
+      "topic": "Thyroid Replacement Drugs — Older Adult Adverse Effects",
       "prompt": "A 78-year-old patient taking levothyroxine is being taught by the home health nurse about symptoms that require prompt notification of the health care provider. Which symptoms reported by an older adult warrant urgent evaluation?",
       "options": [
         "Palpitations, chest pain, stumbling or falling, dyspnea, depression, or new urinary incontinence",
@@ -354,7 +354,7 @@
     {
       "id": "thy-mc-026",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Laboratory Monitoring Schedule",
+      "topic": "Thyroid Replacement Drugs — Laboratory Monitoring Schedule",
       "prompt": "A patient with newly diagnosed moderate hypothyroidism is started on oral levothyroxine. At what intervals should the nurse expect clinical and laboratory (TSH and free T4) evaluations to be performed during dose titration and after stabilization?",
       "options": [
         "Every 6 to 8 weeks during dose titration until TSH normalizes, and at least annually once stabilized",
@@ -368,7 +368,7 @@
     {
       "id": "thy-mc-027",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Toxicity and Overdose",
+      "topic": "Thyroid Replacement Drugs — Toxicity and Overdose",
       "prompt": "A patient who has been taking levothyroxine for 16 months presents to the clinic reporting a 4-kg unintentional weight loss, insomnia, hand tremors, heat intolerance, and racing heartbeats. What is the nurse's priority action?",
       "options": [
         "Assess vital signs and cardiac rhythm, hold the dose, and notify the prescriber of suspected thyroid toxicity.",
@@ -382,7 +382,7 @@
     {
       "id": "thy-mc-028",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Storage and Diagnostic Testing",
+      "topic": "Thyroid Replacement Drugs — Storage and Diagnostic Testing",
       "prompt": "Which patient teaching point is accurate regarding the storage of thyroid tablets and preparation for scheduled radioactive isotope studies?",
       "options": [
         "Protect thyroid tablets from light, and expect the drug to be stopped about 4 weeks before isotope studies as prescribed.",
@@ -405,12 +405,12 @@
         "Subcutaneous levothyroxine sodium 25 mcg once daily titrated upward every 6 weeks based on serum thyrotropin levels"
       ],
       "answer": 0,
-      "rationale": "Myxedema coma is a life-threatening hypothyroid emergency treated with intravenous levothyroxine sodium, typically 300\u2013500 mcg in a single IV dose, followed by 75\u2013100 mcg/day IV until clinical stability and thyroid levels improve."
+      "rationale": "Myxedema coma is a life-threatening hypothyroid emergency treated with intravenous levothyroxine sodium, typically 300–500 mcg in a single IV dose, followed by 75–100 mcg/day IV until clinical stability and thyroid levels improve."
     },
     {
       "id": "thy-mc-030",
       "type": "multiple-choice",
-      "topic": "Dosage Calculation \u2014 Parenteral Levothyroxine",
+      "topic": "Dosage Calculation — Parenteral Levothyroxine",
       "prompt": "A hospitalized patient with severe hypothyroidism has a prescription reading: 'Give levothyroxine sodium 0.1 mg IV push now.' Available in the automated dispensing cabinet are vials reconstituted to 100 mcg/mL. What dose in micrograms and what volume in millilitres will the nurse administer?",
       "options": [
         "100 mcg (1 mL)",
@@ -419,12 +419,12 @@
         "50 mcg (0.5 mL)"
       ],
       "answer": 0,
-      "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.1 mg \u00d7 1000 mcg/mg = 100 mcg. With a concentration of 100 mcg/mL, the nurse administers 1 mL."
+      "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.1 mg × 1000 mcg/mg = 100 mcg. With a concentration of 100 mcg/mL, the nurse administers 1 mL."
     },
     {
       "id": "thy-mc-031",
       "type": "multiple-choice",
-      "topic": "Dosage Calculation \u2014 Oral to Parenteral Conversion",
+      "topic": "Dosage Calculation — Oral to Parenteral Conversion",
       "prompt": "According to the textbook dosage table, a surgical patient who is NPO and normally takes 120 mcg of oral levothyroxine daily is switched to parenteral (IM/IV) levothyroxine at 75% of the oral dose. What parenteral daily dose should the nurse anticipate?",
       "options": [
         "90 mcg",
@@ -433,7 +433,7 @@
         "30 mcg"
       ],
       "answer": 0,
-      "rationale": "In the Selected Thyroid Drugs dosage table (p. 531), the IM/IV maintenance dose is listed as 75% of the oral dose: 120 mcg \u00d7 0.75 = 90 mcg (note: bioavailability is higher parenterally than orally, so the parenteral dose is smaller than the oral dose)."
+      "rationale": "In the Selected Thyroid Drugs dosage table (p. 531), the IM/IV maintenance dose is listed as 75% of the oral dose: 120 mcg × 0.75 = 90 mcg (note: bioavailability is higher parenterally than orally, so the parenteral dose is smaller than the oral dose)."
     },
     {
       "id": "thy-mc-032",
@@ -453,7 +453,7 @@
       "id": "thy-mc-033",
       "type": "multiple-choice",
       "topic": "Thyroid Storm Recognition and Management",
-      "prompt": "A patient with poorly controlled Graves' disease is admitted with pneumonia. Six hours after admission, the patient develops a temperature of 40.2\u00b0C, atrial tachycardia at 168 beats/min, severe agitation, delirium, and profuse diarrhea. Which condition and collaborative treatment should the nurse anticipate?",
+      "prompt": "A patient with poorly controlled Graves' disease is admitted with pneumonia. Six hours after admission, the patient develops a temperature of 40.2°C, atrial tachycardia at 168 beats/min, severe agitation, delirium, and profuse diarrhea. Which condition and collaborative treatment should the nurse anticipate?",
       "options": [
         "Thyroid storm; administer antithyroid drugs, a beta-blocker for sympathetic symptoms, and supportive cooling and fluids",
         "Myxedema crisis; administer intravenous levothyroxine, active warming blankets, and hypertonic saline infusion",
@@ -466,7 +466,7 @@
     {
       "id": "thy-mc-034",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Mechanism of Action",
+      "topic": "Antithyroid Drugs — Mechanism of Action",
       "prompt": "How does propylthiouracil (PTU) differ mechanistically from methimazole (thiamazole / Tapazole) in the treatment of hyperthyroidism?",
       "options": [
         "Propylthiouracil also inhibits the conversion of T4 to T3 in the peripheral circulation.",
@@ -480,7 +480,7 @@
     {
       "id": "thy-mc-035",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Delayed Clinical Response",
+      "topic": "Antithyroid Drugs — Delayed Clinical Response",
       "prompt": "A patient newly prescribed propylthiouracil for hyperthyroidism asks the nurse why it may take up to 6 weeks before her palpitations and heat intolerance significantly improve. What is the physiological reason for this delay?",
       "options": [
         "Antithyroid drugs block new hormone synthesis but do not inactivate thyroid hormones already stored or circulating.",
@@ -494,7 +494,7 @@
     {
       "id": "thy-mc-036",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Indications",
+      "topic": "Antithyroid Drugs — Indications",
       "prompt": "Besides serving as primary medical therapy for Graves' disease, why are thioamide antithyroid drugs prescribed prior to radioactive iodine therapy or thyroidectomy?",
       "options": [
         "To prevent the surge in thyroid hormones that occurs during radioactive iodine therapy or thyroid surgery",
@@ -508,8 +508,8 @@
     {
       "id": "thy-mc-037",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Serious Adverse Effects",
-      "prompt": "A patient taking methimazole (Tapazole) for 4 weeks calls the clinic to report a new sore throat, fever of 38.6\u00b0C, and painful mouth ulcers. What is the nurse's priority action?",
+      "topic": "Antithyroid Drugs — Serious Adverse Effects",
+      "prompt": "A patient taking methimazole (Tapazole) for 4 weeks calls the clinic to report a new sore throat, fever of 38.6°C, and painful mouth ulcers. What is the nurse's priority action?",
       "options": [
         "Instruct the patient to seek urgent medical evaluation and obtain a complete blood count to check for leukopenia.",
         "Advise the patient to gargle with warm salt water and continue taking methimazole with meals to reduce irritation.",
@@ -517,12 +517,12 @@
         "Instruct the patient to hold the morning dose for 48 hours and increase dietary iodine intake until the fever resolves."
       ],
       "answer": 0,
-      "rationale": "Bone marrow toxicity\u2014specifically agranulocytosis and leukopenia\u2014is one of the most serious adverse effects of thioamide antithyroid drugs. Fever, sore throat, and mouth ulcers or sores are classic early signs of leukopenia/agranulocytosis and must be reported and evaluated with a CBC promptly."
+      "rationale": "Bone marrow toxicity—specifically agranulocytosis and leukopenia—is one of the most serious adverse effects of thioamide antithyroid drugs. Fever, sore throat, and mouth ulcers or sores are classic early signs of leukopenia/agranulocytosis and must be reported and evaluated with a CBC promptly."
     },
     {
       "id": "thy-mc-038",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Hepatotoxicity and Bleeding",
+      "topic": "Antithyroid Drugs — Hepatotoxicity and Bleeding",
       "prompt": "When reviewing baseline and follow-up laboratory tests for a patient taking propylthiouracil (PTU), which two organ systems are at risk for the most serious life-threatening toxicities?",
       "options": [
         "Liver (hepatitis, hepatic toxicity) and bone marrow (agranulocytosis, leukopenia, thrombocytopenia)",
@@ -536,7 +536,7 @@
     {
       "id": "thy-mc-039",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Special Populations: Pregnancy",
+      "topic": "Antithyroid Drugs — Special Populations: Pregnancy",
       "prompt": "A 26-year-old woman with Graves' disease is discussing pregnancy planning with her health care provider. Which risk associated with antithyroid drugs during pregnancy should the nurse understand?",
       "options": [
         "Antithyroid drugs cross the placenta and can cause fetal goitre or cretinism, and thiamazole is linked to scalp defects.",
@@ -550,7 +550,7 @@
     {
       "id": "thy-mc-040",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Administration and Dietary Teaching",
+      "topic": "Antithyroid Drugs — Administration and Dietary Teaching",
       "prompt": "The nurse is providing discharge teaching to a patient with a new prescription for propylthiouracil (PTU). Which statement by the patient indicates correct understanding of the teaching?",
       "options": [
         "'I will take my medication with meals at the same time daily and avoid high-iodine foods like seafood, soy, and iodized salt.'",
@@ -564,7 +564,7 @@
     {
       "id": "thy-mc-041",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Monitoring for Overtreatment",
+      "topic": "Antithyroid Drugs — Monitoring for Overtreatment",
       "prompt": "A patient has been taking methimazole (Tapazole) for 5 months for Graves' disease. At today's clinic visit, the patient reports unexplained weight gain of 5 kg, constant fatigue, hair loss, puffiness around the eyes, and feeling cold all the time. How should the nurse interpret these findings?",
       "options": [
         "The patient has developed symptoms of hypothyroidism (myxedema) from overtreatment and requires prescriber notification.",
@@ -578,7 +578,7 @@
     {
       "id": "thy-mc-042",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Drug Interactions",
+      "topic": "Antithyroid Drugs — Drug Interactions",
       "prompt": "A patient taking propylthiouracil (PTU) is also prescribed warfarin for a deep vein thrombosis and a medication known to cause mild bone marrow suppression. Which drug interaction risks must the nurse monitor for?",
       "options": [
         "Increased anticoagulant activity with higher bleeding risk, plus additive leukopenia and bone marrow suppression",
@@ -620,7 +620,7 @@
     {
       "id": "thy-mc-045",
       "type": "multiple-choice",
-      "topic": "Dosage Calculation \u2014 Pediatric Thiamazole (Methimazole)",
+      "topic": "Dosage Calculation — Pediatric Thiamazole (Methimazole)",
       "prompt": "A 9-year-old child weighing 30 kg is newly diagnosed with hyperthyroidism and prescribed an initial dose of thiamazole (Tapazole) at 0.4 mg/kg/day PO divided equally into 3 daily doses. How many milligrams should the child receive per dose?",
       "options": [
         "4 mg per dose",
@@ -629,12 +629,12 @@
         "0.4 mg per dose"
       ],
       "answer": 0,
-      "rationale": "First calculate the total daily dose: 30 kg \u00d7 0.4 mg/kg/day = 12 mg/day. Divided into 3 equal daily doses: 12 mg \u00f7 3 = 4 mg per dose."
+      "rationale": "First calculate the total daily dose: 30 kg × 0.4 mg/kg/day = 12 mg/day. Divided into 3 equal daily doses: 12 mg ÷ 3 = 4 mg per dose."
     },
     {
       "id": "thy-mc-046",
       "type": "multiple-choice",
-      "topic": "Dosage Calculation \u2014 Pediatric Congenital Hypothyroidism",
+      "topic": "Dosage Calculation — Pediatric Congenital Hypothyroidism",
       "prompt": "An infant weighing 4 kg is diagnosed with congenital hypothyroidism and prescribed oral levothyroxine at 10 mcg/kg/day once daily. What daily dose in micrograms should the nurse verify, and why is prompt treatment critical in infancy?",
       "options": [
         "40 mcg/day; untreated hyposecretion in youth causes cretinism with short stature and developmental delay",
@@ -643,12 +643,12 @@
         "10 mcg/day; gradual upward titration over 6 months prevents transient hyperthyroidism in newborns"
       ],
       "answer": 0,
-      "rationale": "4 kg \u00d7 10 mcg/kg/day = 40 mcg/day (within the recommended pediatric congenital hypothyroidism range of 3\u201315 mcg/kg/day). Prompt replacement is vital because thyroid hormone deficiency during youth causes cretinism, marked by low metabolic rate, short stature, delayed sexual development, and intellectual disabilities."
+      "rationale": "4 kg × 10 mcg/kg/day = 40 mcg/day (within the recommended pediatric congenital hypothyroidism range of 3–15 mcg/kg/day). Prompt replacement is vital because thyroid hormone deficiency during youth causes cretinism, marked by low metabolic rate, short stature, delayed sexual development, and intellectual disabilities."
     },
     {
       "id": "thy-mc-047",
       "type": "multiple-choice",
-      "topic": "Antithyroid Drugs \u2014 Common Adverse Effects",
+      "topic": "Antithyroid Drugs — Common Adverse Effects",
       "prompt": "Besides hematological and hepatic toxicities, which renal and central nervous system adverse effects listed in the textbook may occur in patients taking antithyroid drugs?",
       "options": [
         "Cloudy urine, decreased urine output, elevated BUN and creatinine, drowsiness, headache, vertigo, and paresthesia",
@@ -662,7 +662,7 @@
     {
       "id": "thy-mc-048",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Diagnostic Use",
+      "topic": "Thyroid Replacement Drugs — Diagnostic Use",
       "prompt": "In addition to treating hypothyroidism and goitre, for which diagnostic purpose are thyroid hormone preparations used clinically?",
       "options": [
         "As a TSH-suppression test in the diagnosis of suspected hyperthyroidism",
@@ -676,7 +676,7 @@
     {
       "id": "thy-mc-049",
       "type": "multiple-choice",
-      "topic": "Thyroid Replacement Drugs \u2014 Epinephrine Interaction",
+      "topic": "Thyroid Replacement Drugs — Epinephrine Interaction",
       "prompt": "A patient with coronary artery disease who takes levothyroxine daily is brought to the emergency department with severe bronchospasm, and subcutaneous epinephrine is considered. Why must the nurse exercise caution with this combination?",
       "options": [
         "Concurrent use of thyroid hormones and epinephrine in coronary disease can induce acute coronary insufficiency.",
@@ -718,7 +718,7 @@
         }
       ],
       "rationale": "Levothyroxine (levothyroxine sodium; Canadian brand names Synthroid and Eltroxin) is chemically pure 100% T4 with a predictable effect and long half-life, making it the drug of choice for hypothyroidism.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -736,7 +736,7 @@
         }
       ],
       "rationale": "Liothyronine sodium (Cytomel) is the synthetic form of triiodothyronine (T3); 25 mcg of liothyronine is clinically equivalent to approximately 100 mcg of levothyroxine.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -753,7 +753,7 @@
         }
       ],
       "rationale": "Propylthiouracil (PTU) inhibits thyroid hormone synthesis by blocking iodine incorporation into tyrosine and uniquely inhibits the peripheral conversion of T4 to the more active T3.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -771,7 +771,7 @@
         }
       ],
       "rationale": "Methimazole (also referred to by its international nonproprietary name, thiamazole, and brand name Tapazole) is an oral thioamide antithyroid drug that inhibits the incorporation of iodine into tyrosine.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -791,7 +791,7 @@
         }
       ],
       "rationale": "Thyroid-stimulating hormone (TSH, or thyrotropin) secreted by the anterior pituitary gland is the primary laboratory test monitored (along with free thyroid hormone levels) to evaluate and titrate thyroid hormone replacement.",
-      "placeholder": "Type the test name\u2026",
+      "placeholder": "Enter the test name…",
       "helperText": "Standard abbreviations or full names are accepted."
     },
     {
@@ -809,14 +809,14 @@
         }
       ],
       "rationale": "Amiodarone hydrochloride is an iodine-rich antidysrhythmic that inhibits peripheral T4-to-T3 conversion, blocks hormone entry into peripheral tissues, and can have a direct cytotoxic effect on thyroid follicular cells.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "thy-sa-007",
       "type": "short-answer",
       "topic": "Antithyroid Drug Toxicity",
-      "prompt": "What life-threatening hematological condition\u2014manifested by a severe drop in white blood cells, fever, sore throat, and mouth ulcers\u2014must the nurse monitor for in a patient taking propylthiouracil or methimazole?",
+      "prompt": "What life-threatening hematological condition—manifested by a severe drop in white blood cells, fever, sore throat, and mouth ulcers—must the nurse monitor for in a patient taking propylthiouracil or methimazole?",
       "answers": [
         {
           "text": "agranulocytosis",
@@ -830,7 +830,7 @@
         }
       ],
       "rationale": "Agranulocytosis (severe leukopenia due to bone marrow toxicity) is a serious adverse effect of thioamide antithyroid drugs that presents with fever, sore throat, and oral lesions/ulcers.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -848,7 +848,7 @@
         }
       ],
       "rationale": "Potassium iodide is used as prophylaxis for radiation exposure to block the thyroid gland from sequestering radioactive iodine.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the chemical compound…",
       "helperText": "Spelling counts."
     },
     {
@@ -856,7 +856,7 @@
       "type": "case-study",
       "title": "Primary Hypothyroidism in an Older Adult on Warfarin",
       "topic": "Levothyroxine Initiation, Interactions, and Titration in Older Adults",
-      "scenario": "Margaret, a 71-year-old retired teacher, visits her primary care clinic reporting progressive fatigue, cold intolerance, constipation, dry thinning hair, and a 4.5-kg weight gain over the past 5 months. Her past medical history includes atrial fibrillation (managed with warfarin 4 mg PO daily; current INR is 2.3) and osteopenia (managed with calcium carbonate 500 mg PO twice daily). Vital signs: BP 134/78 mm Hg, HR 56 beats/min, RR 14 breaths/min, Temp 36.1\u00b0C. Laboratory results show serum TSH 18.4 mIU/L (elevated) and free T4 6.2 pmol/L (low). The prescriber diagnoses primary hypothyroidism and prescribes levothyroxine sodium (Synthroid).",
+      "scenario": "Margaret, a 71-year-old retired teacher, visits her primary care clinic reporting progressive fatigue, cold intolerance, constipation, dry thinning hair, and a 4.5-kg weight gain over the past 5 months. Her past medical history includes atrial fibrillation (managed with warfarin 4 mg PO daily; current INR is 2.3) and osteopenia (managed with calcium carbonate 500 mg PO twice daily). Vital signs: BP 134/78 mm Hg, HR 56 beats/min, RR 14 breaths/min, Temp 36.1°C. Laboratory results show serum TSH 18.4 mIU/L (elevated) and free T4 6.2 pmol/L (low). The prescriber diagnoses primary hypothyroidism and prescribes levothyroxine sodium (Synthroid).",
       "stages": [
         {
           "question": {
@@ -899,7 +899,7 @@
               "Levothyroxine inhibits hepatic cytochrome P450 synthesis of prothrombin, requiring discontinuation of warfarin."
             ],
             "answer": 0,
-            "rationale": "Thyroid replacement drugs enhance the anticoagulant activity of oral anticoagulants (such as warfarin) by increasing the catabolism of vitamin K\u2013dependent clotting factors; therefore, INR must be monitored closely and the anticoagulant dose often needs to be reduced."
+            "rationale": "Thyroid replacement drugs enhance the anticoagulant activity of oral anticoagulants (such as warfarin) by increasing the catabolism of vitamin K–dependent clotting factors; therefore, INR must be monitored closely and the anticoagulant dose often needs to be reduced."
           }
         },
         {
@@ -924,7 +924,7 @@
       "type": "case-study",
       "title": "Graves' Disease, Methimazole Therapy, and Pregnancy",
       "topic": "Antithyroid Drug Monitoring, Teaching, and Pregnancy Considerations",
-      "scenario": "Elena, a 27-year-old graphic designer, is diagnosed with hyperthyroidism secondary to Graves' disease. She presents with a 5-kg weight loss despite an increased appetite, heat intolerance, flushing, hand tremors, insomnia, and frequent diarrhea. Vital signs: BP 138/72 mm Hg, HR 118 beats/min, RR 18 breaths/min, Temp 37.4\u00b0C. The endocrinologist prescribes methimazole (Tapazole) 30 mg PO daily.",
+      "scenario": "Elena, a 27-year-old graphic designer, is diagnosed with hyperthyroidism secondary to Graves' disease. She presents with a 5-kg weight loss despite an increased appetite, heat intolerance, flushing, hand tremors, insomnia, and frequent diarrhea. Vital signs: BP 138/72 mm Hg, HR 118 beats/min, RR 18 breaths/min, Temp 37.4°C. The endocrinologist prescribes methimazole (Tapazole) 30 mg PO daily.",
       "stages": [
         {
           "question": {
@@ -956,7 +956,7 @@
           }
         },
         {
-          "update": "Five weeks after starting methimazole, Elena calls the clinic triage line. She states, 'I woke up yesterday with a fever of 38.9\u00b0C, a terrible sore throat, and two painful sores inside my mouth.'",
+          "update": "Five weeks after starting methimazole, Elena calls the clinic triage line. She states, 'I woke up yesterday with a fever of 38.9°C, a terrible sore throat, and two painful sores inside my mouth.'",
           "question": {
             "type": "short-answer",
             "prompt": "Which serious hematological adverse effect of methimazole should the nurse suspect based on Elena's fever, sore throat, and mouth ulcers?",
@@ -973,7 +973,7 @@
               }
             ],
             "rationale": "Fever, sore throat, and mouth ulcers or sores in a patient taking an antithyroid drug are hallmark warning signs of agranulocytosis/leukopenia caused by bone marrow toxicity and must be evaluated promptly with a CBC.",
-            "placeholder": "Type the medical term\u2026",
+            "placeholder": "Enter the medical term…",
             "helperText": "Spelling counts."
           }
         },
@@ -999,7 +999,7 @@
       "type": "case-study",
       "title": "Myxedema Coma After Abrupt Discontinuation of Thyroid Replacement",
       "topic": "Severe Hypothyroidism, Myxedema Coma, and Diabetes Interaction",
-      "scenario": "Arthur, a 66-year-old man with a history of total thyroidectomy 10 years ago and type 2 diabetes mellitus (on insulin glargine and insulin lispro), is brought to the emergency department by paramedics in January after a neighbour found him lethargic and confused in an unheated apartment. His daughter reports that Arthur ran out of his levothyroxine (Eltroxin) 100 mcg tablets 7 weeks ago and did not refill them. Vital signs: BP 88/52 mm Hg, HR 44 beats/min, RR 10 breaths/min, core Temp 34.6\u00b0C. He has firm non-pitting facial edema, dry pale-yellow skin, and depressed level of consciousness.",
+      "scenario": "Arthur, a 66-year-old man with a history of total thyroidectomy 10 years ago and type 2 diabetes mellitus (on insulin glargine and insulin lispro), is brought to the emergency department by paramedics in January after a neighbour found him lethargic and confused in an unheated apartment. His daughter reports that Arthur ran out of his levothyroxine (Eltroxin) 100 mcg tablets 7 weeks ago and did not refill them. Vital signs: BP 88/52 mm Hg, HR 44 beats/min, RR 10 breaths/min, core Temp 34.6°C. He has firm non-pitting facial edema, dry pale-yellow skin, and depressed level of consciousness.",
       "stages": [
         {
           "question": {
@@ -1012,7 +1012,7 @@
               "Hypothyroid crisis; subcutaneous liothyronine sodium 50 mcg every 8 hours and high-dose intravenous methimazole"
             ],
             "answer": 0,
-            "rationale": "Arthur presents with classic myxedema coma (severe hypothermia, bradycardia, hypotension, hypoventilation, firm facial edema, yellow dullness of skin, and obtundation after stopping thyroid replacement). The textbook regimen for myxedema coma is IV levothyroxine 300\u2013500 mcg as a single initial dose, followed by 75\u2013100 mcg/day IV."
+            "rationale": "Arthur presents with classic myxedema coma (severe hypothermia, bradycardia, hypotension, hypoventilation, firm facial edema, yellow dullness of skin, and obtundation after stopping thyroid replacement). The textbook regimen for myxedema coma is IV levothyroxine 300–500 mcg as a single initial dose, followed by 75–100 mcg/day IV."
           }
         },
         {
@@ -1026,13 +1026,13 @@
                 "text": "400"
               }
             ],
-            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg \u00d7 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300\u2013500 mcg IV single-dose range for myxedema coma).",
-            "placeholder": "Enter a number\u2026",
+            "rationale": "To convert milligrams to micrograms, multiply by 1000: 0.4 mg × 1000 mcg/mg = 400 mcg (which equals 4 mL of the 100 mcg/mL solution and falls within the 300–500 mcg IV single-dose range for myxedema coma).",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },
         {
-          "update": "Over the next 4 days in the ICU, Arthur receives daily IV levothyroxine maintenance doses. His core temperature normalizes to 36.7\u00b0C, his heart rate rises to 72 beats/min, and he is alert and eating. However, the nurse notices his capillary blood glucose readings have climbed from 6.5\u20138.0 mmol/L on admission to 14.8\u201317.2 mmol/L today.",
+          "update": "Over the next 4 days in the ICU, Arthur receives daily IV levothyroxine maintenance doses. His core temperature normalizes to 36.7°C, his heart rate rises to 72 beats/min, and he is alert and eating. However, the nurse notices his capillary blood glucose readings have climbed from 6.5–8.0 mmol/L on admission to 14.8–17.2 mmol/L today.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Why have Arthur's blood glucose levels risen significantly as his thyroid hormone levels are restored?",
@@ -1068,7 +1068,7 @@
       "type": "case-study",
       "title": "Perioperative Thyroid Storm and Propylthiouracil Management",
       "topic": "Thyroid Storm, Propylthiouracil, Beta-Blockers, and Radioactive Iodine Preparation",
-      "scenario": "David, a 41-year-old construction supervisor with a recent diagnosis of toxic multinodular goitre, has been nonadherent to his prescribed antithyroid medication. He is admitted to the emergency department with acute appendicitis. Two hours after admission, David becomes acutely agitated and diaphoretic. Vital signs: BP 166/94 mm Hg, HR 162 beats/min (atrial tachycardia on cardiac monitor), RR 26 breaths/min, Temp 40.1\u00b0C. He has severe nausea, vomiting, and watery diarrhea.",
+      "scenario": "David, a 41-year-old construction supervisor with a recent diagnosis of toxic multinodular goitre, has been nonadherent to his prescribed antithyroid medication. He is admitted to the emergency department with acute appendicitis. Two hours after admission, David becomes acutely agitated and diaphoretic. Vital signs: BP 166/94 mm Hg, HR 162 beats/min (atrial tachycardia on cardiac monitor), RR 26 breaths/min, Temp 40.1°C. He has severe nausea, vomiting, and watery diarrhea.",
       "stages": [
         {
           "question": {

@@ -69,7 +69,7 @@
         "Between 2130 and 0330 the next morning"
       ],
       "answer": 1,
-      "rationale": "NPH insulin is an intermediate-acting insulin with an onset of 2 to 4 hours, a peak effect at 4 to 10 hours, and a duration of 12 to 18 hours. Administered at 0730, its peak action\u2014when hypoglycemia risk is highest\u2014occurs between 1130 and 1730."
+      "rationale": "NPH insulin is an intermediate-acting insulin with an onset of 2 to 4 hours, a peak effect at 4 to 10 hours, and a duration of 12 to 18 hours. Administered at 0730, its peak action—when hypoglycemia risk is highest—occurs between 1130 and 1730."
     },
     {
       "id": "dm-mc-006",
@@ -187,7 +187,7 @@
       "id": "dm-mc-014",
       "type": "multiple-choice",
       "topic": "Biguanides (Metformin)",
-      "prompt": "A 48-year-old patient with a BMI of 31 kg/m\u00b2 is newly diagnosed with type 2 diabetes and prescribed metformin (Glucophage). How does metformin primarily lower plasma glucose?",
+      "prompt": "A 48-year-old patient with a BMI of 31 kg/m² is newly diagnosed with type 2 diabetes and prescribed metformin (Glucophage). How does metformin primarily lower plasma glucose?",
       "options": [
         "It binds pancreatic beta-cell receptors to stimulate endogenous insulin release",
         "It inhibits hepatic glucose production and enhances tissue insulin sensitivity",
@@ -203,7 +203,7 @@
       "topic": "Biguanides Contraindications",
       "prompt": "Before initiating metformin (Glucophage) therapy in a patient with type 2 diabetes, which laboratory finding or medical condition represents an absolute contraindication?",
       "options": [
-        "Body mass index of 34 kg/m\u00b2 with elevated serum triglycerides",
+        "Body mass index of 34 kg/m² with elevated serum triglycerides",
         "Fasting plasma glucose of 10.4 mmol/L and HbA1C of 8.1%",
         "Chronic kidney dysfunction with a creatinine clearance of 24 mL/min",
         "Documented history of hypersensitivity to sulfonamide antibiotics"
@@ -349,7 +349,7 @@
         "\"Take this medication 30 minutes after eating so insulin release matches digestion.\""
       ],
       "answer": 0,
-      "rationale": "Repaglinide and nateglinide (glinides) stimulate rapid, short-lived pancreatic insulin release (onset 15\u201360 min, duration 4\u20136 hr) and should be taken 15 minutes before meals. If a meal is skipped, the dose must be skipped to prevent hypoglycemia. Glinides must not be combined with sulfonylureas because they share the same mechanism of action."
+      "rationale": "Repaglinide and nateglinide (glinides) stimulate rapid, short-lived pancreatic insulin release (onset 15–60 min, duration 4–6 hr) and should be taken 15 minutes before meals. If a meal is skipped, the dose must be skipped to prevent hypoglycemia. Glinides must not be combined with sulfonylureas because they share the same mechanism of action."
     },
     {
       "id": "dm-mc-026",
@@ -359,7 +359,7 @@
       "options": [
         "New York Heart Association Class III or IV heart failure",
         "Stage 2 chronic kidney disease with microalbuminuria",
-        "Body mass index of 32 kg/m\u00b2 with hypertriglyceridemia",
+        "Body mass index of 32 kg/m² with hypertriglyceridemia",
         "History of peptic ulcer disease and gastroesophageal reflux"
       ],
       "answer": 0,
@@ -626,10 +626,10 @@
         "An 84-year-old frail resident with dementia and recurrent severe hypoglycemia",
         "A 35-year-old adult with new-onset type 2 diabetes managed on metformin therapy",
         "A 28-year-old pregnant woman with pre-existing type 1 diabetes in her first trimester",
-        "A 50-year-old patient with type 2 diabetes, hypertension, and a BMI of 29 kg/m\u00b2"
+        "A 50-year-old patient with type 2 diabetes, hypertension, and a BMI of 29 kg/m²"
       ],
       "answer": 0,
-      "rationale": "Diabetes Canada recommends a more lenient HbA1C target (7.0%\u20138.5% or 7.1%\u20138.5%) for patients who are functionally dependent, have recurrent severe hypoglycemia or hypoglycemia unawareness, have limited life expectancy, or are frail older adults and/or living with dementia."
+      "rationale": "Diabetes Canada recommends a more lenient HbA1C target (7.0%–8.5% or 7.1%–8.5%) for patients who are functionally dependent, have recurrent severe hypoglycemia or hypoglycemia unawareness, have limited life expectancy, or are frail older adults and/or living with dementia."
     },
     {
       "id": "dm-mc-046",
@@ -671,7 +671,7 @@
         "30 units"
       ],
       "answer": 1,
-      "rationale": "Total daily insulin dose = 60 kg \u00d7 0.4 units/kg/day = 24 units/day. Since 50% of the total daily dose is ordered as bedtime insulin glargine, 24 units \u00d7 0.50 = 12 units."
+      "rationale": "Total daily insulin dose = 60 kg × 0.4 units/kg/day = 24 units/day. Since 50% of the total daily dose is ordered as bedtime insulin glargine, 24 units × 0.50 = 12 units."
     },
     {
       "id": "dm-sa-001",
@@ -689,7 +689,7 @@
         }
       ],
       "rationale": "Metformin (Glucophage, Glumetza) is the only biguanide and is first-line oral therapy for type 2 diabetes. It must be held on the day of iodinated contrast studies and for at least 48 hours after to prevent contrast-induced nephropathy and lactic acidosis.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -706,7 +706,7 @@
         }
       ],
       "rationale": "Glucagon stimulates hepatic glycogenolysis to convert stored glycogen into glucose and is injected subcutaneously or intramuscularly when an unconscious hypoglycemic patient does not have IV access.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -727,7 +727,7 @@
         }
       ],
       "rationale": "Regular insulin (Humulin R, Novolin ge Toronto) is a short-acting, clear unmodified solution and is the only insulin approved for intravenous bolus or infusion administration.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter the insulin type…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -744,7 +744,7 @@
         }
       ],
       "rationale": "Acarbose (Glucobay) reversibly inhibits intestinal alpha-glucosidase and must be taken with the first bite of each main meal to blunt postprandial glucose elevations.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -766,7 +766,7 @@
         }
       ],
       "rationale": "Hemoglobin A1C (HbA1C or A1C) measures the percentage of hemoglobin A irreversibly bound to glucose over the 90- to 120-day lifespan of red blood cells. The Diabetes Canada target for most adults with diabetes is < 7.0%.",
-      "placeholder": "Type the test name\u2026",
+      "placeholder": "Enter the test name…",
       "helperText": "Standard abbreviations or full names are accepted."
     },
     {
@@ -786,8 +786,8 @@
         }
       ],
       "rationale": "NPH stands for neutral protamine Hagedorn (insulin isophane suspension), an opaque/cloudy intermediate-acting insulin with an onset of 2 to 4 hours, peak of 4 to 10 hours, and duration of 12 to 18 hours.",
-      "placeholder": "Type a drug name\u2026",
-      "helperText": "Spelling counts. Generic or brand names are accepted."
+      "placeholder": "Enter the abbreviation…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "dm-sa-007",
@@ -807,7 +807,7 @@
         }
       ],
       "rationale": "Insulin glargine (Lantus, Basaglar, Toujeo) is a peakless long-acting basal insulin with a pH of 4 that precipitates in subcutaneous tissue for slow release over 20 to 24 hours (up to 30 hours for Toujeo).",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -825,7 +825,7 @@
         }
       ],
       "rationale": "Pioglitazone (Actos) is a thiazolidinedione (glitazone) that decreases insulin resistance but causes fluid retention, weight gain, and peripheral edema, making it contraindicated in NYHA Class III or IV heart failure.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -842,14 +842,14 @@
         }
       ],
       "rationale": "Repaglinide (GlucoNorm) is a glinide (meglitinide) that stimulates rapid, short-duration insulin secretion from pancreatic beta-cells; patients take it 15 minutes before meals and skip the dose if a meal is missed.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "dm-sa-010",
       "type": "short-answer",
       "topic": "DPP-4 Inhibitors",
-      "prompt": "Name the first Health Canada\u2013approved oral DPP-4 inhibitor (brand name Januvia) dosed at 100 mg once daily that delays the breakdown of incretin hormones.",
+      "prompt": "Name the first Health Canada–approved oral DPP-4 inhibitor (brand name Januvia) dosed at 100 mg once daily that delays the breakdown of incretin hormones.",
       "answers": [
         {
           "text": "sitagliptin",
@@ -861,7 +861,7 @@
         }
       ],
       "rationale": "Sitagliptin phosphate monohydrate (Januvia) selectively inhibits dipeptidyl peptidase-4 (DPP-4), increasing endogenous GLP-1 and GIP levels to improve glycemic control in type 2 diabetes.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -869,7 +869,7 @@
       "type": "case-study",
       "title": "New-Onset Type 1 Diabetes and Diabetic Ketoacidosis",
       "topic": "Insulins & DKA Management",
-      "scenario": " Lucas, a 19-year-old university student (weight 65 kg), is brought to the emergency department with a 2-day history of severe polydipsia, polyuria, nausea, abdominal pain, and fruity-smelling breath. Vital signs: BP 98/62 mm Hg, HR 118 beats/min, RR 28 breaths/min (deep, rapid Kussmaul respirations), T 37.1\u00b0C. Lab results: plasma glucose 24.6 mmol/L, arterial pH 7.21, serum HCO3 12 mmol/L, serum potassium 3.8 mmol/L, serum sodium 134 mmol/L, and strongly positive serum and urine ketones.",
+      "scenario": " Lucas, a 19-year-old university student (weight 65 kg), is brought to the emergency department with a 2-day history of severe polydipsia, polyuria, nausea, abdominal pain, and fruity-smelling breath. Vital signs: BP 98/62 mm Hg, HR 118 beats/min, RR 28 breaths/min (deep, rapid Kussmaul respirations), T 37.1°C. Lab results: plasma glucose 24.6 mmol/L, arterial pH 7.21, serum HCO3 12 mmol/L, serum potassium 3.8 mmol/L, serum sodium 134 mmol/L, and strongly positive serum and urine ketones.",
       "stages": [
         {
           "question": {
@@ -897,7 +897,7 @@
               "Saline infusion dilutes intracellular potassium; increase the regular insulin infusion rate"
             ],
             "answer": 0,
-            "rationale": "Insulin promotes the intracellular shift of potassium and magnesium into cells along with glucose, rapidly lowering serum potassium levels (normal range 3.5\u20135.0 mmol/L). Potassium replacement is essential in DKA management to prevent life-threatening cardiac dysrhythmias."
+            "rationale": "Insulin promotes the intracellular shift of potassium and magnesium into cells along with glucose, rapidly lowering serum potassium levels (normal range 3.5–5.0 mmol/L). Potassium replacement is essential in DKA management to prevent life-threatening cardiac dysrhythmias."
           }
         },
         {
@@ -937,7 +937,7 @@
       "type": "case-study",
       "title": "Metformin Management and Contrast Imaging in Type 2 Diabetes",
       "topic": "Biguanides & Sulfonylureas",
-      "scenario": "Margaret, a 61-year-old woman with obesity (BMI 33 kg/m\u00b2), hypertension, and dyslipidemia, was diagnosed with type 2 diabetes 4 months ago. Despite 3 months of dietary modifications and aerobic exercise, her HbA1C is 7.9% and her fasting plasma glucose is 8.8 mmol/L. Her eGFR is 78 mL/min, and she has no history of heart or liver disease.",
+      "scenario": "Margaret, a 61-year-old woman with obesity (BMI 33 kg/m²), hypertension, and dyslipidemia, was diagnosed with type 2 diabetes 4 months ago. Despite 3 months of dietary modifications and aerobic exercise, her HbA1C is 7.9% and her fasting plasma glucose is 8.8 mmol/L. Her eGFR is 78 mL/min, and she has no history of heart or liver disease.",
       "stages": [
         {
           "question": {
@@ -1055,9 +1055,9 @@
           "update": "Three months later, Robert develops a severe viral gastroenteritis with vomiting and poor oral intake. He presents to urgent care with nausea, abdominal pain, tachypnea, and confusion. His plasma glucose is only 11.8 mmol/L, but his blood pH is 7.24, HCO3 is 14 mmol/L, and serum ketones are strongly positive.",
           "question": {
             "type": "multiple-choice",
-            "prompt": "Which SGLT-2 inhibitor\u2013related complication is Robert experiencing?",
+            "prompt": "Which SGLT-2 inhibitor–related complication is Robert experiencing?",
             "options": [
-              "SGLT-2 inhibitor\u2013associated diabetic ketoacidosis with mildly elevated blood glucose",
+              "SGLT-2 inhibitor–associated diabetic ketoacidosis with mildly elevated blood glucose",
               "Hyperosmolar hyperglycemic state secondary to severe viral gastrointestinal fluid loss",
               "Metformin-induced lactic acidosis precipitated by concurrent digoxin and ramipril use",
               "Somogyi rebound hyperglycemia triggered by nocturnal counter-regulatory hormone surges"
@@ -1107,8 +1107,8 @@
               }
             ],
             "rationale": "Acarbose inhibits alpha-glucosidase in the small intestine, preventing the hydrolysis of sucrose (table sugar) and complex carbohydrates. Patients taking acarbose must treat hypoglycemia with pure glucose (dextrose) tablets (or honey/milk if tablets are unavailable).",
-            "placeholder": "Type a drug name\u2026",
-            "helperText": "Spelling counts. Generic or brand names are accepted."
+            "placeholder": "Enter the substance name…",
+            "helperText": "Spelling counts."
           }
         },
         {

@@ -94,8 +94,10 @@ export function ShortAnswerInput({ question, value, onChange, onSubmit }: ShortA
         autoCapitalize="off"
         spellCheck={false}
         placeholder={(
-          question.placeholder ?? (isNumeric ? 'Enter a number…' : 'Type your answer…')
-        ).replace(/\s*\(generic or brand\)/gi, '')}
+          question.placeholder ?? (isNumeric ? 'Enter a number…' : 'Enter your answer…')
+        )
+          .replace(/\s*\(generic or brand\)/gi, '')
+          .replace(/^Type\s+/i, 'Enter ')}
         value={typeof value === 'string' ? value : typeof value === 'number' ? String(value) : ''}
         onChange={handleChange}
         onKeyDown={handleKeyDown}

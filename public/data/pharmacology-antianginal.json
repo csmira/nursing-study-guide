@@ -419,7 +419,7 @@
         "Take the medication with a high-protein meal to enhance bioavailability across the gut wall."
       ],
       "answer": 1,
-      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system responsible for metabolizing CCBs\u2014especially nifedipine\u2014leading to elevated plasma drug concentrations and excessive hypotensive effects."
+      "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system responsible for metabolizing CCBs—especially nifedipine—leading to elevated plasma drug concentrations and excessive hypotensive effects."
     },
     {
       "id": "ang-mc-031",
@@ -447,7 +447,7 @@
         "Diltiazem comes in immediate-release, twice-daily, and once-daily forms that are not interchangeable."
       ],
       "answer": 3,
-      "rationale": "Several look-alike/sound-alike formulations of diltiazem exist\u2014including immediate-release (taken qid), sustained-release (SR, taken bid), and controlled-delivery (CD, taken once daily)\u2014which can easily be confused and lead to serious dosing errors."
+      "rationale": "Several look-alike/sound-alike formulations of diltiazem exist—including immediate-release (taken qid), sustained-release (SR, taken bid), and controlled-delivery (CD, taken once daily)—which can easily be confused and lead to serious dosing errors."
     },
     {
       "id": "ang-mc-033",
@@ -693,14 +693,14 @@
         }
       ],
       "rationale": "Nitroglycerin is the prototypical nitrate vasodilator available in rapid-acting forms (sublingual tablets, translingual spray, IV infusion) and long-acting forms (transdermal patches, topical ointment, extended-release oral capsules).",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
       "id": "ang-sa-002",
       "type": "short-answer",
       "topic": "Calcium channel blockers",
-      "prompt": "Which fruit juice must patients avoid when taking calcium channel blockers\u2014especially nifedipine\u2014because it inhibits cytochrome P450 metabolism and can lead to drug toxicity?",
+      "prompt": "Which fruit juice must patients avoid when taking calcium channel blockers—especially nifedipine—because it inhibits cytochrome P450 metabolism and can lead to drug toxicity?",
       "answers": [
         {
           "text": "grapefruit juice",
@@ -710,7 +710,7 @@
         }
       ],
       "rationale": "Compounds in grapefruit juice inhibit the cytochrome P450 enzyme system that metabolizes CCBs (particularly nifedipine), increasing bioavailability and the risk of severe hypotension and toxicity.",
-      "placeholder": "Type the substance name\u2026",
+      "placeholder": "Enter the food or drink name…",
       "helperText": "Spelling counts."
     },
     {
@@ -728,7 +728,7 @@
         }
       ],
       "rationale": "Nitrate-induced headaches result from cerebral vasodilation, typically last about 20 minutes with sublingual doses, diminish with continued use, and can be safely managed with acetaminophen.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -746,8 +746,8 @@
         }
       ],
       "rationale": "As stated in the chapter's IV implementation guidelines, using specialized non-PVC infusion kits and protecting IV nitroglycerin from light prevents uptake by plastic and prevents decomposition of the nitrate into cyanide.",
-      "placeholder": "Type a drug name\u2026",
-      "helperText": "Spelling counts. Generic or brand names are accepted."
+      "placeholder": "Enter the chemical compound…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "ang-sa-005",
@@ -767,7 +767,7 @@
         }
       ],
       "rationale": "Diltiazem hydrochloride is the only benzothiazepine CCB profiled in the chapter and is used orally for angina and hypertension and intravenously for atrial fibrillation/flutter and paroxysmal supraventricular tachycardia.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -785,7 +785,7 @@
         }
       ],
       "rationale": "Amlodipine besylate (Norvasc) is the most popular dihydropyridine CCB, characterized by a 30- to 50-hour half-life that allows once-daily oral dosing.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -803,7 +803,7 @@
         }
       ],
       "rationale": "Isosorbide-5-mononitrate (isosorbide mononitrate, Imdur) is the active metabolite of isosorbide dinitrate and provides a steady, predictable antianginal response without requiring hepatic conversion.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -823,8 +823,8 @@
         }
       ],
       "rationale": "Vasospastic (Prinzmetal's or variant) angina results from coronary artery smooth muscle spasm rather than physical exertion, often occurring at rest in a regular circadian pattern.",
-      "placeholder": "Type a drug name\u2026",
-      "helperText": "Spelling counts. Generic or brand names are accepted."
+      "placeholder": "Enter the medical term…",
+      "helperText": "Spelling counts."
     },
     {
       "id": "ang-sa-009",
@@ -840,7 +840,7 @@
         }
       ],
       "rationale": "Reflex tachycardia occurs when rapid venous vasodilation reduces central blood volume, causing arterial baroreceptors to stimulate sympathetic output and temporarily increase heart rate.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -855,7 +855,7 @@
         }
       ],
       "rationale": "The nurse must assess the apical pulse for 1 full minute before giving antianginals and contact the health care provider if the pulse rate is 60 beats/min or lower (or 100 beats/min or greater).",
-      "placeholder": "Enter a number\u2026",
+      "placeholder": "Enter a number…",
       "helperText": "Numbers only. Do not include units."
     },
     {
@@ -974,7 +974,7 @@
               }
             ],
             "rationale": "A transdermal nitroglycerin patch has an onset of action of 30 to 60 minutes, a peak action of 1 to 3 hours, and a duration of 8 to 12 hours.",
-            "placeholder": "Enter a number\u2026",
+            "placeholder": "Enter a number…",
             "helperText": "Numbers only. Do not include units."
           }
         },

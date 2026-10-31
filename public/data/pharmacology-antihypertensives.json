@@ -111,7 +111,7 @@
         "Abrupt discontinuation can trigger severe rebound hypertension and stroke"
       ],
       "answer": 3,
-      "rationale": "Clonidine and other antihypertensives (especially centrally acting alpha2 agonists and beta blockers) must not be discontinued abruptly because doing so causes severe rebound hypertension\u2014a sudden, dangerously high surge in blood pressure that places the patient at risk for stroke or cardiac events."
+      "rationale": "Clonidine and other antihypertensives (especially centrally acting alpha2 agonists and beta blockers) must not be discontinued abruptly because doing so causes severe rebound hypertension—a sudden, dangerously high surge in blood pressure that places the patient at risk for stroke or cardiac events."
     },
     {
       "id": "htn-mc-009",
@@ -139,7 +139,7 @@
         "Aliskiren"
       ],
       "answer": 1,
-      "rationale": "Methyldopa is a centrally acting alpha2 receptor agonist commonly used to manage hypertension in pregnancy. Drugs acting on the renin\u2013angiotensin\u2013aldosterone system (enalapril, losartan, aliskiren) are contraindicated or not recommended during pregnancy due to fetal toxicity."
+      "rationale": "Methyldopa is a centrally acting alpha2 receptor agonist commonly used to manage hypertension in pregnancy. Drugs acting on the renin–angiotensin–aldosterone system (enalapril, losartan, aliskiren) are contraindicated or not recommended during pregnancy due to fetal toxicity."
     },
     {
       "id": "htn-mc-011",
@@ -341,7 +341,7 @@
       "id": "htn-mc-025",
       "type": "multiple-choice",
       "topic": "ACE Inhibitors",
-      "prompt": "A patient started perindopril (Coversyl) 2 weeks ago. Baseline serum creatinine was 100 \u00b5mol/L. Today, the patient's repeat serum creatinine is 142 \u00b5mol/L. What is the appropriate nursing action?",
+      "prompt": "A patient started perindopril (Coversyl) 2 weeks ago. Baseline serum creatinine was 100 µmol/L. Today, the patient's repeat serum creatinine is 142 µmol/L. What is the appropriate nursing action?",
       "options": [
         "Hold the drug and notify the prescriber because serum creatinine rose over 30% above baseline",
         "Document the finding as an expected hemodynamic adjustment and continue the current dosage",
@@ -349,7 +349,7 @@
         "Reduce the daily perindopril dose by half and repeat the serum creatinine test in 4 weeks"
       ],
       "answer": 0,
-      "rationale": "If a patient's serum creatinine increases by more than 30% over baseline after starting an ACE inhibitor (100 to 142 \u00b5mol/L is a 42% increase), the ACE inhibitor must be stopped and the prescriber notified."
+      "rationale": "If a patient's serum creatinine increases by more than 30% over baseline after starting an ACE inhibitor (100 to 142 µmol/L is a 42% increase), the ACE inhibitor must be stopped and the prescriber notified."
     },
     {
       "id": "htn-mc-026",
@@ -457,7 +457,7 @@
       "options": [
         "Sodium nitroprusside dilates both arterioles and veins, whereas the others dilate arterioles",
         "Sodium nitroprusside dilates systemic veins, whereas the others dilate pulmonary arteries",
-        "Sodium nitroprusside dilates capacitance veins, whereas the others dilate \u0926\u094b\u0928\u094b\u0902 veins and arteries",
+        "Sodium nitroprusside dilates capacitance veins, whereas the others dilate दोनों veins and arteries",
         "Sodium nitroprusside dilates renal afferent arterioles, whereas the others dilate coronary veins"
       ],
       "answer": 0,
@@ -657,7 +657,7 @@
         "5.0 mg"
       ],
       "answer": 2,
-      "rationale": "Multiply the child's weight by the prescribed mg/kg dose: 30 kg \u00d7 0.08 mg/kg = 2.4 mg once daily. Because 2.4 mg does not exceed the 5 mg maximum daily starting dose for children under 16 years, the nurse administers 2.4 mg."
+      "rationale": "Multiply the child's weight by the prescribed mg/kg dose: 30 kg × 0.08 mg/kg = 2.4 mg once daily. Because 2.4 mg does not exceed the 5 mg maximum daily starting dose for children under 16 years, the nurse administers 2.4 mg."
     },
     {
       "id": "htn-mc-048",
@@ -671,7 +671,7 @@
         "45 mL/hr"
       ],
       "answer": 3,
-      "rationale": "First calculate the dose in mcg/min: 75 kg \u00d7 2 mcg/kg/min = 150 mcg/min. Convert to mcg/hr: 150 mcg/min \u00d7 60 min/hr = 9 000 mcg/hr. Divide by the solution concentration (50 000 mcg / 250 mL = 200 mcg/mL): 9 000 mcg/hr \u00f7 200 mcg/mL = 45 mL/hr."
+      "rationale": "First calculate the dose in mcg/min: 75 kg × 2 mcg/kg/min = 150 mcg/min. Convert to mcg/hr: 150 mcg/min × 60 min/hr = 9 000 mcg/hr. Divide by the solution concentration (50 000 mcg / 250 mL = 200 mcg/mL): 9 000 mcg/hr ÷ 200 mcg/mL = 45 mL/hr."
     },
     {
       "id": "htn-mc-049",
@@ -716,7 +716,7 @@
         }
       ],
       "rationale": "Aliskiren (aliskiren fumarate; Rasilez) is the sole drug in the direct renin inhibitor class. It binds directly to the renin enzyme to prevent the conversion of angiotensinogen to angiotensin I.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -736,7 +736,7 @@
         }
       ],
       "rationale": "First-dose syncope refers to a severe hypotensive effect with loss of consciousness that can occur with the initial dose of an alpha1 blocker (such as doxazosin or prazosin) or alpha agonist. Administering the first dose at bedtime helps prevent injury.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -754,7 +754,7 @@
         }
       ],
       "rationale": "Angioedema is a rare but potentially fatal adverse effect of ACE inhibitors involving submucosal and laryngeal swelling that can progress to airway obstruction and anaphylaxis.",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -773,7 +773,7 @@
         }
       ],
       "rationale": "Enalapril sodium (Vasotec) is the only marketed ACE inhibitor available in both oral and parenteral (enalaprilat) preparations.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -791,7 +791,7 @@
         }
       ],
       "rationale": "Minoxidil (Loniten orally; Rogaine topically) is a direct-acting arteriolar vasodilator used for severe hypertension that also stimulates hair growth.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -810,7 +810,7 @@
         }
       ],
       "rationale": "ACE inhibitors, ARBs, and selective aldosterone blockers (eplerenone) reduce aldosterone activity, promoting potassium resorption in the kidneys and placing the patient at risk for hyperkalemia (serum potassium > 5.0 to 5.5 mmol/L).",
-      "placeholder": "Type the medical term\u2026",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -827,7 +827,7 @@
         }
       ],
       "rationale": "Eplerenone (Inspra) is the selective aldosterone receptor antagonist indicated for routine hypertension and for improving survival in patients with stable heart failure after a myocardial infarction.",
-      "placeholder": "Type a drug name\u2026",
+      "placeholder": "Enter a drug name…",
       "helperText": "Spelling counts. Generic or brand names are accepted."
     },
     {
@@ -843,8 +843,8 @@
           ]
         }
       ],
-      "rationale": "Abrupt discontinuation of antihypertensive medications\u2014especially centrally acting alpha2 agonists like clonidine and beta blockers\u2014causes rebound hypertension, which can precipitate a stroke or acute cardiac event.",
-      "placeholder": "Type the medical term\u2026",
+      "rationale": "Abrupt discontinuation of antihypertensive medications—especially centrally acting alpha2 agonists like clonidine and beta blockers—causes rebound hypertension, which can precipitate a stroke or acute cardiac event.",
+      "placeholder": "Enter the medical term…",
       "helperText": "Spelling counts."
     },
     {
@@ -861,7 +861,7 @@
         }
       ],
       "rationale": "A prodrug is a drug that is inactive in its administered form and must be metabolized to its active form in the body, generally by the liver, to be effective. All ACE inhibitors except captopril and lisinopril are prodrugs.",
-      "placeholder": "Type the pharmacological term\u2026",
+      "placeholder": "Enter the pharmacological term…",
       "helperText": "Spelling counts."
     },
     {
@@ -869,7 +869,7 @@
       "type": "case-study",
       "title": "Hypertensive Emergency and Sodium Nitroprusside Toxicity",
       "topic": "Direct-Acting Vasodilators",
-      "scenario": "Walter, a 72-year-old man with a history of chronic kidney disease (baseline serum creatinine 195 \u00b5mol/L) and poorly controlled hypertension, is admitted to the intensive care unit with a severe occipital headache, blurred vision, and a blood pressure of 238/134 mm Hg. An arterial line is placed, and the intensivist orders a continuous intravenous infusion of sodium nitroprusside (Nipride) starting at 0.5 mcg/kg/min, titrated to reduce blood pressure gradually.",
+      "scenario": "Walter, a 72-year-old man with a history of chronic kidney disease (baseline serum creatinine 195 µmol/L) and poorly controlled hypertension, is admitted to the intensive care unit with a severe occipital headache, blurred vision, and a blood pressure of 238/134 mm Hg. An arterial line is placed, and the intensivist orders a continuous intravenous infusion of sodium nitroprusside (Nipride) starting at 0.5 mcg/kg/min, titrated to reduce blood pressure gradually.",
       "stages": [
         {
           "question": {
@@ -916,7 +916,7 @@
               }
             ],
             "rationale": "When sodium nitroprusside is combined with sodium thiosulfate (sodium thiosulphate), the potential for cyanide toxicity is greatly reduced. If cyanide or thiocyanate toxicity occurs, treatment uses a standard cyanide antidote kit containing amyl nitrite for inhalation and sodium nitrite and sodium thiosulfate for injection.",
-            "placeholder": "Type a drug name\u2026",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
@@ -942,7 +942,7 @@
       "type": "case-study",
       "title": "Hypertension Management in a Patient with Type 2 Diabetes",
       "topic": "ACE Inhibitors & ARBs",
-      "scenario": "Maya, a 38-year-old accountant with type 2 diabetes mellitus, presents to the primary care clinic for follow-up. Her blood pressure has averaged 152/94 mm Hg over three visits. Her baseline labs show serum potassium 4.4 mmol/L, serum creatinine 78 \u00b5mol/L, eGFR 84 mL/min, and trace proteinuria on urinalysis. The nurse practitioner prescribes captopril (Capoten) 25 mg PO three times daily.",
+      "scenario": "Maya, a 38-year-old accountant with type 2 diabetes mellitus, presents to the primary care clinic for follow-up. Her blood pressure has averaged 152/94 mm Hg over three visits. Her baseline labs show serum potassium 4.4 mmol/L, serum creatinine 78 µmol/L, eGFR 84 mL/min, and trace proteinuria on urinalysis. The nurse practitioner prescribes captopril (Capoten) 25 mg PO three times daily.",
       "stages": [
         {
           "question": {
@@ -974,7 +974,7 @@
           }
         },
         {
-          "update": "Six weeks later, Maya's blood pressure is 128/78 mm Hg, serum potassium is 4.7 mmol/L, and serum creatinine is 84 \u00b5mol/L. However, she reports a persistent, dry, hacking cough that keeps her awake at night and admits she often forgets her midday dose of captopril.",
+          "update": "Six weeks later, Maya's blood pressure is 128/78 mm Hg, serum potassium is 4.7 mmol/L, and serum creatinine is 84 µmol/L. However, she reports a persistent, dry, hacking cough that keeps her awake at night and admits she often forgets her midday dose of captopril.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which modification to Maya's pharmacotherapy should the nurse anticipate from the nurse practitioner?",
@@ -1000,7 +1000,7 @@
               "Consult the prescriber before conceiving to switch to methyldopa due to fetal toxicity risk"
             ],
             "answer": 3,
-            "rationale": "Renin\u2013angiotensin system inhibitors (ACE inhibitors, ARBs like losartan, and direct renin inhibitors like aliskiren) are contraindicated during pregnancy\u2014especially in the second and third trimesters\u2014due to significant fetal morbidity and mortality. Women of childbearing potential planning pregnancy should be transitioned to a safer alternative such as methyldopa."
+            "rationale": "Renin–angiotensin system inhibitors (ACE inhibitors, ARBs like losartan, and direct renin inhibitors like aliskiren) are contraindicated during pregnancy—especially in the second and third trimesters—due to significant fetal morbidity and mortality. Women of childbearing potential planning pregnancy should be transitioned to a safer alternative such as methyldopa."
           }
         }
       ]
@@ -1094,12 +1094,12 @@
               }
             ],
             "rationale": "Captopril and lisinopril (Prinivil, Zestril) are the only two ACE inhibitors that are not prodrugs. Unlike oral enalapril, ramipril, or perindopril, lisinopril does not depend on liver function for conversion into an active form and offers convenient once-daily dosing.",
-            "placeholder": "Type a drug name\u2026",
+            "placeholder": "Enter a drug name…",
             "helperText": "Spelling counts. Generic or brand names are accepted."
           }
         },
         {
-          "update": "Elena is started on lisinopril, and 2 weeks later the cardiologist considers adding eplerenone (Inspra) 50 mg PO once daily to improve post-myocardial infarction survival and blood pressure control. The nurse reviews Elena's current labs (serum potassium 4.9 mmol/L, creatinine 92 \u00b5mol/L) and medication list.",
+          "update": "Elena is started on lisinopril, and 2 weeks later the cardiologist considers adding eplerenone (Inspra) 50 mg PO once daily to improve post-myocardial infarction survival and blood pressure control. The nurse reviews Elena's current labs (serum potassium 4.9 mmol/L, creatinine 92 µmol/L) and medication list.",
           "question": {
             "type": "multiple-choice",
             "prompt": "Which finding in Elena's medication reconciliation or laboratory trends would contraindicate the use of eplerenone?",
@@ -1193,7 +1193,7 @@
               "They are diluted to the nanogram level; Sophie will receive 48 ng/min"
             ],
             "answer": 1,
-            "rationale": "Treprostinil and epoprostenol are unique because they are diluted to the nanogram (ng) level for administration. For a 60-kg patient ordered 1.25 ng/kg/min: 60 kg \u00d7 1.25 ng/kg/min = 75 ng/min."
+            "rationale": "Treprostinil and epoprostenol are unique because they are diluted to the nanogram (ng) level for administration. For a 60-kg patient ordered 1.25 ng/kg/min: 60 kg × 1.25 ng/kg/min = 75 ng/min."
           }
         },
         {
